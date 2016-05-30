@@ -14,8 +14,8 @@ todos: {
 
 > toggleCompleted is like a light switch
 
->>  ! mean opposite
-
->>  !false = true
+    ! mean opposite
     
->>  !true = false
+    !false = true
+    
+    !true = false
