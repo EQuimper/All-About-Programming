@@ -1,5 +1,3 @@
-### Tips
-
 #### Store Item
 `var todos = ['item 1', 'item 2', 'item 3'];` This is a Array
 
