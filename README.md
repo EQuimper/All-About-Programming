@@ -8,6 +8,7 @@ A place for me to keep tracked of what I did and some awesome tips from all this
 ### Tutorials
 
 ### Books
+
 - ##### JavaScript
 - [ ] Eloquent JavaScript - second edition by Marijn Haverbeke
 
