@@ -29,3 +29,19 @@ If I want to see the object
 
 If I want to see something in the object I need to use dot
 `myComputer.screenSize` => `"15 inches"`
+
+If I want to use something inside the same object I need to use the word this
+Ex:
+``` javascript
+var todoList = {
+	todos: [
+		'item 1',
+		'item 2',
+		'item 3'
+	],
+	// Display
+	displayTodos: function () {
+		console.log('My todos:', this.todos);
+	}
+};
+```
