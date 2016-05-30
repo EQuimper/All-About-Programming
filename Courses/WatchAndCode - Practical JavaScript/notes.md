@@ -1,4 +1,3 @@
 # WatchAndCode - Practical JavaScript
 
-## Part 1 - Array
-
+### Example of the [todo list](http://todomvc.com/examples/vanillajs/) with vanilla js
