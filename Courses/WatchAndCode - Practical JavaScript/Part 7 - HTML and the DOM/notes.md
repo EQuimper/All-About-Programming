@@ -14,11 +14,15 @@ We can get the document object inside the console with
 2. After set a variable for this element with. 
 Ex:
 
-        document.getElementById('displayTodos');
+```javascript
+document.getElementById('displayTodos');
+```
 
 3. Add a event on this button like click so you can add function on it.
 Ex:
 
-        displayTodos.addEventListener('click', function() {
-            togolist.displayTodos();
-        });
+```javascript
+displayTodos.addEventListener('click', function() {
+    togolist.displayTodos();
+});
+```
