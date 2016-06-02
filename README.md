@@ -5,7 +5,7 @@ course, article, tutorial, book and more.
 A place for me to keep tracked of what I did
 and some awesome tips from all this resources.
 
-## Courses
+## [Courses](https://github.com/EQuimper/all-about-javascript/tree/master/Courses)
 
 ---
 
