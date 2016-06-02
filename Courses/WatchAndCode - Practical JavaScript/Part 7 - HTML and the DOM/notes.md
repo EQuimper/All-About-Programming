@@ -1,6 +1,8 @@
 #### DOM
 Document Object Model
 
+Add the script for js at the end cause some time gonna cause issues cause the browser gonna run the js before the body.
+
 You can look on the browser see the html by right-click + inspect on the page
 
 We can get the document object inside the console with
