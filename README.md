@@ -9,10 +9,11 @@ and some awesome tips from all this resources.
 
   - JavaScript
     - [x] [WatchAndCode - Practical JavaScript](https://watchandcode.com/courses/practical-javascript)
-    
+
   - React
-  
+
   - Redux
+    - [ ] [Getting Started with Redux] (https://egghead.io/series/getting-started-with-redux)
     - [ ] [Building React Applications with Idiomatic Redux] (https://egghead.io/series/building-react-applications-with-idiomatic-redux)
 
 ## Tutorials
@@ -28,4 +29,4 @@ and some awesome tips from all this resources.
 
 ### In progress
 
-[Building React Applications with Idiomatic Redux] (https://egghead.io/series/building-react-applications-with-idiomatic-redux)
+[ ] [Getting Started with Redux] (https://egghead.io/series/getting-started-with-redux)

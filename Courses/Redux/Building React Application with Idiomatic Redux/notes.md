@@ -77,6 +77,7 @@ Ex:
 <Route path="/(:filter)" component={App} />
 ```
 
-- See the filterLink [example] (/exampleFilterLink)
+- See the filterLink [example] (https://github.com/EQuimper/all-about-javascript/blob/master/Courses/Redux/Building%20React%20Application%20with%20Idiomatic%20Redux/exampleFilterLink.md)
+- See the shortHand notation for [mapDispatchToProps] (https://github.com/EQuimper/all-about-javascript/blob/master/Courses/Redux/Building%20React%20Application%20with%20Idiomatic%20Redux/refactorDispatch.md)
 
 Need to use more the react-router params. This is the source of true for the url.
