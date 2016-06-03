@@ -9,7 +9,7 @@ and some awesome tips from all this resources.
 
 ---
 
--   [ ] [WatchAndCode - Practical JavaScript](https://watchandcode.com/courses/practical-javascript)
+-   [x] [WatchAndCode - Practical JavaScript](https://watchandcode.com/courses/practical-javascript)
 
 ## Tutorials
 
@@ -27,5 +27,3 @@ and some awesome tips from all this resources.
 -   [ ] Express in Action by Evan M.Hahn
 
 ### In progress
-
--   [ ] [WatchAndCode - Practical JavaScript](https://watchandcode.com/courses/practical-javascript)
