@@ -9,6 +9,7 @@ and some awesome tips from all this resources.
 
   - JavaScript
     - [x] [WatchAndCode - Practical JavaScript](https://watchandcode.com/courses/practical-javascript)
+    - [ ] [Functional Programming in JavaScript] (https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 
   - React
 
@@ -26,7 +27,3 @@ and some awesome tips from all this resources.
 - [ ] Programming JavaScript Applications by Eric Elliot
 - [ ] Node.js by Example by Krasimir Tsonev
 - [ ] Express in Action by Evan M.Hahn
-
-### In progress
-
-[ ] [Getting Started with Redux] (https://egghead.io/series/getting-started-with-redux)
