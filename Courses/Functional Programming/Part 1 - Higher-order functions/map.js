@@ -4,7 +4,7 @@ var animals = [
     { name: 'Hamilton',  species : 'dog' },
     { name: 'Harold',    species : 'fish' },
     { name: 'Ursula',    species : 'cat' },
-    { name: 'Jimmy',     species : 'dog' },
+    { name: 'Jimmy', species: 'dog' }
 ];
 
 // With a for loop show the name look like
