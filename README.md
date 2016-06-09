@@ -16,6 +16,7 @@ and some awesome tips from all this resources.
   - Redux
     - [ ] [Getting Started with Redux] (https://egghead.io/series/getting-started-with-redux)
     - [ ] [Building React Applications with Idiomatic Redux] (https://egghead.io/series/building-react-applications-with-idiomatic-redux)
+    - [ ] [Pluralsight-React-Redux-ES6] (https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)
 
 ## Tutorials
 
