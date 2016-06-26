@@ -9,14 +9,16 @@ and some awesome tips from all this resources.
 
   - JavaScript
     - [x] [WatchAndCode - Practical JavaScript](https://watchandcode.com/courses/practical-javascript)
-    - [ ] [Functional Programming in JavaScript] (https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+    - [x] [Object Oriented JavaScript](https://www.youtube.com/watch?v=O8wwnhdkPE4)
+    - [ ] [Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+    - [ ] [Learn Code Academy - What Makes JavaScript Weird ... and Awesome](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)
 
   - React
 
   - Redux
-    - [ ] [Getting Started with Redux] (https://egghead.io/series/getting-started-with-redux)
-    - [ ] [Building React Applications with Idiomatic Redux] (https://egghead.io/series/building-react-applications-with-idiomatic-redux)
-    - [ ] [Pluralsight-React-Redux-ES6] (https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)
+    - [ ] [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
+    - [ ] [Building React Applications with Idiomatic Redux](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
+    - [ ] [Pluralsight-React-Redux-ES6](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)
 
 ## Tutorials
 
@@ -28,3 +30,6 @@ and some awesome tips from all this resources.
 - [ ] Programming JavaScript Applications by Eric Elliot
 - [ ] Node.js by Example by Krasimir Tsonev
 - [ ] Express in Action by Evan M.Hahn
+
+## Videos
+- [x] [Advanced Async and Concurrency Patterns in JavaScript](https://www.youtube.com/watch?v=Qg1SvpIau6U)
