@@ -13,6 +13,9 @@ and some awesome tips from all this resources.
     - [ ] [Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
     - [ ] [Learn Code Academy - What Makes JavaScript Weird ... and Awesome](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)
 
+  - Node.JS
+    - [x] [MongooseJs Essentials - Learn MongoDB for Node.js](https://www.udemy.com/mongoosejs-essentials/learn/v4/content)
+
   - React
 
   - Redux
