@@ -13,6 +13,7 @@ and some awesome tips from all this resources.
     - [ ] [Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
     - [ ] [Learn Code Academy - What Makes JavaScript Weird ... and Awesome](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)
     - [x] [Lynda - JavaScript: Functions](https://www.lynda.com/JavaScript-tutorials/JavaScript-Functions/148137-2.html)
+    - [ ] [Lynda - JavaScript and JSON](https://www.lynda.com/JavaScript-tutorials/JavaScript-JSON/114901-2.html)
 
   - Node.JS
     - [x] [MongooseJs Essentials - Learn MongoDB for Node.js](https://www.udemy.com/mongoosejs-essentials/learn/v4/content)
@@ -34,6 +35,7 @@ and some awesome tips from all this resources.
 - [ ] Programming JavaScript Applications by Eric Elliot
 - [ ] Node.js by Example by Krasimir Tsonev
 - [ ] Express in Action by Evan M.Hahn
+- [ ] JavaScript: The Good Parts by Douglas Crockford
 
 ## Videos
 - [x] [Advanced Async and Concurrency Patterns in JavaScript](https://www.youtube.com/watch?v=Qg1SvpIau6U)
