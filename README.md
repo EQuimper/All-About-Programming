@@ -12,7 +12,7 @@ and some awesome tips from all this resources.
     - [x] [Object Oriented JavaScript](https://www.youtube.com/watch?v=O8wwnhdkPE4)
     - [ ] [Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
     - [ ] [Learn Code Academy - What Makes JavaScript Weird ... and Awesome](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)
-    - [ ] [JavaScript: Functions](https://www.lynda.com/JavaScript-tutorials/JavaScript-Functions/148137-2.html)
+    - [x] [Lynda - JavaScript: Functions](https://www.lynda.com/JavaScript-tutorials/JavaScript-Functions/148137-2.html)
 
   - Node.JS
     - [x] [MongooseJs Essentials - Learn MongoDB for Node.js](https://www.udemy.com/mongoosejs-essentials/learn/v4/content)

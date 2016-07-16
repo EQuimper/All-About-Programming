@@ -110,3 +110,18 @@ var info = {
 - You can have more than one
 - Can be anything or nothing
 - Careful with auto semicolon insertion
+
+# Variable Scope and Hoisting
+
+- **Scope**: life and death of a variable
+- **Block scope**: variables live within {}
+- **Function scope**: variables live in functions
+- The scope chain
+- Dangerous global variables
+- Variable definitions are hoisted
+
+# Creating and namespacing modules
+
+- **Modules** let you reuse code across apps
+- **Namespacing** protects variables
+- **Return** statement communicates back
