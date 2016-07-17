@@ -36,6 +36,7 @@ and some awesome tips from all this resources.
 - [ ] Node.js by Example by Krasimir Tsonev
 - [ ] Express in Action by Evan M.Hahn
 - [ ] JavaScript: The Good Parts by Douglas Crockford
+- [ ] Practical Node.js: Building Real-World Scalable Web Apps by Azat Mardan
 
 ## Videos
 - [x] [Advanced Async and Concurrency Patterns in JavaScript](https://www.youtube.com/watch?v=Qg1SvpIau6U)
