@@ -110,3 +110,64 @@ Generally, a recursive function calls itself to solve its subproblems.
 
 
 Recursive functions can be very effective in manipulating tree structures such as the browser’s Document Object Model (DOM). Each recursive call is given a smaller piece of the tree to work on.
+
+---
+
+# Scope
+
+Scope in a programming language controls the visibility and lifetimes of variables and parameters. This is an important service to the programmer because it reduces naming collisions and provides automatic memory management.
+
+
+JavaScript does have function scope. That means that the parameters and variables defined in a function are not visible outside of the function, and that a variable defined anywhere within a function is visible everywhere within the function.
+
+Best to declare all of the variables used in a function at the top of the function body.
+
+---
+
+# Closure
+
+The good news about scope is that inner functions get access to the parameters and variables of the functions they are defined within (with the exception of this and arguments).
+
+---
+
+# Callbacks
+
+Functions can make it easier to deal with discontinuous events.
+
+Asynchronous request, providing a callback func- tion that will be invoked when the server’s response is received. An asynchronous function returns immediately, so the client isn’t blocked.
+
+---
+
+# Module
+
+We can use functions and closure to make modules. A module is a function or object that presents an interface but that hides its state and implementation.
+
+The module pattern takes advantage of function scope and closure to create relationships that are binding and private.
+
+The general pattern of a module is a function that defines private variables and functions; creates privileged functions which, through closure, will have access to the private variables and functions; and that returns the privileged functions or stores them in an accessible place.
+
+---
+
+# Cascade
+
+If we have those methods return this instead of undefined, we can enable cascades.
+
+In a cascade, we can call many methods on the same object in sequence in a single statement.
+
+Cascading can produce interfaces that are very expressive. It can help control the tendency to make interfaces that try to do too much at once.
+
+---
+
+# Curry
+
+Functions are values, and we can manipulate function values in interesting ways.
+
+Currying allows us to produce a new function by combining a function and an argument.
+
+The curry method works by creating a closure that holds that original function and the arguments to curry. It returns a function that, when invoked, returns the result of calling that original function, passing it all of the arguments from the invocation of curry and the current invocation. It uses the Array concat method to concatenate the two arrays of arguments together.
+
+---
+
+# Memoization
+
+Functions can use objects to remember the results of previous operations, making it possible to avoid unnecessary work.
