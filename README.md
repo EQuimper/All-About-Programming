@@ -1,6 +1,6 @@
 # About this repos
 
-Everything about JavaScript like:
+Everything about programming:
 
 - Courses
 - Articles
@@ -13,6 +13,9 @@ This is a place for me to keep tracked of what I did or what I want to and some 
 
 ## [Courses](https://github.com/EQuimper/all-about-javascript/tree/master/Courses)
 
+  - Computer Science
+    - [ ] [HarvardX: CS50 Introduction to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/b2f7d86728354866a2c4438e76c3ec55/99a3e898bd0c43aab9757d71b114529f/)
+
   - JavaScript
     - [x] [WatchAndCode - Practical JavaScript](https://watchandcode.com/courses/practical-javascript)
     - [x] [Object Oriented JavaScript](https://www.youtube.com/watch?v=O8wwnhdkPE4)
@@ -23,28 +26,31 @@ This is a place for me to keep tracked of what I did or what I want to and some 
     - [x] [Lynda - JavaScript: Functions](https://www.lynda.com/JavaScript-tutorials/JavaScript-Functions/148137-2.html)
     - [x] [Lynda - JavaScript and JSON](https://www.lynda.com/JavaScript-tutorials/JavaScript-JSON/114901-2.html)
 
-  - Node.JS
-    - [x] [MongooseJs Essentials - Learn MongoDB for Node.js](https://www.udemy.com/mongoosejs-essentials/learn/v4/content)
+      - Node.JS
+        - [x] [MongooseJs Essentials - Learn MongoDB for Node.js](https://www.udemy.com/mongoosejs-essentials/learn/v4/content)
 
-  - React
+      - React
 
-  - Redux
-    - [ ] [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
-    - [ ] [Building React Applications with Idiomatic Redux](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
-    - [x] [Pluralsight - React-Redux-ES6](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)
+      - Redux
+        - [ ] [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
+        - [ ] [Building React Applications with Idiomatic Redux](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
+        - [x] [Pluralsight - React-Redux-ES6](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)
 
 ## Tutorials
 
 ## Books
 
-- [ ] Eloquent JavaScript - second edition by Marijn Haverbeke
-- [ ] A Smarter Way to Learn JavaScript by Mark Myers
-- [ ] High Performance JavaScript by Nicholas C.Zakas
-- [ ] Programming JavaScript Applications by Eric Elliot
-- [ ] Node.js by Example by Krasimir Tsonev
-- [ ] Express in Action by Evan M.Hahn
-- [ ] [JavaScript: The Good Parts by Douglas Crockford](https://www.amazon.ca/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
-- [ ] Practical Node.js: Building Real-World Scalable Web Apps by Azat Mardan
+- JavaScript
+    - [ ] Eloquent JavaScript - second edition by Marijn Haverbeke
+    - [ ] A Smarter Way to Learn JavaScript by Mark Myers
+    - [ ] High Performance JavaScript by Nicholas C.Zakas
+    - [ ] Programming JavaScript Applications by Eric Elliot
+    - [ ] Node.js by Example by Krasimir Tsonev
+    - [ ] Express in Action by Evan M.Hahn
+    - [ ] [JavaScript: The Good Parts by Douglas Crockford](https://www.amazon.ca/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
+    - [ ] Practical Node.js: Building Real-World Scalable Web Apps by Azat Mardan
 
 ## Videos
-- [x] [Advanced Async and Concurrency Patterns in JavaScript](https://www.youtube.com/watch?v=Qg1SvpIau6U)
+
+- JavaScript
+    - [x] [Advanced Async and Concurrency Patterns in JavaScript](https://www.youtube.com/watch?v=Qg1SvpIau6U)
