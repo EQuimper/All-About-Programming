@@ -74,7 +74,7 @@ In front of a function he do 4 things:
     - Implicit binding with an owning or containing object
     - Default rule
 2. How do you `borrow` a function by implicit assignment of `this`?
-    > We mutated an object to put a reference to that function on the object so that we could then say `object.method` name.
+    - We mutated an object to put a reference to that function on the object so that we could then say `object.method` name.
 3. How do you explicitly bind `this`?
     - Call
     - Apply
