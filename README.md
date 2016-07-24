@@ -1,6 +1,4 @@
-# About this repos
-
-Everything about programming:
+# Everything about programming:
 
 - Courses
 - Articles
@@ -43,7 +41,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 ## Articles
 
   - Web Design + HTML/CSS
-    - [ ] [How to Create Dynamic Compositions](https://medium.com/@matthewencina/how-to-create-dynamic-compositions-3c5cc3f00632#.9gbf0i1ne)
+    - [x] [How to Create Dynamic Compositions](https://medium.com/@matthewencina/how-to-create-dynamic-compositions-3c5cc3f00632#.9gbf0i1ne)
 
 ## Books
 
@@ -67,7 +65,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 - JavaScript
     - [x] [Advanced Async and Concurrency Patterns in JavaScript](https://www.youtube.com/watch?v=Qg1SvpIau6U)
-    - [ ] [Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY)
+    - [x] [Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY)
 
 - Web Design + HTML/CSS
     - [x] [Graphic Design Tutorial: Web Design Review](https://www.youtube.com/watch?v=d77cDtH8bo0)
