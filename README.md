@@ -27,13 +27,15 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Lynda - JavaScript and JSON](https://www.lynda.com/JavaScript-tutorials/JavaScript-JSON/114901-2.html)
 
       - Node.JS
-        - [x] [MongooseJs Essentials - Learn MongoDB for Node.js](https://www.udemy.com/mongoosejs-essentials/learn/v4/content)
+        - [x] [Udemy - MongooseJs Essentials - Learn MongoDB for Node.js](https://www.udemy.com/mongoosejs-essentials/learn/v4/content)
+        - [x] [Pluralsight - RESTful Web Services with Node.js and Express](https://app.pluralsight.com/library/courses/node-js-express-rest-web-services/table-of-contents)
+        - [x] [NodeJS : Qu'est ce que NodeJS ?](https://www.youtube.com/watch?v=0PA69L88HeI) [French]
 
       - React
 
       - Redux
-        - [x] [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
-        - [ ] [Building React Applications with Idiomatic Redux](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
+        - [x] [Egghead - Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
+        - [ ] [Egghead - Building React Applications with Idiomatic Redux](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
         - [x] [Pluralsight - React-Redux-ES6](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)
 
 ## Tutorials
