@@ -25,18 +25,17 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Learn Code Academy - What Makes JavaScript Weird ... and Awesome](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)
     - [x] [Lynda - JavaScript: Functions](https://www.lynda.com/JavaScript-tutorials/JavaScript-Functions/148137-2.html)
     - [x] [Lynda - JavaScript and JSON](https://www.lynda.com/JavaScript-tutorials/JavaScript-JSON/114901-2.html)
-
+    - [x] [TheNewBoston - ECMAScript 6 / ES6 New Features Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt)
       - Node.JS
         - [x] [Udemy - MongooseJs Essentials - Learn MongoDB for Node.js](https://www.udemy.com/mongoosejs-essentials/learn/v4/content)
         - [x] [Pluralsight - RESTful Web Services with Node.js and Express](https://app.pluralsight.com/library/courses/node-js-express-rest-web-services/table-of-contents)
         - [x] [NodeJS : Qu'est ce que NodeJS ?](https://www.youtube.com/watch?v=0PA69L88HeI) [French]
-
-      - React
-
-      - Redux
+      - React + Redux
         - [x] [Egghead - Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
         - [ ] [Egghead - Building React Applications with Idiomatic Redux](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
         - [x] [Pluralsight - React-Redux-ES6](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)
+        - [x] [TheNewBoston - React JS / Redux Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a)
+        - [x] [Wes Bos - Learn Redux](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5uyzEWxdlr9WQTJJIzr6jy)
 
 ## Tutorials
 
@@ -62,7 +61,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Mastering JavaScript by Ved Antani](https://www.amazon.ca/Mastering-JavaScript-Ved-Antani-ebook/dp/B016UZVCMI/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1469305485&sr=1-1-spell&keywords=Mastering+JavaScritp)
     - [ ] [Mastering JavaScript Promises by Muzzamil Hussain](https://www.amazon.ca/Mastering-JavaScript-Promises-Muzzamil-Hussain-ebook/dp/B00YSILOS2/ref=sr_1_sc_3?s=books&ie=UTF8&qid=1469305680&sr=1-3-spell&keywords=Mastering+JavaScritp)
     - [ ] [Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript by David Herman](https://www.amazon.ca/Effective-JavaScript-Specific-Harness-Power/dp/0321812182?ie=UTF8&camp=15121&creative=330641&linkCode=as2&redirect=true&ref_=x_gr_w_bb&tag=x_gr_w_bb_ca-20)
-    
+
 - Web Design + HTML/CSS
     - [ ] [Framed Ink: Drawing and Composition for Visual Storytellers](https://www.amazon.com/Framed-Ink-Drawing-Composition-Storytellers/dp/1933492953?ie=UTF8&camp=1789&creative=9325&creativeASIN=1933492953&linkCode=as2&linkId=3RRTKVWIPDNHAOER&redirect=true&ref_=as_li_qf_sp_asin_il_tl&tag=matthewencina-20)
 
@@ -71,7 +70,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - JavaScript
     - [x] [Advanced Async and Concurrency Patterns in JavaScript](https://www.youtube.com/watch?v=Qg1SvpIau6U)
     - [x] [Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY)
-
+    - React + Redux
+        - [x] [LevelUpTuts - Meteor & React For Everyone ](https://www.youtube.com/watch?v=ootKAwnQiP4)
+        - [x] [Rally Coding - The Best Way to Store Data](https://www.youtube.com/watch?v=aJxcVidE0I0)
 - Web Design + HTML/CSS
     - [x] [Graphic Design Tutorial: Web Design Review](https://www.youtube.com/watch?v=d77cDtH8bo0)
     - [x] [Motion Design Theory: Dynamic Compositions](https://www.youtube.com/watch?v=z4HjltaEV2E)
