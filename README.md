@@ -6,6 +6,8 @@
 - Books
 - Youtube videos
 - Blog
+- Freelance
+- Business
 
 This is a place for me to keep tracked of what I did or what I want to do and some awesome tips from all the online resources have found. All this resources is about web development and some about computer science. My goal is to be a good Full-Stack Web Developer.
 
@@ -13,10 +15,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 ## Courses
 
-  - Computer Science + Algorithms
+- Computer Science + Algorithms
     - [ ] [HarvardX: CS50 Introduction to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/b2f7d86728354866a2c4438e76c3ec55/99a3e898bd0c43aab9757d71b114529f/)
 
-  - JavaScript
+- JavaScript
     - [x] [WatchAndCode - Practical JavaScript](https://watchandcode.com/courses/practical-javascript)
     - [x] [Object Oriented JavaScript](https://www.youtube.com/watch?v=O8wwnhdkPE4)
     - [x] [Pluralsight - Basics of Programming with JavaScript](https://app.pluralsight.com/library/courses/javascript-programming-basics/table-of-contents)
@@ -26,27 +28,29 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Lynda - JavaScript: Functions](https://www.lynda.com/JavaScript-tutorials/JavaScript-Functions/148137-2.html)
     - [x] [Lynda - JavaScript and JSON](https://www.lynda.com/JavaScript-tutorials/JavaScript-JSON/114901-2.html)
     - [x] [TheNewBoston - ECMAScript 6 / ES6 New Features Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt)
-      - Node.JS
-        - [x] [Udemy - MongooseJs Essentials - Learn MongoDB for Node.js](https://www.udemy.com/mongoosejs-essentials/learn/v4/content)
-        - [x] [Pluralsight - RESTful Web Services with Node.js and Express](https://app.pluralsight.com/library/courses/node-js-express-rest-web-services/table-of-contents)
-        - [x] [NodeJS : Qu'est ce que NodeJS ?](https://www.youtube.com/watch?v=0PA69L88HeI) [French]
-      - React + Redux
-        - [x] [Egghead - Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
-        - [ ] [Egghead - Building React Applications with Idiomatic Redux](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
-        - [x] [Egghead - React-Motion: Animate Multiple Elements with a Single Spring](https://egghead.io/playlists/react-react-animation-using-react-motion)
-        - [x] [Pluralsight - React-Redux-ES6](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)
-        - [x] [TheNewBoston - React JS / Redux Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a)
-        - [x] [Wes Bos - Learn Redux](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5uyzEWxdlr9WQTJJIzr6jy)
+        - Node.JS
+            - [x] [Udemy - MongooseJs Essentials - Learn MongoDB for Node.js](https://www.udemy.com/mongoosejs-essentials/learn/v4/content)
+            - [x] [Pluralsight - RESTful Web Services with Node.js and Express](https://app.pluralsight.com/library/courses/node-js-express-rest-web-services/table-of-contents)
+            - [x] [NodeJS : Qu'est ce que NodeJS ?](https://www.youtube.com/watch?v=0PA69L88HeI) [French]
+        - React + Redux
+            - [x] [Egghead - Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
+            - [ ] [Egghead - Building React Applications with Idiomatic Redux](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
+            - [x] [Egghead - React-Motion: Animate Multiple Elements with a Single Spring](https://egghead.io/playlists/react-react-animation-using-react-motion)
+            - [x] [Pluralsight - React-Redux-ES6](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)
+            - [x] [TheNewBoston - React JS / Redux Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a)
+            - [x] [Wes Bos - Learn Redux](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5uyzEWxdlr9WQTJJIzr6jy)
 
-## Tutorials
+- Web Design + HTML/CSS
+    - [x] [Wes Bos - What The Flexbox?!](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
 
 ## Articles
 
-  - Computer Science + Algorithms
+- Computer Science + Algorithms
     - [ ] [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 
-  - Web Design + HTML/CSS
+- Web Design + HTML/CSS
     - [x] [How to Create Dynamic Compositions](https://medium.com/@matthewencina/how-to-create-dynamic-compositions-3c5cc3f00632#.9gbf0i1ne)
+    - [x] [HTML5Rocks - High Performance Animations](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
 
 ## Books
 
@@ -98,3 +102,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - Web Design + HTML/CSS
     - [x] [Graphic Design Tutorial: Web Design Review](https://www.youtube.com/watch?v=d77cDtH8bo0)
     - [x] [Motion Design Theory: Dynamic Compositions](https://www.youtube.com/watch?v=z4HjltaEV2E)
+    - [x] [DevTips - CSS Transition (CSS Animations Series Part 1)](https://www.youtube.com/watch?v=8kK-cA99SA0)
+    - [x] [DevTips - CSS Animation & Keyframes (CSS Animations Series Part 2)](https://www.youtube.com/watch?v=f1WMjDx4snI)
+    - [x] [DevTips - Animating the Moments — Using Animation in UX (CSS Animations Series Part 3)](https://www.youtube.com/watch?v=GeuNIOuIEDA)
+    - [x] [DevTips - Drop Down Menu — CSS Animations](https://www.youtube.com/watch?v=AIdslaUj9wg)
+- Programming stuff and Questions
+    - [x] [DevTips - How Do You Learn Something Totally New?](https://www.youtube.com/watch?v=f5fxAja7aqk)
+    - [x] [DevTips - Where Do You Host Your Websites?](https://www.youtube.com/watch?v=_TiyMkv8rmI)
