@@ -29,3 +29,18 @@ Client Example:
 ```js
 Meteor.subscribe('posts', 'bob-smith');
 ```
+
+---
+
+## Session Variable
+
+Always store user state in the Session or the URL so that users are minimally disrupted when a hot code reload happens.
+
+Store any state that you want to be shareable between users within the URL itself.
+
+Exampe:
+
+```js
+Session.set('pageTitle', 'A brand new title');
+Session.get('pageTitle'); // 'A brand new title”
+```
