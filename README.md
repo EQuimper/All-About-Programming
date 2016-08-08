@@ -80,7 +80,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [You Don't Know JS: this & Object Prototypes by Kyle Simpson](https://www.amazon.ca/You-Dont-Know-JS-Prototypes-ebook/dp/B00LPUIB9G/ref=sr_1_5?s=books&ie=UTF8&qid=1470005412&sr=1-5&keywords=kyle+simpson)
     - [ ] [You Don't Know JS: ES6 & Beyond by Kyle Simpson](https://www.amazon.ca/You-Dont-Know-JS-Beyond/dp/1491904240/ref=sr_1_6?s=books&ie=UTF8&qid=1470005412&sr=1-6&keywords=kyle+simpson)
     - Meteor JS
-        - [ ] [Discover Meteor: Building Real-Time JavaScript Web Apps by Tom Coleman & Sacha Greif](https://www.goodreads.com/book/show/17901517-discover-meteor)
+        - [x] [Discover Meteor: Building Real-Time JavaScript Web Apps by Tom Coleman & Sacha Greif](https://www.goodreads.com/book/show/17901517-discover-meteor)
         - [ ] [Getting Started with Meteor.js JavaScript Framework - Second Edition by Isaac Strack](https://www.amazon.ca/Getting-Started-Meteor-js-JavaScript-Framework-ebook/dp/B010G18I3S/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1470005716&sr=1-2&keywords=Getting+Started+with+Meteor.js+JavaScript+Framework)
     - Node JS
         - [ ] [Practical Node.js: Building Real-World Scalable Web Apps by Azat Mardan](https://www.amazon.ca/Practical-Node-js-Building-Real-World-Scalable-ebook/dp/B00IGKE2FK/ref=sr_1_1?s=books&ie=UTF8&qid=1469305301&sr=1-1&keywords=Practical+Node.js%3A+Building+Real-World+Scalable+Web+Apps+by+Azat+Mardan)
