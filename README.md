@@ -48,6 +48,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - Computer Science + Algorithms
     - [ ] [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 
+- Database + Application Design
+    - MongoDB
+        - [x] [Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb)
+
 - Web Design + HTML/CSS
     - [x] [How to Create Dynamic Compositions](https://medium.com/@matthewencina/how-to-create-dynamic-compositions-3c5cc3f00632#.9gbf0i1ne)
     - [x] [HTML5Rocks - High Performance Animations](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
