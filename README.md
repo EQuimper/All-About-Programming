@@ -68,6 +68,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
         - [ ] [Pro MongoDB Development by Deepak Vohra](https://www.goodreads.com/book/show/28221102-pro-mongodb-development?ac=1&from_search=true)
         - [ ] [MongoDB: The Definitive Guide by Kristina Chodorow, Michael Dirolf](https://www.goodreads.com/book/show/9418297-mongodb?from_search=true)
 
+- Freelance + Business + Jobs
+    - [x] [Why nobody knows your name by FreelanceLift](https://www.freelancelift.com/playbooks/why-nobody-knows-your-name/)
+
 - JavaScript
     - [ ] [Eloquent JavaScript: A Modern Introduction to Programming by Marijn Haverbeke](https://www.amazon.ca/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1469305316&sr=1-1-fkmr0&keywords=Eloquent+JavaScript+-+second+edition+by+Marijn+Haverbeke)
     - [ ] [A Smarter Way to Learn JavaScript by Mark Myers](https://www.amazon.ca/Smarter-Way-Learn-JavaScript-technology-ebook/dp/B00H1W9I6C)
@@ -110,6 +113,6 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [DevTips - CSS Animation & Keyframes (CSS Animations Series Part 2)](https://www.youtube.com/watch?v=f1WMjDx4snI)
     - [x] [DevTips - Animating the Moments — Using Animation in UX (CSS Animations Series Part 3)](https://www.youtube.com/watch?v=GeuNIOuIEDA)
     - [x] [DevTips - Drop Down Menu — CSS Animations](https://www.youtube.com/watch?v=AIdslaUj9wg)
-- Programming stuff and Questions
+- Programming stuff
     - [x] [DevTips - How Do You Learn Something Totally New?](https://www.youtube.com/watch?v=f5fxAja7aqk)
     - [x] [DevTips - Where Do You Host Your Websites?](https://www.youtube.com/watch?v=_TiyMkv8rmI)
