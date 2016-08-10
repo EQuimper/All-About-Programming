@@ -43,6 +43,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - Web Design + HTML/CSS
     - [x] [Wes Bos - What The Flexbox?!](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
 
+- WordPress
+
 ## Articles
 
 - Computer Science + Algorithms
@@ -98,6 +100,13 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Framed Ink: Drawing and Composition for Visual Storytellers](https://www.amazon.com/Framed-Ink-Drawing-Composition-Storytellers/dp/1933492953?ie=UTF8&camp=1789&creative=9325&creativeASIN=1933492953&linkCode=as2&linkId=3RRTKVWIPDNHAOER&redirect=true&ref_=as_li_qf_sp_asin_il_tl&tag=matthewencina-20)
     - [ ] [Jump Start HTML5 by Tiffany B.Brown](https://www.goodreads.com/book/show/18669403-jump-start-html5)
 
+- WordPress
+    - [ ] [Smashing WordPress: Beyond the Blog by Thord Daniel Hedengren](https://www.goodreads.com/book/show/7248208-smashing-wordpress?from_search=true)
+    - [ ] [Smashing WordPress Themes: Making WordPress Beautiful by Thord Daniel Hedengren](https://www.goodreads.com/book/show/7950047-smashing-wordpress-themes?from_search=true)
+    - [ ] [WordPress For Dummies by Lisa Sabin-Wilson](https://www.goodreads.com/book/show/894766.WordPress_For_Dummies?from_search=true)
+    - [ ] [WordPress Theme Design by Tessa Blakeley Silver](https://www.goodreads.com/book/show/3405042-wordpress-theme-design?from_search=true)
+    - [ ] [WordPress: The Missing Manual by Matthew MacDonald](https://www.goodreads.com/book/show/13355786-wordpress?ac=1&from_search=true)
+
 ## Videos
 
 - JavaScript
@@ -113,6 +122,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [DevTips - CSS Animation & Keyframes (CSS Animations Series Part 2)](https://www.youtube.com/watch?v=f1WMjDx4snI)
     - [x] [DevTips - Animating the Moments — Using Animation in UX (CSS Animations Series Part 3)](https://www.youtube.com/watch?v=GeuNIOuIEDA)
     - [x] [DevTips - Drop Down Menu — CSS Animations](https://www.youtube.com/watch?v=AIdslaUj9wg)
+
+- WordPress
+
 - Programming stuff
     - [x] [DevTips - How Do You Learn Something Totally New?](https://www.youtube.com/watch?v=f5fxAja7aqk)
     - [x] [DevTips - Where Do You Host Your Websites?](https://www.youtube.com/watch?v=_TiyMkv8rmI)
