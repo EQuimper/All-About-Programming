@@ -99,3 +99,41 @@ Template Name: My Page Template Title
 ```
 
 ---
+
+## Passing parameters
+
+### Function-style parameters
+
+We pass params like this:
+
+```php
+<?php bloginfo(‘name’); ?>
+```
+
+The params here is name.
+
+```php
+<?php the_title(‘<h1>’, ‘</h1>’); ?>
+```
+
+Here we get the title between `h1` tags
+
+### Query-style parameters
+
+Ex:
+
+```php
+<?php wp_tag_cloud(‘number=30&orderby=count’); ?>
+```
+
+A simple ampersand separate each query. `&`
+
+```php
+<?php $params = array(‘number’    => 30,
+                      ‘orderby’   => ‘count’,
+                      ‘separator’ => ‘&bull;’ );
+wp_tag_cloud($params); ?>”
+```
+
+---
+
