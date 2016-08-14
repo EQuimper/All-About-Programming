@@ -35,6 +35,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
             - [x] [Udemy - MongooseJs Essentials - Learn MongoDB for Node.js](https://www.udemy.com/mongoosejs-essentials/learn/v4/content)
             - [x] [Pluralsight - RESTful Web Services with Node.js and Express](https://app.pluralsight.com/library/courses/node-js-express-rest-web-services/table-of-contents)
             - [x] [NodeJS : Qu'est ce que NodeJS ?](https://www.youtube.com/watch?v=0PA69L88HeI) [French]
+            - [x] [CodeSchool - Soup To Bits Node](https://www.codeschool.com)
+
         - React + Redux
 
             - [x] [Egghead - Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
@@ -50,16 +52,21 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 - WordPress
 
-## Articles
+## Articles + Tutorials
 
 - Computer Science + Algorithms
 
     - [ ] [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 
 - Database + Application Design
+
     - MongoDB
 
         - [x] [Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb)
+
+- Ruby On Rails
+
+    - [x] [TopTal - The Publish-Subscribe Pattern on Rails: An Implementation Tutorial](https://www.toptal.com/ruby-on-rails/the-publish-subscribe-pattern-on-rails)
 
 - Web Design + HTML/CSS
 
@@ -75,6 +82,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Code Complete by Steve McConnell](https://www.goodreads.com/book/show/4845.Code_Complete?ac=1&from_search=true)
 
 - Database + Application Design
+
     - MongoDB
 
         - [ ] [MongoDB Data Modeling by Wilson da Rocha França](https://www.goodreads.com/book/show/25826534-mongodb-data-modeling?ac=1&from_search=true)
@@ -101,10 +109,14 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [You Don't Know JS: Types & Grammar by Kyle Simpson](https://www.amazon.ca/You-Dont-Know-JS-Grammar/dp/1491904194/ref=sr_1_4?s=books&ie=UTF8&qid=1470005412&sr=1-4&keywords=kyle+simpson)
     - [ ] [You Don't Know JS: this & Object Prototypes by Kyle Simpson](https://www.amazon.ca/You-Dont-Know-JS-Prototypes-ebook/dp/B00LPUIB9G/ref=sr_1_5?s=books&ie=UTF8&qid=1470005412&sr=1-5&keywords=kyle+simpson)
     - [ ] [You Don't Know JS: ES6 & Beyond by Kyle Simpson](https://www.amazon.ca/You-Dont-Know-JS-Beyond/dp/1491904240/ref=sr_1_6?s=books&ie=UTF8&qid=1470005412&sr=1-6&keywords=kyle+simpson)
+
     - Meteor JS
+
         - [x] [Discover Meteor: Building Real-Time JavaScript Web Apps by Tom Coleman & Sacha Greif](https://www.goodreads.com/book/show/17901517-discover-meteor)
         - [ ] [Getting Started with Meteor.js JavaScript Framework - Second Edition by Isaac Strack](https://www.amazon.ca/Getting-Started-Meteor-js-JavaScript-Framework-ebook/dp/B010G18I3S/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1470005716&sr=1-2&keywords=Getting+Started+with+Meteor.js+JavaScript+Framework)
+
     - Node JS
+
         - [ ] [Practical Node.js: Building Real-World Scalable Web Apps by Azat Mardan](https://www.amazon.ca/Practical-Node-js-Building-Real-World-Scalable-ebook/dp/B00IGKE2FK/ref=sr_1_1?s=books&ie=UTF8&qid=1469305301&sr=1-1&keywords=Practical+Node.js%3A+Building+Real-World+Scalable+Web+Apps+by+Azat+Mardan)
         - [ ] [Node.js by Example by Krasimir Tsonev](https://www.amazon.ca/Node-js-Example-Krasimir-Tsonev-2015-06-30/dp/B01FIYK9QW/ref=sr_1_1?s=books&ie=UTF8&qid=1469305269&sr=1-1&keywords=Node.js+by+Example+by+Krasimir+Tsonev)
         - [ ] [Express in Action by Evan M.Hahn](https://www.amazon.ca/Express-Action-Writing-building-applications/dp/1617292427/ref=sr_1_1?s=books&ie=UTF8&qid=1469305287&sr=1-1&keywords=Express+in+Action+by+Evan+M.Hahn)
@@ -115,6 +127,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Jump Start HTML5 by Tiffany B.Brown](https://www.goodreads.com/book/show/18669403-jump-start-html5)
 
 - WordPress
+
     - [ ] [Smashing WordPress: Beyond the Blog by Thord Daniel Hedengren](https://www.goodreads.com/book/show/7248208-smashing-wordpress?from_search=true)
     - [ ] [Smashing WordPress Themes: Making WordPress Beautiful by Thord Daniel Hedengren](https://www.goodreads.com/book/show/7950047-smashing-wordpress-themes?from_search=true)
     - [ ] [WordPress For Dummies by Lisa Sabin-Wilson](https://www.goodreads.com/book/show/894766.WordPress_For_Dummies?from_search=true)
@@ -127,10 +140,17 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [x] [Advanced Async and Concurrency Patterns in JavaScript](https://www.youtube.com/watch?v=Qg1SvpIau6U)
     - [x] [Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY)
+
     - React + Redux
 
         - [x] [LevelUpTuts - Meteor & React For Everyone ](https://www.youtube.com/watch?v=ootKAwnQiP4)
         - [x] [Rally Coding - The Best Way to Store Data](https://www.youtube.com/watch?v=aJxcVidE0I0)
+
+- REST + Architecture
+
+    - [x] [WebConcepts - REST API concepts and examples](https://www.youtube.com/watch?v=7YcW25PHnAA)
+    - [x] [Google Developers - Intro to REST](https://www.youtube.com/watch?v=YCcAE2SCQ6k)
+
 - Web Design + HTML/CSS
 
     - [x] [Graphic Design Tutorial: Web Design Review](https://www.youtube.com/watch?v=d77cDtH8bo0)
