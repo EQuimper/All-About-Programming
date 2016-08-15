@@ -26,10 +26,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Pluralsight - Basics of Programming with JavaScript](https://app.pluralsight.com/library/courses/javascript-programming-basics/table-of-contents)
     - [ ] [Pluralsight - Advanced JavaScript](https://app.pluralsight.com/library/courses/advanced-javascript/table-of-contents)
     - [ ] [Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
-    - [x] [Learn Code Academy - What Makes JavaScript Weird ... and Awesome](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)
+    - [x] [LearnCode.academy - What Makes JavaScript Weird ... and Awesome](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)
+    - [x] [LearnCode.academy - Modular Javascript](https://www.youtube.com/playlist?list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f)
     - [x] [Lynda - JavaScript: Functions](https://www.lynda.com/JavaScript-tutorials/JavaScript-Functions/148137-2.html)
     - [x] [Lynda - JavaScript and JSON](https://www.lynda.com/JavaScript-tutorials/JavaScript-JSON/114901-2.html)
     - [x] [TheNewBoston - ECMAScript 6 / ES6 New Features Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt)
+
         - Node.JS
 
             - [x] [Udemy - MongooseJs Essentials - Learn MongoDB for Node.js](https://www.udemy.com/mongoosejs-essentials/learn/v4/content)
@@ -64,9 +66,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
         - [x] [Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb)
 
-- Ruby On Rails
+- Ruby
 
-    - [x] [TopTal - The Publish-Subscribe Pattern on Rails: An Implementation Tutorial](https://www.toptal.com/ruby-on-rails/the-publish-subscribe-pattern-on-rails)
+    - Ruby On Rails
+
+        - [x] [TopTal - The Publish-Subscribe Pattern on Rails: An Implementation Tutorial](https://www.toptal.com/ruby-on-rails/the-publish-subscribe-pattern-on-rails)
 
 - Web Design + HTML/CSS
 
@@ -146,8 +150,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
         - [x] [LevelUpTuts - Meteor & React For Everyone ](https://www.youtube.com/watch?v=ootKAwnQiP4)
         - [x] [Rally Coding - The Best Way to Store Data](https://www.youtube.com/watch?v=aJxcVidE0I0)
 
-- REST + Architecture
+- Database + Application Design
 
+    - [x] [Pub/Sub Design Pattern](https://www.youtube.com/watch?v=frGy-nGoGUY)
+    - [x] [PubSub with Redis](https://www.youtube.com/watch?v=Yv1E_N1A2bk)
+    - [x] [Why and When You Should Use Redis](https://www.youtube.com/watch?v=CoQcNgfPYPc)
     - [x] [WebConcepts - REST API concepts and examples](https://www.youtube.com/watch?v=7YcW25PHnAA)
     - [x] [Google Developers - Intro to REST](https://www.youtube.com/watch?v=YCcAE2SCQ6k)
 
