@@ -66,6 +66,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
         - [x] [Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb)
 
+- JavaScript
+
+    - React.JS
+        - [x] [React ES6 class constructor super()](http://cheng.logdown.com/posts/2016/03/26/683329) [Must Read]
+
 - Ruby
 
     - Ruby On Rails
@@ -149,6 +154,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
         - [x] [LevelUpTuts - Meteor & React For Everyone ](https://www.youtube.com/watch?v=ootKAwnQiP4)
         - [x] [Rally Coding - The Best Way to Store Data](https://www.youtube.com/watch?v=aJxcVidE0I0)
+
+    - React-Native
+
+        - [x] [How To Implement A Tab Bar With React Native](https://www.youtube.com/watch?v=MUzNfTvnsXk&index=2&list=PL-ASXRMOZBOpuMD4q1PsetU6E9qeXeMJx)
+        - [x] [David Mosher - Introduction to React Native](https://www.youtube.com/watch?v=n5RhAYhTxCk&index=4&list=PL-ASXRMOZBOpuMD4q1PsetU6E9qeXeMJx)
+        - [x] [React Native search from navigation bar](https://www.youtube.com/watch?v=j_4Ll0-5abc&list=PL-ASXRMOZBOpuMD4q1PsetU6E9qeXeMJx&index=8)
 
 - Database + Application Design
 
