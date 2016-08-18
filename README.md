@@ -69,7 +69,18 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - JavaScript
 
     - React.JS
+
         - [x] [React ES6 class constructor super()](http://cheng.logdown.com/posts/2016/03/26/683329) [Must Read]
+        - [x] [Common React.js mistakes: Unneeded state](http://reactkungfu.com/2015/09/common-react-dot-js-mistakes-unneeded-state/) [Must Read]
+
+    - React-Native
+
+        - [x] [Differential's Blog - Easily Connect React Native to a Meteor Server](http://blog.differential.com/easily-connect-react-native-to-a-meteor-server/)
+        - [x] [Adding Custom Fonts to A React Native Application for IOS](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f#.pkgz2jhtr) 
+
+    - Meteor
+
+        - [x] [The Meteor Chef - Publication and Subscription Patterns](https://themeteorchef.com/snippets/publication-and-subscription-patterns/) [Must Read]
 
 - Ruby
 
@@ -129,6 +140,18 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
         - [ ] [Practical Node.js: Building Real-World Scalable Web Apps by Azat Mardan](https://www.amazon.ca/Practical-Node-js-Building-Real-World-Scalable-ebook/dp/B00IGKE2FK/ref=sr_1_1?s=books&ie=UTF8&qid=1469305301&sr=1-1&keywords=Practical+Node.js%3A+Building+Real-World+Scalable+Web+Apps+by+Azat+Mardan)
         - [ ] [Node.js by Example by Krasimir Tsonev](https://www.amazon.ca/Node-js-Example-Krasimir-Tsonev-2015-06-30/dp/B01FIYK9QW/ref=sr_1_1?s=books&ie=UTF8&qid=1469305269&sr=1-1&keywords=Node.js+by+Example+by+Krasimir+Tsonev)
         - [ ] [Express in Action by Evan M.Hahn](https://www.amazon.ca/Express-Action-Writing-building-applications/dp/1617292427/ref=sr_1_1?s=books&ie=UTF8&qid=1469305287&sr=1-1&keywords=Express+in+Action+by+Evan+M.Hahn)
+
+- Ruby
+
+    - [ ] [Ruby by Example: Using Ruby to Solve Difficult Problems by Kevin C. Baird](https://www.amazon.ca/Ruby-Example-Using-Difficult-Problems-ebook/dp/B002N3M6RM/ref=sr_1_1?ie=UTF8&qid=1471538800&sr=8-1&keywords=ruby+by+example)
+
+    - Ruby On Rails
+
+        - [ ] [Agile Web Development with Rails 4 by Sam Ruby & Dave Thomas & David Heinemeier Hansson](https://www.amazon.ca/Agile-Web-Development-Rails-4/dp/1937785564/ref=sr_1_2?s=books&ie=UTF8&qid=1471538863&sr=1-2&keywords=ruby+on+rails)
+        - [ ] [Rails Solutions: Ruby on Rails Made Easy by Justin Williams](https://www.amazon.ca/Rails-Solutions-Justin-Williams-2007-01-24/dp/B01FIVZTKQ/ref=sr_1_2?s=books&ie=UTF8&qid=1471538950&sr=1-2&keywords=rails+solutions)
+        - [ ] [Ruby on Rails Enterprise Application Development: Plan, Program, Extend by Elliot Smith & Rob Nichols](https://www.amazon.ca/Ruby-Rails-Enterprise-Application-Development-ebook/dp/B005CG8IIS/ref=sr_1_2?s=books&ie=UTF8&qid=1471538996&sr=1-2&keywords=ruby+on+rails+enterprise)
+        - [ ] [Ruby on Rails 5.0 for Autodidacts: Learn Ruby 2.3 and Rails 5.0 by Stefan Wintermeyer](https://www.amazon.ca/Ruby-Rails-5-0-Autodidacts-Learn-ebook/dp/B01BKFPTJ0/ref=sr_1_8?s=books&ie=UTF8&qid=1471539062&sr=1-8&keywords=ruby+on+rails)
+        - [ ] [Ruby on Rails Tutorial: Learn Web Development with Rails (3rd Edition) by Michael Hart](https://www.amazon.ca/Ruby-Rails-Tutorial-Learn-Development/dp/0134077709/ref=sr_1_1?s=books&ie=UTF8&qid=1471539550&sr=1-1&keywords=ruby+on+rails)
 
 - Web Design + HTML/CSS
 
