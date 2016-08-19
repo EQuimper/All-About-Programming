@@ -66,7 +66,17 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
         - [x] [Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb)
 
+- Github
+
+    - [x] [Orphaned Branches in Git](http://www.csinaction.com/2016/02/12/orphaned-brachnes-in-git/)
+    - [x] [Procedure for resolving a a left-behind branch that has merge conflicts](http://data.agaric.com/procedure-resolving-left-behind-branch-has-merge-conflicts)
+    - [x] [Git Conflict Resolution](http://tedfelix.com/software/git-conflict-resolution.html)
+
 - JavaScript
+
+- [x] [Functional programming in Javascript: map, filter and reduce](http://cryto.net/~joepie91/blog/2015/05/04/functional-programming-in-javascript-map-filter-reduce/)
+- [x] [RainSoft - How three dots changed JavaScript](https://rainsoft.io/how-three-dots-changed-javascript/)
+- [x] [A Drip Of Javascript - Filtering Arrays with Array#filter](http://adripofjavascript.com/blog/drips/filtering-arrays-with-array-filter) 
 
     - React.JS
 
