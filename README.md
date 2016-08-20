@@ -31,7 +31,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Lynda - JavaScript: Functions](https://www.lynda.com/JavaScript-tutorials/JavaScript-Functions/148137-2.html)
     - [x] [Lynda - JavaScript and JSON](https://www.lynda.com/JavaScript-tutorials/JavaScript-JSON/114901-2.html)
     - [x] [TheNewBoston - ECMAScript 6 / ES6 New Features Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt)
-    - [ ] [EggHead - Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015)
+    - [x] [EggHead - Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015)
+    - [ ] [HipsterCode - Advanced JavaScript](https://www.hipstercode.com/tutorial/31/)
 
         - Node.JS
 
@@ -39,6 +40,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
             - [x] [Pluralsight - RESTful Web Services with Node.js and Express](https://app.pluralsight.com/library/courses/node-js-express-rest-web-services/table-of-contents)
             - [x] [NodeJS : Qu'est ce que NodeJS ?](https://www.youtube.com/watch?v=0PA69L88HeI) [French]
             - [x] [CodeSchool - Soup To Bits Node](https://www.codeschool.com)
+
+        - React + MobX
+            - [ ] [EggHead - Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
 
         - React + Redux
 
@@ -78,7 +82,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - [x] [Functional programming in Javascript: map, filter and reduce](http://cryto.net/~joepie91/blog/2015/05/04/functional-programming-in-javascript-map-filter-reduce/)
 - [x] [RainSoft - How three dots changed JavaScript](https://rainsoft.io/how-three-dots-changed-javascript/)
 - [x] [A Drip Of Javascript - Filtering Arrays with Array#filter](http://adripofjavascript.com/blog/drips/filtering-arrays-with-array-filter)
-- [x] [JavaScript’s Map, Reduce, and Filter](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter) 
+- [x] [JavaScript’s Map, Reduce, and Filter](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter)
 
     - React.JS
 
@@ -88,7 +92,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - React-Native
 
         - [x] [Differential's Blog - Easily Connect React Native to a Meteor Server](http://blog.differential.com/easily-connect-react-native-to-a-meteor-server/)
-        - [x] [Adding Custom Fonts to A React Native Application for IOS](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f#.pkgz2jhtr) 
+        - [x] [Adding Custom Fonts to A React Native Application for IOS](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f#.pkgz2jhtr)
 
     - Meteor
 
