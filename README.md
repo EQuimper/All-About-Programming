@@ -31,6 +31,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Lynda - JavaScript: Functions](https://www.lynda.com/JavaScript-tutorials/JavaScript-Functions/148137-2.html)
     - [x] [Lynda - JavaScript and JSON](https://www.lynda.com/JavaScript-tutorials/JavaScript-JSON/114901-2.html)
     - [x] [TheNewBoston - ECMAScript 6 / ES6 New Features Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt)
+    - [ ] [EggHead - Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015)
 
         - Node.JS
 
@@ -76,7 +77,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 - [x] [Functional programming in Javascript: map, filter and reduce](http://cryto.net/~joepie91/blog/2015/05/04/functional-programming-in-javascript-map-filter-reduce/)
 - [x] [RainSoft - How three dots changed JavaScript](https://rainsoft.io/how-three-dots-changed-javascript/)
-- [x] [A Drip Of Javascript - Filtering Arrays with Array#filter](http://adripofjavascript.com/blog/drips/filtering-arrays-with-array-filter) 
+- [x] [A Drip Of Javascript - Filtering Arrays with Array#filter](http://adripofjavascript.com/blog/drips/filtering-arrays-with-array-filter)
+- [x] [JavaScript’s Map, Reduce, and Filter](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter) 
 
     - React.JS
 
@@ -182,6 +184,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [x] [Advanced Async and Concurrency Patterns in JavaScript](https://www.youtube.com/watch?v=Qg1SvpIau6U)
     - [x] [Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY)
+    - [x] [EggHead - Chaining the Array Map and Filter Methods](https://egghead.io/lessons/javascript-chaining-the-array-map-and-filter-methods)
 
     - React + Redux
 
