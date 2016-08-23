@@ -32,7 +32,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Lynda - JavaScript and JSON](https://www.lynda.com/JavaScript-tutorials/JavaScript-JSON/114901-2.html)
     - [x] [TheNewBoston - ECMAScript 6 / ES6 New Features Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt)
     - [x] [EggHead - Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015)
-    - [ ] [HipsterCode - Advanced JavaScript](https://www.hipstercode.com/tutorial/31/)
+    - [x] [HipsterCode - Advanced JavaScript](https://www.hipstercode.com/tutorial/31/)
 
         - Node.JS
 
@@ -41,17 +41,25 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
             - [x] [NodeJS : Qu'est ce que NodeJS ?](https://www.youtube.com/watch?v=0PA69L88HeI) [French]
             - [x] [CodeSchool - Soup To Bits Node](https://www.codeschool.com)
 
-        - React + MobX
-            - [ ] [EggHead - Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
+        - React.JS
 
-        - React + Redux
+            + MobX
+                + [ ] [EggHead - Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
 
-            - [x] [Egghead - Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
-            - [ ] [Egghead - Building React Applications with Idiomatic Redux](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
-            - [x] [Egghead - React-Motion: Animate Multiple Elements with a Single Spring](https://egghead.io/playlists/react-react-animation-using-react-motion)
-            - [x] [Pluralsight - React-Redux-ES6](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)
-            - [x] [TheNewBoston - React JS / Redux Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a)
-            - [x] [Wes Bos - Learn Redux](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5uyzEWxdlr9WQTJJIzr6jy)
+            + Redux
+
+                + [x] [Egghead - Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
+                + [ ] [Egghead - Building React Applications with Idiomatic Redux](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
+                + [x] [Egghead - React-Motion: Animate Multiple Elements with a Single Spring](https://egghead.io/playlists/react-react-animation-using-react-motion)
+                + [x] [Pluralsight - React-Redux-ES6](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)
+                + [x] [TheNewBoston - React JS / Redux Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a)
+                + [x] [Wes Bos - Learn Redux](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5uyzEWxdlr9WQTJJIzr6jy)
+                + [x] [Stephen Grider - Modern React with Redux](https://www.udemy.com/react-redux/)
+                + [x] [Stephen Grider - Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/)
+
+        - React-Native
+
+            - [ ] [Stephen Grider - Build Apps with React Native](https://www.udemy.com/reactnative/)
 
 - Web Design + HTML/CSS
 
@@ -88,15 +96,23 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
         - [x] [React ES6 class constructor super()](http://cheng.logdown.com/posts/2016/03/26/683329) [Must Read]
         - [x] [Common React.js mistakes: Unneeded state](http://reactkungfu.com/2015/09/common-react-dot-js-mistakes-unneeded-state/) [Must Read]
+        - [ ] [React Lifecycle methods diagram](https://medium.com/@eddychang_86557/react-lifecycle-methods-diagram-38ac92bb6ff1#.n32v4fhqd)
+
+        - MobX
+
+            - [x] [Introduction to state management with MobX and React](https://www.youtube.com/watch?v=K8dr8BMU7-8)
+            - [x] [Michel Weststrate: State Management is Easy](https://www.youtube.com/watch?v=ApmSsu3qnf0&feature=youtu.be) 
 
     - React-Native
 
         - [x] [Differential's Blog - Easily Connect React Native to a Meteor Server](http://blog.differential.com/easily-connect-react-native-to-a-meteor-server/)
         - [x] [Adding Custom Fonts to A React Native Application for IOS](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f#.pkgz2jhtr)
+        - [x] [React Native Navigator — Navigating Like A Pro in React Native](https://medium.com/@dabit3/react-native-navigator-navigating-like-a-pro-in-react-native-3cb1b6dc1e30#.gtbt2ky5s)
 
     - Meteor
 
         - [x] [The Meteor Chef - Publication and Subscription Patterns](https://themeteorchef.com/snippets/publication-and-subscription-patterns/) [Must Read]
+        - [x] [The Meteor Chef - Methods](https://themeteorchef.com/snippets/methods/) 
 
 - Ruby
 
@@ -112,7 +128,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 ## Books
 
-- Computer Science + Algorithms
+- Computer Science + Algorithms + History
 
     - [ ] [Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms?ac=1&from_search=true)
     - [ ] [Code Complete by Steve McConnell](https://www.goodreads.com/book/show/4845.Code_Complete?ac=1&from_search=true)
@@ -184,6 +200,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 ## Videos
 
+- Computer Science + Algorithms + History
+
+    - [x] [The Art of Writing Software](https://www.youtube.com/watch?v=QdVFvsCWXrA)
+
 - JavaScript
 
     - [x] [Advanced Async and Concurrency Patterns in JavaScript](https://www.youtube.com/watch?v=Qg1SvpIau6U)
@@ -200,6 +220,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
         - [x] [How To Implement A Tab Bar With React Native](https://www.youtube.com/watch?v=MUzNfTvnsXk&index=2&list=PL-ASXRMOZBOpuMD4q1PsetU6E9qeXeMJx)
         - [x] [David Mosher - Introduction to React Native](https://www.youtube.com/watch?v=n5RhAYhTxCk&index=4&list=PL-ASXRMOZBOpuMD4q1PsetU6E9qeXeMJx)
         - [x] [React Native search from navigation bar](https://www.youtube.com/watch?v=j_4Ll0-5abc&list=PL-ASXRMOZBOpuMD4q1PsetU6E9qeXeMJx&index=8)
+        - [x] [Managing UIKit Navigation with React Native NavigatorIOS](https://www.youtube.com/watch?v=3W58KampkXc)
 
 - Database + Application Design
 
