@@ -101,7 +101,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
         - MobX
 
             - [x] [Introduction to state management with MobX and React](https://www.youtube.com/watch?v=K8dr8BMU7-8)
-            - [x] [Michel Weststrate: State Management is Easy](https://www.youtube.com/watch?v=ApmSsu3qnf0&feature=youtu.be) 
+            - [x] [Michel Weststrate: State Management is Easy](https://www.youtube.com/watch?v=ApmSsu3qnf0&feature=youtu.be)
+            - [x] [LearnCode.academy - MobX tutorial #1 - MobX + React is AWESOME](https://www.youtube.com/watch?v=_q50BXqkAfI)
+            - [x] [LearnCode.academy - MobX tutorial #2 - Computed Values and Nested/Referenced Observables](https://www.youtube.com/watch?v=nYvNqKrl69s)
 
     - React-Native
 
@@ -112,13 +114,15 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - Meteor
 
         - [x] [The Meteor Chef - Publication and Subscription Patterns](https://themeteorchef.com/snippets/publication-and-subscription-patterns/) [Must Read]
-        - [x] [The Meteor Chef - Methods](https://themeteorchef.com/snippets/methods/) 
+        - [x] [The Meteor Chef - Methods](https://themeteorchef.com/snippets/methods/)
+        - [x] [The Meteor Chef - Using the Collection2 Package](https://themeteorchef.com/snippets/using-the-collection2-package/)
 
 - Ruby
 
     - Ruby On Rails
 
         - [x] [TopTal - The Publish-Subscribe Pattern on Rails: An Implementation Tutorial](https://www.toptal.com/ruby-on-rails/the-publish-subscribe-pattern-on-rails)
+        - [x] [Rails ActiveRecord with Database Column Defaults](http://blog.endpoint.com/2014/02/rails-activerecord-with-database-column.html) 
 
 - Web Design + HTML/CSS
 
@@ -222,6 +226,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
         - [x] [React Native search from navigation bar](https://www.youtube.com/watch?v=j_4Ll0-5abc&list=PL-ASXRMOZBOpuMD4q1PsetU6E9qeXeMJx&index=8)
         - [x] [Managing UIKit Navigation with React Native NavigatorIOS](https://www.youtube.com/watch?v=3W58KampkXc)
 
+    - Meteor
+    
+        - [x] [Meteor.js in 50 Minutes](https://www.youtube.com/watch?v=vSFH1T3SnBY) 
+
 - Database + Application Design
 
     - [x] [Pub/Sub Design Pattern](https://www.youtube.com/watch?v=frGy-nGoGUY)
@@ -238,6 +246,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [DevTips - CSS Animation & Keyframes (CSS Animations Series Part 2)](https://www.youtube.com/watch?v=f1WMjDx4snI)
     - [x] [DevTips - Animating the Moments — Using Animation in UX (CSS Animations Series Part 3)](https://www.youtube.com/watch?v=GeuNIOuIEDA)
     - [x] [DevTips - Drop Down Menu — CSS Animations](https://www.youtube.com/watch?v=AIdslaUj9wg)
+    - [x] [DevTips - Step By Step Form — CSS Animations](https://www.youtube.com/watch?v=3EPG1fsZ-qo)
 
 - WordPress
 
