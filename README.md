@@ -19,6 +19,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [ ] [HarvardX: CS50 Introduction to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/b2f7d86728354866a2c4438e76c3ec55/99a3e898bd0c43aab9757d71b114529f/)
 
+- Ruby
+
+    -  Ruby on Rails
+    
+        - [ ] [8 Beautiful Ruby on Rails Apps in 30 Days & TDD](https://www.udemy.com/8-beautiful-ruby-on-rails-apps-in-30-days/learn/v4/overview)  
+
 - JavaScript
 
     - [x] [WatchAndCode - Practical JavaScript](https://watchandcode.com/courses/practical-javascript)
@@ -213,6 +219,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Advanced Async and Concurrency Patterns in JavaScript](https://www.youtube.com/watch?v=Qg1SvpIau6U)
     - [x] [Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY)
     - [x] [EggHead - Chaining the Array Map and Filter Methods](https://egghead.io/lessons/javascript-chaining-the-array-map-and-filter-methods)
+    - [x] [Codify Academy - Part 1 (Google Books API, AJAX, JSON)](https://www.youtube.com/watch?v=uI_UP0pgsDE)
+    - [x] [Codify Academy - Part 2 (Google Books API, AJAX, JSON)](https://www.youtube.com/watch?v=4LdTe90dqVE)
+    - [x] [Codify Academy - setTimeout() Function](https://www.youtube.com/watch?v=5ZrXaUb_-ss)
+    - [x] [Codify Academy - String Methods](https://www.youtube.com/watch?v=MjLRDceHr2M)
+    - [x] [Codify Academy - Regular Expressions](https://www.youtube.com/watch?v=0mQWGGF0zaQ)
+    - [x] [Codify Academy - Math() Object](https://www.youtube.com/watch?v=U6Zq5lk4Qhg)
 
     - React + Redux
 
