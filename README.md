@@ -225,6 +225,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Codify Academy - String Methods](https://www.youtube.com/watch?v=MjLRDceHr2M)
     - [x] [Codify Academy - Regular Expressions](https://www.youtube.com/watch?v=0mQWGGF0zaQ)
     - [x] [Codify Academy - Math() Object](https://www.youtube.com/watch?v=U6Zq5lk4Qhg)
+    - [x] [How to Use Javascript Promises](https://www.youtube.com/watch?v=104J7_HyaG4) [Must Watch]
 
     - React + Redux
 
@@ -237,6 +238,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
         - [x] [David Mosher - Introduction to React Native](https://www.youtube.com/watch?v=n5RhAYhTxCk&index=4&list=PL-ASXRMOZBOpuMD4q1PsetU6E9qeXeMJx)
         - [x] [React Native search from navigation bar](https://www.youtube.com/watch?v=j_4Ll0-5abc&list=PL-ASXRMOZBOpuMD4q1PsetU6E9qeXeMJx&index=8)
         - [x] [Managing UIKit Navigation with React Native NavigatorIOS](https://www.youtube.com/watch?v=3W58KampkXc)
+        - [x] [React Native For Beginners – The Next Big Thing?](https://www.youtube.com/watch?v=lhl0T2GFEPk) 
 
     - Meteor
     
