@@ -150,6 +150,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
         - [ ] [MongoDB Data Modeling by Wilson da Rocha França](https://www.goodreads.com/book/show/25826534-mongodb-data-modeling?ac=1&from_search=true)
         - [ ] [Pro MongoDB Development by Deepak Vohra](https://www.goodreads.com/book/show/28221102-pro-mongodb-development?ac=1&from_search=true)
         - [ ] [MongoDB: The Definitive Guide by Kristina Chodorow, Michael Dirolf](https://www.goodreads.com/book/show/9418297-mongodb?from_search=true)
+    
+- Elixir
+
+    - [ ] [Elixir in Action by Saša Jurić](https://www.amazon.ca/Elixir-Action-scaron-Juri-cacute/dp/161729201X/ref=sr_1_1?ie=UTF8&qid=1472489990&sr=8-1&keywords=elixir+in+action)
+    - [ ] [Programming Elixir by Dave Thomas](https://www.amazon.ca/Programming-Elixir-1-2-Functional-Concurrent/dp/1680501666/ref=sr_1_1?ie=UTF8&qid=1472490022&sr=8-1&keywords=programming+elixir)
 
 - Freelance + Business + Jobs
 
@@ -213,6 +218,19 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - Computer Science + Algorithms + History
 
     - [x] [The Art of Writing Software](https://www.youtube.com/watch?v=QdVFvsCWXrA)
+
+- Elixir
+
+    - [x] [Intro to Elixir](https://www.youtube.com/watch?v=lly-1UYmnFI&list=PLn76XROGFNtE9InImlu6e8isbOsM7qKtt)
+    - [x] [Elixir Is Neat But What Can You Actually Do With It?](https://www.youtube.com/watch?v=J4YbPVizqgE)
+
+    - Phoenix
+
+        - [x] [Introduction to Elixir & Phoenix](https://www.youtube.com/watch?v=cKeJJldQRgI)
+        - [x] [Phoenix Framework for the new web by José Valim](https://www.youtube.com/watch?v=Toluc5MCQWs)
+        - [x] [RailsConf 2016 - ActiveRecord vs. Ecto: A Tale of Two ORMs by Brad Urani](https://www.youtube.com/watch?v=_wD25uHx_Sw)
+        - [x] [RailsConf 2016 - Rails to Phoenix by Brian Cardarella](https://www.youtube.com/watch?v=OxhTQdcieQE) 
+        - [x] [Building a chat with React Native and Elixir Phoenix](https://www.youtube.com/watch?v=Ix_av-Z_19w&list=PLKrAq_JE16cIzmEpH0f8jVThIcYGo8Pnu&index=15)
 
 - JavaScript
 
