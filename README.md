@@ -204,6 +204,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [ ] [Framed Ink: Drawing and Composition for Visual Storytellers](https://www.amazon.com/Framed-Ink-Drawing-Composition-Storytellers/dp/1933492953?ie=UTF8&camp=1789&creative=9325&creativeASIN=1933492953&linkCode=as2&linkId=3RRTKVWIPDNHAOER&redirect=true&ref_=as_li_qf_sp_asin_il_tl&tag=matthewencina-20)
     - [ ] [Jump Start HTML5 by Tiffany B.Brown](https://www.goodreads.com/book/show/18669403-jump-start-html5)
+ 
+    - UI/UX Design Prototype & Animations
+    
+        - [x] [The Guide To Mockups by UXPin](https://www.uxpin.com/studio/ebooks/guide-to-mockups/) 
 
 - WordPress
 
@@ -279,6 +283,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [DevTips - Animating the Moments — Using Animation in UX (CSS Animations Series Part 3)](https://www.youtube.com/watch?v=GeuNIOuIEDA)
     - [x] [DevTips - Drop Down Menu — CSS Animations](https://www.youtube.com/watch?v=AIdslaUj9wg)
     - [x] [DevTips - Step By Step Form — CSS Animations](https://www.youtube.com/watch?v=3EPG1fsZ-qo)
+
+        - UI/UX Design Prototype & Animations
+        
+            - [x] [Shopping Card Screen Transition • UI/UX Animations with Principle & Sketch (Tutorial)](https://www.youtube.com/watch?v=zBHmaQaM2FE)
 
 - WordPress
 
