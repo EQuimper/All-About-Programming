@@ -27,6 +27,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
         - [ ] [8 Beautiful Ruby on Rails Apps in 30 Days & TDD](https://www.udemy.com/8-beautiful-ruby-on-rails-apps-in-30-days/learn/v4/overview)
 
+- Database + Application Design
+
+    - MongoDB
+    
+        - [x][TheNewBoston - MongoDB for Beginners Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDQ5DrbIl20Zu9hx1IjeVhO)  
+
 - JavaScript
 
     - [x] [WatchAndCode - Practical JavaScript](https://watchandcode.com/courses/practical-javascript)
@@ -302,6 +308,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
             - [x] [10 Quick Tips for Sketch 3](https://www.youtube.com/watch?v=WcCZi4A2mY4)
             - [x] [Prototyping a refresh animation with Flinto and Sketch 3](https://www.youtube.com/watch?v=L4U4rVTKzEI)
             - [x] [Icons Animations Using Flinto](https://www.youtube.com/watch?v=bbx_P-52oro)
+            - [x] [Book App - Screen Transition Tutorial with Principle](https://www.youtube.com/watch?v=KHlqDRQdnic)
 
 - WordPress
 
