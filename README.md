@@ -8,6 +8,8 @@
 - Blog
 - Freelance
 - Business
+- Pod-cast
+- CodePen & Demo
 
 This is a place for me to keep tracked of what I did or what I want to do and some awesome tips from all the online resources have found. All this resources is about web development and some about computer science. My goal is to be a awesome Full-Stack Web Developer.
 
@@ -22,8 +24,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - Ruby
 
     -  Ruby on Rails
-    
-        - [ ] [8 Beautiful Ruby on Rails Apps in 30 Days & TDD](https://www.udemy.com/8-beautiful-ruby-on-rails-apps-in-30-days/learn/v4/overview)  
+
+        - [ ] [8 Beautiful Ruby on Rails Apps in 30 Days & TDD](https://www.udemy.com/8-beautiful-ruby-on-rails-apps-in-30-days/learn/v4/overview)
 
 - JavaScript
 
@@ -128,13 +130,15 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - Ruby On Rails
 
         - [x] [TopTal - The Publish-Subscribe Pattern on Rails: An Implementation Tutorial](https://www.toptal.com/ruby-on-rails/the-publish-subscribe-pattern-on-rails)
-        - [x] [Rails ActiveRecord with Database Column Defaults](http://blog.endpoint.com/2014/02/rails-activerecord-with-database-column.html) 
+        - [x] [Rails ActiveRecord with Database Column Defaults](http://blog.endpoint.com/2014/02/rails-activerecord-with-database-column.html)
 
 - Web Design + HTML/CSS
 
     - [x] [How to Create Dynamic Compositions](https://medium.com/@matthewencina/how-to-create-dynamic-compositions-3c5cc3f00632#.9gbf0i1ne)
     - [x] [HTML5Rocks - High Performance Animations](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
     - [x] [8 Entrepreneurs Give Tips for Building a Beautiful Company Website](http://tech.co/building-beautiful-company-website-2016-08)
+    - [x] [CSS round buttons](http://codeitdown.com/css-round-buttons/)
+    - [x] [HOW TO CENTER IN CSS](http://howtocenterincss.com/)
 
 ## Books
 
@@ -150,7 +154,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
         - [ ] [MongoDB Data Modeling by Wilson da Rocha França](https://www.goodreads.com/book/show/25826534-mongodb-data-modeling?ac=1&from_search=true)
         - [ ] [Pro MongoDB Development by Deepak Vohra](https://www.goodreads.com/book/show/28221102-pro-mongodb-development?ac=1&from_search=true)
         - [ ] [MongoDB: The Definitive Guide by Kristina Chodorow, Michael Dirolf](https://www.goodreads.com/book/show/9418297-mongodb?from_search=true)
-    
+
 - Elixir
 
     - [ ] [Elixir in Action by Saša Jurić](https://www.amazon.ca/Elixir-Action-scaron-Juri-cacute/dp/161729201X/ref=sr_1_1?ie=UTF8&qid=1472489990&sr=8-1&keywords=elixir+in+action)
@@ -204,10 +208,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [ ] [Framed Ink: Drawing and Composition for Visual Storytellers](https://www.amazon.com/Framed-Ink-Drawing-Composition-Storytellers/dp/1933492953?ie=UTF8&camp=1789&creative=9325&creativeASIN=1933492953&linkCode=as2&linkId=3RRTKVWIPDNHAOER&redirect=true&ref_=as_li_qf_sp_asin_il_tl&tag=matthewencina-20)
     - [ ] [Jump Start HTML5 by Tiffany B.Brown](https://www.goodreads.com/book/show/18669403-jump-start-html5)
- 
+
     - UI/UX Design Prototype & Animations
-    
-        - [x] [The Guide To Mockups by UXPin](https://www.uxpin.com/studio/ebooks/guide-to-mockups/) 
+
+        - [x] [The Guide To Mockups by UXPin](https://www.uxpin.com/studio/ebooks/guide-to-mockups/)
 
 - WordPress
 
@@ -233,7 +237,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
         - [x] [Introduction to Elixir & Phoenix](https://www.youtube.com/watch?v=cKeJJldQRgI)
         - [x] [Phoenix Framework for the new web by José Valim](https://www.youtube.com/watch?v=Toluc5MCQWs)
         - [x] [RailsConf 2016 - ActiveRecord vs. Ecto: A Tale of Two ORMs by Brad Urani](https://www.youtube.com/watch?v=_wD25uHx_Sw)
-        - [x] [RailsConf 2016 - Rails to Phoenix by Brian Cardarella](https://www.youtube.com/watch?v=OxhTQdcieQE) 
+        - [x] [RailsConf 2016 - Rails to Phoenix by Brian Cardarella](https://www.youtube.com/watch?v=OxhTQdcieQE)
         - [x] [Building a chat with React Native and Elixir Phoenix](https://www.youtube.com/watch?v=Ix_av-Z_19w&list=PLKrAq_JE16cIzmEpH0f8jVThIcYGo8Pnu&index=15)
 
 - JavaScript
@@ -253,6 +257,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
         - [x] [LevelUpTuts - Meteor & React For Everyone ](https://www.youtube.com/watch?v=ootKAwnQiP4)
         - [x] [Rally Coding - The Best Way to Store Data](https://www.youtube.com/watch?v=aJxcVidE0I0)
+        - [x][React events in depth w/ Kent C. Dodds, Ben Alpert, & Dan Abramov](https://www.youtube.com/watch?v=dRo_egw7tBc)
+        - [x] [Coding in React Native, JumpShot3, Night 2 | Connecting Redux](https://www.youtube.com/watch?v=v30kmiPWdo8)
 
     - React-Native
 
@@ -260,11 +266,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
         - [x] [David Mosher - Introduction to React Native](https://www.youtube.com/watch?v=n5RhAYhTxCk&index=4&list=PL-ASXRMOZBOpuMD4q1PsetU6E9qeXeMJx)
         - [x] [React Native search from navigation bar](https://www.youtube.com/watch?v=j_4Ll0-5abc&list=PL-ASXRMOZBOpuMD4q1PsetU6E9qeXeMJx&index=8)
         - [x] [Managing UIKit Navigation with React Native NavigatorIOS](https://www.youtube.com/watch?v=3W58KampkXc)
-        - [x] [React Native For Beginners – The Next Big Thing?](https://www.youtube.com/watch?v=lhl0T2GFEPk) 
+        - [x] [React Native For Beginners – The Next Big Thing?](https://www.youtube.com/watch?v=lhl0T2GFEPk)
 
     - Meteor
-    
-        - [x] [Meteor.js in 50 Minutes](https://www.youtube.com/watch?v=vSFH1T3SnBY) 
+
+        - [x] [Meteor.js in 50 Minutes](https://www.youtube.com/watch?v=vSFH1T3SnBY)
 
 - Database + Application Design
 
@@ -285,8 +291,14 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [DevTips - Step By Step Form — CSS Animations](https://www.youtube.com/watch?v=3EPG1fsZ-qo)
 
         - UI/UX Design Prototype & Animations
-        
+
             - [x] [Shopping Card Screen Transition • UI/UX Animations with Principle & Sketch (Tutorial)](https://www.youtube.com/watch?v=zBHmaQaM2FE)
+            - [x] [Login UI Design Timelapse (Sky App)](https://www.youtube.com/watch?v=gA_hFHkhqFM)
+            - [x] [Designing with Layout Grids on Sketch 3](https://www.youtube.com/watch?v=u9W7Pzhd4KI)
+            - [x] [Smart Resizing (Responsive Design) • Sketchapp Tutorial / Sketch 3 Tutorial](https://www.youtube.com/watch?v=TzmENmVZujs) 
+            - [x] [10 Quick Tips for Sketch 3](https://www.youtube.com/watch?v=WcCZi4A2mY4)
+            - [x] [Prototyping a refresh animation with Flinto and Sketch 3](https://www.youtube.com/watch?v=L4U4rVTKzEI)
+            - [x] [Icons Animations Using Flinto](https://www.youtube.com/watch?v=bbx_P-52oro)
 
 - WordPress
 
@@ -294,3 +306,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [x] [DevTips - How Do You Learn Something Totally New?](https://www.youtube.com/watch?v=f5fxAja7aqk)
     - [x] [DevTips - Where Do You Host Your Websites?](https://www.youtube.com/watch?v=_TiyMkv8rmI)
+
+## Pod-cast
+
+## CodePen & Demo
+
+- Web Design + HTML/CSS
+
+    - [x] [Collection of Button Hover Effects](https://codepen.io/davidicus/pen/emgQKJ) 
+    - [x] [Circle Hover Effects with CSS Transitions](Circle Hover Effects with CSS Transitions)
