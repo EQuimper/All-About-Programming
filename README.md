@@ -86,6 +86,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - MongoDB
 
         - [x] [Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb)
+        - [x] [6 Rules of Thumb for MongoDB Schema Design: Part 1](http://blog.mongodb.org/post/87200945828/6-rules-of-thumb-for-mongodb-schema-design-part-1)
+        - [x] [6 Rules of Thumb for MongoDB Schema Design: Part 2](http://blog.mongodb.org/post/87892923503/6-rules-of-thumb-for-mongodb-schema-design-part-2)
+        - [x] [6 Rules of Thumb for MongoDB Schema Design: Part 3](http://blog.mongodb.org/post/88473035333/6-rules-of-thumb-for-mongodb-schema-design-part-3)
 
 - Github
 
@@ -306,6 +309,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [x] [DevTips - How Do You Learn Something Totally New?](https://www.youtube.com/watch?v=f5fxAja7aqk)
     - [x] [DevTips - Where Do You Host Your Websites?](https://www.youtube.com/watch?v=_TiyMkv8rmI)
+    - [x] [What Makes a Great Front-end Developer](http://dainelindleymawer.me/what-makes-a-great-front-end-developer/) 
 
 ## Pod-cast
 
