@@ -31,7 +31,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - MongoDB
     
-        - [x][TheNewBoston - MongoDB for Beginners Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDQ5DrbIl20Zu9hx1IjeVhO)  
+        - [x] [TheNewBoston - MongoDB for Beginners Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDQ5DrbIl20Zu9hx1IjeVhO)  
 
 - JavaScript
 
