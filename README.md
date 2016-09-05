@@ -31,7 +31,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - MongoDB
     
-        - [x] [TheNewBoston - MongoDB for Beginners Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDQ5DrbIl20Zu9hx1IjeVhO)  
+        - [x] [TheNewBoston - MongoDB for Beginners Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDQ5DrbIl20Zu9hx1IjeVhO)
 
 - JavaScript
 
@@ -262,6 +262,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Codify Academy - Math() Object](https://www.youtube.com/watch?v=U6Zq5lk4Qhg)
     - [x] [How to Use Javascript Promises](https://www.youtube.com/watch?v=104J7_HyaG4) [Must Watch]
 
+    - Express
+    
+        - [x] [ExpressJS Crash Course](https://www.youtube.com/watch?v=gnsO8-xJ8rs) 
+
     - React + Redux
 
         - [x] [LevelUpTuts - Meteor & React For Everyone ](https://www.youtube.com/watch?v=ootKAwnQiP4)
@@ -288,6 +292,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Why and When You Should Use Redis](https://www.youtube.com/watch?v=CoQcNgfPYPc)
     - [x] [WebConcepts - REST API concepts and examples](https://www.youtube.com/watch?v=7YcW25PHnAA)
     - [x] [Google Developers - Intro to REST](https://www.youtube.com/watch?v=YCcAE2SCQ6k)
+    
+    - MongoDB
+
+        - [x] [MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE) 
 
 - Web Design + HTML/CSS
 
