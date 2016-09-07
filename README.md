@@ -272,6 +272,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
         - [x] [Rally Coding - The Best Way to Store Data](https://www.youtube.com/watch?v=aJxcVidE0I0)
         - [x][React events in depth w/ Kent C. Dodds, Ben Alpert, & Dan Abramov](https://www.youtube.com/watch?v=dRo_egw7tBc)
         - [x] [Coding in React Native, JumpShot3, Night 2 | Connecting Redux](https://www.youtube.com/watch?v=v30kmiPWdo8)
+        - [x] [Getting Started with React Native and Redux](https://www.youtube.com/playlist?list=PLk083BmAphjtGWyZUuo1BiCS_ZAgps6j5)
 
     - React-Native
 
