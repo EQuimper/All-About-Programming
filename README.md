@@ -124,8 +124,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
         - Redux
         
-            - [][The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)  
-            - [x][Confused! Redux or MobX?](https://www.reddit.com/r/reactjs/comments/4npzq5/confused_redux_or_mobx/)
+            - [] [The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)  
+            - [x] [Confused! Redux or MobX?](https://www.reddit.com/r/reactjs/comments/4npzq5/confused_redux_or_mobx/)
+            - [] [Getting Started with Redux: An Intro](https://scotch.io/bar-talk/getting-started-with-redux-an-intro)
 
     - React-Native
 
@@ -279,6 +280,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
         - [x][React events in depth w/ Kent C. Dodds, Ben Alpert, & Dan Abramov](https://www.youtube.com/watch?v=dRo_egw7tBc)
         - [x] [Coding in React Native, JumpShot3, Night 2 | Connecting Redux](https://www.youtube.com/watch?v=v30kmiPWdo8)
         - [x] [Getting Started with React Native and Redux](https://www.youtube.com/playlist?list=PLk083BmAphjtGWyZUuo1BiCS_ZAgps6j5)
+        - [ ] [React State Management with Redux webinar with @Srijan Technologies](https://www.youtube.com/watch?v=7iTfcF1kNxc)
 
     - React-Native
 
@@ -302,7 +304,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     
     - MongoDB
 
-        - [x] [MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE) 
+        - [x] [MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE)
+        - [ ] [Advantages of using MongoDB in a Single Page Web Application](https://www.youtube.com/watch?v=O5XtIM8FGT0)
 
 - Web Design + HTML/CSS
 
