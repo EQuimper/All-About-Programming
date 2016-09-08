@@ -122,6 +122,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
             - [x] [LearnCode.academy - MobX tutorial #1 - MobX + React is AWESOME](https://www.youtube.com/watch?v=_q50BXqkAfI)
             - [x] [LearnCode.academy - MobX tutorial #2 - Computed Values and Nested/Referenced Observables](https://www.youtube.com/watch?v=nYvNqKrl69s)
 
+        - Redux
+        
+            - [][The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)  
+            - [x][Confused! Redux or MobX?](https://www.reddit.com/r/reactjs/comments/4npzq5/confused_redux_or_mobx/)
+
     - React-Native
 
         - [x] [Differential's Blog - Easily Connect React Native to a Meteor Server](http://blog.differential.com/easily-connect-react-native-to-a-meteor-server/)
@@ -189,6 +194,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [You Don't Know JS: Types & Grammar by Kyle Simpson](https://www.amazon.ca/You-Dont-Know-JS-Grammar/dp/1491904194/ref=sr_1_4?s=books&ie=UTF8&qid=1470005412&sr=1-4&keywords=kyle+simpson)
     - [ ] [You Don't Know JS: this & Object Prototypes by Kyle Simpson](https://www.amazon.ca/You-Dont-Know-JS-Prototypes-ebook/dp/B00LPUIB9G/ref=sr_1_5?s=books&ie=UTF8&qid=1470005412&sr=1-5&keywords=kyle+simpson)
     - [ ] [You Don't Know JS: ES6 & Beyond by Kyle Simpson](https://www.amazon.ca/You-Dont-Know-JS-Beyond/dp/1491904240/ref=sr_1_6?s=books&ie=UTF8&qid=1470005412&sr=1-6&keywords=kyle+simpson)
+    - [ ] [Single Page Web Applications: JavaScript end-to-end by Michael Mikowski](https://www.amazon.ca/Single-Page-Applications-end---end/dp/1617290750/ref=sr_1_1?ie=UTF8&qid=1473297259&sr=8-1&keywords=single+page+web+applications)
 
     - Meteor JS
 
