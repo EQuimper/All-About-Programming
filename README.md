@@ -56,11 +56,6 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
             - [x] [NodeJS : Qu'est ce que NodeJS ?](https://www.youtube.com/watch?v=0PA69L88HeI) [French]
             - [x] [CodeSchool - Soup To Bits Node](https://www.codeschool.com)
 
-            - Express
-
-                + [x] [Scotch.io Keeping API Routing Clean Using Express Routers](https://scotch.io/tutorials/keeping-api-routing-clean-using-express-routers)
-                + [x] [Scotch.io Build a RESTful API Using Node and Express 4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
-
         - React.JS
 
             + MobX
@@ -116,11 +111,16 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - [x] [JavaScript’s Map, Reduce, and Filter](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter)
 - [ ] [Functional JavaScript](http://functionaljavascript.blogspot.ca/2013/07/functors.html)
 
+    - Express
+
+        - [x] [Scotch.io Keeping API Routing Clean Using Express Routers](https://scotch.io/tutorials/keeping-api-routing-clean-using-express-routers)
+        - [x] [Scotch.io Build a RESTful API Using Node and Express 4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4) 
+
     - React.JS
 
         - [x] [React ES6 class constructor super()](http://cheng.logdown.com/posts/2016/03/26/683329) [Must Read]
         - [x] [Common React.js mistakes: Unneeded state](http://reactkungfu.com/2015/09/common-react-dot-js-mistakes-unneeded-state/) [Must Read]
-        - [ ] [React Lifecycle methods diagram](https://medium.com/@eddychang_86557/react-lifecycle-methods-diagram-38ac92bb6ff1#.n32v4fhqd)
+        - [x] [React Lifecycle methods diagram](https://medium.com/@eddychang_86557/react-lifecycle-methods-diagram-38ac92bb6ff1#.n32v4fhqd)
 
         - MobX
 
@@ -134,7 +134,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
             - [ ] [The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)  
             - [x] [Confused! Redux or MobX?](https://www.reddit.com/r/reactjs/comments/4npzq5/confused_redux_or_mobx/)
             - [ ] [Getting Started with Redux: An Intro](https://scotch.io/bar-talk/getting-started-with-redux-an-intro)
-            - [ ] [Making sense of Redux](https://medium.freecodecamp.com/why-redux-makes-sense-to-me-and-how-i-conceptualize-it-c8a3a9db15ca#.70bavgpl1)
+            - [x] [Making sense of Redux](https://medium.freecodecamp.com/why-redux-makes-sense-to-me-and-how-i-conceptualize-it-c8a3a9db15ca#.70bavgpl1)
             - [ ] [Simplifiez-vous la création d'application Javascript avec Redux](http://www.blogduwebdesign.com/presentation-javascript/Simplifiez-vous-la-creation-dapplication-Javascript-avec-Redux/1961)[French]
 
     - React-Native
