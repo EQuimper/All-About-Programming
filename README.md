@@ -47,6 +47,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [TheNewBoston - ECMAScript 6 / ES6 New Features Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt)
     - [x] [EggHead - Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015)
     - [x] [HipsterCode - Advanced JavaScript](https://www.hipstercode.com/tutorial/31/)
+    - [ ] [Learn to code with JavaScript](https://openclassrooms.com/courses/learn-the-basics-of-javascript)
 
         - Node.JS
 
@@ -113,6 +114,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - [x] [RainSoft - How three dots changed JavaScript](https://rainsoft.io/how-three-dots-changed-javascript/)
 - [x] [A Drip Of Javascript - Filtering Arrays with Array#filter](http://adripofjavascript.com/blog/drips/filtering-arrays-with-array-filter)
 - [x] [JavaScript’s Map, Reduce, and Filter](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter)
+- [ ] [Functional JavaScript](http://functionaljavascript.blogspot.ca/2013/07/functors.html)
 
     - React.JS
 
@@ -132,6 +134,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
             - [ ] [The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)  
             - [x] [Confused! Redux or MobX?](https://www.reddit.com/r/reactjs/comments/4npzq5/confused_redux_or_mobx/)
             - [ ] [Getting Started with Redux: An Intro](https://scotch.io/bar-talk/getting-started-with-redux-an-intro)
+            - [ ] [Making sense of Redux](https://medium.freecodecamp.com/why-redux-makes-sense-to-me-and-how-i-conceptualize-it-c8a3a9db15ca#.70bavgpl1)
+            - [ ] [Simplifiez-vous la création d'application Javascript avec Redux](http://www.blogduwebdesign.com/presentation-javascript/Simplifiez-vous-la-creation-dapplication-Javascript-avec-Redux/1961)[French]
 
     - React-Native
 
@@ -224,6 +228,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
         - [ ] [Ruby on Rails Enterprise Application Development: Plan, Program, Extend by Elliot Smith & Rob Nichols](https://www.amazon.ca/Ruby-Rails-Enterprise-Application-Development-ebook/dp/B005CG8IIS/ref=sr_1_2?s=books&ie=UTF8&qid=1471538996&sr=1-2&keywords=ruby+on+rails+enterprise)
         - [ ] [Ruby on Rails 5.0 for Autodidacts: Learn Ruby 2.3 and Rails 5.0 by Stefan Wintermeyer](https://www.amazon.ca/Ruby-Rails-5-0-Autodidacts-Learn-ebook/dp/B01BKFPTJ0/ref=sr_1_8?s=books&ie=UTF8&qid=1471539062&sr=1-8&keywords=ruby+on+rails)
         - [ ] [Ruby on Rails Tutorial: Learn Web Development with Rails (3rd Edition) by Michael Hart](https://www.amazon.ca/Ruby-Rails-Tutorial-Learn-Development/dp/0134077709/ref=sr_1_1?s=books&ie=UTF8&qid=1471539550&sr=1-1&keywords=ruby+on+rails)
+        - [ ] [Learn Enough Action Cable to Be Dangerous by Michael Hart](https://www.learnenough.com/action-cable-tutorial)
 
 - Web Design + HTML/CSS
 
