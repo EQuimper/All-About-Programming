@@ -296,8 +296,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
         - Redux
 
         - [x] [Rally Coding - The Best Way to Store Data](https://www.youtube.com/watch?v=aJxcVidE0I0)
-        - [ ] [Rally Coding - Basics of Redux Thunk](https://www.youtube.com/watch?v=1QI-UE3-0PU&feature=youtu.be)
-        - [ ] [Rally Coding - React/Redux Logicless Components with Reselect](https://www.youtube.com/watch?v=XCQ0ZSr-a2o)
+        - [x] [Rally Coding - A Better Way to Load Data](https://www.youtube.com/watch?v=JicUNpwLzLY)
+        - [x] [Rally Coding - Basics of Redux Thunk](https://www.youtube.com/watch?v=1QI-UE3-0PU&feature=youtu.be)
+        - [x] [Rally Coding - React/Redux Logicless Components with Reselect](https://www.youtube.com/watch?v=XCQ0ZSr-a2o)
         - [x] [Rally Coding - Dynamic Forms with Redux Form](https://www.youtube.com/watch?v=6C22gwvOzaw)
         - [ ] [Rally Coding - Modals in React and Redux Apps](https://www.youtube.com/watch?v=WGjv-p9jYf0)
         - [ ] [Rally Coding - Combining Redux and Firebase](https://www.youtube.com/watch?v=UHJq5NOtNG4)
