@@ -289,9 +289,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [x] [LevelUpTuts - Meteor & React For Everyone ](https://www.youtube.com/watch?v=ootKAwnQiP4)
     - [x] [React events in depth w/ Kent C. Dodds, Ben Alpert, & Dan Abramov](https://www.youtube.com/watch?v=dRo_egw7tBc)
-    - [ ] [Rally Coding - Integration with Third Party Libraries](https://www.youtube.com/watch?v=GWVjMHDKSfU)
+    - [x] [Rally Coding - Integration with Third Party Libraries](https://www.youtube.com/watch?v=GWVjMHDKSfU)
     - [ ] [Rally Coding - BrowserHistory in Production](https://www.youtube.com/watch?v=cdUyEou0LHg)
-    - [ ] [Rally Coding - Animation of React Components](https://www.youtube.com/watch?v=npvQX53YuCs)
+    - [x] [Rally Coding - Animation of React Components](https://www.youtube.com/watch?v=npvQX53YuCs)
 
         - Redux
 
@@ -300,9 +300,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
         - [x] [Rally Coding - Basics of Redux Thunk](https://www.youtube.com/watch?v=1QI-UE3-0PU&feature=youtu.be)
         - [x] [Rally Coding - React/Redux Logicless Components with Reselect](https://www.youtube.com/watch?v=XCQ0ZSr-a2o)
         - [x] [Rally Coding - Dynamic Forms with Redux Form](https://www.youtube.com/watch?v=6C22gwvOzaw)
-        - [ ] [Rally Coding - Modals in React and Redux Apps](https://www.youtube.com/watch?v=WGjv-p9jYf0)
-        - [ ] [Rally Coding - Combining Redux and Firebase](https://www.youtube.com/watch?v=UHJq5NOtNG4)
-        - [ ] [Rally Coding - Four Most Common Errors with React/Redux](https://www.youtube.com/watch?v=IFMzqPDo6o4)
+        - [x] [Rally Coding - Modals in React and Redux Apps](https://www.youtube.com/watch?v=WGjv-p9jYf0)
+        - [x] [Rally Coding - Combining Redux and Firebase](https://www.youtube.com/watch?v=UHJq5NOtNG4)
+        - [x] [Rally Coding - Four Most Common Errors with React/Redux](https://www.youtube.com/watch?v=IFMzqPDo6o4)
         - [ ] [React State Management with Redux webinar with @Srijan Technologies](https://www.youtube.com/watch?v=7iTfcF1kNxc)]
 
 
