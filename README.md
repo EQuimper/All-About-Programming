@@ -72,6 +72,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
       + [x] [Wes Bos - Learn Redux](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5uyzEWxdlr9WQTJJIzr6jy)
       + [x] [Stephen Grider - Modern React with Redux](https://www.udemy.com/react-redux/)
       + [x] [Stephen Grider - Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/)
+      + [x] [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
+
 
   - React-Native
 
