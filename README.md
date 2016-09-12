@@ -4,7 +4,7 @@
 - Articles
 - Tutorials
 - Books
-- Youtube videos
+- YouTube videos
 - Blog
 - Freelance
 - Business
@@ -30,7 +30,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - Database + Application Design
 
     - MongoDB
-    
+
         - [x] [TheNewBoston - MongoDB for Beginners Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDQ5DrbIl20Zu9hx1IjeVhO)
 
 - JavaScript
@@ -110,17 +110,19 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - [x] [A Drip Of Javascript - Filtering Arrays with Array#filter](http://adripofjavascript.com/blog/drips/filtering-arrays-with-array-filter)
 - [x] [JavaScript’s Map, Reduce, and Filter](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter)
 - [ ] [Functional JavaScript](http://functionaljavascript.blogspot.ca/2013/07/functors.html)
+- [x] [Using TypeScript's Type Definition Files to Get Tooling Support for Plain JavaScript](https://blog.mariusschulz.com/2014/05/19/using-typescripts-type-definition-files-to-get-tooling-support-for-plain-javascript)
 
     - Express
 
         - [x] [Scotch.io Keeping API Routing Clean Using Express Routers](https://scotch.io/tutorials/keeping-api-routing-clean-using-express-routers)
-        - [x] [Scotch.io Build a RESTful API Using Node and Express 4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4) 
+        - [x] [Scotch.io Build a RESTful API Using Node and Express 4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
 
     - React.JS
 
         - [x] [React ES6 class constructor super()](http://cheng.logdown.com/posts/2016/03/26/683329) [Must Read]
         - [x] [Common React.js mistakes: Unneeded state](http://reactkungfu.com/2015/09/common-react-dot-js-mistakes-unneeded-state/) [Must Read]
         - [x] [React Lifecycle methods diagram](https://medium.com/@eddychang_86557/react-lifecycle-methods-diagram-38ac92bb6ff1#.n32v4fhqd)
+        - [ ] [How to get "create-react-app" to work with your API](https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/)
 
         - MobX
 
@@ -130,8 +132,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
             - [x] [LearnCode.academy - MobX tutorial #2 - Computed Values and Nested/Referenced Observables](https://www.youtube.com/watch?v=nYvNqKrl69s)
 
         - Redux
-        
-            - [ ] [The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)  
+
+            - [ ] [The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
             - [x] [Confused! Redux or MobX?](https://www.reddit.com/r/reactjs/comments/4npzq5/confused_redux_or_mobx/)
             - [ ] [Getting Started with Redux: An Intro](https://scotch.io/bar-talk/getting-started-with-redux-an-intro)
             - [x] [Making sense of Redux](https://medium.freecodecamp.com/why-redux-makes-sense-to-me-and-how-i-conceptualize-it-c8a3a9db15ca#.70bavgpl1)
@@ -280,8 +282,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [How to Use Javascript Promises](https://www.youtube.com/watch?v=104J7_HyaG4) [Must Watch]
 
     - Express
-    
-        - [x] [ExpressJS Crash Course](https://www.youtube.com/watch?v=gnsO8-xJ8rs) 
+
+        - [x] [ExpressJS Crash Course](https://www.youtube.com/watch?v=gnsO8-xJ8rs)
 
     - React
 
@@ -301,7 +303,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
         - [ ] [Rally Coding - Combining Redux and Firebase](https://www.youtube.com/watch?v=UHJq5NOtNG4)
         - [ ] [Rally Coding - Four Most Common Errors with React/Redux](https://www.youtube.com/watch?v=IFMzqPDo6o4)
         - [ ] [React State Management with Redux webinar with @Srijan Technologies](https://www.youtube.com/watch?v=7iTfcF1kNxc)]
-        
+
 
     - React-Native
 
@@ -324,7 +326,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Why and When You Should Use Redis](https://www.youtube.com/watch?v=CoQcNgfPYPc)
     - [x] [WebConcepts - REST API concepts and examples](https://www.youtube.com/watch?v=7YcW25PHnAA)
     - [x] [Google Developers - Intro to REST](https://www.youtube.com/watch?v=YCcAE2SCQ6k)
-    
+
     - MongoDB
 
         - [x] [MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE)
@@ -345,7 +347,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
             - [x] [Shopping Card Screen Transition • UI/UX Animations with Principle & Sketch (Tutorial)](https://www.youtube.com/watch?v=zBHmaQaM2FE)
             - [x] [Login UI Design Timelapse (Sky App)](https://www.youtube.com/watch?v=gA_hFHkhqFM)
             - [x] [Designing with Layout Grids on Sketch 3](https://www.youtube.com/watch?v=u9W7Pzhd4KI)
-            - [x] [Smart Resizing (Responsive Design) • Sketchapp Tutorial / Sketch 3 Tutorial](https://www.youtube.com/watch?v=TzmENmVZujs) 
+            - [x] [Smart Resizing (Responsive Design) • Sketchapp Tutorial / Sketch 3 Tutorial](https://www.youtube.com/watch?v=TzmENmVZujs)
             - [x] [10 Quick Tips for Sketch 3](https://www.youtube.com/watch?v=WcCZi4A2mY4)
             - [x] [Prototyping a refresh animation with Flinto and Sketch 3](https://www.youtube.com/watch?v=L4U4rVTKzEI)
             - [x] [Icons Animations Using Flinto](https://www.youtube.com/watch?v=bbx_P-52oro)
@@ -357,7 +359,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [x] [DevTips - How Do You Learn Something Totally New?](https://www.youtube.com/watch?v=f5fxAja7aqk)
     - [x] [DevTips - Where Do You Host Your Websites?](https://www.youtube.com/watch?v=_TiyMkv8rmI)
-    - [x] [What Makes a Great Front-end Developer](http://dainelindleymawer.me/what-makes-a-great-front-end-developer/) 
+    - [x] [What Makes a Great Front-end Developer](http://dainelindleymawer.me/what-makes-a-great-front-end-developer/)
 
 ## Pod-cast
 
@@ -365,5 +367,5 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 - Web Design + HTML/CSS
 
-    - [x] [Collection of Button Hover Effects](https://codepen.io/davidicus/pen/emgQKJ) 
+    - [x] [Collection of Button Hover Effects](https://codepen.io/davidicus/pen/emgQKJ)
     - [x] [Circle Hover Effects with CSS Transitions](Circle Hover Effects with CSS Transitions)
