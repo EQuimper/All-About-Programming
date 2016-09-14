@@ -23,7 +23,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 - Ruby
 
-  -  Ruby on Rails
+  - Ruby on Rails
 
     - [ ] [8 Beautiful Ruby on Rails Apps in 30 Days & TDD](https://www.udemy.com/8-beautiful-ruby-on-rails-apps-in-30-days/learn/v4/overview)
 
@@ -145,6 +145,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Differential's Blog - Easily Connect React Native to a Meteor Server](http://blog.differential.com/easily-connect-react-native-to-a-meteor-server/)
     - [x] [Adding Custom Fonts to A React Native Application for IOS](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f#.pkgz2jhtr)
     - [x] [React Native Navigator — Navigating Like A Pro in React Native](https://medium.com/@dabit3/react-native-navigator-navigating-like-a-pro-in-react-native-3cb1b6dc1e30#.gtbt2ky5s)
+    - [x] [React Native Layout System](http://moduscreate.com/react-native-layout-system/)
+    - [ ] [Aligning Children using Flexbox in React Native](http://moduscreate.com/aligning-children-using-flexbox-in-react-native/)
 
   - Meteor
 
@@ -166,6 +168,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [8 Entrepreneurs Give Tips for Building a Beautiful Company Website](http://tech.co/building-beautiful-company-website-2016-08)
   - [x] [CSS round buttons](http://codeitdown.com/css-round-buttons/)
   - [x] [HOW TO CENTER IN CSS](http://howtocenterincss.com/)
+
+- Programming stuff
+
+  - [ ] [7 Good Developer Habits I Wish I’d Adopted Sooner](https://medium.com/team-treehouse/7-good-developer-habits-i-wish-id-adopted-sooner-8707931d72f3#.kv2zp45iu) 
 
 ## Books
 
