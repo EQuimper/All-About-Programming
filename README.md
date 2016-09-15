@@ -171,6 +171,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [8 Entrepreneurs Give Tips for Building a Beautiful Company Website](http://tech.co/building-beautiful-company-website-2016-08)
   - [x] [CSS round buttons](http://codeitdown.com/css-round-buttons/)
   - [x] [HOW TO CENTER IN CSS](http://howtocenterincss.com/)
+  - [x] [Exploring ways to export clean .svg icons with Sketch…the correct way](https://medium.com/sketch-app-sources/exploring-ways-to-export-clean-svg-icons-with-sketch-the-correct-way-752e73ec4694#.klkc1qe98)
 
 - Programming stuff
 
@@ -304,6 +305,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Rally Coding - Animation of React Components](https://www.youtube.com/watch?v=npvQX53YuCs)
     - [ ] [Getting Started with React and Firebase - Firecasts](https://www.youtube.com/watch?v=mwNATxfUsgI)
     - [ ] [Getting Started with React and Firebase, Part 2 - Firecasts](https://www.youtube.com/watch?v=p4XTMvagQ2Q)
+    - [x] [React.js Conf 2016 - Rich Text Editing with React](https://www.youtube.com/watch?v=feUYwoLhE_4)
+    - [x] [Start Reacting: Component Lifecycle Methods](https://www.youtube.com/watch?v=OUfBTtnZaeQ) 
 
   - Redux
 
