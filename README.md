@@ -106,6 +106,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Orphaned Branches in Git](http://www.csinaction.com/2016/02/12/orphaned-brachnes-in-git/)
   - [x] [Procedure for resolving a a left-behind branch that has merge conflicts](http://data.agaric.com/procedure-resolving-left-behind-branch-has-merge-conflicts)
   - [x] [Git Conflict Resolution](http://tedfelix.com/software/git-conflict-resolution.html)
+  - [x] [Oh shit, git!](http://ohshitgit.com/) 
 
 - JavaScript
 
@@ -127,6 +128,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Common React.js mistakes: Unneeded state](http://reactkungfu.com/2015/09/common-react-dot-js-mistakes-unneeded-state/) [Must Read]
     - [x] [React Lifecycle methods diagram](https://medium.com/@eddychang_86557/react-lifecycle-methods-diagram-38ac92bb6ff1#.n32v4fhqd)
     - [ ] [How to get "create-react-app" to work with your API](https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/)
+    - [ ] [AJAX Requests in React: How and Where to Fetch Data](https://daveceddia.com/ajax-requests-in-react/)
 
   - MobX
 
@@ -142,6 +144,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Getting Started with Redux: An Intro](https://scotch.io/bar-talk/getting-started-with-redux-an-intro)
     - [x] [Making sense of Redux](https://medium.freecodecamp.com/why-redux-makes-sense-to-me-and-how-i-conceptualize-it-c8a3a9db15ca#.70bavgpl1)
     - [ ] [Simplifiez-vous la création d'application Javascript avec Redux](http://www.blogduwebdesign.com/presentation-javascript/Simplifiez-vous-la-creation-dapplication-Javascript-avec-Redux/1961)[French]
+    - [ ] [ReactJS Redux, the Right Way](https://reactjs.co/)
+    - [ ] [Join The Dark Side Of The Flux: Responding to Actions with Actors](http://jamesknelson.com/join-the-dark-side-of-the-flux-responding-to-actions-with-actors/)
 
   - React-Native
 
@@ -176,6 +180,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - Programming stuff
 
   - [ ] [7 Good Developer Habits I Wish I’d Adopted Sooner](https://medium.com/team-treehouse/7-good-developer-habits-i-wish-id-adopted-sooner-8707931d72f3#.kv2zp45iu) 
+  - [x] [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/) 
 
 ## Books
 
@@ -183,6 +188,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   - [ ] [Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms?ac=1&from_search=true)
   - [ ] [Code Complete by Steve McConnell](https://www.goodreads.com/book/show/4845.Code_Complete?ac=1&from_search=true)
+  - [ ] [Concepts, Techniques, and Models of Computer Programming](http://www.epsa.org/forms/uploadFiles/3B6300000000.filename.booksingle.pdf) [Free]
 
 - Database + Application Design
 
