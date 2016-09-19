@@ -117,6 +117,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [Functional JavaScript](http://functionaljavascript.blogspot.ca/2013/07/functors.html)
   - [x] [Using TypeScript's Type Definition Files to Get Tooling Support for Plain JavaScript](https://blog.mariusschulz.com/2014/05/19/using-typescripts-type-definition-files-to-get-tooling-support-for-plain-javascript)
 
+  - Electron
+
+    - [ ] [Building a desktop application with Electron](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658) 
+
   - Express
 
     - [x] [Scotch.io Keeping API Routing Clean Using Express Routers](https://scotch.io/tutorials/keeping-api-routing-clean-using-express-routers)
@@ -297,10 +301,26 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Codify Academy - Regular Expressions](https://www.youtube.com/watch?v=0mQWGGF0zaQ)
   - [x] [Codify Academy - Math() Object](https://www.youtube.com/watch?v=U6Zq5lk4Qhg)
   - [x] [How to Use Javascript Promises](https://www.youtube.com/watch?v=104J7_HyaG4) [Must Watch]
+  - [x] [What is Async JavaScript?](https://www.youtube.com/watch?v=y8xPMYwQ0U8)
+  
+  - Electron
+
+    - [x] [Creating Desktop Apps with Electron](https://www.youtube.com/watch?v=ojX5yz35v4M)
+    - [x] [Getting Started with Electron 1.x](https://www.youtube.com/watch?v=jKzBJAowmGg)
+    - [x] [Creating an Electron Mac App: Stock Market Monitor](https://www.youtube.com/watch?v=6_V85t64OSI)
+    - [x] [Nodevember - Cross-Platform Desktop Apps with Electron](https://www.youtube.com/watch?v=Xs3Oc4weZbw)
 
   - Express
 
     - [x] [ExpressJS Crash Course](https://www.youtube.com/watch?v=gnsO8-xJ8rs)
+
+  - Node
+  
+    - [x] [Node.js Static Server in Minutes](https://www.youtube.com/watch?v=Moy6QIpp7Zw) 
+
+  - jQuery
+  
+    - [ ] [jQuery Crash Course](https://www.youtube.com/playlist?list=PLillGF-RfqbYJVXBgZ_nA7FTAAEpp_IAc) 
 
   - React
 
