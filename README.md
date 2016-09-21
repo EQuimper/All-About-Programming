@@ -309,6 +309,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Getting Started with Electron 1.x](https://www.youtube.com/watch?v=jKzBJAowmGg)
     - [x] [Creating an Electron Mac App: Stock Market Monitor](https://www.youtube.com/watch?v=6_V85t64OSI)
     - [x] [Nodevember - Cross-Platform Desktop Apps with Electron](https://www.youtube.com/watch?v=Xs3Oc4weZbw)
+    - [x] [Cross-Platform Desktop Apps with Electron](https://www.youtube.com/watch?v=Xs3Oc4weZbw)
 
   - Express
 
@@ -409,6 +410,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [DevTips - How Do You Learn Something Totally New?](https://www.youtube.com/watch?v=f5fxAja7aqk)
   - [x] [DevTips - Where Do You Host Your Websites?](https://www.youtube.com/watch?v=_TiyMkv8rmI)
   - [x] [What Makes a Great Front-end Developer](http://dainelindleymawer.me/what-makes-a-great-front-end-developer/)
+  - [ ] [Stay hungry...Stay foolish. Amazing Steve Jobs Speech at Stanford ](https://www.youtube.com/watch?v=gO6cFMRqXqU)
 
 ## Pod-cast
 
