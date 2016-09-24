@@ -49,6 +49,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [HipsterCode - Advanced JavaScript](https://www.hipstercode.com/tutorial/31/)
   - [ ] [Learn to code with JavaScript](https://openclassrooms.com/courses/learn-the-basics-of-javascript)
 
+  - [ ] [Pluralsight - Building Scalable APIs with GraphQL](https://app.pluralsight.com/library/courses/graphql-scalable-apis/table-of-contents)
+
   - Node.JS
 
     - [x] [Udemy - MongooseJs Essentials - Learn MongoDB for Node.js](https://www.udemy.com/mongoosejs-essentials/learn/v4/content)
@@ -207,9 +209,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [Elixir in Action by Saša Jurić](https://www.amazon.ca/Elixir-Action-scaron-Juri-cacute/dp/161729201X/ref=sr_1_1?ie=UTF8&qid=1472489990&sr=8-1&keywords=elixir+in+action)
   - [ ] [Programming Elixir by Dave Thomas](https://www.amazon.ca/Programming-Elixir-1-2-Functional-Concurrent/dp/1680501666/ref=sr_1_1?ie=UTF8&qid=1472490022&sr=8-1&keywords=programming+elixir)
 
-- Freelance + Business + Jobs
+- Freelance + Business + Jobs + Other Stuff
 
   - [x] [Why nobody knows your name by FreelanceLift](https://www.freelancelift.com/playbooks/why-nobody-knows-your-name/)
+  - [ ] [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas-ebook/dp/B010MH1DAQ/ref=sr_1_1?s=books&ie=UTF8&qid=1474405588&sr=1-1&keywords=sprint#nav-subnav)
+  - [ ] [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/dp/1455586692/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=15A7J1FUDTFEF&coliid=I18H6P3HJYD0WP)
 
 - JavaScript
 
@@ -315,6 +319,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [x] [ExpressJS Crash Course](https://www.youtube.com/watch?v=gnsO8-xJ8rs)
 
+  - GraphQL
+  
+    - [x] [Serverless GraphQL Blog - Walkthrough](https://www.youtube.com/watch?v=lgE5-mm8gX4&list=PLLYBAyx4q1XrMmzvHyy4PzccXzymK7D4l)   
+
   - Node
   
     - [x] [Node.js Static Server in Minutes](https://www.youtube.com/watch?v=Moy6QIpp7Zw) 
@@ -334,6 +342,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Getting Started with React and Firebase, Part 2 - Firecasts](https://www.youtube.com/watch?v=p4XTMvagQ2Q)
     - [x] [React.js Conf 2016 - Rich Text Editing with React](https://www.youtube.com/watch?v=feUYwoLhE_4)
     - [x] [Start Reacting: Component Lifecycle Methods](https://www.youtube.com/watch?v=OUfBTtnZaeQ) 
+    - [x] [Recomposing your React application](https://www.youtube.com/watch?v=zD_judE-bXk)
 
   - Redux
 
@@ -346,6 +355,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Rally Coding - Combining Redux and Firebase](https://www.youtube.com/watch?v=UHJq5NOtNG4)
     - [x] [Rally Coding - Four Most Common Errors with React/Redux](https://www.youtube.com/watch?v=IFMzqPDo6o4)
     - [ ] [React State Management with Redux webinar with @Srijan Technologies](https://www.youtube.com/watch?v=7iTfcF1kNxc)]
+    - [x] [Creating Forms with React and Redux](https://www.youtube.com/watch?v=q6NXa14o1f0)
 
 
   - React-Native
@@ -420,3 +430,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   - [x] [Collection of Button Hover Effects](https://codepen.io/davidicus/pen/emgQKJ)
   - [x] [Circle Hover Effects with CSS Transitions](Circle Hover Effects with CSS Transitions)
+
+## Best response on StackOverFlow & Reddit etc...
+
+- JavaScript
+
+  - [x] [Why return true or false from functions?](http://learn.shayhowe.com/advanced-html-css/transitions-animations/)
