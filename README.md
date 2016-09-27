@@ -109,6 +109,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Procedure for resolving a a left-behind branch that has merge conflicts](http://data.agaric.com/procedure-resolving-left-behind-branch-has-merge-conflicts)
   - [x] [Git Conflict Resolution](http://tedfelix.com/software/git-conflict-resolution.html)
   - [x] [Oh shit, git!](http://ohshitgit.com/) 
+  - [x] [10 tips for new GitHub projects](https://opensource.com/business/16/6/10-tips-new-github-projects)
 
 - JavaScript
 
@@ -118,10 +119,13 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [JavaScript’s Map, Reduce, and Filter](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter)
   - [ ] [Functional JavaScript](http://functionaljavascript.blogspot.ca/2013/07/functors.html)
   - [x] [Using TypeScript's Type Definition Files to Get Tooling Support for Plain JavaScript](https://blog.mariusschulz.com/2014/05/19/using-typescripts-type-definition-files-to-get-tooling-support-for-plain-javascript)
+  - [x] [Understanding Asynchronous JavaScript](https://www.youtube.com/watch?v=vMfg0xGjcOI)
 
   - Electron
 
     - [ ] [Building a desktop application with Electron](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658) 
+    - [x] [Build a Music Player with React & Electron I: Setup & Basic Concepts](https://scotch.io/tutorials/build-a-music-player-with-react-electron-i-setup-basic-concepts)
+    - [ ] [Electron: Cross-platform Desktop Apps Made Easy](https://www.toptal.com/javascript/electron-cross-platform-desktop-apps-easy)
 
   - Express
 
@@ -152,6 +156,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Simplifiez-vous la création d'application Javascript avec Redux](http://www.blogduwebdesign.com/presentation-javascript/Simplifiez-vous-la-creation-dapplication-Javascript-avec-Redux/1961)[French]
     - [ ] [ReactJS Redux, the Right Way](https://reactjs.co/)
     - [ ] [Join The Dark Side Of The Flux: Responding to Actions with Actors](http://jamesknelson.com/join-the-dark-side-of-the-flux-responding-to-actions-with-actors/)
+    - [ ] [Understanding Redux Middleware](https://medium.com/@meagle/understanding-87566abcfb7a#.nd74ah8fh)
+    - [ ] [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.px6jzme0p)
+    - [x] [If not Redux then what?](https://medium.com/@sanketsahu/if-not-redux-then-what-fc433234f5b4#.2yuwkwfwo)
 
   - React-Native
 
@@ -343,6 +350,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [React.js Conf 2016 - Rich Text Editing with React](https://www.youtube.com/watch?v=feUYwoLhE_4)
     - [x] [Start Reacting: Component Lifecycle Methods](https://www.youtube.com/watch?v=OUfBTtnZaeQ) 
     - [x] [Recomposing your React application](https://www.youtube.com/watch?v=zD_judE-bXk)
+    - [x] [Building Static Sites with React](https://www.youtube.com/watch?v=_1k2HEPH6fY)
 
   - Redux
 
@@ -421,8 +429,15 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [DevTips - Where Do You Host Your Websites?](https://www.youtube.com/watch?v=_TiyMkv8rmI)
   - [x] [What Makes a Great Front-end Developer](http://dainelindleymawer.me/what-makes-a-great-front-end-developer/)
   - [ ] [Stay hungry...Stay foolish. Amazing Steve Jobs Speech at Stanford ](https://www.youtube.com/watch?v=gO6cFMRqXqU)
+  - [x] [Why use a static site generator - Jekyll Casts](https://www.youtube.com/watch?v=FOfIoCi9uTI)
 
 ## Pod-cast
+
+- JavaScript
+
+  - React-Native
+
+    - [ ] [DevChat.tv - ExponentJS with Charlie Cheever](https://devchat.tv/react-native-radio/page/2)
 
 ## CodePen & Demo
 
