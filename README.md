@@ -37,6 +37,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   - [x] [WatchAndCode - Practical JavaScript](https://watchandcode.com/courses/practical-javascript)
   - [x] [Object Oriented JavaScript](https://www.youtube.com/watch?v=O8wwnhdkPE4)
+  - [ ] [Mastering Javascript Unit Testing](http://codeutopia.net/h/mastering-javascript-unit-testing/)
   - [x] [Pluralsight - Basics of Programming with JavaScript](https://app.pluralsight.com/library/courses/javascript-programming-basics/table-of-contents)
   - [ ] [Pluralsight - Advanced JavaScript](https://app.pluralsight.com/library/courses/advanced-javascript/table-of-contents)
   - [x] [Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
@@ -81,6 +82,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - React-Native
 
     - [ ] [Stephen Grider - Build Apps with React Native](https://www.udemy.com/reactnative/)
+
+  - IOS
+    
+    - [ ] [iOS 10 & Swift 3: From Beginner to Paid Professional](https://www.udemy.com/devslopes-ios10/)  
 
 - Web Design + HTML/CSS
 
@@ -167,6 +172,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [React Native Navigator — Navigating Like A Pro in React Native](https://medium.com/@dabit3/react-native-navigator-navigating-like-a-pro-in-react-native-3cb1b6dc1e30#.gtbt2ky5s)
     - [x] [React Native Layout System](http://moduscreate.com/react-native-layout-system/)
     - [ ] [Aligning Children using Flexbox in React Native](http://moduscreate.com/aligning-children-using-flexbox-in-react-native/)
+    - [x] [Diary of Building an iOS App with React Native](http://herman.asia/building-a-flashcard-app-with-react-native)
 
   - Meteor
 
@@ -189,6 +195,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [CSS round buttons](http://codeitdown.com/css-round-buttons/)
   - [x] [HOW TO CENTER IN CSS](http://howtocenterincss.com/)
   - [x] [Exploring ways to export clean .svg icons with Sketch…the correct way](https://medium.com/sketch-app-sources/exploring-ways-to-export-clean-svg-icons-with-sketch-the-correct-way-752e73ec4694#.klkc1qe98)
+  - [ ] [Mastering CSS Coding: Getting Started](https://www.smashingmagazine.com/2009/10/mastering-css-coding-getting-started/#CSS-Basics1)
 
 - Programming stuff
 
@@ -299,6 +306,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [RailsConf 2016 - ActiveRecord vs. Ecto: A Tale of Two ORMs by Brad Urani](https://www.youtube.com/watch?v=_wD25uHx_Sw)
     - [x] [RailsConf 2016 - Rails to Phoenix by Brian Cardarella](https://www.youtube.com/watch?v=OxhTQdcieQE)
     - [x] [Building a chat with React Native and Elixir Phoenix](https://www.youtube.com/watch?v=Ix_av-Z_19w&list=PLKrAq_JE16cIzmEpH0f8jVThIcYGo8Pnu&index=15)
+
+- IOS
+  
+  - Swift
+
+    - [x] [iOS Swift 3 Beginner Tutorial: Protocols & Delegates - Passing Data using the Delegate Method](https://www.youtube.com/watch?v=KhqXUi1SF4s)
 
 - JavaScript
 
@@ -437,7 +450,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   - React-Native
 
-    - [ ] [DevChat.tv - ExponentJS with Charlie Cheever](https://devchat.tv/react-native-radio/page/2)
+    - [x] [DevChat.tv - ExponentJS with Charlie Cheever](https://devchat.tv/react-native-radio/page/2)
+    - [x] [Js-Jabber - React Native with Nader Dabit and Mike Grabowski](https://devchat.tv/js-jabber/228-jsj-react-native-with-nader-dabit-and-mike-grabowski)
 
 ## CodePen & Demo
 
@@ -445,9 +459,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   - [x] [Collection of Button Hover Effects](https://codepen.io/davidicus/pen/emgQKJ)
   - [x] [Circle Hover Effects with CSS Transitions](Circle Hover Effects with CSS Transitions)
+  - [x] [Transitions & Animations](http://learn.shayhowe.com/advanced-html-css/transitions-animations/)
 
 ## Best response on StackOverFlow & Reddit etc...
 
 - JavaScript
 
-  - [x] [Why return true or false from functions?](http://learn.shayhowe.com/advanced-html-css/transitions-animations/)
+  - [x][Why return true or false from functions?](http://stackoverflow.com/questions/31443741/why-return-true-or-false-from-functions)
