@@ -137,6 +137,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Scotch.io Keeping API Routing Clean Using Express Routers](https://scotch.io/tutorials/keeping-api-routing-clean-using-express-routers)
     - [x] [Scotch.io Build a RESTful API Using Node and Express 4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
 
+  - Mean 
+
+    - [x] [MEAN App From Scratch - MongoDB, Express, Angular 2 & NodeJS](https://www.youtube.com/watch?v=PFP0oXNNveg)
+
   - React.JS
 
     - [x] [React ES6 class constructor super()](http://cheng.logdown.com/posts/2016/03/26/683329) [Must Read]
@@ -164,6 +168,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Understanding Redux Middleware](https://medium.com/@meagle/understanding-87566abcfb7a#.nd74ah8fh)
     - [ ] [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.px6jzme0p)
     - [x] [If not Redux then what?](https://medium.com/@sanketsahu/if-not-redux-then-what-fc433234f5b4#.2yuwkwfwo)
+    - [ ] [Learn React & Redux With Cabin](http://cabin.getstream.io/?utm_content=bufferfbb46&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
   - React-Native
 
@@ -364,6 +369,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Start Reacting: Component Lifecycle Methods](https://www.youtube.com/watch?v=OUfBTtnZaeQ) 
     - [x] [Recomposing your React application](https://www.youtube.com/watch?v=zD_judE-bXk)
     - [x] [Building Static Sites with React](https://www.youtube.com/watch?v=_1k2HEPH6fY)
+    - [ ] [Component Based Style Reuse](https://www.youtube.com/watch?v=_70Yp8KPXH8)
 
   - Redux
 
@@ -465,4 +471,4 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 - JavaScript
 
-  - [x][Why return true or false from functions?](http://stackoverflow.com/questions/31443741/why-return-true-or-false-from-functions)
+  - [x] [Why return true or false from functions?](http://stackoverflow.com/questions/31443741/why-return-true-or-false-from-functions)
