@@ -83,6 +83,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [ ] [Stephen Grider - Build Apps with React Native](https://www.udemy.com/reactnative/)
 
+  - RxJS
+  
+    - [ ] [RxJS Observables Crash Course](https://www.youtube.com/watch?v=ei7FsoXKPl0)
+
   - IOS
     
     - [ ] [iOS 10 & Swift 3: From Beginner to Paid Professional](https://www.udemy.com/devslopes-ios10/)  
@@ -148,6 +152,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [React Lifecycle methods diagram](https://medium.com/@eddychang_86557/react-lifecycle-methods-diagram-38ac92bb6ff1#.n32v4fhqd)
     - [ ] [How to get "create-react-app" to work with your API](https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/)
     - [ ] [AJAX Requests in React: How and Where to Fetch Data](https://daveceddia.com/ajax-requests-in-react/)
+    - [ ] [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.dswv37s6j)
 
   - MobX
 
@@ -178,6 +183,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [React Native Layout System](http://moduscreate.com/react-native-layout-system/)
     - [ ] [Aligning Children using Flexbox in React Native](http://moduscreate.com/aligning-children-using-flexbox-in-react-native/)
     - [x] [Diary of Building an iOS App with React Native](http://herman.asia/building-a-flashcard-app-with-react-native)
+    - [ ] [Tutorial: A Detailed Look at React Native for JavaScript Developers](https://www.youtube.com/watch?v=cuMezEwKFLU)
+    - [ ] [Building a Simple ToDo App With React Native and Firebase](https://www.youtube.com/watch?v=3ab0K6viEp0)
 
   - Meteor
 
@@ -394,6 +401,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [React Native For Beginners – The Next Big Thing?](https://www.youtube.com/watch?v=lhl0T2GFEPk)
     - [x] [Coding in React Native, JumpShot3, Night 2 | Connecting Redux](https://www.youtube.com/watch?v=v30kmiPWdo8)
     - [x] [Getting Started with React Native and Redux](https://www.youtube.com/playlist?list=PLk083BmAphjtGWyZUuo1BiCS_ZAgps6j5)
+    - [ ] [Introduction to React Native](https://www.youtube.com/watch?v=tJzZRhNs00I)
+    - [ ] [David Mosher - Introduction to React Native](https://www.youtube.com/watch?v=n5RhAYhTxCk)
+    - [x] [Introduction to React Native - Building a React Native app from scratch](https://www.youtube.com/watch?v=r5OPRhelEIU)
 
   - Meteor
 
@@ -472,3 +482,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - JavaScript
 
   - [x] [Why return true or false from functions?](http://stackoverflow.com/questions/31443741/why-return-true-or-false-from-functions)
+  - [x] [How to dispatch Redux action from stateless component when route is loaded?](http://stackoverflow.com/questions/39761443/how-to-dispatch-redux-action-from-stateless-component-when-route-is-loaded)
+
+## Be more Productive
+
+  - [x] [The Most Successful Techniques for Rising Early](http://zenhabits.net/early/)
