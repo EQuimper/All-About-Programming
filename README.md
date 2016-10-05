@@ -49,7 +49,6 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [EggHead - Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015)
   - [x] [HipsterCode - Advanced JavaScript](https://www.hipstercode.com/tutorial/31/)
   - [ ] [Learn to code with JavaScript](https://openclassrooms.com/courses/learn-the-basics-of-javascript)
-
   - [ ] [Pluralsight - Building Scalable APIs with GraphQL](https://app.pluralsight.com/library/courses/graphql-scalable-apis/table-of-contents)
 
   - Node.JS
@@ -77,11 +76,13 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
       + [x] [Wes Bos - Learn Redux](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5uyzEWxdlr9WQTJJIzr6jy)
       + [x] [Stephen Grider - Modern React with Redux](https://www.udemy.com/react-redux/)
       + [x] [Stephen Grider - Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/)
+      + [ ] [Stephen Gride - The Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course/)
 
 
   - React-Native
 
     - [ ] [Stephen Grider - Build Apps with React Native](https://www.udemy.com/reactnative/)
+    - [ ] [Pluralsight - Build Cross Platform React Native Apps with Exponent and Redux](https://app.pluralsight.com/library/courses/build-react-native-exponent-redux-apps/table-of-contents)
 
   - RxJS
   
@@ -90,6 +91,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - IOS
     
     - [ ] [iOS 10 & Swift 3: From Beginner to Paid Professional](https://www.udemy.com/devslopes-ios10/)  
+    - [ ] [The Complete iOS 10 Developer Course - Build 21 Apps](https://www.udemy.com/complete-ios-10-developer-course/learn/v4/content)
 
 - Web Design + HTML/CSS
 
@@ -111,6 +113,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [6 Rules of Thumb for MongoDB Schema Design: Part 1](http://blog.mongodb.org/post/87200945828/6-rules-of-thumb-for-mongodb-schema-design-part-1)
     - [x] [6 Rules of Thumb for MongoDB Schema Design: Part 2](http://blog.mongodb.org/post/87892923503/6-rules-of-thumb-for-mongodb-schema-design-part-2)
     - [x] [6 Rules of Thumb for MongoDB Schema Design: Part 3](http://blog.mongodb.org/post/88473035333/6-rules-of-thumb-for-mongodb-schema-design-part-3)
+    - [ ] [Back to Basics - Thinking in Documents](https://www.mongodb.com/presentations/webinar-back-to-basics-thinking-in-documents?p=55f080b16d6f6e7e15030000&utm_campaign=T6_V2_DEV_AM_E5_Schema%20Design%20-%20A&utm_medium=email&utm_source=Eloqua)
+
+- Email Design
+
+  - [ ] [Creating a Future-Proof Responsive Email Without Media Queries](https://webdesign.tutsplus.com/tutorials/creating-a-future-proof-responsive-email-without-media-queries--cms-23919) 
+
 
 - Github
 
@@ -482,7 +490,13 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - JavaScript
 
   - [x] [Why return true or false from functions?](http://stackoverflow.com/questions/31443741/why-return-true-or-false-from-functions)
-  - [x] [How to dispatch Redux action from stateless component when route is loaded?](http://stackoverflow.com/questions/39761443/how-to-dispatch-redux-action-from-stateless-component-when-route-is-loaded)
+  
+  - Redux
+    - [x] [How to dispatch Redux action from stateless component when route is loaded?](http://stackoverflow.com/questions/39761443/how-to-dispatch-redux-action-from-stateless-component-when-route-is-loaded)
+
+  - React
+    - [ ] [React-router urls don't work when refreshing or writting manually](http://stackoverflow.com/questions/27928372/react-router-urls-dont-work-when-refreshing-or-writting-manually)
+
 
 ## Be more Productive
 
