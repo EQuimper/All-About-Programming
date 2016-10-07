@@ -137,6 +137,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [Functional JavaScript](http://functionaljavascript.blogspot.ca/2013/07/functors.html)
   - [x] [Using TypeScript's Type Definition Files to Get Tooling Support for Plain JavaScript](https://blog.mariusschulz.com/2014/05/19/using-typescripts-type-definition-files-to-get-tooling-support-for-plain-javascript)
   - [x] [Understanding Asynchronous JavaScript](https://www.youtube.com/watch?v=vMfg0xGjcOI)
+  - [x] [Understanding JavaScript’s async await](https://ponyfoo.com/articles/understanding-javascript-async-await)
+  - [ ] [Async/Await: The Hero JavaScript Deserved](https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html)
+  - [x] [Object Creation in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
 
   - Electron
 
@@ -199,6 +202,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [The Meteor Chef - Publication and Subscription Patterns](https://themeteorchef.com/snippets/publication-and-subscription-patterns/) [Must Read]
     - [x] [The Meteor Chef - Methods](https://themeteorchef.com/snippets/methods/)
     - [x] [The Meteor Chef - Using the Collection2 Package](https://themeteorchef.com/snippets/using-the-collection2-package/)
+
+  - VueJS
+
+    - [ ] [VueJS 2](https://www.youtube.com/playlist?list=PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0)[French]
 
 - Ruby
 
@@ -346,6 +353,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Codify Academy - Math() Object](https://www.youtube.com/watch?v=U6Zq5lk4Qhg)
   - [x] [How to Use Javascript Promises](https://www.youtube.com/watch?v=104J7_HyaG4) [Must Watch]
   - [x] [What is Async JavaScript?](https://www.youtube.com/watch?v=y8xPMYwQ0U8)
+  - [x] [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be)
   
   - Electron
 
@@ -412,6 +420,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Introduction to React Native](https://www.youtube.com/watch?v=tJzZRhNs00I)
     - [ ] [David Mosher - Introduction to React Native](https://www.youtube.com/watch?v=n5RhAYhTxCk)
     - [x] [Introduction to React Native - Building a React Native app from scratch](https://www.youtube.com/watch?v=r5OPRhelEIU)
+    - [x] [A Quick React Native Demo with OpenGL](https://www.youtube.com/watch?v=OPFf53fdUmQ)
 
   - Meteor
 
@@ -495,7 +504,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [How to dispatch Redux action from stateless component when route is loaded?](http://stackoverflow.com/questions/39761443/how-to-dispatch-redux-action-from-stateless-component-when-route-is-loaded)
 
   - React
-    - [ ] [React-router urls don't work when refreshing or writting manually](http://stackoverflow.com/questions/27928372/react-router-urls-dont-work-when-refreshing-or-writting-manually)
+    - [x] [React-router urls don't work when refreshing or writting manually](http://stackoverflow.com/questions/27928372/react-router-urls-dont-work-when-refreshing-or-writting-manually)
+    - [x] [Dynamic tag name in jsx and React](http://stackoverflow.com/questions/33471880/dynamic-tag-name-in-jsx-and-react?noredirect=1&lq=1)
 
 
 ## Be more Productive
