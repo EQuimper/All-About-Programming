@@ -76,13 +76,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
       + [x] [Wes Bos - Learn Redux](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5uyzEWxdlr9WQTJJIzr6jy)
       + [x] [Stephen Grider - Modern React with Redux](https://www.udemy.com/react-redux/)
       + [x] [Stephen Grider - Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/)
-      + [ ] [Stephen Gride - The Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course/)
-
 
   - React-Native
 
     - [ ] [Stephen Grider - Build Apps with React Native](https://www.udemy.com/reactnative/)
     - [ ] [Pluralsight - Build Cross Platform React Native Apps with Exponent and Redux](https://app.pluralsight.com/library/courses/build-react-native-exponent-redux-apps/table-of-contents)
+    - [x] [The Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course)
 
   - RxJS
   
@@ -195,7 +194,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Aligning Children using Flexbox in React Native](http://moduscreate.com/aligning-children-using-flexbox-in-react-native/)
     - [x] [Diary of Building an iOS App with React Native](http://herman.asia/building-a-flashcard-app-with-react-native)
     - [ ] [Tutorial: A Detailed Look at React Native for JavaScript Developers](https://www.youtube.com/watch?v=cuMezEwKFLU)
-    - [ ] [Building a Simple ToDo App With React Native and Firebase](https://www.youtube.com/watch?v=3ab0K6viEp0)
+    - [x] [Building a Simple ToDo App With React Native and Firebase](https://www.youtube.com/watch?v=3ab0K6viEp0)
+    - [ ] [The beginners guide to React Native and Firebase](https://firebase.googleblog.com/2016/01/the-beginners-guide-to-react-native-and_84.html)
 
   - Meteor
 
@@ -421,6 +421,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [David Mosher - Introduction to React Native](https://www.youtube.com/watch?v=n5RhAYhTxCk)
     - [x] [Introduction to React Native - Building a React Native app from scratch](https://www.youtube.com/watch?v=r5OPRhelEIU)
     - [x] [A Quick React Native Demo with OpenGL](https://www.youtube.com/watch?v=OPFf53fdUmQ)
+    - [x] [React Native: Debugging on an iOS Device](https://egghead.io/lessons/react-react-native-debugging-on-an-ios-device)
 
   - Meteor
 
@@ -437,9 +438,13 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - Firebase
 
     - [ ] [Zero to App: Develop with Firebase - Google I/O 2016](https://www.youtube.com/watch?v=xAsvwy1-oxE)
-    - [ ] [Getting started with Firebase Auth on the Web - Firecasts](https://www.youtube.com/watch?v=-OKrloDzGpU)
-    - [ ] [Getting Started with the Firebase Realtime Database on the Web, Part 1 - Firecasts](https://www.youtube.com/watch?v=noB98K6A0TY)
-    - [ ] [Getting Started with the Firebase Realtime Database on the Web, Part 2 - Firecasts](https://www.youtube.com/watch?v=dBscwaqNPuk)
+    - [x] [Getting Started with Firebase on the Web - Firecasts](https://www.youtube.com/watch?v=k1D0_wFlXgo&list=PLl-K7zZEsYLmnJ_FpMOZgyg6XcIGBu2OX)
+    - [x] [Getting Started with Firebase Storage on the Web - Firecasts](https://www.youtube.com/watch?v=SpxHVrpfGgU&list=PLl-K7zZEsYLmnJ_FpMOZgyg6XcIGBu2OX&index=5)
+    - [x] [Getting started with Firebase Auth on the Web - Firecasts](https://www.youtube.com/watch?v=-OKrloDzGpU)
+    - [x] [Getting Started with the Firebase Realtime Database on the Web, Part 1 - Firecasts](https://www.youtube.com/watch?v=noB98K6A0TY)
+    - [x] [Getting Started with the Firebase Realtime Database on the Web, Part 2 - Firecasts](https://www.youtube.com/watch?v=dBscwaqNPuk)
+    - [x] [Getting Started with React and Firebase - Firecasts](https://www.youtube.com/watch?v=mwNATxfUsgI)
+    - [x] [Getting Started with React and Firebase, Part 2 - Firecasts](https://www.youtube.com/watch?v=p4XTMvagQ2Q) 
 
   - MongoDB
 
@@ -507,6 +512,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [React-router urls don't work when refreshing or writting manually](http://stackoverflow.com/questions/27928372/react-router-urls-dont-work-when-refreshing-or-writting-manually)
     - [x] [Dynamic tag name in jsx and React](http://stackoverflow.com/questions/33471880/dynamic-tag-name-in-jsx-and-react?noredirect=1&lq=1)
 
+  - React-Native
+    - [x] [How do I use a captured image with react-native-camera](http://stackoverflow.com/questions/33155067/how-do-i-use-a-captured-image-with-react-native-camera)
+    - [x] [How to re render ListView items](https://www.reddit.com/r/reactnative/comments/33wmu4/how_to_re_render_listview_items/)
 
 ## Be more Productive
 
