@@ -139,6 +139,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Understanding JavaScript’s async await](https://ponyfoo.com/articles/understanding-javascript-async-await)
   - [ ] [Async/Await: The Hero JavaScript Deserved](https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html)
   - [x] [Object Creation in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
+  - [ ] [Node.js Async Await in ES7](http://stackabuse.com/node-js-async-await-in-es7/)
 
   - Electron
 
@@ -154,6 +155,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - Mean 
 
     - [x] [MEAN App From Scratch - MongoDB, Express, Angular 2 & NodeJS](https://www.youtube.com/watch?v=PFP0oXNNveg)
+
+  - Node
+
+    - [ ] [Build User Authentication with Node.js, Express, Passport, and Orchestrate](https://www.ctl.io/developers/blog/post/build-user-authentication-with-node-js-express-passport-and-orchestrate)
+    - [x] [Authenticate a Node.js API with JSON Web Tokens](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens)
 
   - React.JS
 
@@ -184,6 +190,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.px6jzme0p)
     - [x] [If not Redux then what?](https://medium.com/@sanketsahu/if-not-redux-then-what-fc433234f5b4#.2yuwkwfwo)
     - [ ] [Learn React & Redux With Cabin](http://cabin.getstream.io/?utm_content=bufferfbb46&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+    - [ ] [Notifications with React and Redux](https://codereviewvideos.com/blog/notifications-react-and-redux/)
 
   - React-Native
 
@@ -373,7 +380,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   - Node
   
-    - [x] [Node.js Static Server in Minutes](https://www.youtube.com/watch?v=Moy6QIpp7Zw) 
+    - [x] [Node.js Static Server in Minutes](https://www.youtube.com/watch?v=Moy6QIpp7Zw)
+    - [x] [NodeJS - Token Authentication for APIs](https://www.youtube.com/watch?v=OjJ7XgWd9mQ)
+    - [x] [RESTful API User Authentication with NodeJS](https://www.youtube.com/watch?v=uaizKlOXyfY)
+    - [ ] 
 
   - jQuery
   
@@ -507,6 +517,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   
   - Redux
     - [x] [How to dispatch Redux action from stateless component when route is loaded?](http://stackoverflow.com/questions/39761443/how-to-dispatch-redux-action-from-stateless-component-when-route-is-loaded)
+    - [ ] [Accessing Redux state in an action creator?](http://stackoverflow.com/questions/35667249/accessing-redux-state-in-an-action-creator/35674575#35674575)
 
   - React
     - [x] [React-router urls don't work when refreshing or writting manually](http://stackoverflow.com/questions/27928372/react-router-urls-dont-work-when-refreshing-or-writting-manually)
