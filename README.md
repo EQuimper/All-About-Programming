@@ -191,6 +191,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [If not Redux then what?](https://medium.com/@sanketsahu/if-not-redux-then-what-fc433234f5b4#.2yuwkwfwo)
     - [ ] [Learn React & Redux With Cabin](http://cabin.getstream.io/?utm_content=bufferfbb46&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
     - [ ] [Notifications with React and Redux](https://codereviewvideos.com/blog/notifications-react-and-redux/)
+    - [x] [Redux anti-pattern: dumb mapStateToProps](http://goshakkk.name/redux-antipattern-mapstatetoprops/)
+    - [x] [How to structure real world Redux/React application](https://medium.com/@yiquanzhou/how-to-structure-real-world-redux-react-application-d61e66a7dd36#.57kvb5av3)
 
   - React-Native
 
@@ -203,6 +205,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Tutorial: A Detailed Look at React Native for JavaScript Developers](https://www.youtube.com/watch?v=cuMezEwKFLU)
     - [x] [Building a Simple ToDo App With React Native and Firebase](https://www.youtube.com/watch?v=3ab0K6viEp0)
     - [ ] [The beginners guide to React Native and Firebase](https://firebase.googleblog.com/2016/01/the-beginners-guide-to-react-native-and_84.html)
+    - [ ] [GETTING STARTED WITH THE PANRESPONDER IN REACT NATIVE](http://mindthecode.com/getting-started-with-the-panresponder-in-react-native/)
 
   - Meteor
 
@@ -432,6 +435,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Introduction to React Native - Building a React Native app from scratch](https://www.youtube.com/watch?v=r5OPRhelEIU)
     - [x] [A Quick React Native Demo with OpenGL](https://www.youtube.com/watch?v=OPFf53fdUmQ)
     - [x] [React Native: Debugging on an iOS Device](https://egghead.io/lessons/react-react-native-debugging-on-an-ios-device)
+    - [x] [Building li.st for Android with Exponent and React Native at react-europe 2016](https://www.youtube.com/watch?v=cI9bDvDEsYE)
+    - [x] [A Detailed Look at React Native for JavaScript Developers](https://www.youtube.com/watch?v=cuMezEwKFLU&spfreload=5)
 
   - Meteor
 
@@ -514,6 +519,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - JavaScript
 
   - [x] [Why return true or false from functions?](http://stackoverflow.com/questions/31443741/why-return-true-or-false-from-functions)
+  - [x] [Difference between .split(/\s+/) and .split(“ ”)?](http://stackoverflow.com/questions/28127794/difference-between-split-s-and-split)
+  - [x] [Get second and third words from string](http://stackoverflow.com/questions/16223043/get-second-and-third-words-from-string)
   
   - Redux
     - [x] [How to dispatch Redux action from stateless component when route is loaded?](http://stackoverflow.com/questions/39761443/how-to-dispatch-redux-action-from-stateless-component-when-route-is-loaded)
