@@ -140,6 +140,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [Async/Await: The Hero JavaScript Deserved](https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html)
   - [x] [Object Creation in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
   - [ ] [Node.js Async Await in ES7](http://stackabuse.com/node-js-async-await-in-es7/)
+  - [x] [JavaScript Debounce Function](https://davidwalsh.name/javascript-debounce-function)
 
   - Electron
 
@@ -193,6 +194,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Notifications with React and Redux](https://codereviewvideos.com/blog/notifications-react-and-redux/)
     - [x] [Redux anti-pattern: dumb mapStateToProps](http://goshakkk.name/redux-antipattern-mapstatetoprops/)
     - [x] [How to structure real world Redux/React application](https://medium.com/@yiquanzhou/how-to-structure-real-world-redux-react-application-d61e66a7dd36#.57kvb5av3)
+    - [x] [Understanding Redux (or, How I Fell in Love with a JavaScript State Container)](http://www.youhavetolearncomputers.com/blog/2015/9/15/a-conceptual-overview-of-redux-or-how-i-fell-in-love-with-a-javascript-state-container)
+    - [x] [Getting Started With React Redux: An Intro](https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros)
 
   - React-Native
 
@@ -364,6 +367,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [How to Use Javascript Promises](https://www.youtube.com/watch?v=104J7_HyaG4) [Must Watch]
   - [x] [What is Async JavaScript?](https://www.youtube.com/watch?v=y8xPMYwQ0U8)
   - [x] [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be)
+  - [ ] [Dirty little front-end tricks](https://www.youtube.com/watch?v=DQk9TqO5ets&feature=youtu.be&app=desktop)
   
   - Electron
 
@@ -496,6 +500,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [What Makes a Great Front-end Developer](http://dainelindleymawer.me/what-makes-a-great-front-end-developer/)
   - [ ] [Stay hungry...Stay foolish. Amazing Steve Jobs Speech at Stanford ](https://www.youtube.com/watch?v=gO6cFMRqXqU)
   - [x] [Why use a static site generator - Jekyll Casts](https://www.youtube.com/watch?v=FOfIoCi9uTI)
+  - [ ] [Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4&utm_content=buffer91555&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 
 ## Pod-cast
 
