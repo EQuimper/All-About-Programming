@@ -10,6 +10,7 @@
 - Business
 - Pod-cast
 - CodePen & Demo
+- Vim
 
 This is a place for me to keep tracked of what I did or what I want to do and some awesome tips from all the online resources have found. All this resources is about web development and some about computer science. My goal is to be a awesome Full-Stack Web Developer.
 
@@ -113,6 +114,14 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [6 Rules of Thumb for MongoDB Schema Design: Part 2](http://blog.mongodb.org/post/87892923503/6-rules-of-thumb-for-mongodb-schema-design-part-2)
     - [x] [6 Rules of Thumb for MongoDB Schema Design: Part 3](http://blog.mongodb.org/post/88473035333/6-rules-of-thumb-for-mongodb-schema-design-part-3)
     - [ ] [Back to Basics - Thinking in Documents](https://www.mongodb.com/presentations/webinar-back-to-basics-thinking-in-documents?p=55f080b16d6f6e7e15030000&utm_campaign=T6_V2_DEV_AM_E5_Schema%20Design%20-%20A&utm_medium=email&utm_source=Eloqua)
+    - [x] [UNDERSTANDING MONGOOSE DEEP POPULATION](http://frontendcollisionblog.com/mongodb/2016/01/24/mongoose-populate.html)
+    - [x] [Mongoose 4.5 Virtual Populate](http://thecodebarbarian.com/mongoose-virtual-populate.html)
+    - [x] [mongoose: Referencing schema in properties or arrays](https://alexanderzeitler.com/articles/mongoose-referencing-schema-in-properties-and-arrays/)
+    - [x] [The MongoDB Node.js Driver's New Streaming GridFS API](http://thecodebarbarian.com/mongodb-gridfs-stream)
+    - [x] [The MEAN Stack: MongoDB, ExpressJS, AngularJS and Node.js](http://blog.mongodb.org/post/49262866911/the-mean-stack-mongodb-expressjs-angularjs-and)
+    - [x] [Mongoose Population](http://jaketrent.com/post/mongoose-population/)
+    - [x] [MongoDB Joins with MongooseJS](http://start.jcolemorrison.com/mongodb-joins-with-mongoosejs/)
+    - [x] [Object Modeling in Node.js with Mongoose](https://devcenter.heroku.com/articles/nodejs-mongoose)
 
 - Email Design
 
@@ -161,6 +170,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [ ] [Build User Authentication with Node.js, Express, Passport, and Orchestrate](https://www.ctl.io/developers/blog/post/build-user-authentication-with-node-js-express-passport-and-orchestrate)
     - [x] [Authenticate a Node.js API with JSON Web Tokens](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens)
+    - [ ] [NodeJS + ExpressJS Tutorials](https://www.youtube.com/playlist?list=PLYxzS__5yYQmHbpKMARP04F344zYRX91I)
 
   - React.JS
 
@@ -209,6 +219,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Building a Simple ToDo App With React Native and Firebase](https://www.youtube.com/watch?v=3ab0K6viEp0)
     - [ ] [The beginners guide to React Native and Firebase](https://firebase.googleblog.com/2016/01/the-beginners-guide-to-react-native-and_84.html)
     - [ ] [GETTING STARTED WITH THE PANRESPONDER IN REACT NATIVE](http://mindthecode.com/getting-started-with-the-panresponder-in-react-native/)
+    - [x] [Authentication in React Native with Firebase](https://www.sitepoint.com/authentication-in-react-native-with-firebase/)
 
   - Meteor
 
@@ -379,7 +390,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   - Express
 
-    - [x] [ExpressJS Crash Course](https://www.youtube.com/watch?v=gnsO8-xJ8rs)
+    - [x] [ExpressJS Crash Course](https://www.youtube.com/watch?v=gnsO8-xJ8rs) 
 
   - GraphQL
   
@@ -390,7 +401,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Node.js Static Server in Minutes](https://www.youtube.com/watch?v=Moy6QIpp7Zw)
     - [x] [NodeJS - Token Authentication for APIs](https://www.youtube.com/watch?v=OjJ7XgWd9mQ)
     - [x] [RESTful API User Authentication with NodeJS](https://www.youtube.com/watch?v=uaizKlOXyfY)
-    - [ ] 
+    - [x] [8 Reasons to Use NodeJS](https://www.youtube.com/watch?v=BKorQQO4xtM)
+    - [x] [Build a REST API Using Node](https://www.youtube.com/watch?v=yEsAIqNHpaA)
 
   - jQuery
   
@@ -501,6 +513,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [Stay hungry...Stay foolish. Amazing Steve Jobs Speech at Stanford ](https://www.youtube.com/watch?v=gO6cFMRqXqU)
   - [x] [Why use a static site generator - Jekyll Casts](https://www.youtube.com/watch?v=FOfIoCi9uTI)
   - [ ] [Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4&utm_content=buffer91555&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+  - [x] [WTF Are APIs?!](https://www.youtube.com/watch?v=tnu686QNd5w)
 
 ## Pod-cast
 
@@ -520,6 +533,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Transitions & Animations](http://learn.shayhowe.com/advanced-html-css/transitions-animations/)
 
 ## Best response on StackOverFlow & Reddit etc...
+
+- Database and Application Design
+
+  - MongoDB
+
+    - [x] [Mongoose - What does the exec function do?](http://stackoverflow.com/questions/31549857/mongoose-what-does-the-exec-function-do)
 
 - JavaScript
 
@@ -542,3 +561,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 ## Be more Productive
 
   - [x] [The Most Successful Techniques for Rising Early](http://zenhabits.net/early/)
+
+## Vim
+
+  - [x] [Using Vim for web development](https://gosukiwi.svbtle.com/vim-configuration-for-web-development)
+
+## Best Programming Blog
+
+- [Alexander Zeitler](https://alexanderzeitler.com/index.html)
+- [The Code Barbarian](http://thecodebarbarian.com/)
