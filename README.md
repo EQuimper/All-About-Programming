@@ -27,6 +27,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - Ruby on Rails
 
     - [ ] [8 Beautiful Ruby on Rails Apps in 30 Days & TDD](https://www.udemy.com/8-beautiful-ruby-on-rails-apps-in-30-days/learn/v4/overview)
+    - [x] [Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)
 
 - Database + Application Design
 
@@ -44,20 +45,22 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
   - [x] [LearnCode.academy - What Makes JavaScript Weird ... and Awesome](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)
   - [x] [LearnCode.academy - Modular Javascript](https://www.youtube.com/playlist?list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f)
-  - [x] [Lynda - JavaScript: Functions](https://www.lynda.com/JavaScript-tutorials/JavaScript-Functions/148137-2.html)
-  - [x] [Lynda - JavaScript and JSON](https://www.lynda.com/JavaScript-tutorials/JavaScript-JSON/114901-2.html)
+  - [x] [Lynda - JavaScript: Functions](https://www.lynda.com/JavaScript-tutorials/JavaScript-Functions/148137-2.html) - [My Certificate](https://www.lynda.com/ViewCertificate/5D546F92CCFB4E2C905D961E2F4B73A3?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate)
+  - [x] [Lynda - JavaScript and JSON](https://www.lynda.com/JavaScript-tutorials/JavaScript-JSON/114901-2.html) - [My Certificate](https://www.lynda.com/ViewCertificate/D3147FED54154F56B5F7ECBCEEC6A399?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate)
   - [x] [TheNewBoston - ECMAScript 6 / ES6 New Features Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt)
   - [x] [EggHead - Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015)
   - [x] [HipsterCode - Advanced JavaScript](https://www.hipstercode.com/tutorial/31/)
   - [ ] [Learn to code with JavaScript](https://openclassrooms.com/courses/learn-the-basics-of-javascript)
   - [ ] [Pluralsight - Building Scalable APIs with GraphQL](https://app.pluralsight.com/library/courses/graphql-scalable-apis/table-of-contents)
+  - [ ] [Create An HTML5 Video Player From Scratch](https://www.udemy.com/html5-video-player) - [My Certificate](https://www.udemy.com/certificate/UC-7R8A2RNR/)
 
   - Node.JS
 
-    - [x] [Udemy - MongooseJs Essentials - Learn MongoDB for Node.js](https://www.udemy.com/mongoosejs-essentials/learn/v4/content)
+    - [x] [Udemy - MongooseJs Essentials - Learn MongoDB for Node.js](https://www.udemy.com/mongoosejs-essentials/learn/v4/content) - [My Certificate](https://www.udemy.com/certificate/UC-DO7ILRJW/)
     - [x] [Pluralsight - RESTful Web Services with Node.js and Express](https://app.pluralsight.com/library/courses/node-js-express-rest-web-services/table-of-contents)
     - [x] [NodeJS : Qu'est ce que NodeJS ?](https://www.youtube.com/watch?v=0PA69L88HeI) [French]
     - [x] [CodeSchool - Soup To Bits Node](https://www.codeschool.com)
+    - [x] [Learn Web Scraping with Node.js](https://www.udemy.com/web-scraping-nodejs) - [My Certificate](https://www.udemy.com/certificate/UC-VFM67635/)
 
   - React.JS
 
@@ -82,7 +85,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [ ] [Stephen Grider - Build Apps with React Native](https://www.udemy.com/reactnative/)
     - [ ] [Pluralsight - Build Cross Platform React Native Apps with Exponent and Redux](https://app.pluralsight.com/library/courses/build-react-native-exponent-redux-apps/table-of-contents)
-    - [x] [The Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course)
+    - [x] [The Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course) - [My Certificate](https://www.udemy.com/certificate/UC-D5Z83TCZ/)
 
   - RxJS
   
@@ -122,6 +125,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Mongoose Population](http://jaketrent.com/post/mongoose-population/)
     - [x] [MongoDB Joins with MongooseJS](http://start.jcolemorrison.com/mongodb-joins-with-mongoosejs/)
     - [x] [Object Modeling in Node.js with Mongoose](https://devcenter.heroku.com/articles/nodejs-mongoose)
+    - [x] [Simple login using Mongoose / MongoDB](https://www.youtube.com/watch?v=pzGQMwGmCnc) 
+
+  - Firebase
+  
+    - [x] [DON'T JUMP ONTO THE FIREBASE BANDWAGON YET](http://blog.championswimmer.in/2016/10/don-t-jump-onto-the-firebase-bandwagon-yet)
 
 - Email Design
 
@@ -161,6 +169,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [x] [Scotch.io Keeping API Routing Clean Using Express Routers](https://scotch.io/tutorials/keeping-api-routing-clean-using-express-routers)
     - [x] [Scotch.io Build a RESTful API Using Node and Express 4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
+    - [x] [Creating and persisting a Login session](https://www.youtube.com/watch?v=zsOGmMuwhT4)[Good One]
 
   - Mean 
 
@@ -180,6 +189,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [How to get "create-react-app" to work with your API](https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/)
     - [ ] [AJAX Requests in React: How and Where to Fetch Data](https://daveceddia.com/ajax-requests-in-react/)
     - [ ] [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.dswv37s6j)
+    - [x] [Building app with React and Redux](https://www.youtube.com/playlist?list=PLuNEz8XtB51K-x3bwCC9uNM_cxXaiCcRY)
 
   - MobX
 
@@ -379,6 +389,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [What is Async JavaScript?](https://www.youtube.com/watch?v=y8xPMYwQ0U8)
   - [x] [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be)
   - [ ] [Dirty little front-end tricks](https://www.youtube.com/watch?v=DQk9TqO5ets&feature=youtu.be&app=desktop)
+
+  - Angular 2
+  
+    - [x] [Angular 2 Auth0 Application](https://www.youtube.com/watch?v=i_dHFvi1BJc)
   
   - Electron
 
@@ -391,6 +405,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - Express
 
     - [x] [ExpressJS Crash Course](https://www.youtube.com/watch?v=gnsO8-xJ8rs) 
+    - [x] [Node.js Login System With Passport](https://www.youtube.com/watch?v=Z1ktxiqyiLA) 
 
   - GraphQL
   
@@ -435,6 +450,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Rally Coding - Four Most Common Errors with React/Redux](https://www.youtube.com/watch?v=IFMzqPDo6o4)
     - [ ] [React State Management with Redux webinar with @Srijan Technologies](https://www.youtube.com/watch?v=7iTfcF1kNxc)]
     - [x] [Creating Forms with React and Redux](https://www.youtube.com/watch?v=q6NXa14o1f0)
+    - [x] [React & Redux - Freestyle Coding](https://www.youtube.com/watch?v=NCshQ290g38)
 
 
   - React-Native
