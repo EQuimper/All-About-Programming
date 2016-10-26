@@ -52,7 +52,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [HipsterCode - Advanced JavaScript](https://www.hipstercode.com/tutorial/31/)
   - [ ] [Learn to code with JavaScript](https://openclassrooms.com/courses/learn-the-basics-of-javascript)
   - [ ] [Pluralsight - Building Scalable APIs with GraphQL](https://app.pluralsight.com/library/courses/graphql-scalable-apis/table-of-contents)
-  - [ ] [Create An HTML5 Video Player From Scratch](https://www.udemy.com/html5-video-player) - [My Certificate](https://www.udemy.com/certificate/UC-7R8A2RNR/)
+  - [x] [Create An HTML5 Video Player From Scratch](https://www.udemy.com/html5-video-player) - [My Certificate](https://www.udemy.com/certificate/UC-7R8A2RNR/)
 
   - Node.JS
 
@@ -180,6 +180,13 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Build User Authentication with Node.js, Express, Passport, and Orchestrate](https://www.ctl.io/developers/blog/post/build-user-authentication-with-node-js-express-passport-and-orchestrate)
     - [x] [Authenticate a Node.js API with JSON Web Tokens](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens)
     - [ ] [NodeJS + ExpressJS Tutorials](https://www.youtube.com/playlist?list=PLYxzS__5yYQmHbpKMARP04F344zYRX91I)
+    - [x] [How to write a web scraper in Node.js](https://www.codementor.io/nodejs/tutorial/how-to-write-a-web-scraper-in-nodejs)
+    - [x] [Scraping the Web With Node.js](https://scotch.io/tutorials/scraping-the-web-with-node-js) 
+    - [x] [How to make a web crawler in JavaScript / Node.js](http://www.netinstructions.com/how-to-make-a-simple-web-crawler-in-javascript-and-node-js/)
+    - [x] [Simple web scraping with Node.js / JavaScript](http://www.netinstructions.com/simple-web-scraping-with-node-js-and-javascript/)
+    - [x] [How to send server email with Node.js - sendgrid, mandrill, mailgun, etc.](https://www.youtube.com/watch?v=zrXOjWICmGw&index=4&list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh)
+    - [x] [Responsive HTML Email with Node.js - Send Rich, Responsive HTML Emails Using Ink, Yeoman & Express](https://www.youtube.com/watch?v=FrB8mxdWR7o&list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh&index=5)
+    - [x] [Everything You Ever Wanted To Know About Authentication in Node.js](https://www.youtube.com/watch?v=yvviEA1pOXw)  
 
   - React.JS
 
@@ -258,10 +265,18 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Exploring ways to export clean .svg icons with Sketch…the correct way](https://medium.com/sketch-app-sources/exploring-ways-to-export-clean-svg-icons-with-sketch-the-correct-way-752e73ec4694#.klkc1qe98)
   - [ ] [Mastering CSS Coding: Getting Started](https://www.smashingmagazine.com/2009/10/mastering-css-coding-getting-started/#CSS-Basics1)
 
+- Python
+
+  - [ ] [Python Programming Tutorial - 25 - How to Build a Web Crawler](https://www.youtube.com/watch?v=XjNm9bazxn8)
+  - [x] [Python Web Crawler Tutorial](https://www.youtube.com/watch?v=nRW90GASSXE)
+  - [ ] [Web Scraping Indeed for Key Data Science Job Skills](https://jessesw.com/Data-Science-Skills/)
+
 - Programming stuff
 
   - [ ] [7 Good Developer Habits I Wish I’d Adopted Sooner](https://medium.com/team-treehouse/7-good-developer-habits-i-wish-id-adopted-sooner-8707931d72f3#.kv2zp45iu) 
   - [x] [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/) 
+  - [x] [A Quick Understanding of REST](https://scotch.io/bar-talk/a-quick-understanding-of-rest)
+  - [x] [Is Model-View-Controller dead on the front end?](https://medium.freecodecamp.com/is-mvc-dead-for-the-frontend-35b4d1fe39ec#.33x47id00)
 
 ## Books
 
@@ -406,6 +421,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [x] [ExpressJS Crash Course](https://www.youtube.com/watch?v=gnsO8-xJ8rs) 
     - [x] [Node.js Login System With Passport](https://www.youtube.com/watch?v=Z1ktxiqyiLA) 
+    - [x] [Node.js tutorial for beginners 2014 - an introduction to Node.js with Express.js](https://www.youtube.com/watch?v=FqMIyTH9wSg)
 
   - GraphQL
   
@@ -418,6 +434,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [RESTful API User Authentication with NodeJS](https://www.youtube.com/watch?v=uaizKlOXyfY)
     - [x] [8 Reasons to Use NodeJS](https://www.youtube.com/watch?v=BKorQQO4xtM)
     - [x] [Build a REST API Using Node](https://www.youtube.com/watch?v=yEsAIqNHpaA)
+    - [x] [Web Scraping in Node.js](https://www.youtube.com/watch?v=LJHpm0J688Y) 
+    - [x] [What is Node.js Exactly? - a beginners introduction to Nodejs](https://www.youtube.com/watch?v=pU9Q6oiQNd0) 
 
   - jQuery
   
@@ -437,6 +455,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Recomposing your React application](https://www.youtube.com/watch?v=zD_judE-bXk)
     - [x] [Building Static Sites with React](https://www.youtube.com/watch?v=_1k2HEPH6fY)
     - [ ] [Component Based Style Reuse](https://www.youtube.com/watch?v=_70Yp8KPXH8)
+    - [x] [Form Validation made simple with React](https://www.youtube.com/watch?v=FqscLiODo5c)
 
   - Redux
 
@@ -497,6 +516,15 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [x] [MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE)
     - [ ] [Advantages of using MongoDB in a Single Page Web Application](https://www.youtube.com/watch?v=O5XtIM8FGT0)
+    - [x] [Advanced Schemas using Mongoose](https://www.youtube.com/watch?v=OpsnUvOW8Vk)
+    - [x] [Learning MongoDB part07 relations](https://www.youtube.com/watch?v=5c9fCRKJXXI)
+    - [x] [MongoDB Complex Queries Explained](https://www.youtube.com/watch?v=TvcDcfzNBII)
+
+- HTML5 Game
+
+  - Phaser.js
+
+    - [x] [Gabe Hollombe: Let's Make a Game With Phaser](https://www.youtube.com/watch?v=6rQROhVeIQE)
 
 - Web Design + HTML/CSS
 
@@ -530,6 +558,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Why use a static site generator - Jekyll Casts](https://www.youtube.com/watch?v=FOfIoCi9uTI)
   - [ ] [Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4&utm_content=buffer91555&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
   - [x] [WTF Are APIs?!](https://www.youtube.com/watch?v=tnu686QNd5w)
+  - [x] [The Ultimate Introduction to Web Scraping and Browser Automation](https://www.youtube.com/watch?v=1UYBAn69Qrk)
 
 ## Pod-cast
 
@@ -586,3 +615,4 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 - [Alexander Zeitler](https://alexanderzeitler.com/index.html)
 - [The Code Barbarian](http://thecodebarbarian.com/)
+- [miguelgrinberg.com](https://blog.miguelgrinberg.com/index)
