@@ -53,6 +53,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [Learn to code with JavaScript](https://openclassrooms.com/courses/learn-the-basics-of-javascript)
   - [ ] [Pluralsight - Building Scalable APIs with GraphQL](https://app.pluralsight.com/library/courses/graphql-scalable-apis/table-of-contents)
   - [x] [Create An HTML5 Video Player From Scratch](https://www.udemy.com/html5-video-player) - [My Certificate](https://www.udemy.com/certificate/UC-7R8A2RNR/)
+  - [x] [Udacity - JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549) 
 
   - Node.JS
 
@@ -422,6 +423,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [ExpressJS Crash Course](https://www.youtube.com/watch?v=gnsO8-xJ8rs) 
     - [x] [Node.js Login System With Passport](https://www.youtube.com/watch?v=Z1ktxiqyiLA) 
     - [x] [Node.js tutorial for beginners 2014 - an introduction to Node.js with Express.js](https://www.youtube.com/watch?v=FqMIyTH9wSg)
+    - [x] [ExpressJS Tutorial 23: Advance Routing - Part 1](https://www.youtube.com/watch?v=26wm0IQsDCs)
+    - [x] [ExpressJS Tutorial 24: Advance Routing - Part 2](https://www.youtube.com/watch?v=a8uH3_Ykpp4)
 
   - GraphQL
   
@@ -436,6 +439,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Build a REST API Using Node](https://www.youtube.com/watch?v=yEsAIqNHpaA)
     - [x] [Web Scraping in Node.js](https://www.youtube.com/watch?v=LJHpm0J688Y) 
     - [x] [What is Node.js Exactly? - a beginners introduction to Nodejs](https://www.youtube.com/watch?v=pU9Q6oiQNd0) 
+    - [x] [How to Build an Express.js API Service in 30 Minutes](https://www.youtube.com/watch?v=THDPG2gH7o0)
+    - [x] [Everything You Ever Wanted To Know About Authentication in Node.js](https://www.youtube.com/watch?v=yvviEA1pOXw)
+    - [x] [Test driven Development of Web Apps in Node.Js](https://www.youtube.com/watch?v=E9Fmewoe5L4)
 
   - jQuery
   
@@ -559,6 +565,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4&utm_content=buffer91555&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
   - [x] [WTF Are APIs?!](https://www.youtube.com/watch?v=tnu686QNd5w)
   - [x] [The Ultimate Introduction to Web Scraping and Browser Automation](https://www.youtube.com/watch?v=1UYBAn69Qrk)
+  - [x] [How to Develop Anything](https://www.youtube.com/watch?v=Lq4q1CgC924)
 
 ## Pod-cast
 
