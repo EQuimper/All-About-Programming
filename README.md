@@ -55,6 +55,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Create An HTML5 Video Player From Scratch](https://www.udemy.com/html5-video-player) - [My Certificate](https://www.udemy.com/certificate/UC-7R8A2RNR/)
   - [x] [Udacity - JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549) 
 
+  - Angular 1
+
+    - [ ][Egghead - Build Angular 1.x Apps with Redux](https://egghead.io/lessons/angular-1-x-angular-1-x-redux-introduction?course=build-angular-1-x-apps-with-redux)
+
   - Node.JS
 
     - [x] [Udemy - MongooseJs Essentials - Learn MongoDB for Node.js](https://www.udemy.com/mongoosejs-essentials/learn/v4/content) - [My Certificate](https://www.udemy.com/certificate/UC-DO7ILRJW/)
@@ -159,6 +163,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Object Creation in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
   - [ ] [Node.js Async Await in ES7](http://stackabuse.com/node-js-async-await-in-es7/)
   - [x] [JavaScript Debounce Function](https://davidwalsh.name/javascript-debounce-function)
+  - [x] [Array.From](https://davidwalsh.name/array-from)
+  - [ ] [Javascript Prototype methods vs Object methods](http://veerasundar.com/blog/2014/02/javascript-prototype-methods-vs-object-methods/)
 
   - Electron
 
@@ -187,7 +193,17 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Simple web scraping with Node.js / JavaScript](http://www.netinstructions.com/simple-web-scraping-with-node-js-and-javascript/)
     - [x] [How to send server email with Node.js - sendgrid, mandrill, mailgun, etc.](https://www.youtube.com/watch?v=zrXOjWICmGw&index=4&list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh)
     - [x] [Responsive HTML Email with Node.js - Send Rich, Responsive HTML Emails Using Ink, Yeoman & Express](https://www.youtube.com/watch?v=FrB8mxdWR7o&list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh&index=5)
-    - [x] [Everything You Ever Wanted To Know About Authentication in Node.js](https://www.youtube.com/watch?v=yvviEA1pOXw)  
+    - [x] [Everything You Ever Wanted To Know About Authentication in Node.js](https://www.youtube.com/watch?v=yvviEA1pOXw) 
+    - [ ] [How To Implement Password Reset In Node.js](http://sahatyalkabov.com/how-to-implement-password-reset-in-nodejs/)
+    - [ ] [MongoDB CRUD the MVC way with Passport Authentication](https://hackhands.com/mongodb-crud-mvc-way-with-passport-authentication/)
+
+    * Testing
+      + [ ] [Unit Testing and TDD in Node.js – Part 1](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
+      + [ ] [A guide to mocha's describe(), it() and setup hooks](http://samwize.com/2014/02/08/a-guide-to-mochas-describe-it-and-setup-hooks/)
+      + [ ] [Testing in ES6 with Mocha and Babel 6](http://jamesknelson.com/testing-in-es6-with-mocha-and-babel-6/)
+      + [ ] [Test a Node RESTful API with Mocha and Chai](https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai)
+      - [ ] [A TDD Approach to Building a Todo API Using Node.js and MongoDB](https://semaphoreci.com/community/tutorials/a-tdd-approach-to-building-a-todo-api-using-node-js-and-mongodb)
+      - [ ] [Getting Started with Node.js and Mocha](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha)
 
   - React.JS
 
@@ -198,6 +214,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [AJAX Requests in React: How and Where to Fetch Data](https://daveceddia.com/ajax-requests-in-react/)
     - [ ] [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.dswv37s6j)
     - [x] [Building app with React and Redux](https://www.youtube.com/playlist?list=PLuNEz8XtB51K-x3bwCC9uNM_cxXaiCcRY)
+    - [ ] [Why The Hipsters Recompose Everything](https://medium.com/javascript-inside/why-the-hipsters-recompose-everything-23ac08748198#.7ii2zny53)
 
   - MobX
 
@@ -205,6 +222,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Michel Weststrate: State Management is Easy](https://www.youtube.com/watch?v=ApmSsu3qnf0&feature=youtu.be)
     - [x] [LearnCode.academy - MobX tutorial #1 - MobX + React is AWESOME](https://www.youtube.com/watch?v=_q50BXqkAfI)
     - [x] [LearnCode.academy - MobX tutorial #2 - Computed Values and Nested/Referenced Observables](https://www.youtube.com/watch?v=nYvNqKrl69s)
+    - [x] [How to update MobX store using AJAX](http://frontendinsights.com/update-mobx-store-using-ajax/?utm_content=buffer0b431&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
   - Redux
 
@@ -224,6 +242,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [How to structure real world Redux/React application](https://medium.com/@yiquanzhou/how-to-structure-real-world-redux-react-application-d61e66a7dd36#.57kvb5av3)
     - [x] [Understanding Redux (or, How I Fell in Love with a JavaScript State Container)](http://www.youhavetolearncomputers.com/blog/2015/9/15/a-conceptual-overview-of-redux-or-how-i-fell-in-love-with-a-javascript-state-container)
     - [x] [Getting Started With React Redux: An Intro](https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros)
+    - [ ] [The Anatomy Of A React Redux App](https://medium.com/@rajaraodv/the-anatomy-of-a-react-redux-app-759282368c5a#.iztl5rand)
 
   - React-Native
 
@@ -278,6 +297,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/) 
   - [x] [A Quick Understanding of REST](https://scotch.io/bar-talk/a-quick-understanding-of-rest)
   - [x] [Is Model-View-Controller dead on the front end?](https://medium.freecodecamp.com/is-mvc-dead-for-the-frontend-35b4d1fe39ec#.33x47id00)
+  - [ ] [How to Land Your First Development Job in 5 Simple Steps](https://medium.com/javascript-scene/how-to-land-your-first-development-job-in-5-simple-steps-4e9fb73314c#.v888ntmpk)
+  - [ ] [Tips for Creating a First-Class Personal Portfolio](https://medium.com/@speckyboy/tips-for-creating-a-first-class-personal-portfolio-6fcfb6962cd4#.vqtub63ee)
+  - [ ] [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603#.8dq4y83ql)
 
 ## Books
 
@@ -405,6 +427,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [What is Async JavaScript?](https://www.youtube.com/watch?v=y8xPMYwQ0U8)
   - [x] [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be)
   - [ ] [Dirty little front-end tricks](https://www.youtube.com/watch?v=DQk9TqO5ets&feature=youtu.be&app=desktop)
+  - [ ] [What is Object-oriented Programming? (JavaScript Tutorial)](https://www.youtube.com/watch?v=rlLuL3jYLvA)
+
+  - Animations
+
+    - [x] [Swipeable Cards: Live Code Session - Supercharged](https://www.youtube.com/watch?v=rBSY7BOYRo4)
+    - [x] [Side Navigation Bar: Live Code Session - Supercharged](https://www.youtube.com/watch?v=e5CXg1sjTqQ)
 
   - Angular 2
   
@@ -442,6 +470,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [How to Build an Express.js API Service in 30 Minutes](https://www.youtube.com/watch?v=THDPG2gH7o0)
     - [x] [Everything You Ever Wanted To Know About Authentication in Node.js](https://www.youtube.com/watch?v=yvviEA1pOXw)
     - [x] [Test driven Development of Web Apps in Node.Js](https://www.youtube.com/watch?v=E9Fmewoe5L4)
+
+  - Socket.io - Websocket
+  
+    - [x] [Socket.io Chat App Using Websockets](https://www.youtube.com/watch?v=tHbCkikFfDE)
+    - [x] [What is a Web Socket?](https://www.youtube.com/watch?v=Y0g3M4VG6Ns)
 
   - jQuery
   
@@ -566,6 +599,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [WTF Are APIs?!](https://www.youtube.com/watch?v=tnu686QNd5w)
   - [x] [The Ultimate Introduction to Web Scraping and Browser Automation](https://www.youtube.com/watch?v=1UYBAn69Qrk)
   - [x] [How to Develop Anything](https://www.youtube.com/watch?v=Lq4q1CgC924)
+  - [x] [Sessions & Cookies](https://www.youtube.com/watch?v=64veb6tKTm0)
+  - [x] [What I learned from reading the Redux source code](https://medium.freecodecamp.com/what-i-learned-from-reading-the-redux-source-code-836793a48768#.snaruo9w5)
 
 ## Pod-cast
 
