@@ -66,6 +66,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [NodeJS : Qu'est ce que NodeJS ?](https://www.youtube.com/watch?v=0PA69L88HeI) [French]
     - [x] [CodeSchool - Soup To Bits Node](https://www.codeschool.com)
     - [x] [Learn Web Scraping with Node.js](https://www.udemy.com/web-scraping-nodejs) - [My Certificate](https://www.udemy.com/certificate/UC-VFM67635/)
+    - [ ] [Build an Amazon clone: Nodejs + MongoDB + Stripe Payment](https://www.udemy.com/build-an-amazon-clone-nodejs-stripe-elasticsearch/)
 
   - React.JS
 
@@ -105,6 +106,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   - [x] [Wes Bos - What The Flexbox?!](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
 
+- Programming Stuff
+
+  - [x] [Egghead - How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+
 - WordPress
 
 ## Articles + Tutorials
@@ -138,8 +143,13 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 - Email Design
 
-  - [ ] [Creating a Future-Proof Responsive Email Without Media Queries](https://webdesign.tutsplus.com/tutorials/creating-a-future-proof-responsive-email-without-media-queries--cms-23919) 
+  - [ ] [Creating a Future-Proof Responsive Email Without Media Queries](https://webdesign.tutsplus.com/tutorials/creating-a-future-proof-responsive-email-without-media-queries--cms-23919)
 
+- Elixir
+
+  - Phoenix
+
+    - [x] [How We Replaced React with Phoenix](https://robots.thoughtbot.com/how-we-replaced-react-with-phoenix)
 
 - Github
 
@@ -165,6 +175,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [JavaScript Debounce Function](https://davidwalsh.name/javascript-debounce-function)
   - [x] [Array.From](https://davidwalsh.name/array-from)
   - [ ] [Javascript Prototype methods vs Object methods](http://veerasundar.com/blog/2014/02/javascript-prototype-methods-vs-object-methods/)
+  - [x] [Sololearn - JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/) - [My Certificate](https://www.sololearn.com/Certificate/1024-605307/pdf/)
 
   - Electron
 
@@ -193,9 +204,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Simple web scraping with Node.js / JavaScript](http://www.netinstructions.com/simple-web-scraping-with-node-js-and-javascript/)
     - [x] [How to send server email with Node.js - sendgrid, mandrill, mailgun, etc.](https://www.youtube.com/watch?v=zrXOjWICmGw&index=4&list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh)
     - [x] [Responsive HTML Email with Node.js - Send Rich, Responsive HTML Emails Using Ink, Yeoman & Express](https://www.youtube.com/watch?v=FrB8mxdWR7o&list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh&index=5)
-    - [x] [Everything You Ever Wanted To Know About Authentication in Node.js](https://www.youtube.com/watch?v=yvviEA1pOXw) 
+    - [x] [Everything You Ever Wanted To Know About Authentication in Node.js](https://www.youtube.com/watch?v=yvviEA1pOXw)
     - [ ] [How To Implement Password Reset In Node.js](http://sahatyalkabov.com/how-to-implement-password-reset-in-nodejs/)
     - [ ] [MongoDB CRUD the MVC way with Passport Authentication](https://hackhands.com/mongodb-crud-mvc-way-with-passport-authentication/)
+    - [ ] [RESTful Example using ExpressJS + Node.js + MongooseJS](http://javabeat.net/expressjs-nodejs-mongoosejs/)
+    - [ ] [Build a Universal JavaScript App with Next.js](https://auth0.com/blog/building-universal-apps-with-nextjs/?utm_source=twitter&amp;utm_medium=sc&amp;utm_campaign=nextjs)
 
     * Testing
       + [ ] [Unit Testing and TDD in Node.js – Part 1](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
@@ -204,6 +217,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
       + [ ] [Test a Node RESTful API with Mocha and Chai](https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai)
       - [ ] [A TDD Approach to Building a Todo API Using Node.js and MongoDB](https://semaphoreci.com/community/tutorials/a-tdd-approach-to-building-a-todo-api-using-node-js-and-mongodb)
       - [ ] [Getting Started with Node.js and Mocha](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha)
+      - [ ] [How to correctly unit test Express server](https://glebbahmutov.com/blog/how-to-correctly-unit-test-express-server/)
 
   - React.JS
 
@@ -215,6 +229,13 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.dswv37s6j)
     - [x] [Building app with React and Redux](https://www.youtube.com/playlist?list=PLuNEz8XtB51K-x3bwCC9uNM_cxXaiCcRY)
     - [ ] [Why The Hipsters Recompose Everything](https://medium.com/javascript-inside/why-the-hipsters-recompose-everything-23ac08748198#.7ii2zny53)
+    - [ ] [How to Create a React.js Support Ticketing System Using MongoDB](http://davidmeents.com/create-a-react-js-support-ticketing-system-using-mongodb/?utm_content=buffer469b9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+    - [ ] [How to Implement Node + React Isomorphic JavaScript & Why it Matters](https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/)
+    - [ ] [Leveling Up With React: React Router](https://css-tricks.com/learning-react-router/#article-header-id-10)
+    - [ ] [Server-Side Rendering with Redux and React-Router](https://www.codementor.io/reactjs/tutorial/redux-server-rendering-react-router-universal-web-app)
+    - [ ] [How To Scale React Applications](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/)
+    - [ ] [Server-Side Rendering With React, Node And Express](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/)
+    - [ ] [React.js : server side rendering](http://blog.revathskumar.com/2016/09/react-server-side-rendering.html)
 
   - MobX
 
@@ -243,6 +264,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Understanding Redux (or, How I Fell in Love with a JavaScript State Container)](http://www.youhavetolearncomputers.com/blog/2015/9/15/a-conceptual-overview-of-redux-or-how-i-fell-in-love-with-a-javascript-state-container)
     - [x] [Getting Started With React Redux: An Intro](https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros)
     - [ ] [The Anatomy Of A React Redux App](https://medium.com/@rajaraodv/the-anatomy-of-a-react-redux-app-759282368c5a#.iztl5rand)
+    - [ ] [Understanding Redux (or, How I Fell in Love with a JavaScript State Container)](http://www.youhavetolearncomputers.com/blog/2015/9/15/a-conceptual-overview-of-redux-or-how-i-fell-in-love-with-a-javascript-state-container)
+    - [ ] [Redux without React — State Management in Vanilla JavaScript](https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascript/)
 
   - React-Native
 
@@ -433,6 +456,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [x] [Swipeable Cards: Live Code Session - Supercharged](https://www.youtube.com/watch?v=rBSY7BOYRo4)
     - [x] [Side Navigation Bar: Live Code Session - Supercharged](https://www.youtube.com/watch?v=e5CXg1sjTqQ)
+    - [x] [3D Card Flip: Live Code Session - Supercharged](https://www.youtube.com/watch?v=rn5s6H_Yamo)
+    - [x] [Flip Switch: Live Code Session - Supercharged](https://www.youtube.com/watch?v=r94IxRRKR0A&list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr)
 
   - Angular 2
   
@@ -495,6 +520,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Building Static Sites with React](https://www.youtube.com/watch?v=_1k2HEPH6fY)
     - [ ] [Component Based Style Reuse](https://www.youtube.com/watch?v=_70Yp8KPXH8)
     - [x] [Form Validation made simple with React](https://www.youtube.com/watch?v=FqscLiODo5c)
+    - [ ] [How to push a ReactJS application in production and sleep better](https://vimeo.com/album/4199344/video/187454105)
 
   - Redux
 
