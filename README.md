@@ -57,7 +57,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   - Angular 1
 
-    - [ ][Egghead - Build Angular 1.x Apps with Redux](https://egghead.io/lessons/angular-1-x-angular-1-x-redux-introduction?course=build-angular-1-x-apps-with-redux)
+    - [ ] [Egghead - Build Angular 1.x Apps with Redux](https://egghead.io/lessons/angular-1-x-angular-1-x-redux-introduction?course=build-angular-1-x-apps-with-redux)
 
   - Node.JS
 
@@ -67,6 +67,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [CodeSchool - Soup To Bits Node](https://www.codeschool.com)
     - [x] [Learn Web Scraping with Node.js](https://www.udemy.com/web-scraping-nodejs) - [My Certificate](https://www.udemy.com/certificate/UC-VFM67635/)
     - [ ] [Build an Amazon clone: Nodejs + MongoDB + Stripe Payment](https://www.udemy.com/build-an-amazon-clone-nodejs-stripe-elasticsearch/)
+    - [x] [ExpressJS Fundamentals](https://www.udemy.com/expressjs-fundamentals/learn/v4/) - [My Certificate](https://www.udemy.com/certificate/UC-EWAHOKBD/)
 
   - React.JS
 
@@ -109,8 +110,6 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - Programming Stuff
 
   - [x] [Egghead - How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
-
-- WordPress
 
 ## Articles + Tutorials
 
@@ -209,6 +208,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [MongoDB CRUD the MVC way with Passport Authentication](https://hackhands.com/mongodb-crud-mvc-way-with-passport-authentication/)
     - [ ] [RESTful Example using ExpressJS + Node.js + MongooseJS](http://javabeat.net/expressjs-nodejs-mongoosejs/)
     - [ ] [Build a Universal JavaScript App with Next.js](https://auth0.com/blog/building-universal-apps-with-nextjs/?utm_source=twitter&amp;utm_medium=sc&amp;utm_campaign=nextjs)
+    - [x] [Route Middleware to Check if a User is Authenticated in Node.js](https://scotch.io/tutorials/route-middleware-to-check-if-a-user-is-authenticated-in-node-js)
 
     * Testing
       + [ ] [Unit Testing and TDD in Node.js – Part 1](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
@@ -307,6 +307,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [HOW TO CENTER IN CSS](http://howtocenterincss.com/)
   - [x] [Exploring ways to export clean .svg icons with Sketch…the correct way](https://medium.com/sketch-app-sources/exploring-ways-to-export-clean-svg-icons-with-sketch-the-correct-way-752e73ec4694#.klkc1qe98)
   - [ ] [Mastering CSS Coding: Getting Started](https://www.smashingmagazine.com/2009/10/mastering-css-coding-getting-started/#CSS-Basics1)
+  - [x] [Devtips - Design & Code a Mobile First Landing Page!](https://www.youtube.com/watch?v=2750Vj-hMq8&list=PLqGj3iMvMa4KXCYyFCQnC2ZNmZyoMAj8L)
 
 - Python
 
@@ -600,6 +601,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [DevTips - Animating the Moments — Using Animation in UX (CSS Animations Series Part 3)](https://www.youtube.com/watch?v=GeuNIOuIEDA)
   - [x] [DevTips - Drop Down Menu — CSS Animations](https://www.youtube.com/watch?v=AIdslaUj9wg)
   - [x] [DevTips - Step By Step Form — CSS Animations](https://www.youtube.com/watch?v=3EPG1fsZ-qo)
+  - [x] [DevTips - Build-In Load Animation — CSS Animations](https://www.youtube.com/watch?v=AWAnrQCYsVM)
 
     - UI/UX Design Prototype & Animations
 
