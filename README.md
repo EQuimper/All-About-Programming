@@ -209,6 +209,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [RESTful Example using ExpressJS + Node.js + MongooseJS](http://javabeat.net/expressjs-nodejs-mongoosejs/)
     - [ ] [Build a Universal JavaScript App with Next.js](https://auth0.com/blog/building-universal-apps-with-nextjs/?utm_source=twitter&amp;utm_medium=sc&amp;utm_campaign=nextjs)
     - [x] [Route Middleware to Check if a User is Authenticated in Node.js](https://scotch.io/tutorials/route-middleware-to-check-if-a-user-is-authenticated-in-node-js)
+    - [ ] [Understanding the Node.js Event Loop](https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/)
 
     * Testing
       + [ ] [Unit Testing and TDD in Node.js – Part 1](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
@@ -236,6 +237,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [How To Scale React Applications](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/)
     - [ ] [Server-Side Rendering With React, Node And Express](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/)
     - [ ] [React.js : server side rendering](http://blog.revathskumar.com/2016/09/react-server-side-rendering.html)
+    - [ ] [Testing React Components with Enzyme and Mocha](https://semaphoreci.com/community/tutorials/testing-react-components-with-enzyme-and-mocha)
 
   - MobX
 
@@ -266,6 +268,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [The Anatomy Of A React Redux App](https://medium.com/@rajaraodv/the-anatomy-of-a-react-redux-app-759282368c5a#.iztl5rand)
     - [ ] [Understanding Redux (or, How I Fell in Love with a JavaScript State Container)](http://www.youhavetolearncomputers.com/blog/2015/9/15/a-conceptual-overview-of-redux-or-how-i-fell-in-love-with-a-javascript-state-container)
     - [ ] [Redux without React — State Management in Vanilla JavaScript](https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascript/)
+    - [ ] [Full-Stack Redux Tutorial](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 
   - React-Native
 
@@ -308,6 +311,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Exploring ways to export clean .svg icons with Sketch…the correct way](https://medium.com/sketch-app-sources/exploring-ways-to-export-clean-svg-icons-with-sketch-the-correct-way-752e73ec4694#.klkc1qe98)
   - [ ] [Mastering CSS Coding: Getting Started](https://www.smashingmagazine.com/2009/10/mastering-css-coding-getting-started/#CSS-Basics1)
   - [x] [Devtips - Design & Code a Mobile First Landing Page!](https://www.youtube.com/watch?v=2750Vj-hMq8&list=PLqGj3iMvMa4KXCYyFCQnC2ZNmZyoMAj8L)
+  - [ ] [Devtips - Zurb Foundation Grid](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LJo_lBMTJwAlQRElulSeL8)
 
 - Python
 
@@ -380,6 +384,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Practical Node.js: Building Real-World Scalable Web Apps by Azat Mardan](https://www.amazon.ca/Practical-Node-js-Building-Real-World-Scalable-ebook/dp/B00IGKE2FK/ref=sr_1_1?s=books&ie=UTF8&qid=1469305301&sr=1-1&keywords=Practical+Node.js%3A+Building+Real-World+Scalable+Web+Apps+by+Azat+Mardan)
     - [ ] [Node.js by Example by Krasimir Tsonev](https://www.amazon.ca/Node-js-Example-Krasimir-Tsonev-2015-06-30/dp/B01FIYK9QW/ref=sr_1_1?s=books&ie=UTF8&qid=1469305269&sr=1-1&keywords=Node.js+by+Example+by+Krasimir+Tsonev)
     - [ ] [Express in Action by Evan M.Hahn](https://www.amazon.ca/Express-Action-Writing-building-applications/dp/1617292427/ref=sr_1_1?s=books&ie=UTF8&qid=1469305287&sr=1-1&keywords=Express+in+Action+by+Evan+M.Hahn)
+
+  - React-Native
+
+    - [ ] [Learning React Native](http://shop.oreilly.com/product/0636920041511.do)
 
 - Ruby
 
@@ -496,6 +504,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [How to Build an Express.js API Service in 30 Minutes](https://www.youtube.com/watch?v=THDPG2gH7o0)
     - [x] [Everything You Ever Wanted To Know About Authentication in Node.js](https://www.youtube.com/watch?v=yvviEA1pOXw)
     - [x] [Test driven Development of Web Apps in Node.Js](https://www.youtube.com/watch?v=E9Fmewoe5L4)
+    - [x] [Building simple Node.js microservices using Hapi and Redis](https://www.youtube.com/watch?v=kQQGFvnMdbw)
 
   - Socket.io - Websocket
   
@@ -602,6 +611,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [DevTips - Drop Down Menu — CSS Animations](https://www.youtube.com/watch?v=AIdslaUj9wg)
   - [x] [DevTips - Step By Step Form — CSS Animations](https://www.youtube.com/watch?v=3EPG1fsZ-qo)
   - [x] [DevTips - Build-In Load Animation — CSS Animations](https://www.youtube.com/watch?v=AWAnrQCYsVM)
+  - [x] [How to Design an Agency Landing Page (Week 1 of 12)](https://www.youtube.com/watch?v=gnizXEUupsA)
+  - [x] [How to code an agency landing page design (Week 2 of 12)](https://www.youtube.com/watch?v=ZFVvpR1GfTc)
+  - [x] [How to design a jobs board site with Photoshop CC (Week 5 of 12)](https://www.youtube.com/watch?v=OTIiyR17xhE&list=PL23ZvcdS3XPJZDL1M-kxoPF06cl9hfVB_&index=6)
+  - [x] [How to code the front-end of a jobs board site (Week 6 of 12)](https://www.youtube.com/watch?v=Iv7he3sSRkI&list=PL23ZvcdS3XPJZDL1M-kxoPF06cl9hfVB_&index=7)
 
     - UI/UX Design Prototype & Animations
 
@@ -621,7 +634,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [DevTips - How Do You Learn Something Totally New?](https://www.youtube.com/watch?v=f5fxAja7aqk)
   - [x] [DevTips - Where Do You Host Your Websites?](https://www.youtube.com/watch?v=_TiyMkv8rmI)
   - [x] [What Makes a Great Front-end Developer](http://dainelindleymawer.me/what-makes-a-great-front-end-developer/)
-  - [ ] [Stay hungry...Stay foolish. Amazing Steve Jobs Speech at Stanford ](https://www.youtube.com/watch?v=gO6cFMRqXqU)
+  - [x] [Stay hungry...Stay foolish. Amazing Steve Jobs Speech at Stanford ](https://www.youtube.com/watch?v=gO6cFMRqXqU)
   - [x] [Why use a static site generator - Jekyll Casts](https://www.youtube.com/watch?v=FOfIoCi9uTI)
   - [ ] [Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4&utm_content=buffer91555&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
   - [x] [WTF Are APIs?!](https://www.youtube.com/watch?v=tnu686QNd5w)
@@ -629,6 +642,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [How to Develop Anything](https://www.youtube.com/watch?v=Lq4q1CgC924)
   - [x] [Sessions & Cookies](https://www.youtube.com/watch?v=64veb6tKTm0)
   - [x] [What I learned from reading the Redux source code](https://medium.freecodecamp.com/what-i-learned-from-reading-the-redux-source-code-836793a48768#.snaruo9w5)
+  - [x] [I Designed, Coded & Launched A Web App in 24 Hours](https://www.youtube.com/watch?v=DexyfHomC4Q&feature=youtu.be)
 
 ## Pod-cast
 
