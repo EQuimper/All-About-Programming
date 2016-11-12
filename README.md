@@ -301,6 +301,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [x] [TopTal - The Publish-Subscribe Pattern on Rails: An Implementation Tutorial](https://www.toptal.com/ruby-on-rails/the-publish-subscribe-pattern-on-rails)
     - [x] [Rails ActiveRecord with Database Column Defaults](http://blog.endpoint.com/2014/02/rails-activerecord-with-database-column.html)
+    - [x] [Should I Learn Ruby on Rails?](http://blog.careerfoundry.com/web-development/should-i-learn-ruby-on-rails)
 
 - Web Design + HTML/CSS
 
@@ -645,6 +646,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Sessions & Cookies](https://www.youtube.com/watch?v=64veb6tKTm0)
   - [x] [What I learned from reading the Redux source code](https://medium.freecodecamp.com/what-i-learned-from-reading-the-redux-source-code-836793a48768#.snaruo9w5)
   - [x] [I Designed, Coded & Launched A Web App in 24 Hours](https://www.youtube.com/watch?v=DexyfHomC4Q&feature=youtu.be)
+
+## Start-Up Stuff
+
+  - [x] [Minimum Desirable Product](http://andrewchen.co/minimum-desirable-product/)
 
 ## Pod-cast
 
