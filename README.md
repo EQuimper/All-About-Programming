@@ -53,7 +53,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [Learn to code with JavaScript](https://openclassrooms.com/courses/learn-the-basics-of-javascript)
   - [ ] [Pluralsight - Building Scalable APIs with GraphQL](https://app.pluralsight.com/library/courses/graphql-scalable-apis/table-of-contents)
   - [x] [Create An HTML5 Video Player From Scratch](https://www.udemy.com/html5-video-player) - [My Certificate](https://www.udemy.com/certificate/UC-7R8A2RNR/)
-  - [x] [Udacity - JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549) 
+  - [x] [Udacity - JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
 
   - Angular 1
 
@@ -95,11 +95,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [The Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course) - [My Certificate](https://www.udemy.com/certificate/UC-D5Z83TCZ/)
 
   - RxJS
-  
+
     - [ ] [RxJS Observables Crash Course](https://www.youtube.com/watch?v=ei7FsoXKPl0)
 
   - IOS
-    
+
     - [ ] [iOS 10 & Swift 3: From Beginner to Paid Professional](https://www.udemy.com/devslopes-ios10/)  
     - [ ] [The Complete iOS 10 Developer Course - Build 21 Apps](https://www.udemy.com/complete-ios-10-developer-course/learn/v4/content)
 
@@ -134,10 +134,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Mongoose Population](http://jaketrent.com/post/mongoose-population/)
     - [x] [MongoDB Joins with MongooseJS](http://start.jcolemorrison.com/mongodb-joins-with-mongoosejs/)
     - [x] [Object Modeling in Node.js with Mongoose](https://devcenter.heroku.com/articles/nodejs-mongoose)
-    - [x] [Simple login using Mongoose / MongoDB](https://www.youtube.com/watch?v=pzGQMwGmCnc) 
+    - [x] [Simple login using Mongoose / MongoDB](https://www.youtube.com/watch?v=pzGQMwGmCnc)
 
   - Firebase
-  
+
     - [x] [DON'T JUMP ONTO THE FIREBASE BANDWAGON YET](http://blog.championswimmer.in/2016/10/don-t-jump-onto-the-firebase-bandwagon-yet)
 
 - Email Design
@@ -155,7 +155,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Orphaned Branches in Git](http://www.csinaction.com/2016/02/12/orphaned-brachnes-in-git/)
   - [x] [Procedure for resolving a a left-behind branch that has merge conflicts](http://data.agaric.com/procedure-resolving-left-behind-branch-has-merge-conflicts)
   - [x] [Git Conflict Resolution](http://tedfelix.com/software/git-conflict-resolution.html)
-  - [x] [Oh shit, git!](http://ohshitgit.com/) 
+  - [x] [Oh shit, git!](http://ohshitgit.com/)
   - [x] [10 tips for new GitHub projects](https://opensource.com/business/16/6/10-tips-new-github-projects)
 
 - JavaScript
@@ -178,7 +178,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   - Electron
 
-    - [ ] [Building a desktop application with Electron](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658) 
+    - [ ] [Building a desktop application with Electron](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658)
     - [x] [Build a Music Player with React & Electron I: Setup & Basic Concepts](https://scotch.io/tutorials/build-a-music-player-with-react-electron-i-setup-basic-concepts)
     - [ ] [Electron: Cross-platform Desktop Apps Made Easy](https://www.toptal.com/javascript/electron-cross-platform-desktop-apps-easy)
 
@@ -188,7 +188,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Scotch.io Build a RESTful API Using Node and Express 4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
     - [x] [Creating and persisting a Login session](https://www.youtube.com/watch?v=zsOGmMuwhT4)[Good One]
 
-  - Mean 
+  - Mean
 
     - [x] [MEAN App From Scratch - MongoDB, Express, Angular 2 & NodeJS](https://www.youtube.com/watch?v=PFP0oXNNveg)
 
@@ -198,7 +198,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Authenticate a Node.js API with JSON Web Tokens](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens)
     - [ ] [NodeJS + ExpressJS Tutorials](https://www.youtube.com/playlist?list=PLYxzS__5yYQmHbpKMARP04F344zYRX91I)
     - [x] [How to write a web scraper in Node.js](https://www.codementor.io/nodejs/tutorial/how-to-write-a-web-scraper-in-nodejs)
-    - [x] [Scraping the Web With Node.js](https://scotch.io/tutorials/scraping-the-web-with-node-js) 
+    - [x] [Scraping the Web With Node.js](https://scotch.io/tutorials/scraping-the-web-with-node-js)
     - [x] [How to make a web crawler in JavaScript / Node.js](http://www.netinstructions.com/how-to-make-a-simple-web-crawler-in-javascript-and-node-js/)
     - [x] [Simple web scraping with Node.js / JavaScript](http://www.netinstructions.com/simple-web-scraping-with-node-js-and-javascript/)
     - [x] [How to send server email with Node.js - sendgrid, mandrill, mailgun, etc.](https://www.youtube.com/watch?v=zrXOjWICmGw&index=4&list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh)
@@ -283,6 +283,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [The beginners guide to React Native and Firebase](https://firebase.googleblog.com/2016/01/the-beginners-guide-to-react-native-and_84.html)
     - [ ] [GETTING STARTED WITH THE PANRESPONDER IN REACT NATIVE](http://mindthecode.com/getting-started-with-the-panresponder-in-react-native/)
     - [x] [Authentication in React Native with Firebase](https://www.sitepoint.com/authentication-in-react-native-with-firebase/)
+    - [x] [How to build a hybrid mobile app using Yarn, React Native, MobX and Firebase, 0 to 100 (Real Quick).](https://jsapp.me/react-native-firebase-starter-ebe24d2765d6#.en95g1kfq)
 
   - Meteor
 
@@ -321,8 +322,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 - Programming stuff
 
-  - [ ] [7 Good Developer Habits I Wish I’d Adopted Sooner](https://medium.com/team-treehouse/7-good-developer-habits-i-wish-id-adopted-sooner-8707931d72f3#.kv2zp45iu) 
-  - [x] [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/) 
+  - [ ] [7 Good Developer Habits I Wish I’d Adopted Sooner](https://medium.com/team-treehouse/7-good-developer-habits-i-wish-id-adopted-sooner-8707931d72f3#.kv2zp45iu)
+  - [x] [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/)
   - [x] [A Quick Understanding of REST](https://scotch.io/bar-talk/a-quick-understanding-of-rest)
   - [x] [Is Model-View-Controller dead on the front end?](https://medium.freecodecamp.com/is-mvc-dead-for-the-frontend-35b4d1fe39ec#.33x47id00)
   - [ ] [How to Land Your First Development Job in 5 Simple Steps](https://medium.com/javascript-scene/how-to-land-your-first-development-job-in-5-simple-steps-4e9fb73314c#.v888ntmpk)
@@ -439,7 +440,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Building a chat with React Native and Elixir Phoenix](https://www.youtube.com/watch?v=Ix_av-Z_19w&list=PLKrAq_JE16cIzmEpH0f8jVThIcYGo8Pnu&index=15)
 
 - IOS
-  
+
   - Swift
 
     - [x] [iOS Swift 3 Beginner Tutorial: Protocols & Delegates - Passing Data using the Delegate Method](https://www.youtube.com/watch?v=KhqXUi1SF4s)
@@ -469,9 +470,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Flip Switch: Live Code Session - Supercharged](https://www.youtube.com/watch?v=r94IxRRKR0A&list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr)
 
   - Angular 2
-  
+
     - [x] [Angular 2 Auth0 Application](https://www.youtube.com/watch?v=i_dHFvi1BJc)
-  
+
   - Electron
 
     - [x] [Creating Desktop Apps with Electron](https://www.youtube.com/watch?v=ojX5yz35v4M)
@@ -482,38 +483,38 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   - Express
 
-    - [x] [ExpressJS Crash Course](https://www.youtube.com/watch?v=gnsO8-xJ8rs) 
-    - [x] [Node.js Login System With Passport](https://www.youtube.com/watch?v=Z1ktxiqyiLA) 
+    - [x] [ExpressJS Crash Course](https://www.youtube.com/watch?v=gnsO8-xJ8rs)
+    - [x] [Node.js Login System With Passport](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
     - [x] [Node.js tutorial for beginners 2014 - an introduction to Node.js with Express.js](https://www.youtube.com/watch?v=FqMIyTH9wSg)
     - [x] [ExpressJS Tutorial 23: Advance Routing - Part 1](https://www.youtube.com/watch?v=26wm0IQsDCs)
     - [x] [ExpressJS Tutorial 24: Advance Routing - Part 2](https://www.youtube.com/watch?v=a8uH3_Ykpp4)
 
   - GraphQL
-  
+
     - [x] [Serverless GraphQL Blog - Walkthrough](https://www.youtube.com/watch?v=lgE5-mm8gX4&list=PLLYBAyx4q1XrMmzvHyy4PzccXzymK7D4l)   
 
   - Node
-  
+
     - [x] [Node.js Static Server in Minutes](https://www.youtube.com/watch?v=Moy6QIpp7Zw)
     - [x] [NodeJS - Token Authentication for APIs](https://www.youtube.com/watch?v=OjJ7XgWd9mQ)
     - [x] [RESTful API User Authentication with NodeJS](https://www.youtube.com/watch?v=uaizKlOXyfY)
     - [x] [8 Reasons to Use NodeJS](https://www.youtube.com/watch?v=BKorQQO4xtM)
     - [x] [Build a REST API Using Node](https://www.youtube.com/watch?v=yEsAIqNHpaA)
-    - [x] [Web Scraping in Node.js](https://www.youtube.com/watch?v=LJHpm0J688Y) 
-    - [x] [What is Node.js Exactly? - a beginners introduction to Nodejs](https://www.youtube.com/watch?v=pU9Q6oiQNd0) 
+    - [x] [Web Scraping in Node.js](https://www.youtube.com/watch?v=LJHpm0J688Y)
+    - [x] [What is Node.js Exactly? - a beginners introduction to Nodejs](https://www.youtube.com/watch?v=pU9Q6oiQNd0)
     - [x] [How to Build an Express.js API Service in 30 Minutes](https://www.youtube.com/watch?v=THDPG2gH7o0)
     - [x] [Everything You Ever Wanted To Know About Authentication in Node.js](https://www.youtube.com/watch?v=yvviEA1pOXw)
     - [x] [Test driven Development of Web Apps in Node.Js](https://www.youtube.com/watch?v=E9Fmewoe5L4)
     - [x] [Building simple Node.js microservices using Hapi and Redis](https://www.youtube.com/watch?v=kQQGFvnMdbw)
 
   - Socket.io - Websocket
-  
+
     - [x] [Socket.io Chat App Using Websockets](https://www.youtube.com/watch?v=tHbCkikFfDE)
     - [x] [What is a Web Socket?](https://www.youtube.com/watch?v=Y0g3M4VG6Ns)
 
   - jQuery
-  
-    - [ ] [jQuery Crash Course](https://www.youtube.com/playlist?list=PLillGF-RfqbYJVXBgZ_nA7FTAAEpp_IAc) 
+
+    - [ ] [jQuery Crash Course](https://www.youtube.com/playlist?list=PLillGF-RfqbYJVXBgZ_nA7FTAAEpp_IAc)
 
   - React
 
@@ -525,7 +526,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Getting Started with React and Firebase - Firecasts](https://www.youtube.com/watch?v=mwNATxfUsgI)
     - [ ] [Getting Started with React and Firebase, Part 2 - Firecasts](https://www.youtube.com/watch?v=p4XTMvagQ2Q)
     - [x] [React.js Conf 2016 - Rich Text Editing with React](https://www.youtube.com/watch?v=feUYwoLhE_4)
-    - [x] [Start Reacting: Component Lifecycle Methods](https://www.youtube.com/watch?v=OUfBTtnZaeQ) 
+    - [x] [Start Reacting: Component Lifecycle Methods](https://www.youtube.com/watch?v=OUfBTtnZaeQ)
     - [x] [Recomposing your React application](https://www.youtube.com/watch?v=zD_judE-bXk)
     - [x] [Building Static Sites with React](https://www.youtube.com/watch?v=_1k2HEPH6fY)
     - [ ] [Component Based Style Reuse](https://www.youtube.com/watch?v=_70Yp8KPXH8)
@@ -585,7 +586,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Getting Started with the Firebase Realtime Database on the Web, Part 1 - Firecasts](https://www.youtube.com/watch?v=noB98K6A0TY)
     - [x] [Getting Started with the Firebase Realtime Database on the Web, Part 2 - Firecasts](https://www.youtube.com/watch?v=dBscwaqNPuk)
     - [x] [Getting Started with React and Firebase - Firecasts](https://www.youtube.com/watch?v=mwNATxfUsgI)
-    - [x] [Getting Started with React and Firebase, Part 2 - Firecasts](https://www.youtube.com/watch?v=p4XTMvagQ2Q) 
+    - [x] [Getting Started with React and Firebase, Part 2 - Firecasts](https://www.youtube.com/watch?v=p4XTMvagQ2Q)
 
   - MongoDB
 
@@ -615,6 +616,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [How to code an agency landing page design (Week 2 of 12)](https://www.youtube.com/watch?v=ZFVvpR1GfTc)
   - [x] [How to design a jobs board site with Photoshop CC (Week 5 of 12)](https://www.youtube.com/watch?v=OTIiyR17xhE&list=PL23ZvcdS3XPJZDL1M-kxoPF06cl9hfVB_&index=6)
   - [x] [How to code the front-end of a jobs board site (Week 6 of 12)](https://www.youtube.com/watch?v=Iv7he3sSRkI&list=PL23ZvcdS3XPJZDL1M-kxoPF06cl9hfVB_&index=7)
+  - [x] [How to Design a Portfolio Site (Week 7 of 12)](https://www.youtube.com/watch?v=XBhs0_vJa7I)
 
     - UI/UX Design Prototype & Animations
 
@@ -674,7 +676,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Why return true or false from functions?](http://stackoverflow.com/questions/31443741/why-return-true-or-false-from-functions)
   - [x] [Difference between .split(/\s+/) and .split(“ ”)?](http://stackoverflow.com/questions/28127794/difference-between-split-s-and-split)
   - [x] [Get second and third words from string](http://stackoverflow.com/questions/16223043/get-second-and-third-words-from-string)
-  
+
   - Redux
     - [x] [How to dispatch Redux action from stateless component when route is loaded?](http://stackoverflow.com/questions/39761443/how-to-dispatch-redux-action-from-stateless-component-when-route-is-loaded)
     - [ ] [Accessing Redux state in an action creator?](http://stackoverflow.com/questions/35667249/accessing-redux-state-in-an-action-creator/35674575#35674575)
