@@ -175,6 +175,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Array.From](https://davidwalsh.name/array-from)
   - [ ] [Javascript Prototype methods vs Object methods](http://veerasundar.com/blog/2014/02/javascript-prototype-methods-vs-object-methods/)
   - [x] [Sololearn - JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/) - [My Certificate](https://www.sololearn.com/Certificate/1024-605307/pdf/)
+  - [ ] [Wesbos - When Not to use an Arrow Function](http://wesbos.com/arrow-function-no-no/)
 
   - Electron
 
@@ -226,7 +227,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Common React.js mistakes: Unneeded state](http://reactkungfu.com/2015/09/common-react-dot-js-mistakes-unneeded-state/) [Must Read]
     - [x] [React Lifecycle methods diagram](https://medium.com/@eddychang_86557/react-lifecycle-methods-diagram-38ac92bb6ff1#.n32v4fhqd)
     - [ ] [How to get "create-react-app" to work with your API](https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/)
-    - [ ] [AJAX Requests in React: How and Where to Fetch Data](https://daveceddia.com/ajax-requests-in-react/)
+    - [x] [AJAX Requests in React: How and Where to Fetch Data](https://daveceddia.com/ajax-requests-in-react/)
     - [ ] [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.dswv37s6j)
     - [x] [Building app with React and Redux](https://www.youtube.com/playlist?list=PLuNEz8XtB51K-x3bwCC9uNM_cxXaiCcRY)
     - [ ] [Why The Hipsters Recompose Everything](https://medium.com/javascript-inside/why-the-hipsters-recompose-everything-23ac08748198#.7ii2zny53)
@@ -238,6 +239,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Server-Side Rendering With React, Node And Express](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/)
     - [ ] [React.js : server side rendering](http://blog.revathskumar.com/2016/09/react-server-side-rendering.html)
     - [ ] [Testing React Components with Enzyme and Mocha](https://semaphoreci.com/community/tutorials/testing-react-components-with-enzyme-and-mocha)
+    - [x] [Controlled and uncontrolled form inputs in React don't have to be complicated](http://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
 
   - MobX
 
@@ -330,6 +332,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [How to Land Your First Development Job in 5 Simple Steps](https://medium.com/javascript-scene/how-to-land-your-first-development-job-in-5-simple-steps-4e9fb73314c#.v888ntmpk)
   - [ ] [Tips for Creating a First-Class Personal Portfolio](https://medium.com/@speckyboy/tips-for-creating-a-first-class-personal-portfolio-6fcfb6962cd4#.vqtub63ee)
   - [ ] [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603#.8dq4y83ql)
+  - [x] [The code I’m still ashamed of](https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.uadadoko7)
 
 ## Books
 
@@ -431,6 +434,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   - [x] [Intro to Elixir](https://www.youtube.com/watch?v=lly-1UYmnFI&list=PLn76XROGFNtE9InImlu6e8isbOsM7qKtt)
   - [x] [Elixir Is Neat But What Can You Actually Do With It?](https://www.youtube.com/watch?v=J4YbPVizqgE)
+  - [x] [From Front End to Full Stack with Elixir and Phoenix](https://www.youtube.com/watch?v=r4ulu8wo_GI&t=1650s)
 
   - Phoenix
 
@@ -439,6 +443,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [RailsConf 2016 - ActiveRecord vs. Ecto: A Tale of Two ORMs by Brad Urani](https://www.youtube.com/watch?v=_wD25uHx_Sw)
     - [x] [RailsConf 2016 - Rails to Phoenix by Brian Cardarella](https://www.youtube.com/watch?v=OxhTQdcieQE)
     - [x] [Building a chat with React Native and Elixir Phoenix](https://www.youtube.com/watch?v=Ix_av-Z_19w&list=PLKrAq_JE16cIzmEpH0f8jVThIcYGo8Pnu&index=15)
+    - [x] [Phoenix a Web Framework for the New Web](https://www.youtube.com/watch?v=bk3icU8iIto)
 
 - IOS
 
@@ -618,6 +623,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [How to design a jobs board site with Photoshop CC (Week 5 of 12)](https://www.youtube.com/watch?v=OTIiyR17xhE&list=PL23ZvcdS3XPJZDL1M-kxoPF06cl9hfVB_&index=6)
   - [x] [How to code the front-end of a jobs board site (Week 6 of 12)](https://www.youtube.com/watch?v=Iv7he3sSRkI&list=PL23ZvcdS3XPJZDL1M-kxoPF06cl9hfVB_&index=7)
   - [x] [How to Design a Portfolio Site (Week 7 of 12)](https://www.youtube.com/watch?v=XBhs0_vJa7I)
+  - [x] [How to make a Chico Illustration](https://www.youtube.com/watch?v=Qm2f5R-V3K8)
 
     - UI/UX Design Prototype & Animations
 
@@ -646,10 +652,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Sessions & Cookies](https://www.youtube.com/watch?v=64veb6tKTm0)
   - [x] [What I learned from reading the Redux source code](https://medium.freecodecamp.com/what-i-learned-from-reading-the-redux-source-code-836793a48768#.snaruo9w5)
   - [x] [I Designed, Coded & Launched A Web App in 24 Hours](https://www.youtube.com/watch?v=DexyfHomC4Q&feature=youtu.be)
+  - [x] [Why the founder of Rails rejects 80% of Software Engineer applicants](https://www.youtube.com/watch?v=qf6abZeAJh4)
 
 ## Start-Up Stuff
 
   - [x] [Minimum Desirable Product](http://andrewchen.co/minimum-desirable-product/)
+  - [x] [3 Ways to Validate Your App Idea and Launch Quickly](https://www.entrepreneur.com/article/230050)
 
 ## Pod-cast
 
