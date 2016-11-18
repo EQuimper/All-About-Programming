@@ -21,6 +21,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - Computer Science + Algorithms
 
   - [ ] [HarvardX: CS50 Introduction to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/b2f7d86728354866a2c4438e76c3ec55/99a3e898bd0c43aab9757d71b114529f/)
+  - [ ] [CS50 Lectures 2016](https://www.youtube.com/playlist?list=PLhQjrBD2T382VRUw5ZpSxQSFrxMOdFObl)
+
+- Elixir
+  
+  - [x] [Udemy - The Complete Elixir and Phoenix Bootcamp](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/) - [My Certificate](https://www.udemy.com/certificate/UC-5C05ATXX/)
 
 - Ruby
 
@@ -34,6 +39,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - MongoDB
 
     - [x] [TheNewBoston - MongoDB for Beginners Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDQ5DrbIl20Zu9hx1IjeVhO)
+    - [x] [Udemy - The Complete Developers Guide to MongoDB](https://www.udemy.com/the-complete-developers-guide-to-mongodb/) - [My Certificate](https://www.udemy.com/certificate/UC-GMEM9V2W/)
+    - [ ] [MongoDBx: M101x Introduction to MongoDB using the MEAN Stack](https://courses.edx.org/courses/course-v1:MongoDBx+M101x+2T2016/info)
 
 - JavaScript
 
@@ -149,6 +156,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - Phoenix
 
     - [x] [How We Replaced React with Phoenix](https://robots.thoughtbot.com/how-we-replaced-react-with-phoenix)
+    - [ ] [Learn X in Y minutes](https://learnxinyminutes.com/docs/elixir/)
 
 - Github
 
@@ -211,6 +219,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Build a Universal JavaScript App with Next.js](https://auth0.com/blog/building-universal-apps-with-nextjs/?utm_source=twitter&amp;utm_medium=sc&amp;utm_campaign=nextjs)
     - [x] [Route Middleware to Check if a User is Authenticated in Node.js](https://scotch.io/tutorials/route-middleware-to-check-if-a-user-is-authenticated-in-node-js)
     - [ ] [Understanding the Node.js Event Loop](https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/)
+    - [x] [No API? No Problem! Rapid Development via Mock APIs](https://medium.com/@housecor/rapid-development-via-mock-apis-e559087be066#.y938kd3zk)
 
     * Testing
       + [ ] [Unit Testing and TDD in Node.js – Part 1](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
@@ -240,6 +249,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [React.js : server side rendering](http://blog.revathskumar.com/2016/09/react-server-side-rendering.html)
     - [ ] [Testing React Components with Enzyme and Mocha](https://semaphoreci.com/community/tutorials/testing-react-components-with-enzyme-and-mocha)
     - [x] [Controlled and uncontrolled form inputs in React don't have to be complicated](http://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
+    - [ ] [Killing CORS Preflight Requests on a React SPA](http://damon.ghost.io/killing-cors-preflight-requests-on-a-react-spa/)
 
   - MobX
 
@@ -286,6 +296,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [GETTING STARTED WITH THE PANRESPONDER IN REACT NATIVE](http://mindthecode.com/getting-started-with-the-panresponder-in-react-native/)
     - [x] [Authentication in React Native with Firebase](https://www.sitepoint.com/authentication-in-react-native-with-firebase/)
     - [x] [How to build a hybrid mobile app using Yarn, React Native, MobX and Firebase, 0 to 100 (Real Quick).](https://jsapp.me/react-native-firebase-starter-ebe24d2765d6#.en95g1kfq)
+    - [x] [Building Offline First React Native Apps](https://medium.com/differential/building-offline-first-react-native-apps-b958acac0009#.xqphmm3yr)
 
   - Meteor
 
@@ -435,6 +446,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Intro to Elixir](https://www.youtube.com/watch?v=lly-1UYmnFI&list=PLn76XROGFNtE9InImlu6e8isbOsM7qKtt)
   - [x] [Elixir Is Neat But What Can You Actually Do With It?](https://www.youtube.com/watch?v=J4YbPVizqgE)
   - [x] [From Front End to Full Stack with Elixir and Phoenix](https://www.youtube.com/watch?v=r4ulu8wo_GI&t=1650s)
+  - [ ] [Authentication in Phoenix/Elixir app with Ueberauth and Guardian](https://www.youtube.com/watch?v=X6Z-sDSJ3sE)
 
   - Phoenix
 
@@ -487,14 +499,6 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Nodevember - Cross-Platform Desktop Apps with Electron](https://www.youtube.com/watch?v=Xs3Oc4weZbw)
     - [x] [Cross-Platform Desktop Apps with Electron](https://www.youtube.com/watch?v=Xs3Oc4weZbw)
 
-  - Express
-
-    - [x] [ExpressJS Crash Course](https://www.youtube.com/watch?v=gnsO8-xJ8rs)
-    - [x] [Node.js Login System With Passport](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
-    - [x] [Node.js tutorial for beginners 2014 - an introduction to Node.js with Express.js](https://www.youtube.com/watch?v=FqMIyTH9wSg)
-    - [x] [ExpressJS Tutorial 23: Advance Routing - Part 1](https://www.youtube.com/watch?v=26wm0IQsDCs)
-    - [x] [ExpressJS Tutorial 24: Advance Routing - Part 2](https://www.youtube.com/watch?v=a8uH3_Ykpp4)
-
   - GraphQL
 
     - [x] [Serverless GraphQL Blog - Walkthrough](https://www.youtube.com/watch?v=lgE5-mm8gX4&list=PLLYBAyx4q1XrMmzvHyy4PzccXzymK7D4l)   
@@ -512,6 +516,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Everything You Ever Wanted To Know About Authentication in Node.js](https://www.youtube.com/watch?v=yvviEA1pOXw)
     - [x] [Test driven Development of Web Apps in Node.Js](https://www.youtube.com/watch?v=E9Fmewoe5L4)
     - [x] [Building simple Node.js microservices using Hapi and Redis](https://www.youtube.com/watch?v=kQQGFvnMdbw)
+    - [x] [RESTful API From Scratch Using Node, Express and MongoDB](https://www.youtube.com/watch?v=eB9Fq9I5ocs&t=21s) [Good One]
+    - [x] [ExpressJS Crash Course](https://www.youtube.com/watch?v=gnsO8-xJ8rs)
+    - [x] [Node.js Login System With Passport](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
+    - [x] [Node.js tutorial for beginners 2014 - an introduction to Node.js with Express.js](https://www.youtube.com/watch?v=FqMIyTH9wSg)
+    - [x] [ExpressJS Tutorial 23: Advance Routing - Part 1](https://www.youtube.com/watch?v=26wm0IQsDCs)
+    - [x] [ExpressJS Tutorial 24: Advance Routing - Part 2](https://www.youtube.com/watch?v=a8uH3_Ykpp4)
 
   - Socket.io - Websocket
 
@@ -658,6 +668,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   - [x] [Minimum Desirable Product](http://andrewchen.co/minimum-desirable-product/)
   - [x] [3 Ways to Validate Your App Idea and Launch Quickly](https://www.entrepreneur.com/article/230050)
+  - [ ] [How to use a Landing Page to validate your Startup idea](https://landerapp.com/blog/how-to-use-a-landing-page-to-validate-your-startup-idea/)
 
 ## Pod-cast
 
