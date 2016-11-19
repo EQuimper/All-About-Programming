@@ -73,7 +73,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [NodeJS : Qu'est ce que NodeJS ?](https://www.youtube.com/watch?v=0PA69L88HeI) [French]
     - [x] [CodeSchool - Soup To Bits Node](https://www.codeschool.com)
     - [x] [Learn Web Scraping with Node.js](https://www.udemy.com/web-scraping-nodejs) - [My Certificate](https://www.udemy.com/certificate/UC-VFM67635/)
-    - [ ] [Build an Amazon clone: Nodejs + MongoDB + Stripe Payment](https://www.udemy.com/build-an-amazon-clone-nodejs-stripe-elasticsearch/)
+    - [x] [Build an Amazon clone: Nodejs + MongoDB + Stripe Payment](https://www.udemy.com/build-an-amazon-clone-nodejs-stripe-elasticsearch/)
     - [x] [ExpressJS Fundamentals](https://www.udemy.com/expressjs-fundamentals/learn/v4/) - [My Certificate](https://www.udemy.com/certificate/UC-EWAHOKBD/)
 
   - React.JS
@@ -153,10 +153,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 - Elixir
 
-  - Phoenix
-
-    - [x] [How We Replaced React with Phoenix](https://robots.thoughtbot.com/how-we-replaced-react-with-phoenix)
-    - [ ] [Learn X in Y minutes](https://learnxinyminutes.com/docs/elixir/)
+  * [x] [How We Replaced React with Phoenix](https://robots.thoughtbot.com/how-we-replaced-react-with-phoenix)
+  * [ ] [Learn X in Y minutes](https://learnxinyminutes.com/docs/elixir/)
+  * [ ] [Elixir blog in 15 minutes using Phoenix framework - Step by Step](http://monterail.com/blog/2015/phoenix-blog/)
 
 - Github
 
@@ -522,6 +521,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Node.js tutorial for beginners 2014 - an introduction to Node.js with Express.js](https://www.youtube.com/watch?v=FqMIyTH9wSg)
     - [x] [ExpressJS Tutorial 23: Advance Routing - Part 1](https://www.youtube.com/watch?v=26wm0IQsDCs)
     - [x] [ExpressJS Tutorial 24: Advance Routing - Part 2](https://www.youtube.com/watch?v=a8uH3_Ykpp4)
+    - [x] [Node.js Tutorial For Absolute Beginners](https://www.youtube.com/watch?v=U8XF6AFGqlc)
+  
+    - Deploy
+    
+      - [x] [Deploy Node.JS Apps to Heroku](https://www.youtube.com/watch?v=AZNFox2CvBk)
 
   - Socket.io - Websocket
 
@@ -669,6 +673,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Minimum Desirable Product](http://andrewchen.co/minimum-desirable-product/)
   - [x] [3 Ways to Validate Your App Idea and Launch Quickly](https://www.entrepreneur.com/article/230050)
   - [ ] [How to use a Landing Page to validate your Startup idea](https://landerapp.com/blog/how-to-use-a-landing-page-to-validate-your-startup-idea/)
+  - [x] [Coming up with Startup Ideas](https://www.youtube.com/watch?v=cAJ3npJAplU)
 
 ## Pod-cast
 
