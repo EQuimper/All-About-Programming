@@ -142,6 +142,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [MongoDB Joins with MongooseJS](http://start.jcolemorrison.com/mongodb-joins-with-mongoosejs/)
     - [x] [Object Modeling in Node.js with Mongoose](https://devcenter.heroku.com/articles/nodejs-mongoose)
     - [x] [Simple login using Mongoose / MongoDB](https://www.youtube.com/watch?v=pzGQMwGmCnc)
+    - [x] [Querying Firebase through MongoDB](https://medium.com/@ariklevliber/querying-firebase-through-mongo-412a824ca4dd#.c47jgygzc)
 
   - Firebase
 
@@ -280,6 +281,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Understanding Redux (or, How I Fell in Love with a JavaScript State Container)](http://www.youhavetolearncomputers.com/blog/2015/9/15/a-conceptual-overview-of-redux-or-how-i-fell-in-love-with-a-javascript-state-container)
     - [ ] [Redux without React — State Management in Vanilla JavaScript](https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascript/)
     - [ ] [Full-Stack Redux Tutorial](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+    - [x] [Tips For a Better Redux Architecture: Lessons for Enterprise Scale](https://hashnode.com/post/tips-for-a-better-redux-architecture-lessons-for-enterprise-scale-civrlqhuy0keqc6539boivk2f)
 
   - React-Native
 
@@ -306,6 +308,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - VueJS
 
     - [ ] [VueJS 2](https://www.youtube.com/playlist?list=PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0)[French]
+
+  - Graphql
+
+    - [x] [Why GraphQL is the future](https://dev-blog.apollodata.com/why-graphql-is-the-future-3bec28193807#.nrg284v51)
 
 - Ruby
 
@@ -490,6 +496,14 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [x] [Angular 2 Auth0 Application](https://www.youtube.com/watch?v=i_dHFvi1BJc)
 
+  -  Ember
+
+    - [x] [Ember #1: Why Ember?](https://www.youtube.com/watch?v=siIZb0yClQ4)
+    - [x] [Ember #2: Your First Ember App](https://www.youtube.com/watch?v=TD-8M5U4xZk)
+    - [x] [Ember #3: Connecting with the Rails API](https://www.youtube.com/watch?v=QVjiFI6b_Lk)
+    - [x] [Ember #4: User Interaction With Ember](https://www.youtube.com/watch?v=ws5YraZ0PH4)
+    - [x] [Ember #5: Fantastic Features And Where To Find Them](https://www.youtube.com/watch?v=2vxTIR-2hqA)
+
   - Electron
 
     - [x] [Creating Desktop Apps with Electron](https://www.youtube.com/watch?v=ojX5yz35v4M)
@@ -500,7 +514,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   - GraphQL
 
-    - [x] [Serverless GraphQL Blog - Walkthrough](https://www.youtube.com/watch?v=lgE5-mm8gX4&list=PLLYBAyx4q1XrMmzvHyy4PzccXzymK7D4l)   
+    - [x] [Serverless GraphQL Blog - Walkthrough](https://www.youtube.com/watch?v=lgE5-mm8gX4&list=PLLYBAyx4q1XrMmzvHyy4PzccXzymK7D4l)
+    - [x] [Build a GraphQL server for Node.js, using PostgreSQL/MySQL](https://www.youtube.com/watch?v=DNPVqK_woRQ)
+    - [x] [Setting up a GraphQL backend in 5 minutes](https://www.youtube.com/watch?v=wSkZFfuAToM)
+    - [x] [Apollo Stack Overview - GraphQL Tutorial](https://www.youtube.com/watch?v=RaHCdBHDEhI)
+    - [x] [Zero to GraphQL in 30 Minutes](https://www.youtube.com/watch?v=UBGzsb2UkeY)
+    - [x] [From REST to GraphQL](https://www.youtube.com/watch?v=eD7kLFGOgVw)
 
   - Node
 
@@ -522,6 +541,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [ExpressJS Tutorial 23: Advance Routing - Part 1](https://www.youtube.com/watch?v=26wm0IQsDCs)
     - [x] [ExpressJS Tutorial 24: Advance Routing - Part 2](https://www.youtube.com/watch?v=a8uH3_Ykpp4)
     - [x] [Node.js Tutorial For Absolute Beginners](https://www.youtube.com/watch?v=U8XF6AFGqlc)
+    - [ ] [Rapidly Developing Microservices with Node js and Docker](https://www.youtube.com/watch?v=SUNxn0omNi4)
   
     - Deploy
     
@@ -584,6 +604,13 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [React Native: Debugging on an iOS Device](https://egghead.io/lessons/react-react-native-debugging-on-an-ios-device)
     - [x] [Building li.st for Android with Exponent and React Native at react-europe 2016](https://www.youtube.com/watch?v=cI9bDvDEsYE)
     - [x] [A Detailed Look at React Native for JavaScript Developers](https://www.youtube.com/watch?v=cuMezEwKFLU&spfreload=5)
+    - [x] [Build a React Native chat app in 30 minutes](https://www.youtube.com/watch?v=VTnFDc3IFag&t=1555s)
+    - [ ] [React Native Flex Basics](https://www.youtube.com/watch?v=-xFF5KF-KpE)
+    - [x] [React Native Practical Flex Layout](https://www.youtube.com/watch?v=TdkzJkrHCgQ)
+    - [x] [React Native Styling With Props](https://www.youtube.com/watch?v=2ODF0BV6Mes)
+    - [x] [React Native Scaling Local Images](https://www.youtube.com/watch?v=OD0qbzM4edY)
+    - [ ] [React Native Styling and Basic Routing](https://www.youtube.com/watch?v=QJ_iRLfehSU)
+    - [x] [React Native Basic Routing Connection](https://www.youtube.com/watch?v=3eoYEszgp04)
 
   - Meteor
 
