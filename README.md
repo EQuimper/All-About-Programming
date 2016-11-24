@@ -24,8 +24,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [CS50 Lectures 2016](https://www.youtube.com/playlist?list=PLhQjrBD2T382VRUw5ZpSxQSFrxMOdFObl)
 
 - Elixir
-  
+
   - [x] [Udemy - The Complete Elixir and Phoenix Bootcamp](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/) - [My Certificate](https://www.udemy.com/certificate/UC-5C05ATXX/)
+  - [ ] [Pluralsignt - Getting Started with Elixir](https://app.pluralsight.com/library/courses/elixir-getting-started/table-of-contents)
 
 - Ruby
 
@@ -66,6 +67,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [ ] [Egghead - Build Angular 1.x Apps with Redux](https://egghead.io/lessons/angular-1-x-angular-1-x-redux-introduction?course=build-angular-1-x-apps-with-redux)
 
+  - Angular 2
+
+    - [ ] [Pluralsight - Angular 2: Getting Started](https://app.pluralsight.com/library/courses/angular-2-getting-started-update/table-of-contents)
+
   - Node.JS
 
     - [x] [Udemy - MongooseJs Essentials - Learn MongoDB for Node.js](https://www.udemy.com/mongoosejs-essentials/learn/v4/content) - [My Certificate](https://www.udemy.com/certificate/UC-DO7ILRJW/)
@@ -75,6 +80,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Learn Web Scraping with Node.js](https://www.udemy.com/web-scraping-nodejs) - [My Certificate](https://www.udemy.com/certificate/UC-VFM67635/)
     - [x] [Build an Amazon clone: Nodejs + MongoDB + Stripe Payment](https://www.udemy.com/build-an-amazon-clone-nodejs-stripe-elasticsearch/)
     - [x] [ExpressJS Fundamentals](https://www.udemy.com/expressjs-fundamentals/learn/v4/) - [My Certificate](https://www.udemy.com/certificate/UC-EWAHOKBD/)
+    - [ ] [Build a Real Time web app in node.js , Angular.js, mongoDB](https://www.udemy.com/realtime-meanstack/)
 
   - React.JS
 
@@ -143,6 +149,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Object Modeling in Node.js with Mongoose](https://devcenter.heroku.com/articles/nodejs-mongoose)
     - [x] [Simple login using Mongoose / MongoDB](https://www.youtube.com/watch?v=pzGQMwGmCnc)
     - [x] [Querying Firebase through MongoDB](https://medium.com/@ariklevliber/querying-firebase-through-mongo-412a824ca4dd#.c47jgygzc)
+    - [ ] [Mongoose CRUD (Create, Read, Update, Delete)](http://coursework.vschool.io/mongoose-crud/)
 
   - Firebase
 
@@ -220,6 +227,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Route Middleware to Check if a User is Authenticated in Node.js](https://scotch.io/tutorials/route-middleware-to-check-if-a-user-is-authenticated-in-node-js)
     - [ ] [Understanding the Node.js Event Loop](https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/)
     - [x] [No API? No Problem! Rapid Development via Mock APIs](https://medium.com/@housecor/rapid-development-via-mock-apis-e559087be066#.y938kd3zk)
+    - [x] [NodeJS Tutorial Playlist](https://www.youtube.com/playlist?list=PLZm85UZQLd2Q946FgnllFFMa0mfQLrYDL)
+    - [ ] [Nodejs Microservices. From Zero to Hero. Pt1 (Motivation)](https://articles.microservices.com/nodejs-microservices-from-zero-to-hero-pt1-279548cb4080#.jdwy0h8ui)
 
     * Testing
       + [ ] [Unit Testing and TDD in Node.js – Part 1](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
@@ -250,6 +259,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Testing React Components with Enzyme and Mocha](https://semaphoreci.com/community/tutorials/testing-react-components-with-enzyme-and-mocha)
     - [x] [Controlled and uncontrolled form inputs in React don't have to be complicated](http://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
     - [ ] [Killing CORS Preflight Requests on a React SPA](http://damon.ghost.io/killing-cors-preflight-requests-on-a-react-spa/)
+    - [x] [How to handle state in React. The missing FAQ.](https://medium.com/react-ecosystem/how-to-handle-state-in-react-6f2d3cd73a0c#.rpr0sc979)
 
   - MobX
 
@@ -272,16 +282,18 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.px6jzme0p)
     - [x] [If not Redux then what?](https://medium.com/@sanketsahu/if-not-redux-then-what-fc433234f5b4#.2yuwkwfwo)
     - [ ] [Learn React & Redux With Cabin](http://cabin.getstream.io/?utm_content=bufferfbb46&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-    - [ ] [Notifications with React and Redux](https://codereviewvideos.com/blog/notifications-react-and-redux/)
+    - [x] [Notifications with React and Redux](https://codereviewvideos.com/blog/notifications-react-and-redux/)
     - [x] [Redux anti-pattern: dumb mapStateToProps](http://goshakkk.name/redux-antipattern-mapstatetoprops/)
     - [x] [How to structure real world Redux/React application](https://medium.com/@yiquanzhou/how-to-structure-real-world-redux-react-application-d61e66a7dd36#.57kvb5av3)
     - [x] [Understanding Redux (or, How I Fell in Love with a JavaScript State Container)](http://www.youhavetolearncomputers.com/blog/2015/9/15/a-conceptual-overview-of-redux-or-how-i-fell-in-love-with-a-javascript-state-container)
     - [x] [Getting Started With React Redux: An Intro](https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros)
-    - [ ] [The Anatomy Of A React Redux App](https://medium.com/@rajaraodv/the-anatomy-of-a-react-redux-app-759282368c5a#.iztl5rand)
+    - [x] [The Anatomy Of A React Redux App](https://medium.com/@rajaraodv/the-anatomy-of-a-react-redux-app-759282368c5a#.iztl5rand)
     - [ ] [Understanding Redux (or, How I Fell in Love with a JavaScript State Container)](http://www.youhavetolearncomputers.com/blog/2015/9/15/a-conceptual-overview-of-redux-or-how-i-fell-in-love-with-a-javascript-state-container)
     - [ ] [Redux without React — State Management in Vanilla JavaScript](https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascript/)
     - [ ] [Full-Stack Redux Tutorial](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
     - [x] [Tips For a Better Redux Architecture: Lessons for Enterprise Scale](https://hashnode.com/post/tips-for-a-better-redux-architecture-lessons-for-enterprise-scale-civrlqhuy0keqc6539boivk2f)
+    - [x] [Things I wish I knew about Redux](https://medium.com/horrible-hacks/things-i-wish-i-knew-about-redux-9924abf2f9e0#.prehnppdz)
+    - [x] [Handling Transactional Emails In React Redux Apps](https://medium.com/@rajaraodv/handling-transactional-emails-in-react-redux-apps-8b1134748f76#.qbngc9i89)
 
   - React-Native
 
@@ -542,9 +554,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [ExpressJS Tutorial 24: Advance Routing - Part 2](https://www.youtube.com/watch?v=a8uH3_Ykpp4)
     - [x] [Node.js Tutorial For Absolute Beginners](https://www.youtube.com/watch?v=U8XF6AFGqlc)
     - [ ] [Rapidly Developing Microservices with Node js and Docker](https://www.youtube.com/watch?v=SUNxn0omNi4)
-  
+    - [x] [NodeJS MongoDB Tutorial](https://www.youtube.com/watch?v=Do_Hsb_Hs3c)
+    - [x] [Building a SaaS - Part 1: Setting Up an Express Server](https://www.youtube.com/watch?v=efuM4ASOk4k)
+    - [x] [Building a SaaS - Part 2: Setting Up a Passport with JWT Authentication (Node/Express)](https://www.youtube.com/watch?v=f4F0brwbYKg)
+
     - Deploy
-    
+
       - [x] [Deploy Node.JS Apps to Heroku](https://www.youtube.com/watch?v=AZNFox2CvBk)
 
   - Socket.io - Websocket
@@ -572,6 +587,13 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Component Based Style Reuse](https://www.youtube.com/watch?v=_70Yp8KPXH8)
     - [x] [Form Validation made simple with React](https://www.youtube.com/watch?v=FqscLiODo5c)
     - [ ] [How to push a ReactJS application in production and sleep better](https://vimeo.com/album/4199344/video/187454105)
+    - [x] [Server-side rendering with React.js](https://www.youtube.com/watch?v=k66bOHX8MnY)
+    - [x] [Building a universal/isomorphic web app with React.js](https://www.youtube.com/watch?v=Uf1Vk3RnXsk)
+    - [x] [Passing props in a universal React web app](https://www.youtube.com/watch?v=qwgNv27366Q)
+    - [x] [Server-side routing with react-router](https://www.youtube.com/watch?v=Yqnk_kjVPH4)
+    - [x] [Client-side routing with react-router (Part 1)](https://www.youtube.com/watch?annotation_id=annotation_3467643795&feature=iv&src_vid=Yqnk_kjVPH4&v=r9rWABuGPpQ)
+    - [x] [Client-side routing with react-router (Part 2)](https://www.youtube.com/watch?annotation_id=annotation_887662967&feature=iv&src_vid=r9rWABuGPpQ&v=9T8DeVWCXE0)
+    - [x] [Reactjs - Speed up Server Side Rendering](https://www.youtube.com/watch?v=PnpfGy7q96U&t=2s) [Good One]
 
   - Redux
 
