@@ -81,6 +81,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Build an Amazon clone: Nodejs + MongoDB + Stripe Payment](https://www.udemy.com/build-an-amazon-clone-nodejs-stripe-elasticsearch/)
     - [x] [ExpressJS Fundamentals](https://www.udemy.com/expressjs-fundamentals/learn/v4/) - [My Certificate](https://www.udemy.com/certificate/UC-EWAHOKBD/)
     - [ ] [Build a Real Time web app in node.js , Angular.js, mongoDB](https://www.udemy.com/realtime-meanstack/)
+    - [ ] [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/)
 
   - React.JS
 
@@ -123,6 +124,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - Programming Stuff
 
   - [x] [Egghead - How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+  - [x] [Make Millions Using API's](https://www.youtube.com/watch?v=HMExxABpn6o)
 
 ## Articles + Tutorials
 
@@ -208,6 +210,13 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [x] [MEAN App From Scratch - MongoDB, Express, Angular 2 & NodeJS](https://www.youtube.com/watch?v=PFP0oXNNveg)
 
+  - Next.JS
+
+    - [x] [Next.Js Is it the next big thing in JavaScript?](https://medium.com/javascript-mantra/next-js-53e9cf4da5af#.fnjmgtnsn)
+    - [x] [Getting Started with Next.js —Setting Up Your App](https://labs.redantler.com/getting-started-with-next-js-article-one-a1d9780ea9e0#.5lo1ogpwl)
+    - [x] [Getting Started with Next.js — Bringing Data In](https://labs.redantler.com/getting-started-with-next-js-bringing-data-in-bf40558698e2#.22zpc7ab6)
+    - [x] [Build a Universal JavaScript App with Next.js](https://auth0.com/blog/building-universal-apps-with-nextjs/?utm_source=twitter&amp;utm_medium=sc&amp;utm_campaign=nextjs)
+
   - Node
 
     - [ ] [Build User Authentication with Node.js, Express, Passport, and Orchestrate](https://www.ctl.io/developers/blog/post/build-user-authentication-with-node-js-express-passport-and-orchestrate)
@@ -223,7 +232,6 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [How To Implement Password Reset In Node.js](http://sahatyalkabov.com/how-to-implement-password-reset-in-nodejs/)
     - [ ] [MongoDB CRUD the MVC way with Passport Authentication](https://hackhands.com/mongodb-crud-mvc-way-with-passport-authentication/)
     - [ ] [RESTful Example using ExpressJS + Node.js + MongooseJS](http://javabeat.net/expressjs-nodejs-mongoosejs/)
-    - [ ] [Build a Universal JavaScript App with Next.js](https://auth0.com/blog/building-universal-apps-with-nextjs/?utm_source=twitter&amp;utm_medium=sc&amp;utm_campaign=nextjs)
     - [x] [Route Middleware to Check if a User is Authenticated in Node.js](https://scotch.io/tutorials/route-middleware-to-check-if-a-user-is-authenticated-in-node-js)
     - [ ] [Understanding the Node.js Event Loop](https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/)
     - [x] [No API? No Problem! Rapid Development via Mock APIs](https://medium.com/@housecor/rapid-development-via-mock-apis-e559087be066#.y938kd3zk)
@@ -294,6 +302,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Tips For a Better Redux Architecture: Lessons for Enterprise Scale](https://hashnode.com/post/tips-for-a-better-redux-architecture-lessons-for-enterprise-scale-civrlqhuy0keqc6539boivk2f)
     - [x] [Things I wish I knew about Redux](https://medium.com/horrible-hacks/things-i-wish-i-knew-about-redux-9924abf2f9e0#.prehnppdz)
     - [x] [Handling Transactional Emails In React Redux Apps](https://medium.com/@rajaraodv/handling-transactional-emails-in-react-redux-apps-8b1134748f76#.qbngc9i89)
+    - [x] [Why Redux Need Reducers To Be “Pure Functions”](https://medium.com/@rajaraodv/why-redux-needs-reducers-to-be-pure-functions-d438c58ae468#.vbnighv9l)
+    - [x] [Normalizing Redux stores for maximum code reuse.](https://medium.com/@adamrackis/normalizing-redux-stores-for-maximum-code-reuse-ae6e3844ae95#.mpwyjp89y)
 
   - React-Native
 
@@ -361,6 +371,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [Tips for Creating a First-Class Personal Portfolio](https://medium.com/@speckyboy/tips-for-creating-a-first-class-personal-portfolio-6fcfb6962cd4#.vqtub63ee)
   - [ ] [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603#.8dq4y83ql)
   - [x] [The code I’m still ashamed of](https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.uadadoko7)
+  - [x] [Leaky abstractions](https://www.youtube.com/watch?v=gRsyY0kzXfw)
 
 ## Books
 
@@ -417,6 +428,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Practical Node.js: Building Real-World Scalable Web Apps by Azat Mardan](https://www.amazon.ca/Practical-Node-js-Building-Real-World-Scalable-ebook/dp/B00IGKE2FK/ref=sr_1_1?s=books&ie=UTF8&qid=1469305301&sr=1-1&keywords=Practical+Node.js%3A+Building+Real-World+Scalable+Web+Apps+by+Azat+Mardan)
     - [ ] [Node.js by Example by Krasimir Tsonev](https://www.amazon.ca/Node-js-Example-Krasimir-Tsonev-2015-06-30/dp/B01FIYK9QW/ref=sr_1_1?s=books&ie=UTF8&qid=1469305269&sr=1-1&keywords=Node.js+by+Example+by+Krasimir+Tsonev)
     - [ ] [Express in Action by Evan M.Hahn](https://www.amazon.ca/Express-Action-Writing-building-applications/dp/1617292427/ref=sr_1_1?s=books&ie=UTF8&qid=1469305287&sr=1-1&keywords=Express+in+Action+by+Evan+M.Hahn)
+    - [ ] [Full-Stack JavaScript Development: Develop, Test and Deploy with MongoDB, Express, Angular and Node on AWS](https://www.amazon.com/Full-Stack-JavaScript-Development-Develop-MongoDB/dp/0997196602%3FSubscriptionId%3DAKIAJ2HQNLFCLUOUMLHQ%26tag%3Dzippylab-20%26linkCode%3Dsp1%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0997196602&zpy=1)
 
   - React-Native
 
@@ -463,7 +475,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Intro to Elixir](https://www.youtube.com/watch?v=lly-1UYmnFI&list=PLn76XROGFNtE9InImlu6e8isbOsM7qKtt)
   - [x] [Elixir Is Neat But What Can You Actually Do With It?](https://www.youtube.com/watch?v=J4YbPVizqgE)
   - [x] [From Front End to Full Stack with Elixir and Phoenix](https://www.youtube.com/watch?v=r4ulu8wo_GI&t=1650s)
-  - [ ] [Authentication in Phoenix/Elixir app with Ueberauth and Guardian](https://www.youtube.com/watch?v=X6Z-sDSJ3sE)
+  - [x] [What every Node.js developer needs to know about Elixir](https://www.youtube.com/watch?v=q8wueg2hswA)
+  - [x] [Why you should use Elixir](https://www.youtube.com/watch?v=4KAaNFkm_nc)
+  - [ ] [Functional Programming Principles in Elixir](https://www.youtube.com/watch?v=Zee4bbsDvrA&index=2&list=PLeWZVYEk9JBCU4j0YY4GVSIda1uTWEwu_)
+  - [x] [Real time web applications with Elixir and Phoenix](https://www.youtube.com/watch?v=DKGqJpT5pvU)
+  - [x] [LearnElixir.tv - Why Learn Elixir?](https://www.learnelixir.tv/episodes/01-introduction)
 
   - Phoenix
 
@@ -473,6 +489,15 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [RailsConf 2016 - Rails to Phoenix by Brian Cardarella](https://www.youtube.com/watch?v=OxhTQdcieQE)
     - [x] [Building a chat with React Native and Elixir Phoenix](https://www.youtube.com/watch?v=Ix_av-Z_19w&list=PLKrAq_JE16cIzmEpH0f8jVThIcYGo8Pnu&index=15)
     - [x] [Phoenix a Web Framework for the New Web](https://www.youtube.com/watch?v=bk3icU8iIto)
+    - [x] [PolyConf 15: Phoenix a web framework for the new web](https://www.youtube.com/watch?v=WIyXz2wxnJQ)
+    - [x] [Elixir & Phoenix – fast, concurrent and explicit](https://www.youtube.com/watch?v=pjab0jPGr6s)
+    - [x] [Rails vers Phoenix: Retour d'expérience sur une rewrite d'application SaaS](https://www.youtube.com/watch?v=0OBSv7Se6fQ) [French]
+    - [ ] [Phoenix Presence: Le service temps réel de Phoenix](https://www.youtube.com/watch?v=DHwD54fdHBM) [French]
+    - [x] [Processing 2.7 million images with Elixir (vs Ruby)](https://www.youtube.com/watch?v=xoNRtWl4fZU)
+    - [x] [Getting Started with the Phoenix Framework](https://www.youtube.com/watch?v=lpxm8xwXuG0)
+    - [ ] [Authentication in Phoenix/Elixir app with Ueberauth and Guardian](https://www.youtube.com/watch?v=X6Z-sDSJ3sE)
+    - [x] [Using The Phoenix Framework With Ember.js](https://www.youtube.com/watch?v=GtohBWjWRZg&t=22s)
+    - [x] [How to setup Authentication / Authorization in a Phoenix application - Registration 1 / 4](https://www.youtube.com/watch?v=lLO6Xi9hWW4)
 
 - IOS
 
@@ -608,7 +633,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [React State Management with Redux webinar with @Srijan Technologies](https://www.youtube.com/watch?v=7iTfcF1kNxc)]
     - [x] [Creating Forms with React and Redux](https://www.youtube.com/watch?v=q6NXa14o1f0)
     - [x] [React & Redux - Freestyle Coding](https://www.youtube.com/watch?v=NCshQ290g38)
-
+    - [x] [Redux: Persisting the State to the Local Storage](https://egghead.io/lessons/javascript-redux-persisting-the-state-to-the-local-storage) [Must Watch]
+    - [x] [Reducing Redux Boilerplate](https://www.youtube.com/watch?v=BaBq48tvPB8)
 
   - React-Native
 
@@ -698,8 +724,6 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
       - [x] [Prototyping a refresh animation with Flinto and Sketch 3](https://www.youtube.com/watch?v=L4U4rVTKzEI)
       - [x] [Icons Animations Using Flinto](https://www.youtube.com/watch?v=bbx_P-52oro)
       - [x] [Book App - Screen Transition Tutorial with Principle](https://www.youtube.com/watch?v=KHlqDRQdnic)
-
-- WordPress
 
 - Programming stuff
 
