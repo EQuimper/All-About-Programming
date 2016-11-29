@@ -124,7 +124,6 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - Programming Stuff
 
   - [x] [Egghead - How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
-  - [x] [Make Millions Using API's](https://www.youtube.com/watch?v=HMExxABpn6o)
 
 ## Articles + Tutorials
 
@@ -193,6 +192,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [Javascript Prototype methods vs Object methods](http://veerasundar.com/blog/2014/02/javascript-prototype-methods-vs-object-methods/)
   - [x] [Sololearn - JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/) - [My Certificate](https://www.sololearn.com/Certificate/1024-605307/pdf/)
   - [ ] [Wesbos - When Not to use an Arrow Function](http://wesbos.com/arrow-function-no-no/)
+  - [x] [Replacing switch statements with Object literals](https://toddmotto.com/deprecating-the-switch-statement-for-object-literals/) [Must Read]
 
   - Electron
 
@@ -372,6 +372,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603#.8dq4y83ql)
   - [x] [The code I’m still ashamed of](https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.uadadoko7)
   - [x] [Leaky abstractions](https://www.youtube.com/watch?v=gRsyY0kzXfw)
+  - [x] [Make Millions Using API's](https://www.youtube.com/watch?v=HMExxABpn6o)
 
 ## Books
 
@@ -480,6 +481,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [Functional Programming Principles in Elixir](https://www.youtube.com/watch?v=Zee4bbsDvrA&index=2&list=PLeWZVYEk9JBCU4j0YY4GVSIda1uTWEwu_)
   - [x] [Real time web applications with Elixir and Phoenix](https://www.youtube.com/watch?v=DKGqJpT5pvU)
   - [x] [LearnElixir.tv - Why Learn Elixir?](https://www.learnelixir.tv/episodes/01-introduction)
+  - [x] [Metaprogramming Elixir](https://www.youtube.com/watch?v=2Bjzml_Hpvk)
 
   - Phoenix
 
@@ -498,6 +500,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Authentication in Phoenix/Elixir app with Ueberauth and Guardian](https://www.youtube.com/watch?v=X6Z-sDSJ3sE)
     - [x] [Using The Phoenix Framework With Ember.js](https://www.youtube.com/watch?v=GtohBWjWRZg&t=22s)
     - [x] [How to setup Authentication / Authorization in a Phoenix application - Registration 1 / 4](https://www.youtube.com/watch?v=lLO6Xi9hWW4)
+    - [x] [Phoenix asset handling with brunch](https://www.youtube.com/watch?v=CgSjuCRHKvg)
+    - [x] [Phoenix Takes Flight](https://www.youtube.com/watch?v=u21S_vq5CTw)
+    - [ ] [Phoenix 1.2 and Beyond](https://www.youtube.com/watch?v=n338leKvqnA)
 
 - IOS
 
@@ -582,6 +587,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [NodeJS MongoDB Tutorial](https://www.youtube.com/watch?v=Do_Hsb_Hs3c)
     - [x] [Building a SaaS - Part 1: Setting Up an Express Server](https://www.youtube.com/watch?v=efuM4ASOk4k)
     - [x] [Building a SaaS - Part 2: Setting Up a Passport with JWT Authentication (Node/Express)](https://www.youtube.com/watch?v=f4F0brwbYKg)
+    - [x] [Choosing the Right API Architecture](https://www.youtube.com/watch?v=kgBbvq5WSH4)
 
     - Deploy
 
