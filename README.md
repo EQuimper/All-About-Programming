@@ -26,7 +26,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - Elixir
 
   - [x] [Udemy - The Complete Elixir and Phoenix Bootcamp](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/) - [My Certificate](https://www.udemy.com/certificate/UC-5C05ATXX/)
-  - [ ] [Pluralsignt - Getting Started with Elixir](https://app.pluralsight.com/library/courses/elixir-getting-started/table-of-contents)
+  - [x] [Pluralsignt - Getting Started with Elixir](https://app.pluralsight.com/library/courses/elixir-getting-started/table-of-contents)
 
 - Ruby
 
@@ -114,7 +114,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   - IOS
 
-    - [ ] [iOS 10 & Swift 3: From Beginner to Paid Professional](https://www.udemy.com/devslopes-ios10/)  
+    - [ ] [iOS 10 & Swift 3: From Beginner to Paid Professional](https://www.udemy.com/devslopes-ios10/)
     - [ ] [The Complete iOS 10 Developer Course - Build 21 Apps](https://www.udemy.com/complete-ios-10-developer-course/learn/v4/content)
 
 - Web Design + HTML/CSS
@@ -151,6 +151,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Simple login using Mongoose / MongoDB](https://www.youtube.com/watch?v=pzGQMwGmCnc)
     - [x] [Querying Firebase through MongoDB](https://medium.com/@ariklevliber/querying-firebase-through-mongo-412a824ca4dd#.c47jgygzc)
     - [ ] [Mongoose CRUD (Create, Read, Update, Delete)](http://coursework.vschool.io/mongoose-crud/)
+    - [x] [Mongoose v3 part 1 :: Versioning](http://aaronheckmann.tumblr.com/post/48943525537/mongoose-v3-part-1-versioning)
 
   - Firebase
 
@@ -165,6 +166,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   * [x] [How We Replaced React with Phoenix](https://robots.thoughtbot.com/how-we-replaced-react-with-phoenix)
   * [ ] [Learn X in Y minutes](https://learnxinyminutes.com/docs/elixir/)
   * [ ] [Elixir blog in 15 minutes using Phoenix framework - Step by Step](http://monterail.com/blog/2015/phoenix-blog/)
+  * [x] [Phoenix v1.1.2 and React.js](https://medium.com/@diamondgfx/phoenix-v1-1-2-and-react-js-3dbd195a880a#.kk5uhojx0)
 
 - Github
 
@@ -506,6 +508,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 - IOS
 
+  - [x] [How to get a job as an iOS developer](https://www.youtube.com/watch?annotation_id=annotation_3744773509&feature=iv&src_vid=2BU1GjldFoE&v=MQ9hTArNzPw)
+  - [x] [How Much Do iOS Freelance Developers Actually Make?](https://www.youtube.com/watch?v=PZqH_R2V6G0)
+
   - Swift
 
     - [x] [iOS Swift 3 Beginner Tutorial: Protocols & Delegates - Passing Data using the Delegate Method](https://www.youtube.com/watch?v=KhqXUi1SF4s)
@@ -526,6 +531,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be)
   - [ ] [Dirty little front-end tricks](https://www.youtube.com/watch?v=DQk9TqO5ets&feature=youtu.be&app=desktop)
   - [ ] [What is Object-oriented Programming? (JavaScript Tutorial)](https://www.youtube.com/watch?v=rlLuL3jYLvA)
+  - [x] [How It Feels To Learn JavaScript In 2016](https://www.youtube.com/watch?v=ss10re-tjwo)
+  - [x] [Handle Branching Logic with Ramda's Conditional Functions](https://egghead.io/lessons/javascript-handle-branching-logic-with-ramda-s-conditional-functions)
 
   - Animations
 
@@ -588,6 +595,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Building a SaaS - Part 1: Setting Up an Express Server](https://www.youtube.com/watch?v=efuM4ASOk4k)
     - [x] [Building a SaaS - Part 2: Setting Up a Passport with JWT Authentication (Node/Express)](https://www.youtube.com/watch?v=f4F0brwbYKg)
     - [x] [Choosing the Right API Architecture](https://www.youtube.com/watch?v=kgBbvq5WSH4)
+    - [x] [Use nodejs-dashboard event loop delay](https://egghead.io/lessons/node-js-use-nodejs-dashboard-event-loop-delay)
 
     - Deploy
 
@@ -719,6 +727,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [How to code the front-end of a jobs board site (Week 6 of 12)](https://www.youtube.com/watch?v=Iv7he3sSRkI&list=PL23ZvcdS3XPJZDL1M-kxoPF06cl9hfVB_&index=7)
   - [x] [How to Design a Portfolio Site (Week 7 of 12)](https://www.youtube.com/watch?v=XBhs0_vJa7I)
   - [x] [How to make a Chico Illustration](https://www.youtube.com/watch?v=Qm2f5R-V3K8)
+  - [x] [Getting Started With Jekyll, The Static Site Generator](https://www.youtube.com/watch?v=iWowJBRMtpc)
+  - [x] [Why use a static site generator - Jekyll Casts](https://www.youtube.com/watch?v=FOfIoCi9uTI)
 
     - UI/UX Design Prototype & Animations
 
@@ -746,6 +756,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [What I learned from reading the Redux source code](https://medium.freecodecamp.com/what-i-learned-from-reading-the-redux-source-code-836793a48768#.snaruo9w5)
   - [x] [I Designed, Coded & Launched A Web App in 24 Hours](https://www.youtube.com/watch?v=DexyfHomC4Q&feature=youtu.be)
   - [x] [Why the founder of Rails rejects 80% of Software Engineer applicants](https://www.youtube.com/watch?v=qf6abZeAJh4)
+  - [x] [What I would learn in 2017 | Web Development](https://www.youtube.com/watch?v=2BU1GjldFoE)
 
 ## Start-Up Stuff
 
@@ -778,12 +789,15 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - MongoDB
 
     - [x] [Mongoose - What does the exec function do?](http://stackoverflow.com/questions/31549857/mongoose-what-does-the-exec-function-do)
+    - [x] [How to sort a populated document in find request?](http://stackoverflow.com/questions/16352768/how-to-sort-a-populated-document-in-find-request)
 
 - JavaScript
 
   - [x] [Why return true or false from functions?](http://stackoverflow.com/questions/31443741/why-return-true-or-false-from-functions)
   - [x] [Difference between .split(/\s+/) and .split(“ ”)?](http://stackoverflow.com/questions/28127794/difference-between-split-s-and-split)
   - [x] [Get second and third words from string](http://stackoverflow.com/questions/16223043/get-second-and-third-words-from-string)
+  - [x] [Difference between tilde(~) and caret(^) in package.json](http://stackoverflow.com/questions/22343224/difference-between-tilde-and-caret-in-package-json)
+  - [x] [Difference between a method and a function](http://stackoverflow.com/questions/155609/difference-between-a-method-and-a-function)
 
   - Redux
     - [x] [How to dispatch Redux action from stateless component when route is loaded?](http://stackoverflow.com/questions/39761443/how-to-dispatch-redux-action-from-stateless-component-when-route-is-loaded)
@@ -792,6 +806,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - React
     - [x] [React-router urls don't work when refreshing or writting manually](http://stackoverflow.com/questions/27928372/react-router-urls-dont-work-when-refreshing-or-writting-manually)
     - [x] [Dynamic tag name in jsx and React](http://stackoverflow.com/questions/33471880/dynamic-tag-name-in-jsx-and-react?noredirect=1&lq=1)
+    - [x] [react-router go back a page how do you configure history?](http://stackoverflow.com/questions/30915173/react-router-go-back-a-page-how-do-you-configure-history)
+    - [x] [How to combine multiple inline style objects?](http://stackoverflow.com/questions/29979324/how-to-combine-multiple-inline-style-objects)
 
   - React-Native
     - [x] [How do I use a captured image with react-native-camera](http://stackoverflow.com/questions/33155067/how-do-i-use-a-captured-image-with-react-native-camera)
