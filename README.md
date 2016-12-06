@@ -27,6 +27,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   - [x] [Udemy - The Complete Elixir and Phoenix Bootcamp](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/) - [My Certificate](https://www.udemy.com/certificate/UC-5C05ATXX/)
   - [x] [Pluralsignt - Getting Started with Elixir](https://app.pluralsight.com/library/courses/elixir-getting-started/table-of-contents)
+  - [ ] [Elixir for Beginners](https://www.udemy.com/elixir-for-beginners/)
 
 - Ruby
 
@@ -152,6 +153,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Querying Firebase through MongoDB](https://medium.com/@ariklevliber/querying-firebase-through-mongo-412a824ca4dd#.c47jgygzc)
     - [ ] [Mongoose CRUD (Create, Read, Update, Delete)](http://coursework.vschool.io/mongoose-crud/)
     - [x] [Mongoose v3 part 1 :: Versioning](http://aaronheckmann.tumblr.com/post/48943525537/mongoose-v3-part-1-versioning)
+    - [ ] [Mongoosastic: The Power of MongoDB & Elasticsearch Together](https://www.compose.com/articles/mongoosastic-the-power-of-mongodb-and-elasticsearch-together/)
 
   - Firebase
 
@@ -484,6 +486,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Real time web applications with Elixir and Phoenix](https://www.youtube.com/watch?v=DKGqJpT5pvU)
   - [x] [LearnElixir.tv - Why Learn Elixir?](https://www.learnelixir.tv/episodes/01-introduction)
   - [x] [Metaprogramming Elixir](https://www.youtube.com/watch?v=2Bjzml_Hpvk)
+  - [x] [WTF is Elixir?](https://www.youtube.com/watch?v=ZDwygVf_LJM)
 
   - Phoenix
 
@@ -505,6 +508,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Phoenix asset handling with brunch](https://www.youtube.com/watch?v=CgSjuCRHKvg)
     - [x] [Phoenix Takes Flight](https://www.youtube.com/watch?v=u21S_vq5CTw)
     - [ ] [Phoenix 1.2 and Beyond](https://www.youtube.com/watch?v=n338leKvqnA)
+    - [x] [Elixir + Phoenix : Building a simple chatroom](https://www.youtube.com/watch?v=e5jlIejl9Fs)
+    - [x] [Phoenix Beyond the Browser - Realtime Applications](https://www.youtube.com/watch?v=7vBc0Q-nwUI&list=PLE7tQUdRKcyYoiEKWny0Jj72iu564bVFD&index=2)
 
 - IOS
 
@@ -801,7 +806,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   - Redux
     - [x] [How to dispatch Redux action from stateless component when route is loaded?](http://stackoverflow.com/questions/39761443/how-to-dispatch-redux-action-from-stateless-component-when-route-is-loaded)
-    - [ ] [Accessing Redux state in an action creator?](http://stackoverflow.com/questions/35667249/accessing-redux-state-in-an-action-creator/35674575#35674575)
+    - [x] [Accessing Redux state in an action creator?](http://stackoverflow.com/questions/35667249/accessing-redux-state-in-an-action-creator/35674575#35674575)
 
   - React
     - [x] [React-router urls don't work when refreshing or writting manually](http://stackoverflow.com/questions/27928372/react-router-urls-dont-work-when-refreshing-or-writting-manually)
