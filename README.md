@@ -169,6 +169,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   * [ ] [Learn X in Y minutes](https://learnxinyminutes.com/docs/elixir/)
   * [ ] [Elixir blog in 15 minutes using Phoenix framework - Step by Step](http://monterail.com/blog/2015/phoenix-blog/)
   * [x] [Phoenix v1.1.2 and React.js](https://medium.com/@diamondgfx/phoenix-v1-1-2-and-react-js-3dbd195a880a#.kk5uhojx0)
+  - [x] [Elixir obsoletes Ruby, Erlang and Clojure in one go](https://medium.com/@qertoip/elixir-obsoletes-ruby-erlang-and-clojure-in-one-go-605329b7b9b4#.c69cljb05)
+  - [x] [Elixir broke my imperative mind](https://medium.com/magnetis-backstage/elixir-broke-my-imperative-mind-5d2fb2d53502#.hev7n43t6)
 
 - Github
 
@@ -807,6 +809,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - Redux
     - [x] [How to dispatch Redux action from stateless component when route is loaded?](http://stackoverflow.com/questions/39761443/how-to-dispatch-redux-action-from-stateless-component-when-route-is-loaded)
     - [x] [Accessing Redux state in an action creator?](http://stackoverflow.com/questions/35667249/accessing-redux-state-in-an-action-creator/35674575#35674575)
+    - [x] [How to update single value inside specific array item in redux](http://stackoverflow.com/questions/35628774/how-to-update-single-value-inside-specific-array-item-in-redux)
 
   - React
     - [x] [React-router urls don't work when refreshing or writting manually](http://stackoverflow.com/questions/27928372/react-router-urls-dont-work-when-refreshing-or-writting-manually)
