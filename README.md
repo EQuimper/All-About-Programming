@@ -379,6 +379,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [The code I’m still ashamed of](https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.uadadoko7)
   - [x] [Leaky abstractions](https://www.youtube.com/watch?v=gRsyY0kzXfw)
   - [x] [Make Millions Using API's](https://www.youtube.com/watch?v=HMExxABpn6o)
+  - [x] [Create a TinyURL System](http://blog.gainlo.co/index.php/2016/03/08/system-design-interview-question-create-tinyurl-system/?utm_source=quora&utm_medium=What+are+the+http%3A%2F%2Fbit.ly+and+t.co+shortening+algorithms%3F&utm_campaign=quora)
 
 ## Books
 
@@ -439,7 +440,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   - React-Native
 
-    - [ ] [Learning React Native](http://shop.oreilly.com/product/0636920041511.do)
+    - [x] [Learning React Native](http://shop.oreilly.com/product/0636920041511.do)
 
 - Ruby
 
@@ -489,6 +490,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [LearnElixir.tv - Why Learn Elixir?](https://www.learnelixir.tv/episodes/01-introduction)
   - [x] [Metaprogramming Elixir](https://www.youtube.com/watch?v=2Bjzml_Hpvk)
   - [x] [WTF is Elixir?](https://www.youtube.com/watch?v=ZDwygVf_LJM)
+  - [x] [Selling Food With Elixir](https://www.youtube.com/watch?v=fkDhU-2NWJ8&t=1097ssl)
 
   - Phoenix
 
@@ -736,6 +738,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [How to make a Chico Illustration](https://www.youtube.com/watch?v=Qm2f5R-V3K8)
   - [x] [Getting Started With Jekyll, The Static Site Generator](https://www.youtube.com/watch?v=iWowJBRMtpc)
   - [x] [Why use a static site generator - Jekyll Casts](https://www.youtube.com/watch?v=FOfIoCi9uTI)
+  - [x] [Layers for Composition (The Standard, Ep. 1)](https://www.youtube.com/watch?v=II6Szc2UPxw&list=PLNYkxOF6rcIB1V2i_qfRtDMcY6YZK1lkt)
+  - [x] [Align Content Vertically (The Standard, Ep. 4)](https://www.youtube.com/watch?v=5IP43MTfj0E)
 
     - UI/UX Design Prototype & Animations
 
@@ -805,6 +809,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Get second and third words from string](http://stackoverflow.com/questions/16223043/get-second-and-third-words-from-string)
   - [x] [Difference between tilde(~) and caret(^) in package.json](http://stackoverflow.com/questions/22343224/difference-between-tilde-and-caret-in-package-json)
   - [x] [Difference between a method and a function](http://stackoverflow.com/questions/155609/difference-between-a-method-and-a-function)
+  - [x] [How do I update each dependency in package.json to the latest version?](http://stackoverflow.com/questions/16073603/how-do-i-update-each-dependency-in-package-json-to-the-latest-version)
 
   - Redux
     - [x] [How to dispatch Redux action from stateless component when route is loaded?](http://stackoverflow.com/questions/39761443/how-to-dispatch-redux-action-from-stateless-component-when-route-is-loaded)
