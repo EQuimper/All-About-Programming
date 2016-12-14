@@ -1,6 +1,7 @@
 # Everything about programming:
 
 - Courses
+- Best Package I found for many project
 - Articles
 - Tutorials
 - Books
@@ -28,6 +29,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Udemy - The Complete Elixir and Phoenix Bootcamp](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/) - [My Certificate](https://www.udemy.com/certificate/UC-5C05ATXX/)
   - [x] [Pluralsignt - Getting Started with Elixir](https://app.pluralsight.com/library/courses/elixir-getting-started/table-of-contents)
   - [ ] [Elixir for Beginners](https://www.udemy.com/elixir-for-beginners/)
+
+- Golang
+
+  - [ ] [Learn To Code - Golang Training](https://www.youtube.com/playlist?list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S)
 
 - Ruby
 
@@ -134,6 +139,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 - Database + Application Design
 
+  - Redis
+
+    - [ ] [Using Redis with Node.js](https://www.sitepoint.com/using-redis-node-js/)
+
   - MongoDB
 
     - [x] [Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb)
@@ -171,6 +180,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   * [x] [Phoenix v1.1.2 and React.js](https://medium.com/@diamondgfx/phoenix-v1-1-2-and-react-js-3dbd195a880a#.kk5uhojx0)
   - [x] [Elixir obsoletes Ruby, Erlang and Clojure in one go](https://medium.com/@qertoip/elixir-obsoletes-ruby-erlang-and-clojure-in-one-go-605329b7b9b4#.c69cljb05)
   - [x] [Elixir broke my imperative mind](https://medium.com/magnetis-backstage/elixir-broke-my-imperative-mind-5d2fb2d53502#.hev7n43t6)
+  - [x] [Moving Beyond Ruby](http://blog.danielberkompas.com/ruby/elixir/2015/02/09/moving-beyond-ruby.html)
+  - [ ] [How Discord handles push request bursts of over a million per minute with Elixir’s GenStage](https://discord.engineering/how-discord-handles-push-request-bursts-of-over-a-million-per-minute-with-elixirs-genstage-8f899f0221b4#.323ovuplf)
 
 - Github
 
@@ -243,6 +254,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [No API? No Problem! Rapid Development via Mock APIs](https://medium.com/@housecor/rapid-development-via-mock-apis-e559087be066#.y938kd3zk)
     - [x] [NodeJS Tutorial Playlist](https://www.youtube.com/playlist?list=PLZm85UZQLd2Q946FgnllFFMa0mfQLrYDL)
     - [ ] [Nodejs Microservices. From Zero to Hero. Pt1 (Motivation)](https://articles.microservices.com/nodejs-microservices-from-zero-to-hero-pt1-279548cb4080#.jdwy0h8ui)
+    - [ ] [Creating Role Based Authentication with Passport in Ionic 2 – Part 1](http://www.joshmorony.com/creating-role-based-authentication-with-passport-in-ionic-2-part-1/)
+    - [x] [Making the Quantum Leap from Node.js to Microservices](https://derickbailey.com/2016/12/12/making-the-quantum-leap-from-node-js-to-microservices/)
 
     * Testing
       + [ ] [Unit Testing and TDD in Node.js – Part 1](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
@@ -310,6 +323,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Handling Transactional Emails In React Redux Apps](https://medium.com/@rajaraodv/handling-transactional-emails-in-react-redux-apps-8b1134748f76#.qbngc9i89)
     - [x] [Why Redux Need Reducers To Be “Pure Functions”](https://medium.com/@rajaraodv/why-redux-needs-reducers-to-be-pure-functions-d438c58ae468#.vbnighv9l)
     - [x] [Normalizing Redux stores for maximum code reuse.](https://medium.com/@adamrackis/normalizing-redux-stores-for-maximum-code-reuse-ae6e3844ae95#.mpwyjp89y)
+    - [x] [Two Weird Tricks with Redux](http://jlongster.com/Two-Weird-Tricks-with-Redux)
 
   - React-Native
 
@@ -437,6 +451,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Node.js by Example by Krasimir Tsonev](https://www.amazon.ca/Node-js-Example-Krasimir-Tsonev-2015-06-30/dp/B01FIYK9QW/ref=sr_1_1?s=books&ie=UTF8&qid=1469305269&sr=1-1&keywords=Node.js+by+Example+by+Krasimir+Tsonev)
     - [ ] [Express in Action by Evan M.Hahn](https://www.amazon.ca/Express-Action-Writing-building-applications/dp/1617292427/ref=sr_1_1?s=books&ie=UTF8&qid=1469305287&sr=1-1&keywords=Express+in+Action+by+Evan+M.Hahn)
     - [ ] [Full-Stack JavaScript Development: Develop, Test and Deploy with MongoDB, Express, Angular and Node on AWS](https://www.amazon.com/Full-Stack-JavaScript-Development-Develop-MongoDB/dp/0997196602%3FSubscriptionId%3DAKIAJ2HQNLFCLUOUMLHQ%26tag%3Dzippylab-20%26linkCode%3Dsp1%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0997196602&zpy=1)
+    - [ ] [Node.js the Right Way: Practical, Server-Side JavaScript That Scales](https://www.amazon.com/Node-js-Right-Way-Server-Side-JavaScript-ebook/dp/B00HSO6YD8%3FSubscriptionId%3DAKIAJ2HQNLFCLUOUMLHQ%26tag%3Dzippylab-20%26linkCode%3Dsp1%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00HSO6YD8&zpy=1)
 
   - React-Native
 
@@ -515,6 +530,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Elixir + Phoenix : Building a simple chatroom](https://www.youtube.com/watch?v=e5jlIejl9Fs)
     - [x] [Phoenix Beyond the Browser - Realtime Applications](https://www.youtube.com/watch?v=7vBc0Q-nwUI&list=PLE7tQUdRKcyYoiEKWny0Jj72iu564bVFD&index=2)
 
+- Golang
+
+  - [x] [Build Web Apps with Go Language](https://www.youtube.com/watch?v=Vlie-srOU8c&t=5116s)
+
 - IOS
 
   - [x] [How to get a job as an iOS developer](https://www.youtube.com/watch?annotation_id=annotation_3744773509&feature=iv&src_vid=2BU1GjldFoE&v=MQ9hTArNzPw)
@@ -523,6 +542,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - Swift
 
     - [x] [iOS Swift 3 Beginner Tutorial: Protocols & Delegates - Passing Data using the Delegate Method](https://www.youtube.com/watch?v=KhqXUi1SF4s)
+
+- AWS Lambda
+
+  - [x] [Introduction to AWS Lambda](https://www.youtube.com/watch?v=eOBq__h4OJ4)
+  - [ ] [Get started with AWS Lambda](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSQMe68cti8cupI0mzLk1Gc)
 
 - JavaScript
 
@@ -768,6 +792,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [I Designed, Coded & Launched A Web App in 24 Hours](https://www.youtube.com/watch?v=DexyfHomC4Q&feature=youtu.be)
   - [x] [Why the founder of Rails rejects 80% of Software Engineer applicants](https://www.youtube.com/watch?v=qf6abZeAJh4)
   - [x] [What I would learn in 2017 | Web Development](https://www.youtube.com/watch?v=2BU1GjldFoE)
+  - [ ] [YouTube, Coding and Job Interviews: Ft. Eric Hanchet](https://www.youtube.com/watch?v=xo4-L7mzoJA)
 
 ## Start-Up Stuff
 
@@ -810,6 +835,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Difference between tilde(~) and caret(^) in package.json](http://stackoverflow.com/questions/22343224/difference-between-tilde-and-caret-in-package-json)
   - [x] [Difference between a method and a function](http://stackoverflow.com/questions/155609/difference-between-a-method-and-a-function)
   - [x] [How do I update each dependency in package.json to the latest version?](http://stackoverflow.com/questions/16073603/how-do-i-update-each-dependency-in-package-json-to-the-latest-version)
+  - [x] [How to get an array of unique values from an array containing duplicates in JavaScript?](http://stackoverflow.com/questions/13486479/how-to-get-an-array-of-unique-values-from-an-array-containing-duplicates-in-java)
+  - [x] [Check if a string starts with http using Javascript](http://stackoverflow.com/questions/11300906/check-if-a-string-starts-with-http-using-javascript)
 
   - Redux
     - [x] [How to dispatch Redux action from stateless component when route is loaded?](http://stackoverflow.com/questions/39761443/how-to-dispatch-redux-action-from-stateless-component-when-route-is-loaded)
