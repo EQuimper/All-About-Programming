@@ -72,6 +72,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - Angular 1
 
     - [ ] [Egghead - Build Angular 1.x Apps with Redux](https://egghead.io/lessons/angular-1-x-angular-1-x-redux-introduction?course=build-angular-1-x-apps-with-redux)
+    - [x] [CodeAcademy - Learn AngularJS 1.X](https://www.codecademy.com/learn/learn-angularjs)
 
   - Angular 2
 
@@ -210,6 +211,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Sololearn - JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/) - [My Certificate](https://www.sololearn.com/Certificate/1024-605307/pdf/)
   - [ ] [Wesbos - When Not to use an Arrow Function](http://wesbos.com/arrow-function-no-no/)
   - [x] [Replacing switch statements with Object literals](https://toddmotto.com/deprecating-the-switch-statement-for-object-literals/) [Must Read]
+  - [x] [Javascript Array Methods: Unshift(), Shift(), Push(), And Pop()](https://www.bennadel.com/blog/1796-javascript-array-methods-unshift-shift-push-and-pop.htm)
 
   - Electron
 
@@ -223,7 +225,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Scotch.io Build a RESTful API Using Node and Express 4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
     - [x] [Creating and persisting a Login session](https://www.youtube.com/watch?v=zsOGmMuwhT4)[Good One]
 
-  - Mean
+  - MEAN
 
     - [x] [MEAN App From Scratch - MongoDB, Express, Angular 2 & NodeJS](https://www.youtube.com/watch?v=PFP0oXNNveg)
 
@@ -256,6 +258,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Nodejs Microservices. From Zero to Hero. Pt1 (Motivation)](https://articles.microservices.com/nodejs-microservices-from-zero-to-hero-pt1-279548cb4080#.jdwy0h8ui)
     - [ ] [Creating Role Based Authentication with Passport in Ionic 2 – Part 1](http://www.joshmorony.com/creating-role-based-authentication-with-passport-in-ionic-2-part-1/)
     - [x] [Making the Quantum Leap from Node.js to Microservices](https://derickbailey.com/2016/12/12/making-the-quantum-leap-from-node-js-to-microservices/)
+    - [ ] [How To Develop A Chat Bot With Node.js](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/)
 
     * Testing
       + [ ] [Unit Testing and TDD in Node.js – Part 1](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
@@ -287,6 +290,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Controlled and uncontrolled form inputs in React don't have to be complicated](http://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
     - [ ] [Killing CORS Preflight Requests on a React SPA](http://damon.ghost.io/killing-cors-preflight-requests-on-a-react-spa/)
     - [x] [How to handle state in React. The missing FAQ.](https://medium.com/react-ecosystem/how-to-handle-state-in-react-6f2d3cd73a0c#.rpr0sc979)
+    - [ ] [Creating a Single-Page App in React using React Router](https://www.kirupa.com/react/creating_single_page_app_react_using_react_router.htm)
 
   - MobX
 
@@ -324,6 +328,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Why Redux Need Reducers To Be “Pure Functions”](https://medium.com/@rajaraodv/why-redux-needs-reducers-to-be-pure-functions-d438c58ae468#.vbnighv9l)
     - [x] [Normalizing Redux stores for maximum code reuse.](https://medium.com/@adamrackis/normalizing-redux-stores-for-maximum-code-reuse-ae6e3844ae95#.mpwyjp89y)
     - [x] [Two Weird Tricks with Redux](http://jlongster.com/Two-Weird-Tricks-with-Redux)
+    - [ ] [Firebase with Redux](https://medium.com/@prescottprue/firebase-with-redux-82d04f8675b9#.8ktkrjxhy)
 
   - React-Native
 
@@ -340,6 +345,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Authentication in React Native with Firebase](https://www.sitepoint.com/authentication-in-react-native-with-firebase/)
     - [x] [How to build a hybrid mobile app using Yarn, React Native, MobX and Firebase, 0 to 100 (Real Quick).](https://jsapp.me/react-native-firebase-starter-ebe24d2765d6#.en95g1kfq)
     - [x] [Building Offline First React Native Apps](https://medium.com/differential/building-offline-first-react-native-apps-b958acac0009#.xqphmm3yr)
+    - [ ] [Linking Animations to Scroll Position in React Native](https://medium.com/@albert.brand/linking-animations-to-scroll-position-in-react-native-5c55995f5a6e#.mzuq13mm5)
 
   - Meteor
 
@@ -439,6 +445,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [You Don't Know JS: this & Object Prototypes by Kyle Simpson](https://www.amazon.ca/You-Dont-Know-JS-Prototypes-ebook/dp/B00LPUIB9G/ref=sr_1_5?s=books&ie=UTF8&qid=1470005412&sr=1-5&keywords=kyle+simpson)
   - [ ] [You Don't Know JS: ES6 & Beyond by Kyle Simpson](https://www.amazon.ca/You-Dont-Know-JS-Beyond/dp/1491904240/ref=sr_1_6?s=books&ie=UTF8&qid=1470005412&sr=1-6&keywords=kyle+simpson)
   - [ ] [Single Page Web Applications: JavaScript end-to-end by Michael Mikowski](https://www.amazon.ca/Single-Page-Applications-end---end/dp/1617290750/ref=sr_1_1?ie=UTF8&qid=1473297259&sr=8-1&keywords=single+page+web+applications)
+
+  - MEAN
+
+    - [ ] [MEAN Web Development](https://www.amazon.com/MEAN-Web-Development-Amos-Haviv-ebook/dp/B00NXWI1BM%3FSubscriptionId%3DAKIAJ2HQNLFCLUOUMLHQ%26tag%3Dzippylab-20%26linkCode%3Dsp1%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NXWI1BM&zpy=1)
 
   - Meteor JS
 
