@@ -400,6 +400,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Leaky abstractions](https://www.youtube.com/watch?v=gRsyY0kzXfw)
   - [x] [Make Millions Using API's](https://www.youtube.com/watch?v=HMExxABpn6o)
   - [x] [Create a TinyURL System](http://blog.gainlo.co/index.php/2016/03/08/system-design-interview-question-create-tinyurl-system/?utm_source=quora&utm_medium=What+are+the+http%3A%2F%2Fbit.ly+and+t.co+shortening+algorithms%3F&utm_campaign=quora)
+  - [x] [JSON Web Tokens (JWT) vs Sessions](https://float-middle.com/json-web-tokens-jwt-vs-sessions/)
 
 ## Books
 
@@ -836,6 +837,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [x] [Mongoose - What does the exec function do?](http://stackoverflow.com/questions/31549857/mongoose-what-does-the-exec-function-do)
     - [x] [How to sort a populated document in find request?](http://stackoverflow.com/questions/16352768/how-to-sort-a-populated-document-in-find-request)
+    - [x] [Comparing mongoose _id and strings](http://stackoverflow.com/questions/11637353/comparing-mongoose-id-and-strings)
 
 - JavaScript
 

@@ -9,6 +9,7 @@
 
   - [Thunk](https://github.com/gaearon/redux-thunk)
   - [Pack](https://github.com/lelandrichardson/redux-pack)
+  - [Saga](https://github.com/yelouafi/redux-saga)
 
 - DevTools
 

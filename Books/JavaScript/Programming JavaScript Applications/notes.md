@@ -10,3 +10,4 @@ Higher-order functions are functions that consume or return functions as data. L
 
 ---
 
+Objects don’t guarantee any particular order; arrays do.
