@@ -1,21 +1,20 @@
 We can change this
-```javascript
+```js
 const mapDispatchToProps = (dispatch) => ({
-    onTodoClick(id) {
-        dispatch(toggleTodo(id));
-    }
+  onTodoClick(id) {
+    dispatch(toggleTodo(id));
+  }
 });
 
 const VisibleTodoList = connect(
-    mapStateToProps,
-    mapDispatchToProps
+  mapStateToProps,
+  mapDispatchToProps
 )(TodoList);
-
 ```
 
 To this
 
-```javascript
+```js
 const VisibleTodoList = connect(
     mapStateToProps,
     { onTodoClick: toggleTodo }
