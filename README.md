@@ -101,7 +101,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     + Redux
 
       + [x] [Egghead - Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
-      + [ ] [Egghead - Building React Applications with Idiomatic Redux](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
+      + [x] [Egghead - Building React Applications with Idiomatic Redux](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
       + [x] [Egghead - React-Motion: Animate Multiple Elements with a Single Spring](https://egghead.io/playlists/react-react-animation-using-react-motion)
       + [x] [Pluralsight - React-Redux-ES6](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)
       + [x] [TheNewBoston - React JS / Redux Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a)
@@ -329,6 +329,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Normalizing Redux stores for maximum code reuse.](https://medium.com/@adamrackis/normalizing-redux-stores-for-maximum-code-reuse-ae6e3844ae95#.mpwyjp89y)
     - [x] [Two Weird Tricks with Redux](http://jlongster.com/Two-Weird-Tricks-with-Redux)
     - [ ] [Firebase with Redux](https://medium.com/@prescottprue/firebase-with-redux-82d04f8675b9#.8ktkrjxhy)
+    - [x] [Securing React Redux Apps With JWT Tokens](https://medium.com/@rajaraodv/securing-react-redux-apps-with-jwt-tokens-fcfe81356ea0#.7j5k1nirf)
 
   - React-Native
 
@@ -401,6 +402,13 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Make Millions Using API's](https://www.youtube.com/watch?v=HMExxABpn6o)
   - [x] [Create a TinyURL System](http://blog.gainlo.co/index.php/2016/03/08/system-design-interview-question-create-tinyurl-system/?utm_source=quora&utm_medium=What+are+the+http%3A%2F%2Fbit.ly+and+t.co+shortening+algorithms%3F&utm_campaign=quora)
   - [x] [JSON Web Tokens (JWT) vs Sessions](https://float-middle.com/json-web-tokens-jwt-vs-sessions/)
+  - [x] [JSON Web Tokens: Artsy's Journey](http://artsy.github.io/blog/2016/10/26/jwt-artsy-journey/)
+  - [x] [10 Things You Should Know about Tokens](https://auth0.com/blog/ten-things-you-should-know-about-tokens-and-cookies/)
+  - [x] [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/)
+  - [x] [Cookies vs Tokens. Getting auth right with Angular.JS](https://auth0.com/blog/angularjs-authentication-with-cookies-vs-token/)
+  - [x] [Token-based Authentication with Socket.IO](https://auth0.com/blog/auth-with-socket-io/)
+  - [x] [Use JWT The Right Way!](https://stormpath.com/blog/jwt-the-right-way)
+  - [x] [Token Authentication: The Secret to Scalable User Management](https://stormpath.com/blog/token-authentication-scalable-user-mgmt)
 
 ## Books
 
@@ -640,6 +648,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Building a SaaS - Part 2: Setting Up a Passport with JWT Authentication (Node/Express)](https://www.youtube.com/watch?v=f4F0brwbYKg)
     - [x] [Choosing the Right API Architecture](https://www.youtube.com/watch?v=kgBbvq5WSH4)
     - [x] [Use nodejs-dashboard event loop delay](https://egghead.io/lessons/node-js-use-nodejs-dashboard-event-loop-delay)
+    - [x] [Introduction to JSON Web Tokens](https://www.youtube.com/watch?v=J-9Q469kyJc)
 
     - Deploy
 
@@ -838,6 +847,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Mongoose - What does the exec function do?](http://stackoverflow.com/questions/31549857/mongoose-what-does-the-exec-function-do)
     - [x] [How to sort a populated document in find request?](http://stackoverflow.com/questions/16352768/how-to-sort-a-populated-document-in-find-request)
     - [x] [Comparing mongoose _id and strings](http://stackoverflow.com/questions/11637353/comparing-mongoose-id-and-strings)
+    - [x] [How to protect the password field in Mongoose/MongoDB so it won't return in a query when I populate collections?](http://stackoverflow.com/questions/12096262/how-to-protect-the-password-field-in-mongoose-mongodb-so-it-wont-return-in-a-qu)
 
 - JavaScript
 
@@ -849,6 +859,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [How do I update each dependency in package.json to the latest version?](http://stackoverflow.com/questions/16073603/how-do-i-update-each-dependency-in-package-json-to-the-latest-version)
   - [x] [How to get an array of unique values from an array containing duplicates in JavaScript?](http://stackoverflow.com/questions/13486479/how-to-get-an-array-of-unique-values-from-an-array-containing-duplicates-in-java)
   - [x] [Check if a string starts with http using Javascript](http://stackoverflow.com/questions/11300906/check-if-a-string-starts-with-http-using-javascript)
+  - [x] [How to delete a localStorage item when the browser window/tab is closed?](http://stackoverflow.com/questions/9943220/how-to-delete-a-localstorage-item-when-the-browser-window-tab-is-closed)
 
   - Redux
     - [x] [How to dispatch Redux action from stateless component when route is loaded?](http://stackoverflow.com/questions/39761443/how-to-dispatch-redux-action-from-stateless-component-when-route-is-loaded)

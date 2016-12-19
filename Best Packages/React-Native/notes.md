@@ -10,3 +10,4 @@
 10. [Action-Button](https://github.com/mastermoo/react-native-action-button)
 11. [Router-Flux](https://github.com/aksonov/react-native-router-flux)
 12. [NativeBase](http://nativebase.io/)
+13. [SpinKit](https://github.com/maxs15/react-native-spinkit)

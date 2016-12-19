@@ -27,21 +27,21 @@ You can change too this arrow function
 
 ```javascript
 const mapDispatchToProps = (dispatch) => {
-    return {
-        onTodoClick: (id) => {
-            dispatch(toggleTodo(id));
-        }
+  return {
+    onTodoClick: (id) => {
+      dispatch(toggleTodo(id));
     }
+  }
 };
 ```
 
-For 
+For
 
 ```javascript
 const mapDispatchToProps = (dispatch) => ({
-    onTodoClick(id) {
-        dispatch(toggleTodo(id));
-    }
+  onTodoClick(id) {
+    dispatch(toggleTodo(id));
+  }
 });
 ```
 
@@ -58,13 +58,13 @@ Ex:
 
 ```javascript
 const Root = ({ store }) => (
-    <Provider store={store}>
-        <Router history={browserHistory}>
-            <Route path="/" component={App}>
-                Can have the child here
-            </Route>
-        </Router>
-    </Provider>
+  <Provider store={store}>
+    <Router history={browserHistory}>
+      <Route path="/" component={App}>
+        Can have the child here
+      </Route>
+    </Router>
+  </Provider>
 );
 ```
 
