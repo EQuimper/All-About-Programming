@@ -259,6 +259,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Creating Role Based Authentication with Passport in Ionic 2 – Part 1](http://www.joshmorony.com/creating-role-based-authentication-with-passport-in-ionic-2-part-1/)
     - [x] [Making the Quantum Leap from Node.js to Microservices](https://derickbailey.com/2016/12/12/making-the-quantum-leap-from-node-js-to-microservices/)
     - [ ] [How To Develop A Chat Bot With Node.js](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/)
+    - [x] [Refactoring a Basic, Authenticated API with Node, Express, and Mongo](http://blog.slatepeak.com/refactoring-a-basic-authenticated-api-with-node-express-and-mongo/)
 
     * Testing
       + [ ] [Unit Testing and TDD in Node.js – Part 1](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
@@ -562,10 +563,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [x] [iOS Swift 3 Beginner Tutorial: Protocols & Delegates - Passing Data using the Delegate Method](https://www.youtube.com/watch?v=KhqXUi1SF4s)
 
-- AWS Lambda
+- AWS
 
   - [x] [Introduction to AWS Lambda](https://www.youtube.com/watch?v=eOBq__h4OJ4)
   - [ ] [Get started with AWS Lambda](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSQMe68cti8cupI0mzLk1Gc)
+  - [x] [Introduction to AWS Glue – Fully Managed ETL Service on AWS](https://www.youtube.com/watch?v=PbjDZh6EY9w)
 
 - JavaScript
 
@@ -585,6 +587,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [What is Object-oriented Programming? (JavaScript Tutorial)](https://www.youtube.com/watch?v=rlLuL3jYLvA)
   - [x] [How It Feels To Learn JavaScript In 2016](https://www.youtube.com/watch?v=ss10re-tjwo)
   - [x] [Handle Branching Logic with Ramda's Conditional Functions](https://egghead.io/lessons/javascript-handle-branching-logic-with-ramda-s-conditional-functions)
+  - [x] [Updating nested values with ImmutableJS](https://egghead.io/lessons/javascript-updating-nested-values-with-immutablejs)
+  - [x] [Add and Remove Items in Arrays using Filter, Reject and Partition in Ramda](https://egghead.io/lessons/javascript-ramda-filter-reject-and-partition)
+  - [x] [Use Jest's Snapshot Testing Feature](https://egghead.io/lessons/javascript-use-jest-s-snapshot-testing-feature)
+  - [x] [Test JavaScript with Jest](https://egghead.io/lessons/javascript-test-javascript-with-jest)
+  - [x] [Add Babel Integration with Jest](https://egghead.io/lessons/javascript-add-babel-integration-with-jest)
+  - [x] [Track project code coverage with Jest](https://egghead.io/lessons/javascript-track-project-code-coverage-with-jest)
 
   - Animations
 
@@ -649,6 +657,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Choosing the Right API Architecture](https://www.youtube.com/watch?v=kgBbvq5WSH4)
     - [x] [Use nodejs-dashboard event loop delay](https://egghead.io/lessons/node-js-use-nodejs-dashboard-event-loop-delay)
     - [x] [Introduction to JSON Web Tokens](https://www.youtube.com/watch?v=J-9Q469kyJc)
+    - [x] [Setup an Nginx Proxy for a Node.js App with Docker](https://egghead.io/lessons/node-js-setup-an-nginx-proxy-for-a-node-js-app-with-docker)
+    - [x] [Testing ES6 Promises in Node.js using Mocha and Chai](https://egghead.io/lessons/node-js-testing-es6-promises-in-node-js-using-mocha-and-chai)
 
     - Deploy
 
@@ -726,6 +736,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [React Native Scaling Local Images](https://www.youtube.com/watch?v=OD0qbzM4edY)
     - [ ] [React Native Styling and Basic Routing](https://www.youtube.com/watch?v=QJ_iRLfehSU)
     - [x] [React Native Basic Routing Connection](https://www.youtube.com/watch?v=3eoYEszgp04)
+    - [x] [React Native Flex Layout and minHeight](https://www.youtube.com/watch?v=UzjMSNu5Hqw)
+    - [x] [Create a Custom Map Marker with React Native Maps](https://egghead.io/lessons/react-create-a-custom-map-marker-with-react-native-maps)
 
   - Meteor
 
@@ -848,6 +860,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [How to sort a populated document in find request?](http://stackoverflow.com/questions/16352768/how-to-sort-a-populated-document-in-find-request)
     - [x] [Comparing mongoose _id and strings](http://stackoverflow.com/questions/11637353/comparing-mongoose-id-and-strings)
     - [x] [How to protect the password field in Mongoose/MongoDB so it won't return in a query when I populate collections?](http://stackoverflow.com/questions/12096262/how-to-protect-the-password-field-in-mongoose-mongodb-so-it-wont-return-in-a-qu)
+    - [x] [Populate nested array in mongoose](http://stackoverflow.com/questions/19222520/populate-nested-array-in-mongoose)
 
 - JavaScript
 
