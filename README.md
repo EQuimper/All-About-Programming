@@ -207,7 +207,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [Node.js Async Await in ES7](http://stackabuse.com/node-js-async-await-in-es7/)
   - [x] [JavaScript Debounce Function](https://davidwalsh.name/javascript-debounce-function)
   - [x] [Array.From](https://davidwalsh.name/array-from)
-  - [ ] [Javascript Prototype methods vs Object methods](http://veerasundar.com/blog/2014/02/javascript-prototype-methods-vs-object-methods/)
+  - [x] [Javascript Prototype methods vs Object methods](http://veerasundar.com/blog/2014/02/javascript-prototype-methods-vs-object-methods/)
   - [x] [Sololearn - JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/) - [My Certificate](https://www.sololearn.com/Certificate/1024-605307/pdf/)
   - [ ] [Wesbos - When Not to use an Arrow Function](http://wesbos.com/arrow-function-no-no/)
   - [x] [Replacing switch statements with Object literals](https://toddmotto.com/deprecating-the-switch-statement-for-object-literals/) [Must Read]
@@ -902,3 +902,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - [Alexander Zeitler](https://alexanderzeitler.com/index.html)
 - [The Code Barbarian](http://thecodebarbarian.com/)
 - [miguelgrinberg.com](https://blog.miguelgrinberg.com/index)
+
+## GOOGLE STUDY
+
+ - How Search Works:
+
+  - [x] [The Evolution of Search](https://www.youtube.com/watch?v=mTBShTwCnD4)
