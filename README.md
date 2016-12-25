@@ -554,6 +554,14 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   - [x] [Build Web Apps with Go Language](https://www.youtube.com/watch?v=Vlie-srOU8c&t=5116s)
 
+- Ruby
+
+  - Ruby-On-Rails
+
+    - [ ] [Learn Ruby on Rails - Part 1 - Project Setup and Planning](https://www.youtube.com/watch?v=JdBWb7jWALg)
+    - [x] [Apprendre Ruby on Rails : Models, les callbacks](https://www.youtube.com/watch?v=MG6HtVwLAbU&t=671s) [French]
+    - [x] [Apprendre Ruby on Rails : Models, associations](https://www.youtube.com/watch?v=2VtNDsT2i-8) [French]
+
 - IOS
 
   - [x] [How to get a job as an iOS developer](https://www.youtube.com/watch?annotation_id=annotation_3744773509&feature=iv&src_vid=2BU1GjldFoE&v=MQ9hTArNzPw)
@@ -908,3 +916,4 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
  - How Search Works:
 
   - [x] [The Evolution of Search](https://www.youtube.com/watch?v=mTBShTwCnD4)
+  - [x] [HOW SEARCH WORKS](https://www.google.com/insidesearch/howsearchworks/thestory/)
