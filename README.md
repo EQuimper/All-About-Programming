@@ -209,11 +209,13 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Array.From](https://davidwalsh.name/array-from)
   - [x] [Javascript Prototype methods vs Object methods](http://veerasundar.com/blog/2014/02/javascript-prototype-methods-vs-object-methods/)
   - [x] [Sololearn - JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/) - [My Certificate](https://www.sololearn.com/Certificate/1024-605307/pdf/)
-  - [ ] [Wesbos - When Not to use an Arrow Function](http://wesbos.com/arrow-function-no-no/)
+  - [x] [Wesbos - When Not to use an Arrow Function](http://wesbos.com/arrow-function-no-no/)
+  - [x] [Wesbos - JavaScript Arrow Functions and this scoping](http://wesbos.com/arrow-functions-this-javascript/)
+  - [x] [Wesbos - Rename & Destructure Variables in ES6](http://wesbos.com/destructuring-renaming/)
   - [x] [Replacing switch statements with Object literals](https://toddmotto.com/deprecating-the-switch-statement-for-object-literals/) [Must Read]
   - [x] [Javascript Array Methods: Unshift(), Shift(), Push(), And Pop()](https://www.bennadel.com/blog/1796-javascript-array-methods-unshift-shift-push-and-pop.htm)
   - [x] [ECMAScript 6 and Rest Parameter](https://ariya.io/2013/03/es6-and-rest-parameter)
-  - [ ] [Understand JavaScript’s “this” With Clarity, and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
+  - [x] [Understand JavaScript’s “this” With Clarity, and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 
   - Electron
 
@@ -250,7 +252,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [How to send server email with Node.js - sendgrid, mandrill, mailgun, etc.](https://www.youtube.com/watch?v=zrXOjWICmGw&index=4&list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh)
     - [x] [Responsive HTML Email with Node.js - Send Rich, Responsive HTML Emails Using Ink, Yeoman & Express](https://www.youtube.com/watch?v=FrB8mxdWR7o&list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh&index=5)
     - [x] [Everything You Ever Wanted To Know About Authentication in Node.js](https://www.youtube.com/watch?v=yvviEA1pOXw)
-    - [ ] [How To Implement Password Reset In Node.js](http://sahatyalkabov.com/how-to-implement-password-reset-in-nodejs/)
+    - [x] [How To Implement Password Reset In Node.js](http://sahatyalkabov.com/how-to-implement-password-reset-in-nodejs/)
     - [ ] [MongoDB CRUD the MVC way with Passport Authentication](https://hackhands.com/mongodb-crud-mvc-way-with-passport-authentication/)
     - [ ] [RESTful Example using ExpressJS + Node.js + MongooseJS](http://javabeat.net/expressjs-nodejs-mongoosejs/)
     - [x] [Route Middleware to Check if a User is Authenticated in Node.js](https://scotch.io/tutorials/route-middleware-to-check-if-a-user-is-authenticated-in-node-js)
@@ -578,6 +580,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Introduction to AWS Lambda](https://www.youtube.com/watch?v=eOBq__h4OJ4)
   - [ ] [Get started with AWS Lambda](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSQMe68cti8cupI0mzLk1Gc)
   - [x] [Introduction to AWS Glue – Fully Managed ETL Service on AWS](https://www.youtube.com/watch?v=PbjDZh6EY9w)
+  - [x] [Lambda Day - Building with the Serverless Framework](https://www.youtube.com/watch?v=BKx9vxxuZXY)
+  - [x] [Getting Started with the Serverless Framework – V.1 Beta 1](https://www.youtube.com/watch?v=weOsx5rLWX0)
+  - [x] [Getting started with Serverless, Lambda (nodejs), API Gateway, DynamoDB](https://www.youtube.com/watch?v=--E-7jpeHFo)
+  - [x] [Building Scalable Web Applications Using Microservices Architecture and NodeJS inside AWS Lambda](https://www.youtube.com/watch?v=n_MDBaKLuG4)
+
 
 - JavaScript
 
@@ -605,6 +612,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Track project code coverage with Jest](https://egghead.io/lessons/javascript-track-project-code-coverage-with-jest)
   - [x] [JavaScript spread operator and rest parameters tutorial ES6 / ES2015](https://www.youtube.com/watch?v=kGl0B9tqrlg)
   - [x] [JavaScript Tutorial For Beginners #29 - THIS Keyword](https://www.youtube.com/watch?v=yVdU2coJ1VQ)
+  - [x] [Advanced JavaScript - This Keyword](https://www.youtube.com/watch?v=KtoA_S4pVZ8)
+  - [ ] [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be)
 
   - Animations
 
@@ -837,6 +846,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Why the founder of Rails rejects 80% of Software Engineer applicants](https://www.youtube.com/watch?v=qf6abZeAJh4)
   - [x] [What I would learn in 2017 | Web Development](https://www.youtube.com/watch?v=2BU1GjldFoE)
   - [ ] [YouTube, Coding and Job Interviews: Ft. Eric Hanchet](https://www.youtube.com/watch?v=xo4-L7mzoJA)
+  - [x] [Microservices Architecture](https://www.youtube.com/watch?v=QAvYmDeA-mg)
 
 ## Start-Up Stuff
 
