@@ -1,4 +1,6 @@
-# Lambda
+# Functional Programming
+
+## Lambda
 
 A lambda is a function that is used as data.
 
@@ -8,6 +10,38 @@ Higher-order functions are functions that consume or return functions as data. L
 
 *If a function is used as an argument or return value, it’s a lambda.*
 
+Objects don’t guarantee any particular order; arrays do.
+
+## Stateless Functions (aka Pure Functions)
+
+Pure functions are stateless. This means that they do not use or modify variables, objects, or arrays that were defined outside the function.
+
+Because you don’t have to worry about clobbering shared data, stateless functions can often be run in parallel, meaning that it’s much easier to scale computation horizontally across a large number of worker nodes. In other words, stateless functions are great for high-concurrency applications.
+
+## Asynchronous Operations
+
+Asynchronous operations are operations that happen outside the linear flow of program execution. Normally, the JavaScript engine will execute code line by line, in order from top to bottom, following the normal flow of your program (such as function calls, conditional logic, etc.).
+
+Asynchronous operations are broken up into two phases: call and response. By definition, it’s impossible to know at what point in the program flow you’ll be when you receive an asynchronous response. There are a couple of popular ways to manage that uncertainty.
+
+## Callbacks
+
+Callbacks are functions that you pass as arguments to be invoked when the callee has finished its job.
+
+Callbacks work great when you’re only waiting for one operation at a time, or when you only have one job to do when the response comes back
+
+## Promises and Deferreds
+
+Promises are objects that allow you to add callback functions to success or failure queues. Instead of calling a callback function in response to the completion of an asynchronous (or synchronous) operation, you return a promise, which allows you to register any number of callbacks.
+
+The difference between a promise and a callback is that a promise is an object that gets returned from the callee, instead of a function that gets passed into and invoked by the callee. With promises, it’s much easier to add additional callbacks if you need them and to isolate those callbacks from each other so that the callback code can be organized independently of the initiating call.
+
+A deferred is the object that controls the promise, with a few extra methods.
+
+Promises really shine when you need to orchestrate a complex sequence of events. It’s sometimes necessary to gather data from multiple sources prior to getting data from yet another source.
+
 ---
 
-Objects don’t guarantee any particular order; arrays do.
+# Objects
+
+You may be aware that JavaScript is not a classical OO language. It’s a prototypal language.
