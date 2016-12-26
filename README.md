@@ -212,6 +212,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [Wesbos - When Not to use an Arrow Function](http://wesbos.com/arrow-function-no-no/)
   - [x] [Replacing switch statements with Object literals](https://toddmotto.com/deprecating-the-switch-statement-for-object-literals/) [Must Read]
   - [x] [Javascript Array Methods: Unshift(), Shift(), Push(), And Pop()](https://www.bennadel.com/blog/1796-javascript-array-methods-unshift-shift-push-and-pop.htm)
+  - [x] [ECMAScript 6 and Rest Parameter](https://ariya.io/2013/03/es6-and-rest-parameter)
+  - [ ] [Understand JavaScript’s “this” With Clarity, and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 
   - Electron
 
@@ -601,6 +603,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Test JavaScript with Jest](https://egghead.io/lessons/javascript-test-javascript-with-jest)
   - [x] [Add Babel Integration with Jest](https://egghead.io/lessons/javascript-add-babel-integration-with-jest)
   - [x] [Track project code coverage with Jest](https://egghead.io/lessons/javascript-track-project-code-coverage-with-jest)
+  - [x] [JavaScript spread operator and rest parameters tutorial ES6 / ES2015](https://www.youtube.com/watch?v=kGl0B9tqrlg)
+  - [x] [JavaScript Tutorial For Beginners #29 - THIS Keyword](https://www.youtube.com/watch?v=yVdU2coJ1VQ)
 
   - Animations
 
@@ -881,6 +885,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [How to get an array of unique values from an array containing duplicates in JavaScript?](http://stackoverflow.com/questions/13486479/how-to-get-an-array-of-unique-values-from-an-array-containing-duplicates-in-java)
   - [x] [Check if a string starts with http using Javascript](http://stackoverflow.com/questions/11300906/check-if-a-string-starts-with-http-using-javascript)
   - [x] [How to delete a localStorage item when the browser window/tab is closed?](http://stackoverflow.com/questions/9943220/how-to-delete-a-localstorage-item-when-the-browser-window-tab-is-closed)
+  - [x] [Spread operator vs Rest parameter in ES2015/es6](http://stackoverflow.com/questions/33898512/spread-operator-vs-rest-parameter-in-es2015-es6)
 
   - Redux
     - [x] [How to dispatch Redux action from stateless component when route is loaded?](http://stackoverflow.com/questions/39761443/how-to-dispatch-redux-action-from-stateless-component-when-route-is-loaded)
