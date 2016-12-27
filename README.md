@@ -615,6 +615,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [JavaScript Tutorial For Beginners #29 - THIS Keyword](https://www.youtube.com/watch?v=yVdU2coJ1VQ)
   - [x] [Advanced JavaScript - This Keyword](https://www.youtube.com/watch?v=KtoA_S4pVZ8)
   - [ ] [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be)
+  - [x] [JavaScript30 - Playing with CSS Variables and JS](https://javascript30.com/account/access/5849ebb059cff71e8ec6b4c8/view/7d393d4398) [Must Watch]
+  - [x] [JavaScript30 - Array Cardio Day 1](https://javascript30.com/account/access/5849ebb059cff71e8ec6b4c8/view/3dabaeb847) [Must Watch]
+  - [x] [JavaScript30 - Flex Panels Image Gallery](https://javascript30.com/account/access/5849ebb059cff71e8ec6b4c8/view/79e868b8d2) [Must Watch]
+  - [x] [JavaScript30 - Ajax Type Ahead](https://javascript30.com/account/access/5849ebb059cff71e8ec6b4c8/view/52274a9855) [Must Watch]
+  - [x] [javascript30 - Array Cardio Day 2](https://javascript30.com/account/access/5849ebb059cff71e8ec6b4c8/view/69434c666b)
 
   - Animations
 
