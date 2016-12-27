@@ -264,6 +264,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Making the Quantum Leap from Node.js to Microservices](https://derickbailey.com/2016/12/12/making-the-quantum-leap-from-node-js-to-microservices/)
     - [ ] [How To Develop A Chat Bot With Node.js](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/)
     - [x] [Refactoring a Basic, Authenticated API with Node, Express, and Mongo](http://blog.slatepeak.com/refactoring-a-basic-authenticated-api-with-node-express-and-mongo/)
+    - [x] [Create an SMS bot on AWS Lambda with Claudia.js](https://www.twilio.com/blog/2016/12/create-an-sms-bot-on-aws-lambda-with-claudia-js.html)
 
     * Testing
       + [ ] [Unit Testing and TDD in Node.js – Part 1](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
@@ -680,6 +681,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Introduction to JSON Web Tokens](https://www.youtube.com/watch?v=J-9Q469kyJc)
     - [x] [Setup an Nginx Proxy for a Node.js App with Docker](https://egghead.io/lessons/node-js-setup-an-nginx-proxy-for-a-node-js-app-with-docker)
     - [x] [Testing ES6 Promises in Node.js using Mocha and Chai](https://egghead.io/lessons/node-js-testing-es6-promises-in-node-js-using-mocha-and-chai)
+    - [x] [Node.js Tutorial for Beginners 12 - Basics of Streams - Writable Streams](https://www.youtube.com/watch?v=VInSrQ929m4)
 
     - Deploy
 
@@ -847,6 +849,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [What I would learn in 2017 | Web Development](https://www.youtube.com/watch?v=2BU1GjldFoE)
   - [ ] [YouTube, Coding and Job Interviews: Ft. Eric Hanchet](https://www.youtube.com/watch?v=xo4-L7mzoJA)
   - [x] [Microservices Architecture](https://www.youtube.com/watch?v=QAvYmDeA-mg)
+  - [ ] [Containers and Microservices: New Ways to Deploy and Manage Applications at Scale](https://www.youtube.com/watch?v=7ZFBn_e27o0)
 
 ## Start-Up Stuff
 
