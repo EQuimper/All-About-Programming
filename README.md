@@ -614,12 +614,18 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [JavaScript spread operator and rest parameters tutorial ES6 / ES2015](https://www.youtube.com/watch?v=kGl0B9tqrlg)
   - [x] [JavaScript Tutorial For Beginners #29 - THIS Keyword](https://www.youtube.com/watch?v=yVdU2coJ1VQ)
   - [x] [Advanced JavaScript - This Keyword](https://www.youtube.com/watch?v=KtoA_S4pVZ8)
-  - [ ] [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be)
+  - [x] [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be)
   - [x] [JavaScript30 - Playing with CSS Variables and JS](https://javascript30.com/account/access/5849ebb059cff71e8ec6b4c8/view/7d393d4398) [Must Watch]
   - [x] [JavaScript30 - Array Cardio Day 1](https://javascript30.com/account/access/5849ebb059cff71e8ec6b4c8/view/3dabaeb847) [Must Watch]
   - [x] [JavaScript30 - Flex Panels Image Gallery](https://javascript30.com/account/access/5849ebb059cff71e8ec6b4c8/view/79e868b8d2) [Must Watch]
   - [x] [JavaScript30 - Ajax Type Ahead](https://javascript30.com/account/access/5849ebb059cff71e8ec6b4c8/view/52274a9855) [Must Watch]
-  - [x] [javascript30 - Array Cardio Day 2](https://javascript30.com/account/access/5849ebb059cff71e8ec6b4c8/view/69434c666b)
+  - [x] [Javascript30 - Array Cardio Day 2](https://javascript30.com/account/access/5849ebb059cff71e8ec6b4c8/view/69434c666b)
+  - [x] [JavaScript30 - Fun with HTML5 Canvas](https://javascript30.com/account/access/5849ebb059cff71e8ec6b4c8/view/8d28c22461)
+  - [x] [JavaScript30 - 14 Must Know Dev Tools Tricks](https://javascript30.com/account/access/5849ebb059cff71e8ec6b4c8/view/49ef1c34a5)
+  - [x] [JavaScript30 - Hold Shift to Check Multiple Checkboxes](https://javascript30.com/account/access/5849ebb059cff71e8ec6b4c8/view/ccb902303b)
+  - [x] [JavaScript30 - Custom HTML5 Video Player](https://javascript30.com/account/access/5849ebb059cff71e8ec6b4c8/view/25a2e75e68) [Must Watch]
+  - [x] [JavaScript30 - Key Sequence Detection (KONAMI CODE)](https://javascript30.com/account/access/5849ebb059cff71e8ec6b4c8/view/8c9923be54)
+  - [x] [JavaScript30 - Slide In on Scroll](https://javascript30.com/account/access/5849ebb059cff71e8ec6b4c8/view/6595d1f7b7) [Must Watch]
 
   - Animations
 
