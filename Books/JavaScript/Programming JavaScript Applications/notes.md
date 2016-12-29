@@ -45,3 +45,9 @@ Promises really shine when you need to orchestrate a complex sequence of events.
 # Objects
 
 You may be aware that JavaScript is not a classical OO language. It’s a prototypal language.
+
+## Prototypes
+
+These allow you to clone instances of existing objects to create new ones and share generic methods on a delegate object.
+
+A prototype is an object intended to model other objects after. It is similar to a class in that you can use it to construct any number of object instances, but different in the sense that it is an object itself. There are two ways that prototypes can be used: you can delegate access to a single, shared prototype object (called a delegate), or you can make clones of the prototype.
