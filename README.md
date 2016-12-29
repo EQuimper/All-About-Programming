@@ -297,6 +297,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Killing CORS Preflight Requests on a React SPA](http://damon.ghost.io/killing-cors-preflight-requests-on-a-react-spa/)
     - [x] [How to handle state in React. The missing FAQ.](https://medium.com/react-ecosystem/how-to-handle-state-in-react-6f2d3cd73a0c#.rpr0sc979)
     - [ ] [Creating a Single-Page App in React using React Router](https://www.kirupa.com/react/creating_single_page_app_react_using_react_router.htm)
+    - [x] [From ReactJS to React-Native, what are the main differences between both?](https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-differences-between-both-d6e8e88ebf24#.nwm8x6api)
+    - [ ] [How to Build a Todo App Using React, Redux, and Immutable.js](https://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/)
 
   - MobX
 
@@ -897,6 +899,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Comparing mongoose _id and strings](http://stackoverflow.com/questions/11637353/comparing-mongoose-id-and-strings)
     - [x] [How to protect the password field in Mongoose/MongoDB so it won't return in a query when I populate collections?](http://stackoverflow.com/questions/12096262/how-to-protect-the-password-field-in-mongoose-mongodb-so-it-wont-return-in-a-qu)
     - [x] [Populate nested array in mongoose](http://stackoverflow.com/questions/19222520/populate-nested-array-in-mongoose)
+    - [x] [Mongoose 'static' methods vs. 'instance' methods](http://stackoverflow.com/questions/29664499/mongoose-static-methods-vs-instance-methods)
 
 - JavaScript
 
