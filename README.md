@@ -183,6 +183,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Elixir broke my imperative mind](https://medium.com/magnetis-backstage/elixir-broke-my-imperative-mind-5d2fb2d53502#.hev7n43t6)
   - [x] [Moving Beyond Ruby](http://blog.danielberkompas.com/ruby/elixir/2015/02/09/moving-beyond-ruby.html)
   - [ ] [How Discord handles push request bursts of over a million per minute with Elixir’s GenStage](https://discord.engineering/how-discord-handles-push-request-bursts-of-over-a-million-per-minute-with-elixirs-genstage-8f899f0221b4#.323ovuplf)
+  - [x] [How Elixir helped us scale our Video User Profile Service for the Olympics](https://blog.emerleite.com/how-elixir-helped-us-to-scale-our-video-user-profile-service-for-the-olympics-dd7fbba1ad4e#.estbtnaxj)
 
 - Github
 
@@ -216,6 +217,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Javascript Array Methods: Unshift(), Shift(), Push(), And Pop()](https://www.bennadel.com/blog/1796-javascript-array-methods-unshift-shift-push-and-pop.htm)
   - [x] [ECMAScript 6 and Rest Parameter](https://ariya.io/2013/03/es6-and-rest-parameter)
   - [x] [Understand JavaScript’s “this” With Clarity, and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
+  - [ ] [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
+  - [ ] [Scalable JavaScript Application Architecture](http://www.slideshare.net/nzakas/scalable-javascript-application-architecture)
 
   - Electron
 
@@ -299,6 +302,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Creating a Single-Page App in React using React Router](https://www.kirupa.com/react/creating_single_page_app_react_using_react_router.htm)
     - [x] [From ReactJS to React-Native, what are the main differences between both?](https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-differences-between-both-d6e8e88ebf24#.nwm8x6api)
     - [ ] [How to Build a Todo App Using React, Redux, and Immutable.js](https://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/)
+    - [x] [Async Await with React Lifecycle methods](https://medium.com/@dalejefferson/async-await-with-react-lifecycle-methods-802e7760d802#.nz8pyn50f)
+
+  - Webpack
+
+    - [ ] [Getting Started with Webpack 2](https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783#.k9am1oaqq)
 
   - MobX
 
@@ -568,6 +576,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Learn Ruby on Rails - Part 1 - Project Setup and Planning](https://www.youtube.com/watch?v=JdBWb7jWALg)
     - [x] [Apprendre Ruby on Rails : Models, les callbacks](https://www.youtube.com/watch?v=MG6HtVwLAbU&t=671s) [French]
     - [x] [Apprendre Ruby on Rails : Models, associations](https://www.youtube.com/watch?v=2VtNDsT2i-8) [French]
+    - [ ] [GoRails - Rails Admin Interfaces with ActiveAdmin](https://www.youtube.com/watch?v=NJYtzznKrg0)
 
 - IOS
 
@@ -774,6 +783,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [React Native Basic Routing Connection](https://www.youtube.com/watch?v=3eoYEszgp04)
     - [x] [React Native Flex Layout and minHeight](https://www.youtube.com/watch?v=UzjMSNu5Hqw)
     - [x] [Create a Custom Map Marker with React Native Maps](https://egghead.io/lessons/react-create-a-custom-map-marker-with-react-native-maps)
+    - [x] [Create a Button Shake Animation in React Native](https://egghead.io/lessons/react-create-a-button-shake-animation-in-react-native)
+    - [x] [Use Flex to Scale React Native Background Image](https://egghead.io/lessons/react-use-flex-to-scale-react-native-background-image)
 
   - Meteor
 
@@ -832,6 +843,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Why use a static site generator - Jekyll Casts](https://www.youtube.com/watch?v=FOfIoCi9uTI)
   - [x] [Layers for Composition (The Standard, Ep. 1)](https://www.youtube.com/watch?v=II6Szc2UPxw&list=PLNYkxOF6rcIB1V2i_qfRtDMcY6YZK1lkt)
   - [x] [Align Content Vertically (The Standard, Ep. 4)](https://www.youtube.com/watch?v=5IP43MTfj0E)
+  - [x] [Conditionally Apply Styles Using Feature Queries](https://egghead.io/lessons/css-conditionally-apply-styles-using-feature-queries)
 
     - UI/UX Design Prototype & Animations
 
@@ -863,6 +875,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [YouTube, Coding and Job Interviews: Ft. Eric Hanchet](https://www.youtube.com/watch?v=xo4-L7mzoJA)
   - [x] [Microservices Architecture](https://www.youtube.com/watch?v=QAvYmDeA-mg)
   - [ ] [Containers and Microservices: New Ways to Deploy and Manage Applications at Scale](https://www.youtube.com/watch?v=7ZFBn_e27o0)
+  - [x] [Web Development Guide In 2017](https://www.youtube.com/watch?v=8BT048fiP3E)
 
 ## Start-Up Stuff
 
@@ -928,6 +941,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - React-Native
     - [x] [How do I use a captured image with react-native-camera](http://stackoverflow.com/questions/33155067/how-do-i-use-a-captured-image-with-react-native-camera)
     - [x] [How to re render ListView items](https://www.reddit.com/r/reactnative/comments/33wmu4/how_to_re_render_listview_items/)
+    - [x] [ListView fails to scroll](http://stackoverflow.com/questions/32874559/listview-fails-to-scroll)
 
 ## Be more Productive
 
