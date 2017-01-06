@@ -69,7 +69,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Create An HTML5 Video Player From Scratch](https://www.udemy.com/html5-video-player) - [My Certificate](https://www.udemy.com/certificate/UC-7R8A2RNR/)
   - [x] [Udacity - JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
   - [x] [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/) - [My Certificate](https://www.udemy.com/certificate/UC-UVMJE4KT/)
-  - [ ] [Learning Data Structures in JavaScript from scratch](https://www.udemy.com/learning-data-structures-in-javascript-from-scratch/)
+  - [x] [Learning Data Structures in JavaScript from scratch](https://www.udemy.com/learning-data-structures-in-javascript-from-scratch/) - [My Certificate](https://www.udemy.com/certificate/UC-P7TV6TC8/)
 
   - Angular 1
 
