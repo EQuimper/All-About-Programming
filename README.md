@@ -68,6 +68,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [Pluralsight - Building Scalable APIs with GraphQL](https://app.pluralsight.com/library/courses/graphql-scalable-apis/table-of-contents)
   - [x] [Create An HTML5 Video Player From Scratch](https://www.udemy.com/html5-video-player) - [My Certificate](https://www.udemy.com/certificate/UC-7R8A2RNR/)
   - [x] [Udacity - JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
+  - [x] [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/) - [My Certificate](https://www.udemy.com/certificate/UC-UVMJE4KT/)
+  - [ ] [Learning Data Structures in JavaScript from scratch](https://www.udemy.com/learning-data-structures-in-javascript-from-scratch/)
 
   - Angular 1
 
@@ -268,6 +270,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [How To Develop A Chat Bot With Node.js](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/)
     - [x] [Refactoring a Basic, Authenticated API with Node, Express, and Mongo](http://blog.slatepeak.com/refactoring-a-basic-authenticated-api-with-node-express-and-mongo/)
     - [x] [Create an SMS bot on AWS Lambda with Claudia.js](https://www.twilio.com/blog/2016/12/create-an-sms-bot-on-aws-lambda-with-claudia-js.html)
+    - [ ] [13 best practices to secure your web application](http://nodewebapps.com/2017/01/03/13-security-best-practices-for-your-web-application/)
 
     * Testing
       + [ ] [Unit Testing and TDD in Node.js – Part 1](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
@@ -303,6 +306,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [From ReactJS to React-Native, what are the main differences between both?](https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-differences-between-both-d6e8e88ebf24#.nwm8x6api)
     - [ ] [How to Build a Todo App Using React, Redux, and Immutable.js](https://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/)
     - [x] [Async Await with React Lifecycle methods](https://medium.com/@dalejefferson/async-await-with-react-lifecycle-methods-802e7760d802#.nz8pyn50f)
+    - [ ] [Collecting data from a wizard form](https://goshakkk.name/wizard-form-collect-info/)
 
   - Webpack
 
@@ -397,6 +401,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [Mastering CSS Coding: Getting Started](https://www.smashingmagazine.com/2009/10/mastering-css-coding-getting-started/#CSS-Basics1)
   - [x] [Devtips - Design & Code a Mobile First Landing Page!](https://www.youtube.com/watch?v=2750Vj-hMq8&list=PLqGj3iMvMa4KXCYyFCQnC2ZNmZyoMAj8L)
   - [ ] [Devtips - Zurb Foundation Grid](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LJo_lBMTJwAlQRElulSeL8)
+  - [x] [A Look Into: Using CSS Variables](http://www.hongkiat.com/blog/css-variables/)
 
 - Python
 
@@ -637,6 +642,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [JavaScript30 - Custom HTML5 Video Player](https://javascript30.com/account/access/5849ebb059cff71e8ec6b4c8/view/25a2e75e68) [Must Watch]
   - [x] [JavaScript30 - Key Sequence Detection (KONAMI CODE)](https://javascript30.com/account/access/5849ebb059cff71e8ec6b4c8/view/8c9923be54)
   - [x] [JavaScript30 - Slide In on Scroll](https://javascript30.com/account/access/5849ebb059cff71e8ec6b4c8/view/6595d1f7b7) [Must Watch]
+  - [x] [Mike North talks Async and Await in ES7 Javascript at Modern Web UI](https://www.youtube.com/watch?v=8GLu_NO0XLY)
+  - [x] [JavaScript Ep. 12: JavaScript Async Await](https://www.youtube.com/watch?v=4PB-JVNP_bE&t=62s)
+  - [x] [ES2016 - async await](https://www.youtube.com/watch?v=D0fn9sW93ko)
+  - [x] [The Easiest Guide to Understanding Async and Await in JavaScript](https://www.youtube.com/watch?v=EmTYi3Myntk)
+  - [x] [Javascript ES7 - Async / Await in under 3 minutes](https://www.youtube.com/watch?v=COKdtOgopWQ)
 
   - Animations
 
@@ -741,9 +751,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Client-side routing with react-router (Part 1)](https://www.youtube.com/watch?annotation_id=annotation_3467643795&feature=iv&src_vid=Yqnk_kjVPH4&v=r9rWABuGPpQ)
     - [x] [Client-side routing with react-router (Part 2)](https://www.youtube.com/watch?annotation_id=annotation_887662967&feature=iv&src_vid=r9rWABuGPpQ&v=9T8DeVWCXE0)
     - [x] [Reactjs - Speed up Server Side Rendering](https://www.youtube.com/watch?v=PnpfGy7q96U&t=2s) [Good One]
+    - [x] [Why, What, and How of React Fiber with Dan Abramov and Andrew Clark](https://www.youtube.com/watch?v=crM1iRVGpGQ)
 
   - Redux
 
+    - [x] [Netflix JavaScript Talks - RxJS + Redux + React = Amazing!](https://www.youtube.com/watch?v=AslncyG8whg)
     - [x] [Rally Coding - The Best Way to Store Data](https://www.youtube.com/watch?v=aJxcVidE0I0)
     - [x] [Rally Coding - A Better Way to Load Data](https://www.youtube.com/watch?v=JicUNpwLzLY)
     - [x] [Rally Coding - Basics of Redux Thunk](https://www.youtube.com/watch?v=1QI-UE3-0PU&feature=youtu.be)

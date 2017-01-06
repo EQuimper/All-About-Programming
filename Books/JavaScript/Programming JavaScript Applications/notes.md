@@ -55,3 +55,4 @@ A prototype is an object intended to model other objects after. It is similar to
 ---
 
 For large-scale applications, it’s usually also necessary that tiers can **scale horizontally**, meaning that as **demand increases**, you can add machines to a tier in order to improve its capacity to meet that demand.
+e
