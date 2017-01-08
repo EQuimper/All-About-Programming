@@ -647,6 +647,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [ES2016 - async await](https://www.youtube.com/watch?v=D0fn9sW93ko)
   - [x] [The Easiest Guide to Understanding Async and Await in JavaScript](https://www.youtube.com/watch?v=EmTYi3Myntk)
   - [x] [Javascript ES7 - Async / Await in under 3 minutes](https://www.youtube.com/watch?v=COKdtOgopWQ)
+  - [x] [Javascript ES6 Cheatsheet - the best of JS ES6](https://www.youtube.com/watch?v=AfWYO8t7ed4)
+  - [x] [Factory Functions in JavaScript](https://www.youtube.com/watch?v=ImwrezYhw4w)
+  - [x] [Prototypes in JavaScript](https://www.youtube.com/watch?v=riDVvXZ_Kb4)
+  - [x] [Prototype basics - Object Creation in JavaScript](https://www.youtube.com/watch?v=YkoelSTUy7A)
+  - [x] [Object.create - Object Creation in JavaScript](https://www.youtube.com/watch?v=CDFN1VatiJA&list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub&index=6)
+  - [x] [Debating the observable pattern](https://www.youtube.com/watch?v=OQqouBWgpDA)
 
   - Animations
 
@@ -714,6 +720,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Setup an Nginx Proxy for a Node.js App with Docker](https://egghead.io/lessons/node-js-setup-an-nginx-proxy-for-a-node-js-app-with-docker)
     - [x] [Testing ES6 Promises in Node.js using Mocha and Chai](https://egghead.io/lessons/node-js-testing-es6-promises-in-node-js-using-mocha-and-chai)
     - [x] [Node.js Tutorial for Beginners 12 - Basics of Streams - Writable Streams](https://www.youtube.com/watch?v=VInSrQ929m4)
+    - [x] [Should you Learn Node js in 2017](https://www.youtube.com/watch?v=ahXOaHv9XYo)
+    - [x] [EXTREMELY FAST & SIMPLE CI TESTING - SemaphoreCI](https://www.youtube.com/watch?v=OQAifaOEmVo)
+    - [x] [DRASTICALLY IMPROVE YOUR WORKFLOW WITH CONTINUOUS DEPLOYMENT](https://www.youtube.com/watch?v=RdOhgdnIhQI)
+    - [x] [Specializing in Node.js/Full Stack Development](https://www.youtube.com/watch?v=klju9iTRHxQ)
 
     - Deploy
 
@@ -888,6 +898,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Microservices Architecture](https://www.youtube.com/watch?v=QAvYmDeA-mg)
   - [ ] [Containers and Microservices: New Ways to Deploy and Manage Applications at Scale](https://www.youtube.com/watch?v=7ZFBn_e27o0)
   - [x] [Web Development Guide In 2017](https://www.youtube.com/watch?v=8BT048fiP3E)
+  - [x] [Five Channels Every Developer Should Watch in 2017](https://www.youtube.com/watch?v=xRTUiKzZlj8)
+  - [x] [Unit tests vs. Integration tests](https://www.youtube.com/watch?v=vqAaMVoKz1c)
+  - [x] [The BEST way to do mocking](https://www.youtube.com/watch?v=fgqh-OZjpYY)
+  - [x] [Unit testing: How to get your team started](https://www.youtube.com/watch?v=TWBDa5dqrl8)
 
 ## Start-Up Stuff
 
