@@ -95,6 +95,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - React.JS
 
     + [ ] [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
+    + [x] [TutsPlus - Code a Universal React App](https://code.tutsplus.com/courses/code-a-universal-react-app)
+    + [x] [TutsPlus - Unit Testing React Components](https://code.tutsplus.com/courses/unit-testing-react-components)
 
     + MobX
 
@@ -110,12 +112,14 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
       + [x] [Wes Bos - Learn Redux](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5uyzEWxdlr9WQTJJIzr6jy)
       + [x] [Stephen Grider - Modern React with Redux](https://www.udemy.com/react-redux/)
       + [x] [Stephen Grider - Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/)
+      + [ ] [TutsPlus - Modern Web Apps With React and Redux](https://code.tutsplus.com/courses/modern-web-apps-with-react-and-redux)
 
   - React-Native
 
-    - [ ] [Stephen Grider - Build Apps with React Native](https://www.udemy.com/reactnative/)
+    - [x] [Stephen Grider - Build Apps with React Native](https://www.udemy.com/reactnative/)
     - [ ] [Pluralsight - Build Cross Platform React Native Apps with Exponent and Redux](https://app.pluralsight.com/library/courses/build-react-native-exponent-redux-apps/table-of-contents)
     - [x] [The Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course) - [My Certificate](https://www.udemy.com/certificate/UC-D5Z83TCZ/)
+    - [ ] [TutsPlus - Build a Social App With React Native](https://code.tutsplus.com/courses/build-a-social-app-with-react-native)
 
   - RxJS
 
@@ -133,6 +137,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - Programming Stuff
 
   - [x] [Egghead - How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+  - [x] [TutsPlus - Testing REST APIs With Postma])https://code.tutsplus.com/courses/testing-rest-apis-with-postman/lessons/testing-rest-apis-with-postman
 
 ## Articles + Tutorials
 
@@ -307,6 +312,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [How to Build a Todo App Using React, Redux, and Immutable.js](https://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/)
     - [x] [Async Await with React Lifecycle methods](https://medium.com/@dalejefferson/async-await-with-react-lifecycle-methods-802e7760d802#.nz8pyn50f)
     - [ ] [Collecting data from a wizard form](https://goshakkk.name/wizard-form-collect-info/)
+    - [x] [Using a function in `setState` instead of an object](https://medium.com/@shopsifter/using-a-function-in-setstate-instead-of-an-object-1f5cfd6e55d1#.gtnrx55cc)
+    - [x] [Testing a React-Redux app using Jest and Enzyme](https://medium.com/@gethylgeorge/testing-a-react-redux-app-using-jest-and-enzyme-b349324803a9#.sknvgofxo)
+    - [x] [Migrating to Jest](https://medium.com/@kentcdodds/migrating-to-jest-881f75366e7e#.98tnc35mr)
+    - [x] [Testing React components with Jest and Enzyme](https://hackernoon.com/testing-react-components-with-jest-and-enzyme-41d592c174f#.uub30kw9x)
 
   - Webpack
 
@@ -653,6 +662,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Prototype basics - Object Creation in JavaScript](https://www.youtube.com/watch?v=YkoelSTUy7A)
   - [x] [Object.create - Object Creation in JavaScript](https://www.youtube.com/watch?v=CDFN1VatiJA&list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub&index=6)
   - [x] [Debating the observable pattern](https://www.youtube.com/watch?v=OQqouBWgpDA)
+  - [x] [FunFunFunction - Let's code an editor](https://www.youtube.com/watch?v=6HfAdeoq97k)
+  - [x] [FunFunFunction - Promises](https://www.youtube.com/watch?v=2d7s3spWAzo)
 
   - Animations
 
@@ -711,6 +722,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [ExpressJS Tutorial 24: Advance Routing - Part 2](https://www.youtube.com/watch?v=a8uH3_Ykpp4)
     - [x] [Node.js Tutorial For Absolute Beginners](https://www.youtube.com/watch?v=U8XF6AFGqlc)
     - [ ] [Rapidly Developing Microservices with Node js and Docker](https://www.youtube.com/watch?v=SUNxn0omNi4)
+    - [x] [Docker Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGAAzevEST2qm2Xbe3aeLFvLc)
     - [x] [NodeJS MongoDB Tutorial](https://www.youtube.com/watch?v=Do_Hsb_Hs3c)
     - [x] [Building a SaaS - Part 1: Setting Up an Express Server](https://www.youtube.com/watch?v=efuM4ASOk4k)
     - [x] [Building a SaaS - Part 2: Setting Up a Passport with JWT Authentication (Node/Express)](https://www.youtube.com/watch?v=f4F0brwbYKg)
@@ -724,6 +736,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [EXTREMELY FAST & SIMPLE CI TESTING - SemaphoreCI](https://www.youtube.com/watch?v=OQAifaOEmVo)
     - [x] [DRASTICALLY IMPROVE YOUR WORKFLOW WITH CONTINUOUS DEPLOYMENT](https://www.youtube.com/watch?v=RdOhgdnIhQI)
     - [x] [Specializing in Node.js/Full Stack Development](https://www.youtube.com/watch?v=klju9iTRHxQ)
+    - [ ] [Production best practices: performance and reliability](https://expressjs.com/en/advanced/best-practice-performance.html)
 
     - Deploy
 
@@ -762,6 +775,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Client-side routing with react-router (Part 2)](https://www.youtube.com/watch?annotation_id=annotation_887662967&feature=iv&src_vid=r9rWABuGPpQ&v=9T8DeVWCXE0)
     - [x] [Reactjs - Speed up Server Side Rendering](https://www.youtube.com/watch?v=PnpfGy7q96U&t=2s) [Good One]
     - [x] [Why, What, and How of React Fiber with Dan Abramov and Andrew Clark](https://www.youtube.com/watch?v=crM1iRVGpGQ)
+    - [x] [Using AirBnb's Enzyme to Test React Components](https://www.youtube.com/watch?v=0_8rESjFcro)
+    - [x] [More Assertions With Enzyme - Testing React Components](https://www.youtube.com/watch?v=rqlbduakUck)
+    - [x] [JavaScript & React Testing with Jest](https://www.youtube.com/watch?v=i31VtyJSM-I)
+    - [x] [React.js Conf 2016 - Lightning Talks](https://www.youtube.com/watch?v=V5N0Ukb8LGg)
 
   - Redux
 
@@ -807,6 +824,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Create a Custom Map Marker with React Native Maps](https://egghead.io/lessons/react-create-a-custom-map-marker-with-react-native-maps)
     - [x] [Create a Button Shake Animation in React Native](https://egghead.io/lessons/react-create-a-button-shake-animation-in-react-native)
     - [x] [Use Flex to Scale React Native Background Image](https://egghead.io/lessons/react-use-flex-to-scale-react-native-background-image)
+    - [x] [Building a Fully-Fledged Media Player in React Native](https://www.youtube.com/watch?v=_awnyW-9aJ8)
 
   - Meteor
 
@@ -830,6 +848,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Getting Started with the Firebase Realtime Database on the Web, Part 2 - Firecasts](https://www.youtube.com/watch?v=dBscwaqNPuk)
     - [x] [Getting Started with React and Firebase - Firecasts](https://www.youtube.com/watch?v=mwNATxfUsgI)
     - [x] [Getting Started with React and Firebase, Part 2 - Firecasts](https://www.youtube.com/watch?v=p4XTMvagQ2Q)
+    - [x] [SQL Databases and the Firebase Database](https://www.youtube.com/watch?v=WacqhiI-g_o&t=9s)
+    - [x] [Converting SQL structures to Firebase structures](https://www.youtube.com/watch?v=ran_Ylug7AE)
+    - [x] [Firebase Database Querying 101](https://www.youtube.com/watch?v=3WTQZV5-roY)
+    - [x] [Common SQL Queries converted for the Firebase Database](https://www.youtube.com/watch?v=sKFLI5FOOHs&t=18s)
+    - [x] [Joins in the Firebase Database](https://www.youtube.com/watch?v=Idu9EJPSxiY)
+    - [x] [Denormalization is normal with the Firebase Database](https://www.youtube.com/watch?v=vKqXSZLLnHA)
 
   - MongoDB
 
@@ -902,6 +926,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Unit tests vs. Integration tests](https://www.youtube.com/watch?v=vqAaMVoKz1c)
   - [x] [The BEST way to do mocking](https://www.youtube.com/watch?v=fgqh-OZjpYY)
   - [x] [Unit testing: How to get your team started](https://www.youtube.com/watch?v=TWBDa5dqrl8)
+  - [x] [Writing unit tests for personal projects?](https://www.youtube.com/watch?v=ib2Pt9_zciA)
+  - [x] [Silly side projects - FunFunFunction](https://www.youtube.com/watch?v=RpWsBCaJQQ8)
+  - [x] [Nginx Tutorial - Proxy to Express Application, Load Balancer, Static Cache Files](https://www.youtube.com/watch?v=FJrs0Ar9asY)
+  - [x] [Learn Docker in 12 Minutes](https://www.youtube.com/watch?v=YFl2mCHdv24)
 
 ## Start-Up Stuff
 
@@ -952,6 +980,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Check if a string starts with http using Javascript](http://stackoverflow.com/questions/11300906/check-if-a-string-starts-with-http-using-javascript)
   - [x] [How to delete a localStorage item when the browser window/tab is closed?](http://stackoverflow.com/questions/9943220/how-to-delete-a-localstorage-item-when-the-browser-window-tab-is-closed)
   - [x] [Spread operator vs Rest parameter in ES2015/es6](http://stackoverflow.com/questions/33898512/spread-operator-vs-rest-parameter-in-es2015-es6)
+  - [x] [Javascript closures and side effects in plain English? (separately)](http://stackoverflow.com/questions/8129105/javascript-closures-and-side-effects-in-plain-english-separately)
 
   - Redux
     - [x] [How to dispatch Redux action from stateless component when route is loaded?](http://stackoverflow.com/questions/39761443/how-to-dispatch-redux-action-from-stateless-component-when-route-is-loaded)
