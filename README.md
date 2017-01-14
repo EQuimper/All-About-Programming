@@ -591,6 +591,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Apprendre Ruby on Rails : Models, les callbacks](https://www.youtube.com/watch?v=MG6HtVwLAbU&t=671s) [French]
     - [x] [Apprendre Ruby on Rails : Models, associations](https://www.youtube.com/watch?v=2VtNDsT2i-8) [French]
     - [ ] [GoRails - Rails Admin Interfaces with ActiveAdmin](https://www.youtube.com/watch?v=NJYtzznKrg0)
+    - [x] [Apprendre Ruby on Rails : ActionMailer](https://www.youtube.com/watch?v=FOzORZ-ch7c) [French]
 
 - IOS
 
@@ -664,6 +665,21 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Debating the observable pattern](https://www.youtube.com/watch?v=OQqouBWgpDA)
   - [x] [FunFunFunction - Let's code an editor](https://www.youtube.com/watch?v=6HfAdeoq97k)
   - [x] [FunFunFunction - Promises](https://www.youtube.com/watch?v=2d7s3spWAzo)
+  - [x] [Tutoriel JavaScript : Menu en "vague"](https://www.youtube.com/watch?v=FCnag9m3NYY) [French]
+  - [x] [Tutoriel JavaScript : IntersectionObserver](https://www.youtube.com/watch?v=Qoa-N30FrSY) [French]
+  - [x] [Tutoriel Javascript : Carte interactive en SVG](https://www.youtube.com/watch?v=UZs8l50gxjU) [French]
+  - [x] [Javascript : TP : Système d'onglets](https://www.youtube.com/watch?v=wKatvNTAPVA) [French]
+  - [x] [Javascript : TP : Menu collant](https://www.youtube.com/watch?v=VU9FcwtRGVg) [French]
+  - [x] [Javascript : TP : Système de spoiler](https://www.youtube.com/watch?v=i7kavjcIFSU&index=12&list=PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw) [French]
+  - [x] [Javascript : Les évènements](https://www.youtube.com/watch?v=KnBEDuzvRCA&spfreload=5) [French]
+  - [x] [Javascript : Try Catch](https://www.youtube.com/watch?v=riBYBQWw0xM) [French]
+  - [x] [JavaScript 6 02: Classes](https://www.youtube.com/watch?v=CRZNTSqjZ-E)
+  - [x] [JavaScript 6 03: Inheritance](https://www.youtube.com/watch?v=z4IMGJqot-U)
+  - [x] [JavaScript 6 04: Getters and Setters](https://www.youtube.com/watch?v=nx6DFeNIXlA&spfreload=5)
+  - [x] [JavaScript 6 05: Compute Methods Runtime Methods](https://www.youtube.com/watch?v=tC-5BriBBNE)
+  - [x] [JavaScript 6 06: Symbols For Compute Methods](https://www.youtube.com/watch?v=upOsVfSkiI0)
+  - [x] [JavaScript 6 07: Variable Scoping](https://www.youtube.com/watch?v=RiDZeU_dgbQ)
+  - [x] [JavaScript 6 08: Const Variables](https://www.youtube.com/watch?v=5CAvSxwq3sM)
 
   - Animations
 
@@ -737,6 +753,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [DRASTICALLY IMPROVE YOUR WORKFLOW WITH CONTINUOUS DEPLOYMENT](https://www.youtube.com/watch?v=RdOhgdnIhQI)
     - [x] [Specializing in Node.js/Full Stack Development](https://www.youtube.com/watch?v=klju9iTRHxQ)
     - [ ] [Production best practices: performance and reliability](https://expressjs.com/en/advanced/best-practice-performance.html)
+    - [x] [NodeJS : Express](https://www.youtube.com/watch?v=Q8wacXNngXs) [French]
 
     - Deploy
 
@@ -779,6 +796,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [More Assertions With Enzyme - Testing React Components](https://www.youtube.com/watch?v=rqlbduakUck)
     - [x] [JavaScript & React Testing with Jest](https://www.youtube.com/watch?v=i31VtyJSM-I)
     - [x] [React.js Conf 2016 - Lightning Talks](https://www.youtube.com/watch?v=V5N0Ukb8LGg)
+    - [x] [Testing async functions in React using Sinon.JS](https://www.youtube.com/watch?v=09Lig2mlZS0)
 
   - Redux
 
