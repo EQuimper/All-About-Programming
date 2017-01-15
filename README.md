@@ -127,8 +127,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   - IOS
 
-    - [ ] [iOS 10 & Swift 3: From Beginner to Paid Professional](https://www.udemy.com/devslopes-ios10/)
     - [ ] [The Complete iOS 10 Developer Course - Build 21 Apps](https://www.udemy.com/complete-ios-10-developer-course/learn/v4/content)
+
+    - Swift
+
+      - [ ] [iOS 10 & Swift 3: From Beginner to Paid Professional](https://www.udemy.com/devslopes-ios10/)
+
 
 - Web Design + HTML/CSS
 
@@ -472,12 +476,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [Eloquent JavaScript: A Modern Introduction to Programming by Marijn Haverbeke](https://www.amazon.ca/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1469305316&sr=1-1-fkmr0&keywords=Eloquent+JavaScript+-+second+edition+by+Marijn+Haverbeke)
   - [ ] [A Smarter Way to Learn JavaScript by Mark Myers](https://www.amazon.ca/Smarter-Way-Learn-JavaScript-technology-ebook/dp/B00H1W9I6C)
   - [ ] [High Performance JavaScript by Nicholas C.Zakas](https://www.amazon.ca/High-Performance-JavaScript-Nicholas-Zakas/dp/059680279X)
-  - [ ] [Programming JavaScript Applications by Eric Elliot](https://www.amazon.ca/Programming-JavaScript-Applications-Architecture-Libraries/dp/1491950293/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1469305235&sr=1-1-fkmr0&keywords=Programming+JavaScript+Applications+by+Eric+Elliot)
+  - [x] [Programming JavaScript Applications by Eric Elliot](https://www.amazon.ca/Programming-JavaScript-Applications-Architecture-Libraries/dp/1491950293/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1469305235&sr=1-1-fkmr0&keywords=Programming+JavaScript+Applications+by+Eric+Elliot)
   - [x] [JavaScript: The Good Parts by Douglas Crockford](https://www.amazon.ca/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
   - [ ] [Mastering JavaScript by Ved Antani](https://www.amazon.ca/Mastering-JavaScript-Ved-Antani-ebook/dp/B016UZVCMI/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1469305485&sr=1-1-spell&keywords=Mastering+JavaScritp)
   - [ ] [Mastering JavaScript Promises by Muzzamil Hussain](https://www.amazon.ca/Mastering-JavaScript-Promises-Muzzamil-Hussain-ebook/dp/B00YSILOS2/ref=sr_1_sc_3?s=books&ie=UTF8&qid=1469305680&sr=1-3-spell&keywords=Mastering+JavaScritp)
   - [ ] [Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript by David Herman](https://www.amazon.ca/Effective-JavaScript-Specific-Harness-Power/dp/0321812182?ie=UTF8&camp=15121&creative=330641&linkCode=as2&redirect=true&ref_=x_gr_w_bb&tag=x_gr_w_bb_ca-20)
-  - [ ] [You Don't Know JS - Up and Going by Kyle Simpson](https://www.amazon.ca/You-Dont-Know-JS-Going-ebook/dp/B00V20DQU8/ref=sr_1_1?s=books&ie=UTF8&qid=1470005412&sr=1-1&keywords=kyle+simpson)
+  - [x] [You Don't Know JS - Up and Going by Kyle Simpson](https://www.amazon.ca/You-Dont-Know-JS-Going-ebook/dp/B00V20DQU8/ref=sr_1_1?s=books&ie=UTF8&qid=1470005412&sr=1-1&keywords=kyle+simpson)
   - [ ] [You Don't Know JS: Scope & Closures by Kyle Simpson](https://www.amazon.ca/You-Dont-Know-JS-Closures/dp/1449335586/ref=sr_1_2?s=books&ie=UTF8&qid=1470005412&sr=1-2&keywords=kyle+simpson)
   - [ ] [You Don't Know JS: Async & Performance by Kyle Simpson](https://www.amazon.ca/You-Dont-Know-JS-Performance/dp/1491904224/ref=sr_1_3?s=books&ie=UTF8&qid=1470005412&sr=1-3&keywords=kyle+simpson)
   - [ ] [You Don't Know JS: Types & Grammar by Kyle Simpson](https://www.amazon.ca/You-Dont-Know-JS-Grammar/dp/1491904194/ref=sr_1_4?s=books&ie=UTF8&qid=1470005412&sr=1-4&keywords=kyle+simpson)
