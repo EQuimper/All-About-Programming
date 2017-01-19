@@ -320,6 +320,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Testing a React-Redux app using Jest and Enzyme](https://medium.com/@gethylgeorge/testing-a-react-redux-app-using-jest-and-enzyme-b349324803a9#.sknvgofxo)
     - [x] [Migrating to Jest](https://medium.com/@kentcdodds/migrating-to-jest-881f75366e7e#.98tnc35mr)
     - [x] [Testing React components with Jest and Enzyme](https://hackernoon.com/testing-react-components-with-jest-and-enzyme-41d592c174f#.uub30kw9x)
+    - [x] [React Interview Questions](https://dev.to/tylermcginnis/react-interview-questions)
 
   - Webpack
 
@@ -684,6 +685,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [JavaScript 6 06: Symbols For Compute Methods](https://www.youtube.com/watch?v=upOsVfSkiI0)
   - [x] [JavaScript 6 07: Variable Scoping](https://www.youtube.com/watch?v=RiDZeU_dgbQ)
   - [x] [JavaScript 6 08: Const Variables](https://www.youtube.com/watch?v=5CAvSxwq3sM)
+  - [x] [Use ES6 Proxies](https://egghead.io/lessons/javascript-use-es6-proxies)
 
   - Animations
 
@@ -923,6 +925,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
       - [x] [Prototyping a refresh animation with Flinto and Sketch 3](https://www.youtube.com/watch?v=L4U4rVTKzEI)
       - [x] [Icons Animations Using Flinto](https://www.youtube.com/watch?v=bbx_P-52oro)
       - [x] [Book App - Screen Transition Tutorial with Principle](https://www.youtube.com/watch?v=KHlqDRQdnic)
+      - [x] [Tutoriel Divers : Affinity Designer](https://www.youtube.com/watch?v=07BzjUVheQM&t=267s) [French]
 
 - Programming stuff
 
@@ -968,6 +971,15 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [x] [DevChat.tv - ExponentJS with Charlie Cheever](https://devchat.tv/react-native-radio/page/2)
     - [x] [Js-Jabber - React Native with Nader Dabit and Mike Grabowski](https://devchat.tv/js-jabber/228-jsj-react-native-with-nader-dabit-and-mike-grabowski)
+
+- IOS
+
+  - [x] [Under the Radar - Adapting to the Market](https://www.relay.fm/radar/1)
+  - [x] [Under the Radar - Time for Swift](https://www.relay.fm/radar/2)
+  - [x] [Under the Radar - Ergonomics](https://www.relay.fm/radar/3)
+  - [x] [Under the Radar - Unexpected Complexity](https://www.relay.fm/radar/4)
+  - [x] [Under the Radar - Managing Feedback](https://www.relay.fm/radar/5)
+  - [x] [Under the Radar - How to Become a Programmer](https://www.relay.fm/radar/6)
 
 ## CodePen & Demo
 
