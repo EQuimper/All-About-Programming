@@ -325,6 +325,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - Webpack
 
     - [ ] [Getting Started with Webpack 2](https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783#.k9am1oaqq)
+    - [x] [Source Maps with webpack in Chrome](http://erikaybar.name/webpack-source-maps-in-chrome/)
+    - [x] [Progressive Web Apps with Webpack](http://michalzalecki.com/progressive-web-apps-with-webpack/)
 
   - MobX
 
@@ -416,6 +418,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Devtips - Design & Code a Mobile First Landing Page!](https://www.youtube.com/watch?v=2750Vj-hMq8&list=PLqGj3iMvMa4KXCYyFCQnC2ZNmZyoMAj8L)
   - [ ] [Devtips - Zurb Foundation Grid](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LJo_lBMTJwAlQRElulSeL8)
   - [x] [A Look Into: Using CSS Variables](http://www.hongkiat.com/blog/css-variables/)
+  - [x] [The most promising design tools you should try in 2017](https://blog.prototypr.io/the-most-promising-design-tools-you-should-try-in-2017-2e5d34b16261#.9a4ub1yye)
 
 - Python
 
@@ -444,6 +447,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Token-based Authentication with Socket.IO](https://auth0.com/blog/auth-with-socket-io/)
   - [x] [Use JWT The Right Way!](https://stormpath.com/blog/jwt-the-right-way)
   - [x] [Token Authentication: The Secret to Scalable User Management](https://stormpath.com/blog/token-authentication-scalable-user-mgmt)
+  - [x] [Top 20 Developer Tools of 2016
+](https://blog.axosoft.com/2016/12/29/top-20-developer-tools-2016/?utm_source=hashnode.com)
+  - [x] [Innovating with HTTP 2.0 Server Push](https://www.igvita.com/2013/06/12/innovating-with-http-2.0-server-push/)
 
 ## Books
 
@@ -686,6 +692,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [JavaScript 6 07: Variable Scoping](https://www.youtube.com/watch?v=RiDZeU_dgbQ)
   - [x] [JavaScript 6 08: Const Variables](https://www.youtube.com/watch?v=5CAvSxwq3sM)
   - [x] [Use ES6 Proxies](https://egghead.io/lessons/javascript-use-es6-proxies)
+
+  - PWA
+
+    - [x] [Production PWAs with frameworks (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=e8XejNt5SZo)
+    - [x] [Building Progressive Web Apps Today (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=U52dD0tegsA)
 
   - Animations
 
