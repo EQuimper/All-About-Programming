@@ -70,6 +70,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Udacity - JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
   - [x] [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/) - [My Certificate](https://www.udemy.com/certificate/UC-UVMJE4KT/)
   - [x] [Learning Data Structures in JavaScript from scratch](https://www.udemy.com/learning-data-structures-in-javascript-from-scratch/) - [My Certificate](https://www.udemy.com/certificate/UC-P7TV6TC8/)
+  - [ ] [EggHead - Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
 
   - Angular 1
 
@@ -692,6 +693,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [JavaScript 6 07: Variable Scoping](https://www.youtube.com/watch?v=RiDZeU_dgbQ)
   - [x] [JavaScript 6 08: Const Variables](https://www.youtube.com/watch?v=5CAvSxwq3sM)
   - [x] [Use ES6 Proxies](https://egghead.io/lessons/javascript-use-es6-proxies)
+  - [x] [Simplify asynchronous callback functions using async/awai](https://egghead.io/lessons/typescript-simplify-asynchronous-callback-functions-using-async-await)
 
   - PWA
 
@@ -771,6 +773,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Specializing in Node.js/Full Stack Development](https://www.youtube.com/watch?v=klju9iTRHxQ)
     - [ ] [Production best practices: performance and reliability](https://expressjs.com/en/advanced/best-practice-performance.html)
     - [x] [NodeJS : Express](https://www.youtube.com/watch?v=Q8wacXNngXs) [French]
+    - [x] [Setup environment variables with Node.js + Dotenv Tutorial](https://www.youtube.com/watch?v=zDup0I2VGmk)
 
     - Deploy
 
@@ -814,6 +817,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [JavaScript & React Testing with Jest](https://www.youtube.com/watch?v=i31VtyJSM-I)
     - [x] [React.js Conf 2016 - Lightning Talks](https://www.youtube.com/watch?v=V5N0Ukb8LGg)
     - [x] [Testing async functions in React using Sinon.JS](https://www.youtube.com/watch?v=09Lig2mlZS0)
+    - [x] [Render Basic SVG Components in React](https://egghead.io/lessons/react-render-basic-svg-components-in-react)
 
   - Redux
 
@@ -872,6 +876,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Why and When You Should Use Redis](https://www.youtube.com/watch?v=CoQcNgfPYPc)
   - [x] [WebConcepts - REST API concepts and examples](https://www.youtube.com/watch?v=7YcW25PHnAA)
   - [x] [Google Developers - Intro to REST](https://www.youtube.com/watch?v=YCcAE2SCQ6k)
+
+  - Polymer
+
+    - [x] [Web Components and Polymer (Chrome Dev Summit 2016)]https://www.youtube.com/watch?v=Ihdp63FaRKA()
 
   - Firebase
 
@@ -966,6 +974,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Silly side projects - FunFunFunction](https://www.youtube.com/watch?v=RpWsBCaJQQ8)
   - [x] [Nginx Tutorial - Proxy to Express Application, Load Balancer, Static Cache Files](https://www.youtube.com/watch?v=FJrs0Ar9asY)
   - [x] [Learn Docker in 12 Minutes](https://www.youtube.com/watch?v=YFl2mCHdv24)
+  - [x] [Use git add --patch for better commit history and mitigating bugs]()https://egghead.io/lessons/tools-use-git-add-patch-for-better-commit-history-and-mitigating-bugs
 
 ## Start-Up Stuff
 
