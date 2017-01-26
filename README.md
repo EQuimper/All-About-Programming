@@ -699,6 +699,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [x] [Production PWAs with frameworks (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=e8XejNt5SZo)
     - [x] [Building Progressive Web Apps Today (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=U52dD0tegsA)
+    - [x] [Instant Loading: Building offline-first Progressive Web Apps - Google I/O 2016](https://www.youtube.com/watch?v=cmGr0RszHc8) [Must Watch]
 
   - Animations
 
@@ -983,6 +984,13 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [How to use a Landing Page to validate your Startup idea](https://landerapp.com/blog/how-to-use-a-landing-page-to-validate-your-startup-idea/)
   - [x] [Coming up with Startup Ideas](https://www.youtube.com/watch?v=cAJ3npJAplU)
 
+## Personnal Branding and Self
+
+  - [x] [Personal Branding: How to Get More Followers in Social Media](https://www.youtube.com/watch?v=mRW1bmaCX_w)
+  - [x] [How to Become More Confident and Overcome Imposter Syndrome](https://www.youtube.com/watch?v=vJGUS7y05ok)
+  - [x] [Building Your Personal Brand: What if You Had to Build Your Personal Brand From Scratch?](https://www.youtube.com/watch?v=dvi7JsWu_rc)
+  - [x] [Personal Branding: How to Be Consistent](https://www.youtube.com/watch?v=BW-4XV2HblA)
+
 ## Pod-cast
 
 - JavaScript
@@ -991,6 +999,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [x] [DevChat.tv - ExponentJS with Charlie Cheever](https://devchat.tv/react-native-radio/page/2)
     - [x] [Js-Jabber - React Native with Nader Dabit and Mike Grabowski](https://devchat.tv/js-jabber/228-jsj-react-native-with-nader-dabit-and-mike-grabowski)
+    - [x] [Js-Jabber - GraphQL and Apollo with Uri Goldshtein](https://devchat.tv/js-jabber/jsj-246-graphql-and-apollo-with-uri-goldshtein)
 
 - IOS
 
