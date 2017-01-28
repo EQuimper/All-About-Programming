@@ -613,6 +613,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - Swift
 
     - [x] [iOS Swift 3 Beginner Tutorial: Protocols & Delegates - Passing Data using the Delegate Method](https://www.youtube.com/watch?v=KhqXUi1SF4s)
+    - [x] [Swift 3 Fun Algorithms: Filter, Map, Reduce Higher Order Functions](https://www.youtube.com/watch?v=fbYMaJciMZY)
 
 - AWS
 
@@ -928,6 +929,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [How to design a jobs board site with Photoshop CC (Week 5 of 12)](https://www.youtube.com/watch?v=OTIiyR17xhE&list=PL23ZvcdS3XPJZDL1M-kxoPF06cl9hfVB_&index=6)
   - [x] [How to code the front-end of a jobs board site (Week 6 of 12)](https://www.youtube.com/watch?v=Iv7he3sSRkI&list=PL23ZvcdS3XPJZDL1M-kxoPF06cl9hfVB_&index=7)
   - [x] [How to Design a Portfolio Site (Week 7 of 12)](https://www.youtube.com/watch?v=XBhs0_vJa7I)
+  - [x] [How to Design an Digital Resources Site (Week 9 of 12)](https://www.youtube.com/watch?v=3EEMOKhZDZc)
+  - [ ] [How to Code an Ecommerce Site (Week 10 of 12)](https://www.youtube.com/watch?v=DfbmMjO3Y7o)
   - [x] [How to make a Chico Illustration](https://www.youtube.com/watch?v=Qm2f5R-V3K8)
   - [x] [Getting Started With Jekyll, The Static Site Generator](https://www.youtube.com/watch?v=iWowJBRMtpc)
   - [x] [Why use a static site generator - Jekyll Casts](https://www.youtube.com/watch?v=FOfIoCi9uTI)
@@ -976,6 +979,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Nginx Tutorial - Proxy to Express Application, Load Balancer, Static Cache Files](https://www.youtube.com/watch?v=FJrs0Ar9asY)
   - [x] [Learn Docker in 12 Minutes](https://www.youtube.com/watch?v=YFl2mCHdv24)
   - [x] [Use git add --patch for better commit history and mitigating bugs]()https://egghead.io/lessons/tools-use-git-add-patch-for-better-commit-history-and-mitigating-bugs
+  - [ ] [Life as a Freelance Developer and Digital Nomad](https://www.youtube.com/watch?v=ShBfyRuwz4E)
 
 ## Start-Up Stuff
 
@@ -995,11 +999,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 - JavaScript
 
+  - [x] [Js-Jabber - GraphQL and Apollo with Uri Goldshtein](https://devchat.tv/js-jabber/jsj-246-graphql-and-apollo-with-uri-goldshtein)
+
   - React-Native
 
     - [x] [DevChat.tv - ExponentJS with Charlie Cheever](https://devchat.tv/react-native-radio/page/2)
     - [x] [Js-Jabber - React Native with Nader Dabit and Mike Grabowski](https://devchat.tv/js-jabber/228-jsj-react-native-with-nader-dabit-and-mike-grabowski)
-    - [x] [Js-Jabber - GraphQL and Apollo with Uri Goldshtein](https://devchat.tv/js-jabber/jsj-246-graphql-and-apollo-with-uri-goldshtein)
 
 - IOS
 
