@@ -231,6 +231,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Understand JavaScript’s “this” With Clarity, and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
   - [ ] [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
   - [ ] [Scalable JavaScript Application Architecture](http://www.slideshare.net/nzakas/scalable-javascript-application-architecture)
+  - [x] [An Introduction To JavaScript ES6 Classes](https://strongloop.com/strongblog/an-introduction-to-javascript-es6-classes/)
+  - [x] [Getting Started with Async/Await](https://medium.freecodecamp.com/getting-started-with-async-await-b66385983875?gi=ba41ae93b668)
 
   - Electron
 
@@ -243,6 +245,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Scotch.io Keeping API Routing Clean Using Express Routers](https://scotch.io/tutorials/keeping-api-routing-clean-using-express-routers)
     - [x] [Scotch.io Build a RESTful API Using Node and Express 4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
     - [x] [Creating and persisting a Login session](https://www.youtube.com/watch?v=zsOGmMuwhT4)[Good One]
+    - [x] [ES6 Class based Express routing](http://mkla.bz/2016/04/20/es6-class-express-routing.html)
 
   - MEAN
 
@@ -281,6 +284,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Refactoring a Basic, Authenticated API with Node, Express, and Mongo](http://blog.slatepeak.com/refactoring-a-basic-authenticated-api-with-node-express-and-mongo/)
     - [x] [Create an SMS bot on AWS Lambda with Claudia.js](https://www.twilio.com/blog/2016/12/create-an-sms-bot-on-aws-lambda-with-claudia-js.html)
     - [ ] [13 best practices to secure your web application](http://nodewebapps.com/2017/01/03/13-security-best-practices-for-your-web-application/)
+    - [x] [ERROR HANDLING IN EXPRESS WITH ASYNC/AWAIT ROUTES](http://madole.xyz/error-handling-in-express-with-async-await-routes/)
 
     * Testing
       + [ ] [Unit Testing and TDD in Node.js – Part 1](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
@@ -614,6 +618,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [x] [iOS Swift 3 Beginner Tutorial: Protocols & Delegates - Passing Data using the Delegate Method](https://www.youtube.com/watch?v=KhqXUi1SF4s)
     - [x] [Swift 3 Fun Algorithms: Filter, Map, Reduce Higher Order Functions](https://www.youtube.com/watch?v=fbYMaJciMZY)
+    - [x] [How To Make A Music Player In Xcode 8 (Swift 3.0) - Part 1](https://www.youtube.com/watch?v=bqhDI4BzO4U)
 
 - AWS
 
