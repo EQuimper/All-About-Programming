@@ -257,6 +257,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Getting Started with Next.js —Setting Up Your App](https://labs.redantler.com/getting-started-with-next-js-article-one-a1d9780ea9e0#.5lo1ogpwl)
     - [x] [Getting Started with Next.js — Bringing Data In](https://labs.redantler.com/getting-started-with-next-js-bringing-data-in-bf40558698e2#.22zpc7ab6)
     - [x] [Build a Universal JavaScript App with Next.js](https://auth0.com/blog/building-universal-apps-with-nextjs/?utm_source=twitter&amp;utm_medium=sc&amp;utm_campaign=nextjs)
+    - [x] [React Universal with Next.js: Server-side React](https://scotch.io/tutorials/react-universal-with-next-js-server-side-react)
 
   - Node
 
@@ -781,6 +782,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Production best practices: performance and reliability](https://expressjs.com/en/advanced/best-practice-performance.html)
     - [x] [NodeJS : Express](https://www.youtube.com/watch?v=Q8wacXNngXs) [French]
     - [x] [Setup environment variables with Node.js + Dotenv Tutorial](https://www.youtube.com/watch?v=zDup0I2VGmk)
+
+    - Next.JS
+
+      - [x] [Now & Next](https://www.youtube.com/watch?v=__b6k2pR3Tg)
 
     - Deploy
 
