@@ -595,6 +595,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Phoenix 1.2 and Beyond](https://www.youtube.com/watch?v=n338leKvqnA)
     - [x] [Elixir + Phoenix : Building a simple chatroom](https://www.youtube.com/watch?v=e5jlIejl9Fs)
     - [x] [Phoenix Beyond the Browser - Realtime Applications](https://www.youtube.com/watch?v=7vBc0Q-nwUI&list=PLE7tQUdRKcyYoiEKWny0Jj72iu564bVFD&index=2)
+    - [x] [Getting Started with Phoenix](https://www.youtube.com/watch?v=KiP23mk760E)
+    - [x] [Using Ecto Associations in Phoenix](https://www.youtube.com/watch?v=THUG8J3xSYw)
 
 - Golang
 
@@ -743,6 +745,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Apollo Stack Overview - GraphQL Tutorial](https://www.youtube.com/watch?v=RaHCdBHDEhI)
     - [x] [Zero to GraphQL in 30 Minutes](https://www.youtube.com/watch?v=UBGzsb2UkeY)
     - [x] [From REST to GraphQL](https://www.youtube.com/watch?v=eD7kLFGOgVw)
+    - [x] [Using GraphQL with Apollo](https://www.youtube.com/watch?v=PTowZYV6eRA)
+    - [x] [GraphQL setup with Feathersjs](https://www.youtube.com/watch?v=6Jw629xrkF8)
 
   - Node
 
