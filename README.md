@@ -233,6 +233,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [Scalable JavaScript Application Architecture](http://www.slideshare.net/nzakas/scalable-javascript-application-architecture)
   - [x] [An Introduction To JavaScript ES6 Classes](https://strongloop.com/strongblog/an-introduction-to-javascript-es6-classes/)
   - [x] [Getting Started with Async/Await](https://medium.freecodecamp.com/getting-started-with-async-await-b66385983875?gi=ba41ae93b668)
+  - [x] [Example of a Javascript Closure: setTimeout Inside a For Loop](http://brackets.clementng.me/post/24150213014/example-of-a-javascript-closure-settimeout-inside)
 
   - Electron
 
@@ -389,6 +390,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [How to build a hybrid mobile app using Yarn, React Native, MobX and Firebase, 0 to 100 (Real Quick).](https://jsapp.me/react-native-firebase-starter-ebe24d2765d6#.en95g1kfq)
     - [x] [Building Offline First React Native Apps](https://medium.com/differential/building-offline-first-react-native-apps-b958acac0009#.xqphmm3yr)
     - [ ] [Linking Animations to Scroll Position in React Native](https://medium.com/@albert.brand/linking-animations-to-scroll-position-in-react-native-5c55995f5a6e#.mzuq13mm5)
+    - [x] [React Native Tips and Tricks: Styling in JS](http://willowtreeapps.com/ideas/react-native-tips-and-tricks-styling-in-js/)
 
   - Meteor
 
@@ -703,6 +705,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [JavaScript 6 08: Const Variables](https://www.youtube.com/watch?v=5CAvSxwq3sM)
   - [x] [Use ES6 Proxies](https://egghead.io/lessons/javascript-use-es6-proxies)
   - [x] [Simplify asynchronous callback functions using async/awai](https://egghead.io/lessons/typescript-simplify-asynchronous-callback-functions-using-async-await)
+  - [x] [The Fundamentals of Flow in 10-ish Minutes](https://www.youtube.com/watch?v=xWMuAUbXcdQ&t=19s)
+  - [x] [Netflix JavaScript Talks - React & Flow](https://www.youtube.com/watch?v=dV8K6fsjDCQ)
 
   - PWA
 
