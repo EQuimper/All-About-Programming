@@ -391,6 +391,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Building Offline First React Native Apps](https://medium.com/differential/building-offline-first-react-native-apps-b958acac0009#.xqphmm3yr)
     - [ ] [Linking Animations to Scroll Position in React Native](https://medium.com/@albert.brand/linking-animations-to-scroll-position-in-react-native-5c55995f5a6e#.mzuq13mm5)
     - [x] [React Native Tips and Tricks: Styling in JS](http://willowtreeapps.com/ideas/react-native-tips-and-tricks-styling-in-js/)
+    - [x] [Tips for React Native Images (or saying goodbye to trial and error)](https://medium.com/the-react-native-log/tips-for-react-native-images-or-saying-goodbye-to-trial-and-error-b2baaf0a1a4d#.8zdrssyk3)
+    - [x] [React Native and D3JS](https://speakerdeck.com/hswolff/react-native-and-d3js)
 
   - Meteor
 
@@ -405,6 +407,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - Graphql
 
     - [x] [Why GraphQL is the future](https://dev-blog.apollodata.com/why-graphql-is-the-future-3bec28193807#.nrg284v51)
+    - [x] [GraphQL Concepts Visualized](https://dev-blog.apollodata.com/the-concepts-of-graphql-bc68bd819be3#.ce2qc45xb)
+    - [x] [How do I GraphQL?](https://dev-blog.apollodata.com/how-do-i-graphql-2fcabfc94a01#.h6mqnnx5g)
+    - [x] [Apollo Server 0.2: GraphQL with Express, Connect, hapi or Koa](https://dev-blog.apollodata.com/apollo-server-0-2-graphql-with-express-connect-hapi-or-koa-7e06b0a8fdb1#.cd4qnrfc1)
 
 - Ruby
 
@@ -707,6 +712,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Simplify asynchronous callback functions using async/awai](https://egghead.io/lessons/typescript-simplify-asynchronous-callback-functions-using-async-await)
   - [x] [The Fundamentals of Flow in 10-ish Minutes](https://www.youtube.com/watch?v=xWMuAUbXcdQ&t=19s)
   - [x] [Netflix JavaScript Talks - React & Flow](https://www.youtube.com/watch?v=dV8K6fsjDCQ)
+  - [x] [Use ES6 style Promises with Node.js](https://egghead.io/lessons/node-js-use-es6-style-promises-with-node-js)
 
   - PWA
 
@@ -751,6 +757,13 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [From REST to GraphQL](https://www.youtube.com/watch?v=eD7kLFGOgVw)
     - [x] [Using GraphQL with Apollo](https://www.youtube.com/watch?v=PTowZYV6eRA)
     - [x] [GraphQL setup with Feathersjs](https://www.youtube.com/watch?v=6Jw629xrkF8)
+    - [x] [Graphql getting started with nodejs](https://www.youtube.com/watch?v=asJz9erSTlM)
+    - [x] [Lessons from 4 Years of GraphQL](https://www.youtube.com/watch?v=zVNrqo9XGOs)
+    - [x] [Navigating Your Transition to GraphQL](https://www.youtube.com/watch?v=RCIRZr0RRt8)
+    - [x] [Managing GraphQL Development At Scale - Nick Nance](https://www.youtube.com/watch?v=XOM8J4LaYFg)
+    - [x] [GraphQL Schema Design: Tips and tricks from the battlefield](https://www.youtube.com/watch?v=R8Ny0i5S978)
+    - [ ] [GraphQL at Shopify](https://www.youtube.com/watch?v=Wlu_PWCjc6Y)
+    - [ ] [High Performance GraphQL](https://www.youtube.com/watch?v=c35bj1AT3X8)
 
   - Node
 
