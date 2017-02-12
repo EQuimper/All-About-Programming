@@ -259,6 +259,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Getting Started with Next.js — Bringing Data In](https://labs.redantler.com/getting-started-with-next-js-bringing-data-in-bf40558698e2#.22zpc7ab6)
     - [x] [Build a Universal JavaScript App with Next.js](https://auth0.com/blog/building-universal-apps-with-nextjs/?utm_source=twitter&amp;utm_medium=sc&amp;utm_campaign=nextjs)
     - [x] [React Universal with Next.js: Server-side React](https://scotch.io/tutorials/react-universal-with-next-js-server-side-react)
+    - [x] [Next.js is not what you may think it is](https://medium.com/the-ideal-system/next-js-is-not-what-you-may-think-it-is-8423172e7401#.6psziopr9)
 
   - Node
 
@@ -410,6 +411,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [GraphQL Concepts Visualized](https://dev-blog.apollodata.com/the-concepts-of-graphql-bc68bd819be3#.ce2qc45xb)
     - [x] [How do I GraphQL?](https://dev-blog.apollodata.com/how-do-i-graphql-2fcabfc94a01#.h6mqnnx5g)
     - [x] [Apollo Server 0.2: GraphQL with Express, Connect, hapi or Koa](https://dev-blog.apollodata.com/apollo-server-0-2-graphql-with-express-connect-hapi-or-koa-7e06b0a8fdb1#.cd4qnrfc1)
+    - [x] [GraphQL and MongoDB — a quick example](https://medium.com/the-ideal-system/graphql-and-mongodb-a-quick-example-34643e637e49#.3x3c60lfk)
+    - [x] [Give it a REST: use GraphQL for your APIs](https://medium.freecodecamp.com/give-it-a-rest-use-graphql-for-your-apis-40a2761e6336#.bozx6pgff)
 
 - Ruby
 
@@ -763,7 +766,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Managing GraphQL Development At Scale - Nick Nance](https://www.youtube.com/watch?v=XOM8J4LaYFg)
     - [x] [GraphQL Schema Design: Tips and tricks from the battlefield](https://www.youtube.com/watch?v=R8Ny0i5S978)
     - [ ] [GraphQL at Shopify](https://www.youtube.com/watch?v=Wlu_PWCjc6Y)
-    - [ ] [High Performance GraphQL](https://www.youtube.com/watch?v=c35bj1AT3X8)
+    - [x] [High Performance GraphQL](https://www.youtube.com/watch?v=c35bj1AT3X8)
+    - [x] [GraphQL Devtools: Easier Developing for Happier Product Devs](https://www.youtube.com/watch?v=3mkgOnSdg2c)
 
   - Node
 
@@ -1100,6 +1104,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 ## Be more Productive
 
   - [x] [The Most Successful Techniques for Rising Early](http://zenhabits.net/early/)
+  - [x] [You Will Regret These Choices in 10 Years](https://medium.com/the-mission/you-will-regret-these-choices-in-10-years-959761bea523#.68wcy1vbm)
 
 ## Vim
 
