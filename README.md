@@ -511,6 +511,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [You Don't Know JS: this & Object Prototypes by Kyle Simpson](https://www.amazon.ca/You-Dont-Know-JS-Prototypes-ebook/dp/B00LPUIB9G/ref=sr_1_5?s=books&ie=UTF8&qid=1470005412&sr=1-5&keywords=kyle+simpson)
   - [ ] [You Don't Know JS: ES6 & Beyond by Kyle Simpson](https://www.amazon.ca/You-Dont-Know-JS-Beyond/dp/1491904240/ref=sr_1_6?s=books&ie=UTF8&qid=1470005412&sr=1-6&keywords=kyle+simpson)
   - [ ] [Single Page Web Applications: JavaScript end-to-end by Michael Mikowski](https://www.amazon.ca/Single-Page-Applications-end---end/dp/1617290750/ref=sr_1_1?ie=UTF8&qid=1473297259&sr=8-1&keywords=single+page+web+applications)
+  - [ ] [Serverless Single Page Apps
+Fast, Scalable, and Available](https://pragprog.com/book/brapps/serverless-single-page-apps)
 
   - MEAN
 
@@ -642,7 +644,14 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Getting Started with the Serverless Framework – V.1 Beta 1](https://www.youtube.com/watch?v=weOsx5rLWX0)
   - [x] [Getting started with Serverless, Lambda (nodejs), API Gateway, DynamoDB](https://www.youtube.com/watch?v=--E-7jpeHFo)
   - [x] [Building Scalable Web Applications Using Microservices Architecture and NodeJS inside AWS Lambda](https://www.youtube.com/watch?v=n_MDBaKLuG4)
-
+  - [x] [Deploying your first Lambda Function with Serverless](https://www.youtube.com/watch?v=5cczWhRuhgE)
+  - [x] [Attaching an HTTP Endpoint to a Lambda Function with Serverless](https://www.youtube.com/watch?v=3U3OZYXUhuI)
+  - [x] [Defining the DynamoDB Resource - Building a Rest API using DynamoDB](https://www.youtube.com/watch?v=_wElow8MJqU)
+  - [x] [Adding the POST create Endpoint - Building a Rest API using DynamoDB](https://www.youtube.com/watch?v=sAiAK-DmPbs)
+  - [x] [Adding the GET list Endpoint - Building a Rest API using DynamoDB](https://www.youtube.com/watch?v=zih_Tbz7V9c)
+  - [x] [Adding the GET list Endpoint to Retrieve a Particular ToDo Item - Building a Rest API using DynamoDB](https://www.youtube.com/watch?v=RDRveQDInqw)
+  - [x] [Adding the PUT update Endpoint - Building a Rest API using DynamoDB](https://www.youtube.com/watch?v=6FQWG8wBBBM)
+  - [x] [Adding the DELETE Endpoint - Building a Rest API using DynamoDB](https://www.youtube.com/watch?v=YffzSETrofk)
 
 - JavaScript
 
