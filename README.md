@@ -234,6 +234,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [An Introduction To JavaScript ES6 Classes](https://strongloop.com/strongblog/an-introduction-to-javascript-es6-classes/)
   - [x] [Getting Started with Async/Await](https://medium.freecodecamp.com/getting-started-with-async-await-b66385983875?gi=ba41ae93b668)
   - [x] [Example of a Javascript Closure: setTimeout Inside a For Loop](http://brackets.clementng.me/post/24150213014/example-of-a-javascript-closure-settimeout-inside)
+  - [x] [Getting Started with React Native and Flow](https://medium.com/react-native-training/getting-started-with-react-native-and-flow-d40f55746809#.bnyc6l9nr)
+  - [x] [Naming JavaScript modules with Flow types](https://blog.getexponent.com/naming-javascript-modules-with-flow-types-ba3a6c9835fa#.ky2w1uprt)
 
   - Electron
 
@@ -335,6 +337,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Getting Started with Webpack 2](https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783#.k9am1oaqq)
     - [x] [Source Maps with webpack in Chrome](http://erikaybar.name/webpack-source-maps-in-chrome/)
     - [x] [Progressive Web Apps with Webpack](http://michalzalecki.com/progressive-web-apps-with-webpack/)
+    - [x] [Code Splitting for React Router with ES6 Imports](http://moduscreate.com/code-splitting-for-react-router-with-es6-imports/)
+    - [x] [Webpack 2 Tree Shaking Configuration](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.8ovl88lka)
+    - [x] [Webpack: Code Splitting by Routes](https://medium.com/@puppybits/webpack-code-splitting-by-routes-92f96cf733f2#.yg9h0nvs1)
 
   - MobX
 
@@ -652,6 +657,7 @@ Fast, Scalable, and Available](https://pragprog.com/book/brapps/serverless-singl
   - [x] [Adding the GET list Endpoint to Retrieve a Particular ToDo Item - Building a Rest API using DynamoDB](https://www.youtube.com/watch?v=RDRveQDInqw)
   - [x] [Adding the PUT update Endpoint - Building a Rest API using DynamoDB](https://www.youtube.com/watch?v=6FQWG8wBBBM)
   - [x] [Adding the DELETE Endpoint - Building a Rest API using DynamoDB](https://www.youtube.com/watch?v=YffzSETrofk)
+  - [x] [Serverless Architecture on AWS utilizing DynamoDB, Lambda, API Gateway & S3](https://www.youtube.com/watch?v=Byhg9BBsbJw)
 
 - JavaScript
 
@@ -910,6 +916,12 @@ Fast, Scalable, and Available](https://pragprog.com/book/brapps/serverless-singl
     - [x] [Create a Button Shake Animation in React Native](https://egghead.io/lessons/react-create-a-button-shake-animation-in-react-native)
     - [x] [Use Flex to Scale React Native Background Image](https://egghead.io/lessons/react-use-flex-to-scale-react-native-background-image)
     - [x] [Building a Fully-Fledged Media Player in React Native](https://www.youtube.com/watch?v=_awnyW-9aJ8)
+
+  - Webpack
+
+    - [ ] [Webpack 2 - A full tutorial](https://www.youtube.com/watch?v=eWmkBNBTbMM&spfreload=10)
+    - [ ] [Webpack 2 - Installation and Config](https://www.youtube.com/watch?v=JdGnYNtuEtE)
+    - [ ] [Code-splitting your way to better perf with Webpack in Totally Tooling Tips](https://www.youtube.com/watch?v=QH94CXVv3UE&list=PLNYkxOF6rcIB3ci6nwNyLYNU6RDOU3YyL&index=1)
 
   - Meteor
 
