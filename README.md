@@ -249,6 +249,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Scotch.io Build a RESTful API Using Node and Express 4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
     - [x] [Creating and persisting a Login session](https://www.youtube.com/watch?v=zsOGmMuwhT4)[Good One]
     - [x] [ES6 Class based Express routing](http://mkla.bz/2016/04/20/es6-class-express-routing.html)
+    - [x] [Easy HTTP/2 Server with Node.js and Express.js](https://webapplog.com/http2-node/)
 
   - MEAN
 
@@ -340,6 +341,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Code Splitting for React Router with ES6 Imports](http://moduscreate.com/code-splitting-for-react-router-with-es6-imports/)
     - [x] [Webpack 2 Tree Shaking Configuration](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.8ovl88lka)
     - [x] [Webpack: Code Splitting by Routes](https://medium.com/@puppybits/webpack-code-splitting-by-routes-92f96cf733f2#.yg9h0nvs1)
+    - [x] [Welcome to Future of Web Application Delivery](https://medium.com/@ryanflorence/welcome-to-future-of-web-application-delivery-9750b7564d9f#.qmf74s6ln)
 
   - MobX
 
