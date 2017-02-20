@@ -241,6 +241,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Getting Started with React Native and Flow](https://medium.com/react-native-training/getting-started-with-react-native-and-flow-d40f55746809#.bnyc6l9nr)
   - [x] [Naming JavaScript modules with Flow types](https://blog.getexponent.com/naming-javascript-modules-with-flow-types-ba3a6c9835fa#.ky2w1uprt)
 
+  - AWS
+
+    - [x] [Serverless GraphQL](http://kevinold.com/2016/02/01/serverless-graphql.html)
+    - [x] [Serverless Offers a Framework for AWS Lambda](https://thenewstack.io/serverless-offers-framework-aws-lambda/)
+
   - Electron
 
     - [ ] [Building a desktop application with Electron](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658)
@@ -446,6 +451,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [Devtips - Zurb Foundation Grid](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LJo_lBMTJwAlQRElulSeL8)
   - [x] [A Look Into: Using CSS Variables](http://www.hongkiat.com/blog/css-variables/)
   - [x] [The most promising design tools you should try in 2017](https://blog.prototypr.io/the-most-promising-design-tools-you-should-try-in-2017-2e5d34b16261#.9a4ub1yye)
+  - [ ] [A Step-by-step Guide to UI Animation with Principle and Sketch](https://www.toptal.com/designers/prototyping/a-practical-guide-to-ui-animation?utm_source=Facebook&utm_content=&utm_medium=paidsocial&utm_campaign=biz_awa_ppe_blog_a-practical-guide-to-ui-animation_as_w_des)
 
 - Python
 
@@ -665,6 +671,10 @@ Fast, Scalable, and Available](https://pragprog.com/book/brapps/serverless-singl
   - [x] [Adding the DELETE Endpoint - Building a Rest API using DynamoDB](https://www.youtube.com/watch?v=YffzSETrofk)
   - [x] [Serverless Architecture on AWS utilizing DynamoDB, Lambda, API Gateway & S3](https://www.youtube.com/watch?v=Byhg9BBsbJw)
   - [x] [API Gateway With Lambda Function Example](https://www.youtube.com/watch?v=8U4RRw3PwGw)
+  - [x] [ECS (EC2 Container Service) Tutorial](https://www.youtube.com/watch?v=kQBGbmrdYO4)
+  - [x] [Using Lambda Functions With NodeJS](https://www.youtube.com/watch?v=4ZyicyDpqE0)
+  - [x] [Building Scalable Web Applications Using Microservices Architecture and NodeJS inside AWS Lambda](https://www.youtube.com/watch?v=n_MDBaKLuG4)
+  - [x] [Serverless GraphQL Blog - Walkthrough]()
 
 - JavaScript
 
@@ -830,7 +840,7 @@ Fast, Scalable, and Available](https://pragprog.com/book/brapps/serverless-singl
     - [x] [NodeJS : Express](https://www.youtube.com/watch?v=Q8wacXNngXs) [French]
     - [x] [Setup environment variables with Node.js + Dotenv Tutorial](https://www.youtube.com/watch?v=zDup0I2VGmk)
     - [x] [Build a Reddit API Clone with Node.js, Express and MongoDB - Part 1](https://www.youtube.com/watch?v=L5Nle1VXYnw)
-    - [ ] [Build a Reddit API Clone with Node.js, Express and MongoDB - Part 2](https://youtu.be/gtMZ-WiSrs8)
+    - [x] [Build a Reddit API Clone with Node.js, Express and MongoDB - Part 2](https://youtu.be/gtMZ-WiSrs8)
 
     - Next.JS
 
