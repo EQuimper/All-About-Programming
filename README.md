@@ -49,6 +49,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Udemy - The Complete Developers Guide to MongoDB](https://www.udemy.com/the-complete-developers-guide-to-mongodb/) - [My Certificate](https://www.udemy.com/certificate/UC-GMEM9V2W/)
     - [ ] [MongoDBx: M101x Introduction to MongoDB using the MEAN Stack](https://courses.edx.org/courses/course-v1:MongoDBx+M101x+2T2016/info)
 
+- GraphQL
+
+  - [ ] [GraphQL with React: The Complete Developers Guide](https://www.udemy.com/graphql-with-react-course/)
+
 - JavaScript
 
   - [x] [WatchAndCode - Practical JavaScript](https://watchandcode.com/courses/practical-javascript)
@@ -660,6 +664,7 @@ Fast, Scalable, and Available](https://pragprog.com/book/brapps/serverless-singl
   - [x] [Adding the PUT update Endpoint - Building a Rest API using DynamoDB](https://www.youtube.com/watch?v=6FQWG8wBBBM)
   - [x] [Adding the DELETE Endpoint - Building a Rest API using DynamoDB](https://www.youtube.com/watch?v=YffzSETrofk)
   - [x] [Serverless Architecture on AWS utilizing DynamoDB, Lambda, API Gateway & S3](https://www.youtube.com/watch?v=Byhg9BBsbJw)
+  - [x] [API Gateway With Lambda Function Example](https://www.youtube.com/watch?v=8U4RRw3PwGw)
 
 - JavaScript
 
@@ -824,6 +829,8 @@ Fast, Scalable, and Available](https://pragprog.com/book/brapps/serverless-singl
     - [ ] [Production best practices: performance and reliability](https://expressjs.com/en/advanced/best-practice-performance.html)
     - [x] [NodeJS : Express](https://www.youtube.com/watch?v=Q8wacXNngXs) [French]
     - [x] [Setup environment variables with Node.js + Dotenv Tutorial](https://www.youtube.com/watch?v=zDup0I2VGmk)
+    - [x] [Build a Reddit API Clone with Node.js, Express and MongoDB - Part 1](https://www.youtube.com/watch?v=L5Nle1VXYnw)
+    - [ ] [Build a Reddit API Clone with Node.js, Express and MongoDB - Part 2](https://youtu.be/gtMZ-WiSrs8)
 
     - Next.JS
 
