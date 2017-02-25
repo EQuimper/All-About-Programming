@@ -906,6 +906,8 @@ Fast, Scalable, and Available](https://pragprog.com/book/brapps/serverless-singl
     - [x] [React & Redux - Freestyle Coding](https://www.youtube.com/watch?v=NCshQ290g38)
     - [x] [Redux: Persisting the State to the Local Storage](https://egghead.io/lessons/javascript-redux-persisting-the-state-to-the-local-storage) [Must Watch]
     - [x] [Reducing Redux Boilerplate](https://www.youtube.com/watch?v=BaBq48tvPB8)
+    - [ ] [Basic redux-form](https://www.youtube.com/watch?v=c2D-jjVAEf8)
+    - [ ] [Erik Rasmussen | Abstracting Form State with Redux Form](https://www.youtube.com/watch?v=eDTi7lYR1VU)
 
   - React-Native
 
