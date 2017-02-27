@@ -343,6 +343,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Migrating to Jest](https://medium.com/@kentcdodds/migrating-to-jest-881f75366e7e#.98tnc35mr)
     - [x] [Testing React components with Jest and Enzyme](https://hackernoon.com/testing-react-components-with-jest-and-enzyme-41d592c174f#.uub30kw9x)
     - [x] [React Interview Questions](https://dev.to/tylermcginnis/react-interview-questions)
+    - [x] [JavaScript Unit Test Automation: React Components](http://blog.testproject.io/2016/09/21/javascript-unit-test-automation-react-components/)
+    - [x] [Testing React with Enzyme is Awesome](https://medium.com/@wesleyluk/testing-react-with-enzyme-is-awesome-914e56f1f312#.kf2ac2whk)
+
+  - RxJS
+
+    - [ ] [An Animated Intro to RxJS](https://css-tricks.com/animated-intro-rxjs/)
 
   - Webpack
 
@@ -532,6 +538,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [Single Page Web Applications: JavaScript end-to-end by Michael Mikowski](https://www.amazon.ca/Single-Page-Applications-end---end/dp/1617290750/ref=sr_1_1?ie=UTF8&qid=1473297259&sr=8-1&keywords=single+page+web+applications)
   - [ ] [Serverless Single Page Apps
 Fast, Scalable, and Available](https://pragprog.com/book/brapps/serverless-single-page-apps)
+
+  - Webpack
+
+    - [ ] [SurviveJS - Webpack](https://survivejs.com/webpack)
 
   - MEAN
 
