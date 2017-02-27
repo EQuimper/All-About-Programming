@@ -240,6 +240,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Example of a Javascript Closure: setTimeout Inside a For Loop](http://brackets.clementng.me/post/24150213014/example-of-a-javascript-closure-settimeout-inside)
   - [x] [Getting Started with React Native and Flow](https://medium.com/react-native-training/getting-started-with-react-native-and-flow-d40f55746809#.bnyc6l9nr)
   - [x] [Naming JavaScript modules with Flow types](https://blog.getexponent.com/naming-javascript-modules-with-flow-types-ba3a6c9835fa#.ky2w1uprt)
+  - [ ] [Why Learn Functional Programming in JavaScript? (Composing Software)](https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257#.146oivwho)
 
   - AWS
 
@@ -259,6 +260,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Creating and persisting a Login session](https://www.youtube.com/watch?v=zsOGmMuwhT4)[Good One]
     - [x] [ES6 Class based Express routing](http://mkla.bz/2016/04/20/es6-class-express-routing.html)
     - [x] [Easy HTTP/2 Server with Node.js and Express.js](https://webapplog.com/http2-node/)
+    - [ ] [How to Create Node.js, Express.js and MongoDB CRUD Web Application](https://www.djamware.com/post/58b27ce080aca72c54645983/how-to-create-nodejs-expressjs-and-mongodb-crud-web-application?utm_campaign=shareaholic&utm_medium=google_plus&utm_source=socialnetwork)
 
   - MEAN
 
@@ -1143,10 +1145,11 @@ Fast, Scalable, and Available](https://pragprog.com/book/brapps/serverless-singl
     - [x] [How to re render ListView items](https://www.reddit.com/r/reactnative/comments/33wmu4/how_to_re_render_listview_items/)
     - [x] [ListView fails to scroll](http://stackoverflow.com/questions/32874559/listview-fails-to-scroll)
 
-## Be more Productive
+## Be more Productive & Project Management
 
   - [x] [The Most Successful Techniques for Rising Early](http://zenhabits.net/early/)
   - [x] [You Will Regret These Choices in 10 Years](https://medium.com/the-mission/you-will-regret-these-choices-in-10-years-959761bea523#.68wcy1vbm)
+  - [x] [How we effectively use Trello for project management](https://wpcurve.com/trello-for-project-management/)
 
 ## Vim
 
