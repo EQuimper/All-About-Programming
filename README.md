@@ -246,6 +246,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [x] [Serverless GraphQL](http://kevinold.com/2016/02/01/serverless-graphql.html)
     - [x] [Serverless Offers a Framework for AWS Lambda](https://thenewstack.io/serverless-offers-framework-aws-lambda/)
+    - [ ] [Serverless Framework, why we decided to move away from Ruby on Rails](http://microapps.com/blog/serverless-framework/)
+    - [ ] [Serverless Framework - Part 1: Up and Running](http://blog.zerosharp.com/serverless-framework-part-1-up-and-running/)
+    - [ ] [A Serverless REST API in Minutes with the Serverless Framework](https://blog.codeship.com/a-serverless-rest-api-in-minutes/)
 
   - Electron
 
@@ -687,6 +690,10 @@ Fast, Scalable, and Available](https://pragprog.com/book/brapps/serverless-singl
   - [x] [Using Lambda Functions With NodeJS](https://www.youtube.com/watch?v=4ZyicyDpqE0)
   - [x] [Building Scalable Web Applications Using Microservices Architecture and NodeJS inside AWS Lambda](https://www.youtube.com/watch?v=n_MDBaKLuG4)
   - [x] [Serverless GraphQL Blog - Walkthrough]()
+  - [x] [Aws Lambda Tutorial: Lambda + Serverless = HAPPY](https://www.youtube.com/watch?v=71cd5XerKss)
+  - [x] [Running Microservices and Docker on AWS Elastic Beanstalk](https://www.youtube.com/watch?v=vaZmVSlWwyA&t=2666s)
+  - [x] [Deploying onto AWS Elastic Beanstalk - Deploy Web Applications on AWS](https://www.youtube.com/watch?v=xhc1boyBkJw)
+  - [x] [Technical Introduction to AWS Elastic Beanstalk – Deploy Web Applications on AWS](https://www.youtube.com/watch?v=dvmssHHBnII)
 
 - JavaScript
 
