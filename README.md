@@ -694,6 +694,7 @@ Fast, Scalable, and Available](https://pragprog.com/book/brapps/serverless-singl
   - [x] [Running Microservices and Docker on AWS Elastic Beanstalk](https://www.youtube.com/watch?v=vaZmVSlWwyA&t=2666s)
   - [x] [Deploying onto AWS Elastic Beanstalk - Deploy Web Applications on AWS](https://www.youtube.com/watch?v=xhc1boyBkJw)
   - [x] [Technical Introduction to AWS Elastic Beanstalk – Deploy Web Applications on AWS](https://www.youtube.com/watch?v=dvmssHHBnII)
+  - [ ] [Serverless for Developers: Tips for Your Next App](https://www.youtube.com/watch?v=SB4IAJbgWS8)
 
 - JavaScript
 
@@ -767,6 +768,10 @@ Fast, Scalable, and Available](https://pragprog.com/book/brapps/serverless-singl
   - [x] [The Fundamentals of Flow in 10-ish Minutes](https://www.youtube.com/watch?v=xWMuAUbXcdQ&t=19s)
   - [x] [Netflix JavaScript Talks - React & Flow](https://www.youtube.com/watch?v=dV8K6fsjDCQ)
   - [x] [Use ES6 style Promises with Node.js](https://egghead.io/lessons/node-js-use-es6-style-promises-with-node-js)
+  - [ ] [Let's Learn ES6 - Classes](https://www.youtube.com/watch?v=EUtZRwA7Fqc)
+  - [ ] [Sara Raasch: Javascript Testing - Unit tests, TDD, BDD, IDK.](https://www.youtube.com/watch?v=Fjc_cwPDbNY)
+  - [ ] [Advanced Async and Concurrency Patterns in JavaScript](https://www.youtube.com/watch?v=Qg1SvpIau6U)
+  - [ ] [JavaScript ES6 / ES2015 - [04] Classes and Inheritance](https://www.youtube.com/watch?v=RBLIm5LMrmc)
 
   - PWA
 
