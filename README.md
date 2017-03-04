@@ -539,8 +539,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [You Don't Know JS: this & Object Prototypes by Kyle Simpson](https://www.amazon.ca/You-Dont-Know-JS-Prototypes-ebook/dp/B00LPUIB9G/ref=sr_1_5?s=books&ie=UTF8&qid=1470005412&sr=1-5&keywords=kyle+simpson)
   - [ ] [You Don't Know JS: ES6 & Beyond by Kyle Simpson](https://www.amazon.ca/You-Dont-Know-JS-Beyond/dp/1491904240/ref=sr_1_6?s=books&ie=UTF8&qid=1470005412&sr=1-6&keywords=kyle+simpson)
   - [ ] [Single Page Web Applications: JavaScript end-to-end by Michael Mikowski](https://www.amazon.ca/Single-Page-Applications-end---end/dp/1617290750/ref=sr_1_1?ie=UTF8&qid=1473297259&sr=8-1&keywords=single+page+web+applications)
-  - [ ] [Serverless Single Page Apps
-Fast, Scalable, and Available](https://pragprog.com/book/brapps/serverless-single-page-apps)
+  - [ ] [Serverless Single Page Apps Fast, Scalable, and Available](https://pragprog.com/book/brapps/serverless-single-page-apps)
+  - [ ] [The principles of object-oriented javascript](https://www.amazon.ca/Principles-Object-Oriented-JavaScript-Nicholas-Zakas/dp/1593275404)
 
   - Webpack
 
@@ -768,10 +768,13 @@ Fast, Scalable, and Available](https://pragprog.com/book/brapps/serverless-singl
   - [x] [The Fundamentals of Flow in 10-ish Minutes](https://www.youtube.com/watch?v=xWMuAUbXcdQ&t=19s)
   - [x] [Netflix JavaScript Talks - React & Flow](https://www.youtube.com/watch?v=dV8K6fsjDCQ)
   - [x] [Use ES6 style Promises with Node.js](https://egghead.io/lessons/node-js-use-es6-style-promises-with-node-js)
-  - [ ] [Let's Learn ES6 - Classes](https://www.youtube.com/watch?v=EUtZRwA7Fqc)
+  - [x] [Let's Learn ES6 - Classes](https://www.youtube.com/watch?v=EUtZRwA7Fqc)
   - [ ] [Sara Raasch: Javascript Testing - Unit tests, TDD, BDD, IDK.](https://www.youtube.com/watch?v=Fjc_cwPDbNY)
   - [ ] [Advanced Async and Concurrency Patterns in JavaScript](https://www.youtube.com/watch?v=Qg1SvpIau6U)
-  - [ ] [JavaScript ES6 / ES2015 - [04] Classes and Inheritance](https://www.youtube.com/watch?v=RBLIm5LMrmc)
+  - [x] [JavaScript ES6 / ES2015 Classes and Inheritance](https://www.youtube.com/watch?v=RBLIm5LMrmc)
+  - [x] [JavaScript object creation patterns tutorial - factory , constructor pattern, prototype pattern](https://www.youtube.com/watch?v=xizFJHKHdHw)
+  - [x] [JavaScript Testing Basics](https://www.youtube.com/watch?v=yrGkDeBHqvY)
+  - [ ] [Testing Client/Server JavaScript](https://www.youtube.com/watch?v=lLqCXLYCqTI)
 
   - PWA
 
@@ -865,6 +868,7 @@ Fast, Scalable, and Available](https://pragprog.com/book/brapps/serverless-singl
     - [x] [Setup environment variables with Node.js + Dotenv Tutorial](https://www.youtube.com/watch?v=zDup0I2VGmk)
     - [x] [Build a Reddit API Clone with Node.js, Express and MongoDB - Part 1](https://www.youtube.com/watch?v=L5Nle1VXYnw)
     - [x] [Build a Reddit API Clone with Node.js, Express and MongoDB - Part 2](https://youtu.be/gtMZ-WiSrs8)
+    - [x] [Integration Testing with Express](https://www.youtube.com/watch?v=r8sPUw4uxAI)
 
     - Next.JS
 
