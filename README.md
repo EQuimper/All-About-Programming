@@ -180,6 +180,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Mongoose CRUD (Create, Read, Update, Delete)](http://coursework.vschool.io/mongoose-crud/)
     - [x] [Mongoose v3 part 1 :: Versioning](http://aaronheckmann.tumblr.com/post/48943525537/mongoose-v3-part-1-versioning)
     - [ ] [Mongoosastic: The Power of MongoDB & Elasticsearch Together](https://www.compose.com/articles/mongoosastic-the-power-of-mongodb-and-elasticsearch-together/)
+    - [ ] [Mongoose models and unit tests: The definitive guide](https://codeutopia.net/blog/2016/06/10/mongoose-models-and-unit-tests-the-definitive-guide/)
 
   - Firebase
 
@@ -305,13 +306,15 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Create an SMS bot on AWS Lambda with Claudia.js](https://www.twilio.com/blog/2016/12/create-an-sms-bot-on-aws-lambda-with-claudia-js.html)
     - [ ] [13 best practices to secure your web application](http://nodewebapps.com/2017/01/03/13-security-best-practices-for-your-web-application/)
     - [x] [ERROR HANDLING IN EXPRESS WITH ASYNC/AWAIT ROUTES](http://madole.xyz/error-handling-in-express-with-async-await-routes/)
+    - [x] [Scotch Media Mongoose Testing](http://www.scotchmedia.com/tutorials/express/authentication/1/06)
+    - [x] [Test a Node RESTful API with Mocha and Chai](https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai)
 
     * Testing
-      + [ ] [Unit Testing and TDD in Node.js – Part 1](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
+      + [x] [Unit Testing and TDD in Node.js – Part 1](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
       + [ ] [A guide to mocha's describe(), it() and setup hooks](http://samwize.com/2014/02/08/a-guide-to-mochas-describe-it-and-setup-hooks/)
       + [ ] [Testing in ES6 with Mocha and Babel 6](http://jamesknelson.com/testing-in-es6-with-mocha-and-babel-6/)
       + [ ] [Test a Node RESTful API with Mocha and Chai](https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai)
-      - [ ] [A TDD Approach to Building a Todo API Using Node.js and MongoDB](https://semaphoreci.com/community/tutorials/a-tdd-approach-to-building-a-todo-api-using-node-js-and-mongodb)
+      - [x] [A TDD Approach to Building a Todo API Using Node.js and MongoDB](https://semaphoreci.com/community/tutorials/a-tdd-approach-to-building-a-todo-api-using-node-js-and-mongodb)
       - [ ] [Getting Started with Node.js and Mocha](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha)
       - [ ] [How to correctly unit test Express server](https://glebbahmutov.com/blog/how-to-correctly-unit-test-express-server/)
 
@@ -774,7 +777,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [JavaScript ES6 / ES2015 Classes and Inheritance](https://www.youtube.com/watch?v=RBLIm5LMrmc)
   - [x] [JavaScript object creation patterns tutorial - factory , constructor pattern, prototype pattern](https://www.youtube.com/watch?v=xizFJHKHdHw)
   - [x] [JavaScript Testing Basics](https://www.youtube.com/watch?v=yrGkDeBHqvY)
-  - [ ] [Testing Client/Server JavaScript](https://www.youtube.com/watch?v=lLqCXLYCqTI)
+  - [x] [Testing Client/Server JavaScript](https://www.youtube.com/watch?v=lLqCXLYCqTI)
 
   - PWA
 
