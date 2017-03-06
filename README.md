@@ -242,6 +242,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Getting Started with React Native and Flow](https://medium.com/react-native-training/getting-started-with-react-native-and-flow-d40f55746809#.bnyc6l9nr)
   - [x] [Naming JavaScript modules with Flow types](https://blog.getexponent.com/naming-javascript-modules-with-flow-types-ba3a6c9835fa#.ky2w1uprt)
   - [ ] [Why Learn Functional Programming in JavaScript? (Composing Software)](https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257#.146oivwho)
+  - [x] [Better JavaScript with ES6, Pt. II: A Deep Dive into Classes](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes)
 
   - AWS
 
@@ -317,6 +318,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
       - [x] [A TDD Approach to Building a Todo API Using Node.js and MongoDB](https://semaphoreci.com/community/tutorials/a-tdd-approach-to-building-a-todo-api-using-node-js-and-mongodb)
       - [ ] [Getting Started with Node.js and Mocha](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha)
       - [ ] [How to correctly unit test Express server](https://glebbahmutov.com/blog/how-to-correctly-unit-test-express-server/)
+      - [x] [The Complete Guide to ES6 with Babel 6](http://jamesknelson.com/the-complete-guide-to-es6-with-babel-6/)
 
   - React.JS
 
@@ -472,6 +474,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [Python Programming Tutorial - 25 - How to Build a Web Crawler](https://www.youtube.com/watch?v=XjNm9bazxn8)
   - [x] [Python Web Crawler Tutorial](https://www.youtube.com/watch?v=nRW90GASSXE)
   - [ ] [Web Scraping Indeed for Key Data Science Job Skills](https://jessesw.com/Data-Science-Skills/)
+  - [x] [Programming for Finance with Python and Quantopian and Zipline Part 1](https://www.youtube.com/watch?v=RxjIOXstxCk)
+  - [ ] [Programming for Finance Part 2 - Creating an automated trading strategy](https://www.youtube.com/watch?v=_nMoCsPI-IA)
 
 - Programming stuff
 
