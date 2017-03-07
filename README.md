@@ -309,6 +309,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [ERROR HANDLING IN EXPRESS WITH ASYNC/AWAIT ROUTES](http://madole.xyz/error-handling-in-express-with-async-await-routes/)
     - [x] [Scotch Media Mongoose Testing](http://www.scotchmedia.com/tutorials/express/authentication/1/06)
     - [x] [Test a Node RESTful API with Mocha and Chai](https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai)
+    - [x] [Tutorial: Creating and managing a Node.js server on AWS, part 1](https://hackernoon.com/tutorial-creating-and-managing-a-node-js-server-on-aws-part-1-d67367ac5171#.rmc7bivzr)
+    - [x] [Tutorial: Creating and managing a Node.js server on AWS, part 2](https://hackernoon.com/tutorial-creating-and-managing-a-node-js-server-on-aws-part-2-5fbdea95f8a1#.lomvp3umf)
+    - [x] [Creating a simple nodejs API on AWS (including nginx)](https://blog.kloud.com.au/2015/11/26/creating-a-simple-nodejs-api-on-aws-including-nginx/)
+    - [x] [Node, Express, ReactJS, AWS – a case study in architecture](https://dandreamsofcoding.com/2015/07/28/node-express-reactjs-aws-a-case-study-in-architecture/)
 
     * Testing
       + [x] [Unit Testing and TDD in Node.js – Part 1](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
@@ -501,6 +505,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Top 20 Developer Tools of 2016
 ](https://blog.axosoft.com/2016/12/29/top-20-developer-tools-2016/?utm_source=hashnode.com)
   - [x] [Innovating with HTTP 2.0 Server Push](https://www.igvita.com/2013/06/12/innovating-with-http-2.0-server-push/)
+  - [x] [Back-End as a Service for Mobile Apps](https://code.tutsplus.com/articles/back-end-as-a-service-for-mobile-apps--cms-28154?utm_source=hashnode.com)
 
 ## Books
 
