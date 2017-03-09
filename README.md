@@ -506,6 +506,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 ](https://blog.axosoft.com/2016/12/29/top-20-developer-tools-2016/?utm_source=hashnode.com)
   - [x] [Innovating with HTTP 2.0 Server Push](https://www.igvita.com/2013/06/12/innovating-with-http-2.0-server-push/)
   - [x] [Back-End as a Service for Mobile Apps](https://code.tutsplus.com/articles/back-end-as-a-service-for-mobile-apps--cms-28154?utm_source=hashnode.com)
+  - [x] [Modern Web Development](https://hackernoon.com/modern-web-development-bf0b2ef0e22e#.9akrdapry)
 
 ## Books
 
