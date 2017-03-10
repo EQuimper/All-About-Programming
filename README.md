@@ -243,6 +243,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Naming JavaScript modules with Flow types](https://blog.getexponent.com/naming-javascript-modules-with-flow-types-ba3a6c9835fa#.ky2w1uprt)
   - [ ] [Why Learn Functional Programming in JavaScript? (Composing Software)](https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257#.146oivwho)
   - [x] [Better JavaScript with ES6, Pt. II: A Deep Dive into Classes](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes)
+  - [ ] [Why I use Tape Instead of Mocha & So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.p2pa9e68k)
 
   - AWS
 
@@ -266,6 +267,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [ES6 Class based Express routing](http://mkla.bz/2016/04/20/es6-class-express-routing.html)
     - [x] [Easy HTTP/2 Server with Node.js and Express.js](https://webapplog.com/http2-node/)
     - [ ] [How to Create Node.js, Express.js and MongoDB CRUD Web Application](https://www.djamware.com/post/58b27ce080aca72c54645983/how-to-create-nodejs-expressjs-and-mongodb-crud-web-application?utm_campaign=shareaholic&utm_medium=google_plus&utm_source=socialnetwork)
+
+  - FlowType
+
+    - [x] [Type-checking React and Redux (+Thunk) with Flow — Part 1](https://blog.callstack.io/type-checking-react-and-redux-thunk-with-flow-part-1-ad12de935c36#.t94w9jdps)
+    - [x] [Type-checking React and Redux (+Thunk) with Flow — Part 2](https://blog.callstack.io/type-checking-react-and-redux-thunk-with-flow-part-2-206ce5f6e705#.p8drc08r7)
+    - [ ] [Typed Redux](https://blog.callstack.io/typed-redux-2aa8bff926ff#.bo254gdbh)
 
   - MEAN
 
@@ -430,6 +437,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [React Native Tips and Tricks: Styling in JS](http://willowtreeapps.com/ideas/react-native-tips-and-tricks-styling-in-js/)
     - [x] [Tips for React Native Images (or saying goodbye to trial and error)](https://medium.com/the-react-native-log/tips-for-react-native-images-or-saying-goodbye-to-trial-and-error-b2baaf0a1a4d#.8zdrssyk3)
     - [x] [React Native and D3JS](https://speakerdeck.com/hswolff/react-native-and-d3js)
+    - [ ] [I made React Native fast, you can too](https://launchdrawer.com/i-made-react-native-fast-you-can-too-9e61c951ce0#.fvhjvxy3v)
 
   - Meteor
 
