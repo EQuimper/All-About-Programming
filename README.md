@@ -272,7 +272,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [x] [Type-checking React and Redux (+Thunk) with Flow — Part 1](https://blog.callstack.io/type-checking-react-and-redux-thunk-with-flow-part-1-ad12de935c36#.t94w9jdps)
     - [x] [Type-checking React and Redux (+Thunk) with Flow — Part 2](https://blog.callstack.io/type-checking-react-and-redux-thunk-with-flow-part-2-206ce5f6e705#.p8drc08r7)
-    - [ ] [Typed Redux](https://blog.callstack.io/typed-redux-2aa8bff926ff#.bo254gdbh)
+    - [x] [Typed Redux](https://blog.callstack.io/typed-redux-2aa8bff926ff#.bo254gdbh)
+    - [x] [Why use static types in JavaScript? (A 4-part primer on static typing with Flow)](https://medium.freecodecamp.com/why-use-static-types-in-javascript-part-1-8382da1e0adb#.hqm9qq6sr) [Must Read]
 
   - MEAN
 
