@@ -365,6 +365,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [React Interview Questions](https://dev.to/tylermcginnis/react-interview-questions)
     - [x] [JavaScript Unit Test Automation: React Components](http://blog.testproject.io/2016/09/21/javascript-unit-test-automation-react-components/)
     - [x] [Testing React with Enzyme is Awesome](https://medium.com/@wesleyluk/testing-react-with-enzyme-is-awesome-914e56f1f312#.kf2ac2whk)
+    - [ ] [Getting Started with TDD in React](https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react)
 
   - RxJS
 
