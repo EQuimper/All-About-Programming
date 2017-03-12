@@ -321,6 +321,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Tutorial: Creating and managing a Node.js server on AWS, part 2](https://hackernoon.com/tutorial-creating-and-managing-a-node-js-server-on-aws-part-2-5fbdea95f8a1#.lomvp3umf)
     - [x] [Creating a simple nodejs API on AWS (including nginx)](https://blog.kloud.com.au/2015/11/26/creating-a-simple-nodejs-api-on-aws-including-nginx/)
     - [x] [Node, Express, ReactJS, AWS – a case study in architecture](https://dandreamsofcoding.com/2015/07/28/node-express-reactjs-aws-a-case-study-in-architecture/)
+    - [x] [9 Fantastic Utilities for the Node.js Developer](https://nodesource.com/blog/nine-fantastic-utilities-for-the-node-js-developer)
 
     * Testing
       + [x] [Unit Testing and TDD in Node.js – Part 1](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
@@ -366,6 +367,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [JavaScript Unit Test Automation: React Components](http://blog.testproject.io/2016/09/21/javascript-unit-test-automation-react-components/)
     - [x] [Testing React with Enzyme is Awesome](https://medium.com/@wesleyluk/testing-react-with-enzyme-is-awesome-914e56f1f312#.kf2ac2whk)
     - [ ] [Getting Started with TDD in React](https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react)
+    - [x] [Jest 14.0: React Tree Snapshot Testing](https://facebook.github.io/jest/blog/2016/07/27/jest-14.html)
+    - [x] [Jest 15.0: New Defaults for Jest](https://facebook.github.io/jest/blog/2016/09/01/jest-15.html)
 
   - RxJS
 
@@ -689,6 +692,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [iOS Swift 3 Beginner Tutorial: Protocols & Delegates - Passing Data using the Delegate Method](https://www.youtube.com/watch?v=KhqXUi1SF4s)
     - [x] [Swift 3 Fun Algorithms: Filter, Map, Reduce Higher Order Functions](https://www.youtube.com/watch?v=fbYMaJciMZY)
     - [x] [How To Make A Music Player In Xcode 8 (Swift 3.0) - Part 1](https://www.youtube.com/watch?v=bqhDI4BzO4U)
+    - [] [iOS10 & Swift 3 Programming - Classes And Objects](https://www.youtube.com/watch?v=tjuHUINHalw)
 
 - AWS
 
