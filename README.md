@@ -948,6 +948,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [React.js Conf 2016 - Lightning Talks](https://www.youtube.com/watch?v=V5N0Ukb8LGg)
     - [x] [Testing async functions in React using Sinon.JS](https://www.youtube.com/watch?v=09Lig2mlZS0)
     - [x] [Render Basic SVG Components in React](https://egghead.io/lessons/react-render-basic-svg-components-in-react)
+    - [ ] [Lin Clark - A Cartoon Guide to the Wilds of Data Handling](https://www.youtube.com/watch?v=WIqbzHdEPVM)
 
   - Redux
 
@@ -996,6 +997,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Create a Button Shake Animation in React Native](https://egghead.io/lessons/react-create-a-button-shake-animation-in-react-native)
     - [x] [Use Flex to Scale React Native Background Image](https://egghead.io/lessons/react-use-flex-to-scale-react-native-background-image)
     - [x] [Building a Fully-Fledged Media Player in React Native](https://www.youtube.com/watch?v=_awnyW-9aJ8)
+    - [ ] [Build a lunch spot recommendation app with React Native](https://www.youtube.com/watch?v=ynxgST6NWR4)
+    - [ ] [Getting Started with React Navigation](https://www.youtube.com/watch?v=C96piR3FRww)
 
   - Webpack
 
