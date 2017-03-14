@@ -623,6 +623,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [WordPress Theme Design by Tessa Blakeley Silver](https://www.goodreads.com/book/show/3405042-wordpress-theme-design?from_search=true)
   - [ ] [WordPress: The Missing Manual by Matthew MacDonald](https://www.goodreads.com/book/show/13355786-wordpress?ac=1&from_search=true)
 
+- Programming
+
+  - [ ] [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+
 ## Videos
 
 - Computer Science + Algorithms + History
