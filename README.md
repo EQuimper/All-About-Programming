@@ -369,6 +369,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Getting Started with TDD in React](https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react)
     - [x] [Jest 14.0: React Tree Snapshot Testing](https://facebook.github.io/jest/blog/2016/07/27/jest-14.html)
     - [x] [Jest 15.0: New Defaults for Jest](https://facebook.github.io/jest/blog/2016/09/01/jest-15.html)
+    - [x] [Styled-Components: Enforcing Best Practices In Component-Based Systems](https://www.smashingmagazine.com/2017/01/styled-components-enforcing-best-practices-component-based-systems/)
+    - [ ] [ReactJS and ES7+](https://medium.com/@fakiolinho/reactjs-and-es7-bbedb9862e61#.t34tum979)
 
   - RxJS
 
@@ -462,6 +464,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Apollo Server 0.2: GraphQL with Express, Connect, hapi or Koa](https://dev-blog.apollodata.com/apollo-server-0-2-graphql-with-express-connect-hapi-or-koa-7e06b0a8fdb1#.cd4qnrfc1)
     - [x] [GraphQL and MongoDB — a quick example](https://medium.com/the-ideal-system/graphql-and-mongodb-a-quick-example-34643e637e49#.3x3c60lfk)
     - [x] [Give it a REST: use GraphQL for your APIs](https://medium.freecodecamp.com/give-it-a-rest-use-graphql-for-your-apis-40a2761e6336#.bozx6pgff)
+    - [ ] [GraphQL vs REST: Overview](https://philsturgeon.uk/api/2017/01/24/graphql-vs-rest-overview/?utm_source=hashnode.com)
+    - [ ] [GraphQL vs REST: Caching](https://philsturgeon.uk/api/2017/01/26/graphql-vs-rest-caching/)
 
 - Ruby
 
