@@ -279,6 +279,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     - [x] [MEAN App From Scratch - MongoDB, Express, Angular 2 & NodeJS](https://www.youtube.com/watch?v=PFP0oXNNveg)
 
+  - Java
+
+    - [x] [Java - Interfaces](https://www.tutorialspoint.com/java/java_interfaces.htm)
+    - [x] [Java - Polymorphism](https://www.tutorialspoint.com/java/java_polymorphism.htm)
+
   - Next.JS
 
     - [x] [Next.Js Is it the next big thing in JavaScript?](https://medium.com/javascript-mantra/next-js-53e9cf4da5af#.fnjmgtnsn)
@@ -953,6 +958,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Testing async functions in React using Sinon.JS](https://www.youtube.com/watch?v=09Lig2mlZS0)
     - [x] [Render Basic SVG Components in React](https://egghead.io/lessons/react-render-basic-svg-components-in-react)
     - [ ] [Lin Clark - A Cartoon Guide to the Wilds of Data Handling](https://www.youtube.com/watch?v=WIqbzHdEPVM)
+    - [ ] [Next.js: Universal React Made Easy and Simple - React Conf 2017](https://www.youtube.com/watch?v=evaMpdSiZKk&t=951s)
 
   - Redux
 
