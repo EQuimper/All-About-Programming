@@ -244,6 +244,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [Why Learn Functional Programming in JavaScript? (Composing Software)](https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257#.146oivwho)
   - [x] [Better JavaScript with ES6, Pt. II: A Deep Dive into Classes](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes)
   - [ ] [Why I use Tape Instead of Mocha & So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.p2pa9e68k)
+  - [ ] [Understanding ES6 Classes](https://hashnode.com/post/understanding-es6-classes-cj0dqw75w003mf7537mcwqrxh)
 
   - AWS
 
@@ -429,6 +430,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Two Weird Tricks with Redux](http://jlongster.com/Two-Weird-Tricks-with-Redux)
     - [ ] [Firebase with Redux](https://medium.com/@prescottprue/firebase-with-redux-82d04f8675b9#.8ktkrjxhy)
     - [x] [Securing React Redux Apps With JWT Tokens](https://medium.com/@rajaraodv/securing-react-redux-apps-with-jwt-tokens-fcfe81356ea0#.7j5k1nirf)
+    - [ ] [Some Thoughts On Testing React/Redux Applications](https://medium.com/javascript-inside/some-thoughts-on-testing-react-redux-applications-8571fbc1b78f#.uhi2vx91s)
 
   - React-Native
 
@@ -705,7 +707,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [iOS Swift 3 Beginner Tutorial: Protocols & Delegates - Passing Data using the Delegate Method](https://www.youtube.com/watch?v=KhqXUi1SF4s)
     - [x] [Swift 3 Fun Algorithms: Filter, Map, Reduce Higher Order Functions](https://www.youtube.com/watch?v=fbYMaJciMZY)
     - [x] [How To Make A Music Player In Xcode 8 (Swift 3.0) - Part 1](https://www.youtube.com/watch?v=bqhDI4BzO4U)
-    - [] [iOS10 & Swift 3 Programming - Classes And Objects](https://www.youtube.com/watch?v=tjuHUINHalw)
+    - [ ] [iOS10 & Swift 3 Programming - Classes And Objects](https://www.youtube.com/watch?v=tjuHUINHalw)
+    - [x] [Introduction to Object Oriented Programming with Swift Part 1](https://www.youtube.com/watch?v=qFcRjLKBEhs)
+    - [ ] [Introduction to Object Oriented Programming with Swift Part 2](https://www.youtube.com/watch?v=0b1p0vGhzDQ)
 
 - AWS
 
@@ -958,7 +962,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Testing async functions in React using Sinon.JS](https://www.youtube.com/watch?v=09Lig2mlZS0)
     - [x] [Render Basic SVG Components in React](https://egghead.io/lessons/react-render-basic-svg-components-in-react)
     - [ ] [Lin Clark - A Cartoon Guide to the Wilds of Data Handling](https://www.youtube.com/watch?v=WIqbzHdEPVM)
-    - [ ] [Next.js: Universal React Made Easy and Simple - React Conf 2017](https://www.youtube.com/watch?v=evaMpdSiZKk&t=951s)
+    - [x] [Next.js: Universal React Made Easy and Simple - React Conf 2017](https://www.youtube.com/watch?v=evaMpdSiZKk&t=951s)
+    - [x] [React Performance End to End (React Fiber) - Keynote Part 3 - React Conf 2017](https://www.youtube.com/watch?v=bvFpe5j9-zQ&t=736s)
+    - [x] [⚡️ AWS Lambda + AWS Gateway + React = AWEsome - React Conf 2017](https://www.youtube.com/watch?v=GuItxBkpIAQ)
 
   - Redux
 
@@ -1009,6 +1015,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Building a Fully-Fledged Media Player in React Native](https://www.youtube.com/watch?v=_awnyW-9aJ8)
     - [ ] [Build a lunch spot recommendation app with React Native](https://www.youtube.com/watch?v=ynxgST6NWR4)
     - [ ] [Getting Started with React Navigation](https://www.youtube.com/watch?v=C96piR3FRww)
+    - [x] [⚡️ Create React Native App: 5 min. to "Hello, World!" - React Conf 2017](https://www.youtube.com/watch?v=9baaVjGdBqs)
 
   - Webpack
 
