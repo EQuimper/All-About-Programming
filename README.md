@@ -377,6 +377,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Jest 15.0: New Defaults for Jest](https://facebook.github.io/jest/blog/2016/09/01/jest-15.html)
     - [x] [Styled-Components: Enforcing Best Practices In Component-Based Systems](https://www.smashingmagazine.com/2017/01/styled-components-enforcing-best-practices-component-based-systems/)
     - [ ] [ReactJS and ES7+](https://medium.com/@fakiolinho/reactjs-and-es7-bbedb9862e61#.t34tum979)
+    - [x] [React with Recompose with Redux](http://www.hartzis.me/react-recompose-redux/)
+    - [ ] [Why The Hipsters Recompose Everything](https://medium.com/javascript-inside/why-the-hipsters-recompose-everything-23ac08748198#.41z6buqpj)
 
   - RxJS
 
@@ -531,6 +533,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Innovating with HTTP 2.0 Server Push](https://www.igvita.com/2013/06/12/innovating-with-http-2.0-server-push/)
   - [x] [Back-End as a Service for Mobile Apps](https://code.tutsplus.com/articles/back-end-as-a-service-for-mobile-apps--cms-28154?utm_source=hashnode.com)
   - [x] [Modern Web Development](https://hackernoon.com/modern-web-development-bf0b2ef0e22e#.9akrdapry)
+  - [ ] [Five advantages of serverless architecture for every app](https://www.developer-tech.com/news/2016/oct/05/five-advantages-serverless-architecture-every-app/?utm_content=bufferfd15a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 ## Books
 
