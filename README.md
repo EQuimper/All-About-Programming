@@ -743,6 +743,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Technical Introduction to AWS Elastic Beanstalk – Deploy Web Applications on AWS](https://www.youtube.com/watch?v=dvmssHHBnII)
   - [ ] [Serverless for Developers: Tips for Your Next App](https://www.youtube.com/watch?v=SB4IAJbgWS8)
 
+- Java
+
+  - [ ] [Java Programming](https://www.youtube.com/watch?v=WPvGqX-TXP0)
+
 - JavaScript
 
   - [x] [Advanced Async and Concurrency Patterns in JavaScript](https://www.youtube.com/watch?v=Qg1SvpIau6U)
@@ -968,6 +972,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Next.js: Universal React Made Easy and Simple - React Conf 2017](https://www.youtube.com/watch?v=evaMpdSiZKk&t=951s)
     - [x] [React Performance End to End (React Fiber) - Keynote Part 3 - React Conf 2017](https://www.youtube.com/watch?v=bvFpe5j9-zQ&t=736s)
     - [x] [⚡️ AWS Lambda + AWS Gateway + React = AWEsome - React Conf 2017](https://www.youtube.com/watch?v=GuItxBkpIAQ)
+    - [x] [Moving Fast with Nuclide and Flow - React Conf 2017](https://www.youtube.com/watch?v=WRyk5ZVklFs)
 
   - Redux
 
@@ -987,6 +992,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Reducing Redux Boilerplate](https://www.youtube.com/watch?v=BaBq48tvPB8)
     - [ ] [Basic redux-form](https://www.youtube.com/watch?v=c2D-jjVAEf8)
     - [ ] [Erik Rasmussen | Abstracting Form State with Redux Form](https://www.youtube.com/watch?v=eDTi7lYR1VU)
+    - [ ] [MobX vs Redux: Comparing the Opposing Paradigms - React Conf 2017](https://www.youtube.com/watch?v=76FRrbY18Bs)
 
   - React-Native
 
