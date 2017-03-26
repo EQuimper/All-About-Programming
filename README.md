@@ -379,6 +379,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [ReactJS and ES7+](https://medium.com/@fakiolinho/reactjs-and-es7-bbedb9862e61#.t34tum979)
     - [x] [React with Recompose with Redux](http://www.hartzis.me/react-recompose-redux/)
     - [ ] [Why The Hipsters Recompose Everything](https://medium.com/javascript-inside/why-the-hipsters-recompose-everything-23ac08748198#.41z6buqpj)
+    - [ ] [Add routing to React apps using React Router v4](https://egghead.io/courses/add-routing-to-react-apps-using-react-router-v4)
 
   - RxJS
 
@@ -498,6 +499,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [A Look Into: Using CSS Variables](http://www.hongkiat.com/blog/css-variables/)
   - [x] [The most promising design tools you should try in 2017](https://blog.prototypr.io/the-most-promising-design-tools-you-should-try-in-2017-2e5d34b16261#.9a4ub1yye)
   - [ ] [A Step-by-step Guide to UI Animation with Principle and Sketch](https://www.toptal.com/designers/prototyping/a-practical-guide-to-ui-animation?utm_source=Facebook&utm_content=&utm_medium=paidsocial&utm_campaign=biz_awa_ppe_blog_a-practical-guide-to-ui-animation_as_w_des)
+  - [ ] [Build Complex Layouts with CSS Grid Layout](https://egghead.io/courses/build-complex-layouts-with-css-grid-layout)
 
 - Python
 
@@ -742,6 +744,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Deploying onto AWS Elastic Beanstalk - Deploy Web Applications on AWS](https://www.youtube.com/watch?v=xhc1boyBkJw)
   - [x] [Technical Introduction to AWS Elastic Beanstalk – Deploy Web Applications on AWS](https://www.youtube.com/watch?v=dvmssHHBnII)
   - [ ] [Serverless for Developers: Tips for Your Next App](https://www.youtube.com/watch?v=SB4IAJbgWS8)
+  - [x] [Introduction to Amazon Cognito - User Authentication and Mobile Data Service on AWS](https://www.youtube.com/watch?v=abTy-Yyo6lI)
+  - [ ] [Getting Started with Your User Pools in Amazon Cognito](https://www.youtube.com/watch?v=vr1njQyqlbk&t=2147s)
+  - [ ] [5 Minutes to Amazon Cognito: Federated Identity and Mobile App Demo](https://www.youtube.com/watch?v=arZ2zj_F4LA)
 
 - Java
 
@@ -973,6 +978,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [React Performance End to End (React Fiber) - Keynote Part 3 - React Conf 2017](https://www.youtube.com/watch?v=bvFpe5j9-zQ&t=736s)
     - [x] [⚡️ AWS Lambda + AWS Gateway + React = AWEsome - React Conf 2017](https://www.youtube.com/watch?v=GuItxBkpIAQ)
     - [x] [Moving Fast with Nuclide and Flow - React Conf 2017](https://www.youtube.com/watch?v=WRyk5ZVklFs)
+    - [ ] [Jest Snapshots and Beyond - React Conf 2017](https://www.youtube.com/watch?v=HAuXJVI_bUs)
 
   - Redux
 
