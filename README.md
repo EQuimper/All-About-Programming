@@ -254,6 +254,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Serverless Framework - Part 1: Up and Running](http://blog.zerosharp.com/serverless-framework-part-1-up-and-running/)
     - [ ] [A Serverless REST API in Minutes with the Serverless Framework](https://blog.codeship.com/a-serverless-rest-api-in-minutes/)
 
+  - Google Cloud (GCP)
+
+    - [x] [What are the Google Cloud Platform (GCP) Services?](https://hackernoon.com/what-are-the-google-cloud-platform-gcp-services-285f1988957a#.7hlvyze8i)
+    - [x] [Why we moved from Amazon Web Services to Google Cloud Platform?](https://lugassy.net/why-we-moved-from-amazon-web-services-to-google-cloud-platform-726c412fd667#.pxmgutort)
+    - [x] [How much is Spotify paying Google Cloud?](https://medium.com/@davidmytton/how-much-is-spotify-paying-google-cloud-ebb3bf180f15#.40knikglm)
+
   - Electron
 
     - [ ] [Building a desktop application with Electron](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658)
