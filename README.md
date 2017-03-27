@@ -754,6 +754,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [Getting Started with Your User Pools in Amazon Cognito](https://www.youtube.com/watch?v=vr1njQyqlbk&t=2147s)
   - [ ] [5 Minutes to Amazon Cognito: Federated Identity and Mobile App Demo](https://www.youtube.com/watch?v=arZ2zj_F4LA)
 
+- Google Cloud Platform (GCP)
+
+  - [ ] [Google Cloud Functions and Firebase (Google Cloud Next '17)](https://www.youtube.com/watch?v=GNR9El3XWYo)
+
 - Java
 
   - [ ] [Java Programming](https://www.youtube.com/watch?v=WPvGqX-TXP0)
