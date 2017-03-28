@@ -299,6 +299,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Build a Universal JavaScript App with Next.js](https://auth0.com/blog/building-universal-apps-with-nextjs/?utm_source=twitter&amp;utm_medium=sc&amp;utm_campaign=nextjs)
     - [x] [React Universal with Next.js: Server-side React](https://scotch.io/tutorials/react-universal-with-next-js-server-side-react)
     - [x] [Next.js is not what you may think it is](https://medium.com/the-ideal-system/next-js-is-not-what-you-may-think-it-is-8423172e7401#.6psziopr9)
+    - [x] [What’s Next.js for Apollo](https://dev-blog.apollodata.com/whats-next-js-for-apollo-e4dfe835d070)
 
   - Node
 
@@ -344,6 +345,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
       - [ ] [Getting Started with Node.js and Mocha](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha)
       - [ ] [How to correctly unit test Express server](https://glebbahmutov.com/blog/how-to-correctly-unit-test-express-server/)
       - [x] [The Complete Guide to ES6 with Babel 6](http://jamesknelson.com/the-complete-guide-to-es6-with-babel-6/)
+      - [x] [CI Code Coverage + Tests in 5 Minutes!](https://zach.codes/ci-code-coverage-tests-in-5-minutes/)
 
   - React.JS
 
@@ -461,6 +463,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Tips for React Native Images (or saying goodbye to trial and error)](https://medium.com/the-react-native-log/tips-for-react-native-images-or-saying-goodbye-to-trial-and-error-b2baaf0a1a4d#.8zdrssyk3)
     - [x] [React Native and D3JS](https://speakerdeck.com/hswolff/react-native-and-d3js)
     - [ ] [I made React Native fast, you can too](https://launchdrawer.com/i-made-react-native-fast-you-can-too-9e61c951ce0#.fvhjvxy3v)
+    - [ ] [11 mistakes I’ve made during React Native / Redux app development](https://medium.com/dailyjs/11-mistakes-ive-made-during-react-native-redux-app-development-8544e2be9a9)
 
   - Meteor
 
@@ -506,6 +509,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [The most promising design tools you should try in 2017](https://blog.prototypr.io/the-most-promising-design-tools-you-should-try-in-2017-2e5d34b16261#.9a4ub1yye)
   - [ ] [A Step-by-step Guide to UI Animation with Principle and Sketch](https://www.toptal.com/designers/prototyping/a-practical-guide-to-ui-animation?utm_source=Facebook&utm_content=&utm_medium=paidsocial&utm_campaign=biz_awa_ppe_blog_a-practical-guide-to-ui-animation_as_w_des)
   - [ ] [Build Complex Layouts with CSS Grid Layout](https://egghead.io/courses/build-complex-layouts-with-css-grid-layout)
+  - [x] [A shorthand for designing UI flows](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows)
 
 - Python
 
@@ -752,7 +756,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [Serverless for Developers: Tips for Your Next App](https://www.youtube.com/watch?v=SB4IAJbgWS8)
   - [x] [Introduction to Amazon Cognito - User Authentication and Mobile Data Service on AWS](https://www.youtube.com/watch?v=abTy-Yyo6lI)
   - [ ] [Getting Started with Your User Pools in Amazon Cognito](https://www.youtube.com/watch?v=vr1njQyqlbk&t=2147s)
-  - [ ] [5 Minutes to Amazon Cognito: Federated Identity and Mobile App Demo](https://www.youtube.com/watch?v=arZ2zj_F4LA)
+  - [x] [5 Minutes to Amazon Cognito: Federated Identity and Mobile App Demo](https://www.youtube.com/watch?v=arZ2zj_F4LA)
 
 - Google Cloud Platform (GCP)
 
@@ -1041,6 +1045,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Build a lunch spot recommendation app with React Native](https://www.youtube.com/watch?v=ynxgST6NWR4)
     - [ ] [Getting Started with React Navigation](https://www.youtube.com/watch?v=C96piR3FRww)
     - [x] [⚡️ Create React Native App: 5 min. to "Hello, World!" - React Conf 2017](https://www.youtube.com/watch?v=9baaVjGdBqs)
+    - [ ] [Build a chat app with Firebase, Redux, and React Native](https://www.youtube.com/watch?v=915vvTQV_tI)
+    - [ ] [Build a lunch spot recommendation app with React Native](https://www.youtube.com/watch?v=ynxgST6NWR4)
 
   - Webpack
 
