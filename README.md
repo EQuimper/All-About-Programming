@@ -388,6 +388,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [React with Recompose with Redux](http://www.hartzis.me/react-recompose-redux/)
     - [ ] [Why The Hipsters Recompose Everything](https://medium.com/javascript-inside/why-the-hipsters-recompose-everything-23ac08748198#.41z6buqpj)
     - [ ] [Add routing to React apps using React Router v4](https://egghead.io/courses/add-routing-to-react-apps-using-react-router-v4)
+    - [ ] [Reusable State with Higher Order Components](https://daveceddia.com/extract-state-with-higher-order-components/)
 
   - RxJS
 
@@ -1045,8 +1046,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Build a lunch spot recommendation app with React Native](https://www.youtube.com/watch?v=ynxgST6NWR4)
     - [ ] [Getting Started with React Navigation](https://www.youtube.com/watch?v=C96piR3FRww)
     - [x] [⚡️ Create React Native App: 5 min. to "Hello, World!" - React Conf 2017](https://www.youtube.com/watch?v=9baaVjGdBqs)
-    - [ ] [Build a chat app with Firebase, Redux, and React Native](https://www.youtube.com/watch?v=915vvTQV_tI)
-    - [ ] [Build a lunch spot recommendation app with React Native](https://www.youtube.com/watch?v=ynxgST6NWR4)
+    - [x] [Build a chat app with Firebase, Redux, and React Native](https://www.youtube.com/watch?v=915vvTQV_tI)
 
   - Webpack
 
@@ -1167,6 +1167,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Learn Docker in 12 Minutes](https://www.youtube.com/watch?v=YFl2mCHdv24)
   - [x] [Use git add --patch for better commit history and mitigating bugs]()https://egghead.io/lessons/tools-use-git-add-patch-for-better-commit-history-and-mitigating-bugs
   - [ ] [Life as a Freelance Developer and Digital Nomad](https://www.youtube.com/watch?v=ShBfyRuwz4E)
+  - [ ] [Microservices at Netflix: Teams and services are tightly aligned and loosely coupled](https://www.oreilly.com/ideas/microservices-at-netflix-teams-and-services-are-tightly-aligned-and-loosely-coupled)
 
 ## Start-Up Stuff
 
