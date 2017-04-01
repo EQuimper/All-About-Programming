@@ -615,6 +615,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Express in Action by Evan M.Hahn](https://www.amazon.ca/Express-Action-Writing-building-applications/dp/1617292427/ref=sr_1_1?s=books&ie=UTF8&qid=1469305287&sr=1-1&keywords=Express+in+Action+by+Evan+M.Hahn)
     - [ ] [Full-Stack JavaScript Development: Develop, Test and Deploy with MongoDB, Express, Angular and Node on AWS](https://www.amazon.com/Full-Stack-JavaScript-Development-Develop-MongoDB/dp/0997196602%3FSubscriptionId%3DAKIAJ2HQNLFCLUOUMLHQ%26tag%3Dzippylab-20%26linkCode%3Dsp1%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0997196602&zpy=1)
     - [ ] [Node.js the Right Way: Practical, Server-Side JavaScript That Scales](https://www.amazon.com/Node-js-Right-Way-Server-Side-JavaScript-ebook/dp/B00HSO6YD8%3FSubscriptionId%3DAKIAJ2HQNLFCLUOUMLHQ%26tag%3Dzippylab-20%26linkCode%3Dsp1%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00HSO6YD8&zpy=1)
+    - [x] [Node Hero - Node.js Project Structure Tutorial](https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial/)
+    - [x] [Advanced Node.js Project Structure Tutorial](https://blog.risingstack.com/node-js-project-structure-tutorial-node-js-at-scale/)
 
   - React-Native
 
