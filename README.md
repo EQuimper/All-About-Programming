@@ -281,6 +281,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Type-checking React and Redux (+Thunk) with Flow — Part 2](https://blog.callstack.io/type-checking-react-and-redux-thunk-with-flow-part-2-206ce5f6e705#.p8drc08r7)
     - [x] [Typed Redux](https://blog.callstack.io/typed-redux-2aa8bff926ff#.bo254gdbh)
     - [x] [Why use static types in JavaScript? (A 4-part primer on static typing with Flow)](https://medium.freecodecamp.com/why-use-static-types-in-javascript-part-1-8382da1e0adb#.hqm9qq6sr) [Must Read]
+    - [x] [Writing Better JavaScript with Flow](https://www.sitepoint.com/writing-better-javascript-with-flow/?utm_source=hashnode.com)
 
   - MEAN
 
@@ -335,6 +336,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Creating a simple nodejs API on AWS (including nginx)](https://blog.kloud.com.au/2015/11/26/creating-a-simple-nodejs-api-on-aws-including-nginx/)
     - [x] [Node, Express, ReactJS, AWS – a case study in architecture](https://dandreamsofcoding.com/2015/07/28/node-express-reactjs-aws-a-case-study-in-architecture/)
     - [x] [9 Fantastic Utilities for the Node.js Developer](https://nodesource.com/blog/nine-fantastic-utilities-for-the-node-js-developer)
+    - [x] [Google API authorization in Node.js](https://jjankowskidev.wordpress.com/2017/04/01/google-api-authorization-in-node-js/?utm_source=hashnode.com)
+    - [ ] [Creating a microservice in NodeJs](http://www.syntaxsuccess.com/viewarticle/creating-a-microservice-in-nodejs?utm_source=hashnode.com)
 
     * Testing
       + [x] [Unit Testing and TDD in Node.js – Part 1](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
@@ -443,6 +446,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Firebase with Redux](https://medium.com/@prescottprue/firebase-with-redux-82d04f8675b9#.8ktkrjxhy)
     - [x] [Securing React Redux Apps With JWT Tokens](https://medium.com/@rajaraodv/securing-react-redux-apps-with-jwt-tokens-fcfe81356ea0#.7j5k1nirf)
     - [ ] [Some Thoughts On Testing React/Redux Applications](https://medium.com/javascript-inside/some-thoughts-on-testing-react-redux-applications-8571fbc1b78f#.uhi2vx91s)
+    - [x] [Rapid tips for your React-Redux application](https://hackernoon.com/rapid-tips-for-your-react-redux-application-68f513a7cebf)
+    - [x] [Dissecting Twitter’s Redux Store](https://medium.com/statuscode/dissecting-twitters-redux-store-d7280b62c6b1)
+    - [x] [Normalizing State Shape](http://redux.js.org/docs/recipes/reducers/NormalizingStateShape.html)
 
   - React-Native
 
