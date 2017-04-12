@@ -338,6 +338,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [9 Fantastic Utilities for the Node.js Developer](https://nodesource.com/blog/nine-fantastic-utilities-for-the-node-js-developer)
     - [x] [Google API authorization in Node.js](https://jjankowskidev.wordpress.com/2017/04/01/google-api-authorization-in-node-js/?utm_source=hashnode.com)
     - [ ] [Creating a microservice in NodeJs](http://www.syntaxsuccess.com/viewarticle/creating-a-microservice-in-nodejs?utm_source=hashnode.com)
+    - [ ] [Express, Passport and JSON Web Token (jwt) Authentication for Beginners](https://jonathanmh.com/express-passport-json-web-token-jwt-authentication-beginners/)
+    - [ ] [Node, Express, Mongoose and Passport.js REST API Authentication](https://www.djamware.com/post/58eba06380aca72673af8500/node-express-mongoose-and-passportjs-rest-api-authentication?utm_campaign=shareaholic&utm_medium=google_plus&utm_source=socialnetwork)
 
     * Testing
       + [x] [Unit Testing and TDD in Node.js – Part 1](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
@@ -392,6 +394,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Why The Hipsters Recompose Everything](https://medium.com/javascript-inside/why-the-hipsters-recompose-everything-23ac08748198#.41z6buqpj)
     - [ ] [Add routing to React apps using React Router v4](https://egghead.io/courses/add-routing-to-react-apps-using-react-router-v4)
     - [ ] [Reusable State with Higher Order Components](https://daveceddia.com/extract-state-with-higher-order-components/)
+    - [ ] [Scalable React and React Native Apps](https://medium.com/getty-logs/scalable-react-and-react-native-apps-b99f952d0d53)
 
   - RxJS
 
@@ -471,6 +474,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [React Native and D3JS](https://speakerdeck.com/hswolff/react-native-and-d3js)
     - [ ] [I made React Native fast, you can too](https://launchdrawer.com/i-made-react-native-fast-you-can-too-9e61c951ce0#.fvhjvxy3v)
     - [ ] [11 mistakes I’ve made during React Native / Redux app development](https://medium.com/dailyjs/11-mistakes-ive-made-during-react-native-redux-app-development-8544e2be9a9)
+    - [x] [Mobile Authentication with React Native and JSON Web Tokens](https://gellerj496howto.wordpress.com/passport-auth-strategies/)
+    - [x] [Protecting API Endpoints](https://gellerj496howto.wordpress.com/protecting-api-endpoints/)
 
   - Meteor
 
@@ -553,6 +558,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Back-End as a Service for Mobile Apps](https://code.tutsplus.com/articles/back-end-as-a-service-for-mobile-apps--cms-28154?utm_source=hashnode.com)
   - [x] [Modern Web Development](https://hackernoon.com/modern-web-development-bf0b2ef0e22e#.9akrdapry)
   - [ ] [Five advantages of serverless architecture for every app](https://www.developer-tech.com/news/2016/oct/05/five-advantages-serverless-architecture-every-app/?utm_content=bufferfd15a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+  - [x] [An Introduction to OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 
 ## Books
 
@@ -770,6 +776,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - Google Cloud Platform (GCP)
 
   - [ ] [Google Cloud Functions and Firebase (Google Cloud Next '17)](https://www.youtube.com/watch?v=GNR9El3XWYo)
+  - [ ] [Serverless Microservices with Google Cloud Functions](https://www.youtube.com/watch?v=5CZ1f6wzn4Q)
 
 - Java
 
@@ -1094,6 +1101,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Common SQL Queries converted for the Firebase Database](https://www.youtube.com/watch?v=sKFLI5FOOHs&t=18s)
     - [x] [Joins in the Firebase Database](https://www.youtube.com/watch?v=Idu9EJPSxiY)
     - [x] [Denormalization is normal with the Firebase Database](https://www.youtube.com/watch?v=vKqXSZLLnHA)
+    - [x] [Cloud Functions for Firebase](https://www.youtube.com/watch?v=gPFe2Tx32Qo)
+    - [x] [Firebase Data Modeling + User Management](https://www.youtube.com/watch?v=QEd2lEoXpp4&t=198s)
 
   - MongoDB
 
