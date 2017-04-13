@@ -713,6 +713,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Getting Started with Phoenix](https://www.youtube.com/watch?v=KiP23mk760E)
     - [x] [Using Ecto Associations in Phoenix](https://www.youtube.com/watch?v=THUG8J3xSYw)
 
+- DynamoDB
+
+  - [x] [Building Applications with DynamoDB [1/4]](https://www.youtube.com/watch?v=yqlauXAXlSc)
+  - [x] [Building Applications with DynamoDB [2/4]](https://www.youtube.com/watch?v=4jZthAFKAE4&t=370s)
+
 - Golang
 
   - [x] [Build Web Apps with Go Language](https://www.youtube.com/watch?v=Vlie-srOU8c&t=5116s)
