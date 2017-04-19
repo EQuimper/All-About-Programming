@@ -259,6 +259,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [What are the Google Cloud Platform (GCP) Services?](https://hackernoon.com/what-are-the-google-cloud-platform-gcp-services-285f1988957a#.7hlvyze8i)
     - [x] [Why we moved from Amazon Web Services to Google Cloud Platform?](https://lugassy.net/why-we-moved-from-amazon-web-services-to-google-cloud-platform-726c412fd667#.pxmgutort)
     - [x] [How much is Spotify paying Google Cloud?](https://medium.com/@davidmytton/how-much-is-spotify-paying-google-cloud-ebb3bf180f15#.40knikglm)
+    - [ ] [Serverless computing options with Google Cloud Platform (Google Cloud Next '17)](https://www.youtube.com/watch?v=hBACz_OP2LU&t=2204s)
 
   - Electron
 
@@ -780,8 +781,13 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 - Google Cloud Platform (GCP)
 
-  - [ ] [Google Cloud Functions and Firebase (Google Cloud Next '17)](https://www.youtube.com/watch?v=GNR9El3XWYo)
+  - [x] [Google Cloud Functions and Firebase (Google Cloud Next '17)](https://www.youtube.com/watch?v=GNR9El3XWYo)
   - [ ] [Serverless Microservices with Google Cloud Functions](https://www.youtube.com/watch?v=5CZ1f6wzn4Q)
+  - [x] [Getting Started with Cloud Functions for Firebase](https://www.youtube.com/watch?v=EvV9Vk9iOCQ)
+  - [x] [Firebase and Google Cloud Functions: Serverless Peanut Butter and Jelly](https://www.youtube.com/watch?v=kG71Hg9cUhQ)
+  - [x] [Writing a Realtime Database Trigger with Cloud Functions for Firebase](https://www.youtube.com/watch?v=7E13ZBCyKT0)
+  - [ ] [Building serverless applications with Google Cloud Functions](https://www.youtube.com/watch?v=kXk78ihBpiQ&t=650s)
+  - [x] [Serverless computing options with Google Cloud Platform](https://www.youtube.com/watch?v=hBACz_OP2LU)
 
 - Java
 
@@ -1108,6 +1114,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Denormalization is normal with the Firebase Database](https://www.youtube.com/watch?v=vKqXSZLLnHA)
     - [x] [Cloud Functions for Firebase](https://www.youtube.com/watch?v=gPFe2Tx32Qo)
     - [x] [Firebase Data Modeling + User Management](https://www.youtube.com/watch?v=QEd2lEoXpp4&t=198s)
+    - [ ] [Recipes for App Development with Firebase](https://www.youtube.com/watch?v=BftyfmILbrM&t=65s)
+    - [ ] [Firebase Overview](https://www.youtube.com/watch?v=tb2GZ3Bh4p8&t=171s)
 
   - MongoDB
 
