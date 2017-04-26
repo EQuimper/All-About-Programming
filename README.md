@@ -778,6 +778,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Introduction to Amazon Cognito - User Authentication and Mobile Data Service on AWS](https://www.youtube.com/watch?v=abTy-Yyo6lI)
   - [ ] [Getting Started with Your User Pools in Amazon Cognito](https://www.youtube.com/watch?v=vr1njQyqlbk&t=2147s)
   - [x] [5 Minutes to Amazon Cognito: Federated Identity and Mobile App Demo](https://www.youtube.com/watch?v=arZ2zj_F4LA)
+  - [x] [Leslie Passante: Building Better Lambda Apps With Serverless](https://www.youtube.com/watch?v=jj0eyDQaOxY)
+  - [x] [Rob & Erik: What we’ve learned in eighteen serverless months at Nordstrom](https://www.youtube.com/watch?v=r6pZUdy6iAE)
 
 - Google Cloud Platform (GCP)
 
@@ -924,6 +926,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [GraphQL at Shopify](https://www.youtube.com/watch?v=Wlu_PWCjc6Y)
     - [x] [High Performance GraphQL](https://www.youtube.com/watch?v=c35bj1AT3X8)
     - [x] [GraphQL Devtools: Easier Developing for Happier Product Devs](https://www.youtube.com/watch?v=3mkgOnSdg2c)
+    - [x] [Nikhila Ravi: Serverless GraphQL](https://www.youtube.com/watch?v=mRy7f30b2YU)
 
   - Node
 
@@ -1114,8 +1117,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Denormalization is normal with the Firebase Database](https://www.youtube.com/watch?v=vKqXSZLLnHA)
     - [x] [Cloud Functions for Firebase](https://www.youtube.com/watch?v=gPFe2Tx32Qo)
     - [x] [Firebase Data Modeling + User Management](https://www.youtube.com/watch?v=QEd2lEoXpp4&t=198s)
-    - [ ] [Recipes for App Development with Firebase](https://www.youtube.com/watch?v=BftyfmILbrM&t=65s)
+    - [x] [Recipes for App Development with Firebase](https://www.youtube.com/watch?v=BftyfmILbrM&t=65s)
     - [ ] [Firebase Overview](https://www.youtube.com/watch?v=tb2GZ3Bh4p8&t=171s)
+    - [ ] [Getting Started with Firebase Anonymous Authentication on the Web ](https://www.youtube.com/watch?v=ApG8L2RKrSI)
 
   - MongoDB
 
