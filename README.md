@@ -523,6 +523,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [A Step-by-step Guide to UI Animation with Principle and Sketch](https://www.toptal.com/designers/prototyping/a-practical-guide-to-ui-animation?utm_source=Facebook&utm_content=&utm_medium=paidsocial&utm_campaign=biz_awa_ppe_blog_a-practical-guide-to-ui-animation_as_w_des)
   - [ ] [Build Complex Layouts with CSS Grid Layout](https://egghead.io/courses/build-complex-layouts-with-css-grid-layout)
   - [x] [A shorthand for designing UI flows](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows)
+  - [x][‘Why BEM?’ in a nutshell](https://blog.decaf.de/2015/06/24/why-bem-in-a-nutshell/)
 
 - Python
 
@@ -927,6 +928,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [High Performance GraphQL](https://www.youtube.com/watch?v=c35bj1AT3X8)
     - [x] [GraphQL Devtools: Easier Developing for Happier Product Devs](https://www.youtube.com/watch?v=3mkgOnSdg2c)
     - [x] [Nikhila Ravi: Serverless GraphQL](https://www.youtube.com/watch?v=mRy7f30b2YU)
+    - [x] [Realtime React Apps with GraphQL](https://www.youtube.com/watch?v=AYbVMNtO-ro&t=1069s)
+    - [x] [Apollo at Expo: GraphQL Helps Small Teams Move Fast - Adam Miskiewicz](https://www.youtube.com/watch?v=E398q4HGRBA&t=1489s)
+    - [x] [Authentication and Error Handling in GraphQL - Andrew Rhyne](https://www.youtube.com/watch?v=xaorvBjCE7A)
+    - [ ] [GraphQL server tutorial for Node.js with SQL, MongoDB and REST](https://www.youtube.com/watch?v=PHabPhgRUuU&t=999s)
+
 
   - Node
 
@@ -1158,6 +1164,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Layers for Composition (The Standard, Ep. 1)](https://www.youtube.com/watch?v=II6Szc2UPxw&list=PLNYkxOF6rcIB1V2i_qfRtDMcY6YZK1lkt)
   - [x] [Align Content Vertically (The Standard, Ep. 4)](https://www.youtube.com/watch?v=5IP43MTfj0E)
   - [x] [Conditionally Apply Styles Using Feature Queries](https://egghead.io/lessons/css-conditionally-apply-styles-using-feature-queries)
+  - [x] [Style an Application from Start to Finish](https://egghead.io/courses/style-an-application-from-start-to-finish)
 
     - UI/UX Design Prototype & Animations
 
