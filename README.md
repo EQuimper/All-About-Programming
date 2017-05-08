@@ -245,6 +245,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Better JavaScript with ES6, Pt. II: A Deep Dive into Classes](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes)
   - [ ] [Why I use Tape Instead of Mocha & So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.p2pa9e68k)
   - [ ] [Understanding ES6 Classes](https://hashnode.com/post/understanding-es6-classes-cj0dqw75w003mf7537mcwqrxh)
+  - [ ] [How to Write Shell Scripts with JavaScript](https://www.sitepoint.com/shell-scripts-javascript/)
 
   - AWS
 
@@ -341,6 +342,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Creating a microservice in NodeJs](http://www.syntaxsuccess.com/viewarticle/creating-a-microservice-in-nodejs?utm_source=hashnode.com)
     - [ ] [Express, Passport and JSON Web Token (jwt) Authentication for Beginners](https://jonathanmh.com/express-passport-json-web-token-jwt-authentication-beginners/)
     - [ ] [Node, Express, Mongoose and Passport.js REST API Authentication](https://www.djamware.com/post/58eba06380aca72673af8500/node-express-mongoose-and-passportjs-rest-api-authentication?utm_campaign=shareaholic&utm_medium=google_plus&utm_source=socialnetwork)
+    - [x] [Setting up a Node.js Cluster](http://stackabuse.com/setting-up-a-node-js-cluster/)
 
     * Testing
       + [x] [Unit Testing and TDD in Node.js – Part 1](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
@@ -352,6 +354,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
       - [ ] [How to correctly unit test Express server](https://glebbahmutov.com/blog/how-to-correctly-unit-test-express-server/)
       - [x] [The Complete Guide to ES6 with Babel 6](http://jamesknelson.com/the-complete-guide-to-es6-with-babel-6/)
       - [x] [CI Code Coverage + Tests in 5 Minutes!](https://zach.codes/ci-code-coverage-tests-in-5-minutes/)
+      - [ ] [How to test your MongoDB models under Node & Express](https://www.terlici.com/2014/09/15/node-testing.html)
+      - [ ] [How To Test Your Express Controllers](https://www.terlici.com/2015/09/21/node-express-controller-testing.html)
 
   - React.JS
 
@@ -498,6 +502,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Give it a REST: use GraphQL for your APIs](https://medium.freecodecamp.com/give-it-a-rest-use-graphql-for-your-apis-40a2761e6336#.bozx6pgff)
     - [ ] [GraphQL vs REST: Overview](https://philsturgeon.uk/api/2017/01/24/graphql-vs-rest-overview/?utm_source=hashnode.com)
     - [ ] [GraphQL vs REST: Caching](https://philsturgeon.uk/api/2017/01/26/graphql-vs-rest-caching/)
+    - [x] [A guide to authentication in GraphQL](https://dev-blog.apollodata.com/a-guide-to-authentication-in-graphql-e002a4039d1)
+    - [ ] [Auth in GraphQL — Part 2](https://dev-blog.apollodata.com/auth-in-graphql-part-2-c6441bcc4302)
 
 - Ruby
 
