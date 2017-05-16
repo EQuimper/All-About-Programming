@@ -1171,6 +1171,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Align Content Vertically (The Standard, Ep. 4)](https://www.youtube.com/watch?v=5IP43MTfj0E)
   - [x] [Conditionally Apply Styles Using Feature Queries](https://egghead.io/lessons/css-conditionally-apply-styles-using-feature-queries)
   - [x] [Style an Application from Start to Finish](https://egghead.io/courses/style-an-application-from-start-to-finish)
+  - [x] [Design + Code — Hour 5.3: Custom Flexbox Grid](https://www.youtube.com/watch?v=qpdxiIDzg6Q)
+  - [x] [Design + Code — Hour 6.2: YouTube Section](https://www.youtube.com/watch?v=FsethGojhUA&t=1904s)
+  - [x] [Design + Code — Hour 7.1: Mentoring Section](https://www.youtube.com/watch?v=3ZHMYBM0760&list=PLqGj3iMvMa4KeBN2krBtcO3U90_7SOl-A&index=14)
 
     - UI/UX Design Prototype & Animations
 
