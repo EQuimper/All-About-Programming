@@ -554,6 +554,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Create a TinyURL System](http://blog.gainlo.co/index.php/2016/03/08/system-design-interview-question-create-tinyurl-system/?utm_source=quora&utm_medium=What+are+the+http%3A%2F%2Fbit.ly+and+t.co+shortening+algorithms%3F&utm_campaign=quora)
   - [x] [JSON Web Tokens (JWT) vs Sessions](https://float-middle.com/json-web-tokens-jwt-vs-sessions/)
   - [x] [JSON Web Tokens: Artsy's Journey](http://artsy.github.io/blog/2016/10/26/jwt-artsy-journey/)
+  - [x] [Refresh Tokens: When to Use Them and How They Interact with JWTs](https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/)
+  - [ ] [5 Steps to Add Modern Authentication to Legacy Apps Using JWTs](https://auth0.com/blog/5-steps-to-add-modern-authentication-to-legacy-apps-using-jwts/)
+  - [ ] [Where to Store your JWTs – Cookies vs HTML5 Web Storage](https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage)
   - [x] [10 Things You Should Know about Tokens](https://auth0.com/blog/ten-things-you-should-know-about-tokens-and-cookies/)
   - [x] [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/)
   - [x] [Cookies vs Tokens. Getting auth right with Angular.JS](https://auth0.com/blog/angularjs-authentication-with-cookies-vs-token/)
@@ -797,6 +800,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Writing a Realtime Database Trigger with Cloud Functions for Firebase](https://www.youtube.com/watch?v=7E13ZBCyKT0)
   - [ ] [Building serverless applications with Google Cloud Functions](https://www.youtube.com/watch?v=kXk78ihBpiQ&t=650s)
   - [x] [Serverless computing options with Google Cloud Platform](https://www.youtube.com/watch?v=hBACz_OP2LU)
+  - [x] [How to Build Robust Mobile Applications for the Distributed Cloud (Google I/O '17)](https://www.youtube.com/watch?v=9Fmsw5yzW5I&t=1636s)
+  - [x] [Build Modern Apps with Firebase and Google Cloud Platform (Google I/O '17)](https://www.youtube.com/watch?v=ZIe0Fn9OtnY&t=1313s)
 
 - Java
 
@@ -1174,6 +1179,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Design + Code — Hour 5.3: Custom Flexbox Grid](https://www.youtube.com/watch?v=qpdxiIDzg6Q)
   - [x] [Design + Code — Hour 6.2: YouTube Section](https://www.youtube.com/watch?v=FsethGojhUA&t=1904s)
   - [x] [Design + Code — Hour 7.1: Mentoring Section](https://www.youtube.com/watch?v=3ZHMYBM0760&list=PLqGj3iMvMa4KeBN2krBtcO3U90_7SOl-A&index=14)
+  - [x] [Design + Code — Hour 7.2: Mentoring Javascript](https://www.youtube.com/watch?v=9XqFV9fy8SU&t=1688s)
 
     - UI/UX Design Prototype & Animations
 
