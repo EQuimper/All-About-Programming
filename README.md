@@ -1241,6 +1241,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 ## Pod-cast
 
+- CSS
+
+  - [x] [ToolsDay - CSS Grid](http://www.toolsday.io/episodes/cssgrids.html)
+
 - JavaScript
 
   - [x] [Js-Jabber - GraphQL and Apollo with Uri Goldshtein](https://devchat.tv/js-jabber/jsj-246-graphql-and-apollo-with-uri-goldshtein)
@@ -1258,6 +1262,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Under the Radar - Unexpected Complexity](https://www.relay.fm/radar/4)
   - [x] [Under the Radar - Managing Feedback](https://www.relay.fm/radar/5)
   - [x] [Under the Radar - How to Become a Programmer](https://www.relay.fm/radar/6)
+  - [x] [Under the Radar - State of Swift](https://www.relay.fm/radar/66)
 
 ## CodePen & Demo
 
