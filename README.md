@@ -1093,6 +1093,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [Getting Started with React Navigation](https://www.youtube.com/watch?v=C96piR3FRww)
     - [x] [⚡️ Create React Native App: 5 min. to "Hello, World!" - React Conf 2017](https://www.youtube.com/watch?v=9baaVjGdBqs)
     - [x] [Build a chat app with Firebase, Redux, and React Native](https://www.youtube.com/watch?v=915vvTQV_tI)
+    - [x] [Tal Kol - Beyond Animations User Interactions @ 60 FPS in React Native - React Conf 2017](https://www.youtube.com/watch?v=mjsv8NJnt5k)
 
   - Webpack
 
