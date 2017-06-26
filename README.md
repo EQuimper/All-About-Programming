@@ -154,6 +154,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   - [ ] [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 
+- Golang
+
+  - [ ] [How Goroutines Work](http://blog.nindalf.com/how-goroutines-work/)
+
 - Database + Application Design
 
   - Redis
@@ -698,6 +702,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Metaprogramming Elixir](https://www.youtube.com/watch?v=2Bjzml_Hpvk)
   - [x] [WTF is Elixir?](https://www.youtube.com/watch?v=ZDwygVf_LJM)
   - [x] [Selling Food With Elixir](https://www.youtube.com/watch?v=fkDhU-2NWJ8&t=1097ssl)
+  - [x] [Elixir Application (part 1)](https://www.youtube.com/watch?v=EDu3EwTbrFM)
+  - [ ] [Elixir Tutorial](https://www.youtube.com/watch?v=pBNOavRoNL0&t=1954s)
 
   - Phoenix
 
@@ -723,6 +729,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Phoenix Beyond the Browser - Realtime Applications](https://www.youtube.com/watch?v=7vBc0Q-nwUI&list=PLE7tQUdRKcyYoiEKWny0Jj72iu564bVFD&index=2)
     - [x] [Getting Started with Phoenix](https://www.youtube.com/watch?v=KiP23mk760E)
     - [x] [Using Ecto Associations in Phoenix](https://www.youtube.com/watch?v=THUG8J3xSYw)
+    - [ ] [Learn the Phoenix Framework Create a Blog App Part 1](https://www.youtube.com/watch?v=NQon2CYD4OQ)
+    - [ ] [Learn the Phoenix Framework Deploy using Heroku - Part 2](https://www.youtube.com/watch?v=Ga7sq3izz8M)
 
 - DynamoDB
 
@@ -732,6 +740,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - Golang
 
   - [x] [Build Web Apps with Go Language](https://www.youtube.com/watch?v=Vlie-srOU8c&t=5116s)
+  - [x] [Web Apps with Go & Postgres](https://www.youtube.com/watch?v=8cmxXmAjne8)
+  - [x] [GOLANG WEB APP TUTORIAL - Part 1](https://www.youtube.com/watch?v=iIztjjNTSjs)
+  - [x] [GOLANG WEB APP TUTORIAL - Part 2](https://www.youtube.com/watch?v=ogbQTD_zCTY&t=23s)
+  - [x] [GOLANG WEB APP TUTORIAL - Part 3](https://www.youtube.com/watch?v=-5nxE_Uow-Q)
 
 - Ruby
 
