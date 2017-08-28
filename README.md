@@ -146,7 +146,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - Programming Stuff
 
   - [x] [Egghead - How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
-  - [x] [TutsPlus - Testing REST APIs With Postma])https://code.tutsplus.com/courses/testing-rest-apis-with-postman/lessons/testing-rest-apis-with-postman
+  - [x] [TutsPlus - Testing REST APIs With Postma](https://code.tutsplus.com/courses/testing-rest-apis-with-postman/lessons/testing-rest-apis-with-postman)
 
 ## Articles + Tutorials
 
@@ -1144,7 +1144,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   - Polymer
 
-    - [x] [Web Components and Polymer (Chrome Dev Summit 2016)]https://www.youtube.com/watch?v=Ihdp63FaRKA()
+    - [x] [Web Components and Polymer (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=Ihdp63FaRKA)
 
   - Firebase
 
@@ -1299,7 +1299,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - Web Design + HTML/CSS
 
   - [x] [Collection of Button Hover Effects](https://codepen.io/davidicus/pen/emgQKJ)
-  - [x] [Circle Hover Effects with CSS Transitions](Circle Hover Effects with CSS Transitions)
+  - [x] [Circle Hover Effects with CSS Transitions](https://codepen.io/mbrandorff/pen/YXEoVw)
   - [x] [Transitions & Animations](http://learn.shayhowe.com/advanced-html-css/transitions-animations/)
 
 ## Best response on StackOverFlow & Reddit etc...
