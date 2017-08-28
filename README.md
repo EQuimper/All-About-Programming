@@ -160,6 +160,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 - Database + Application Design
 
+  - [x] [Understanding pagination: REST, GraphQL, and Relay](https://dev-blog.apollodata.com/understanding-pagination-rest-graphql-and-relay-b10f835549e7)
+  - [x] [Paginating Real-Time Data with Cursor Based Pagination](https://www.sitepoint.com/paginating-real-time-data-cursor-based-pagination/)
+  - [x] [REST over WebSockets instead of HTTP
+](https://hackernoon.com/rest-over-websockets-instead-of-http-81b0f0632295)
+
   - Redis
 
     - [ ] [Using Redis with Node.js](https://www.sitepoint.com/using-redis-node-js/)
@@ -205,6 +210,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Moving Beyond Ruby](http://blog.danielberkompas.com/ruby/elixir/2015/02/09/moving-beyond-ruby.html)
   - [ ] [How Discord handles push request bursts of over a million per minute with Elixir’s GenStage](https://discord.engineering/how-discord-handles-push-request-bursts-of-over-a-million-per-minute-with-elixirs-genstage-8f899f0221b4#.323ovuplf)
   - [x] [How Elixir helped us scale our Video User Profile Service for the Olympics](https://blog.emerleite.com/how-elixir-helped-us-to-scale-our-video-user-profile-service-for-the-olympics-dd7fbba1ad4e#.estbtnaxj)
+  - [x] [A tender introduction to Elixir recursion](https://medium.com/@dlite/your-first-elixir-recursive-function-c2309d091bc6)
+  - [x] [Recursion in Elixir](https://www.leighhalliday.com/recursion-in-elixir)
 
 - Github
 
@@ -485,6 +492,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [ ] [11 mistakes I’ve made during React Native / Redux app development](https://medium.com/dailyjs/11-mistakes-ive-made-during-react-native-redux-app-development-8544e2be9a9)
     - [x] [Mobile Authentication with React Native and JSON Web Tokens](https://gellerj496howto.wordpress.com/passport-auth-strategies/)
     - [x] [Protecting API Endpoints](https://gellerj496howto.wordpress.com/protecting-api-endpoints/)
+    - [x] [Up & Running with React Native + Visual Studio Mobile Center](https://medium.com/react-native-training/up-running-with-react-native-visual-studio-mobile-center-e3c95adbf65)
 
   - Meteor
 
@@ -594,7 +602,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - Elixir
 
   - [ ] [Elixir in Action by Saša Jurić](https://www.amazon.ca/Elixir-Action-scaron-Juri-cacute/dp/161729201X/ref=sr_1_1?ie=UTF8&qid=1472489990&sr=8-1&keywords=elixir+in+action)
-  - [ ] [Programming Elixir by Dave Thomas](https://www.amazon.ca/Programming-Elixir-1-2-Functional-Concurrent/dp/1680501666/ref=sr_1_1?ie=UTF8&qid=1472490022&sr=8-1&keywords=programming+elixir)
+  - [ ] [Programming Elixir 1.3 by Dave Thomas](https://www.amazon.ca/gp/product/168050200X/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
+  - [ ] [Programming Phoenix: Productive |> Reliable |> Fast](https://www.amazon.ca/Programming-Phoenix-Productive-Reliable-Fast/dp/1680501453/ref=pd_bxgy_14_img_2?_encoding=UTF8&psc=1&refRID=Q47ZZZ3QRJYFDN43F8GZ)
 
 - Freelance + Business + Jobs + Other Stuff
 
@@ -648,6 +657,14 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - React-Native
 
     - [x] [Learning React Native](http://shop.oreilly.com/product/0636920041511.do)
+
+- Elixir
+
+  - [ ] [Programming Elixir 1.3](https://www.amazon.ca/gp/product/168050200X/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
+
+    - Phoenix
+
+      - [x] [Programming Phoenix](https://www.amazon.ca/gp/product/1680501453/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
 
 - Ruby
 
@@ -716,7 +733,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [PolyConf 15: Phoenix a web framework for the new web](https://www.youtube.com/watch?v=WIyXz2wxnJQ)
     - [x] [Elixir & Phoenix – fast, concurrent and explicit](https://www.youtube.com/watch?v=pjab0jPGr6s)
     - [x] [Rails vers Phoenix: Retour d'expérience sur une rewrite d'application SaaS](https://www.youtube.com/watch?v=0OBSv7Se6fQ) [French]
-    - [ ] [Phoenix Presence: Le service temps réel de Phoenix](https://www.youtube.com/watch?v=DHwD54fdHBM) [French]
+    - [x] [Phoenix Presence: Le service temps réel de Phoenix](https://www.youtube.com/watch?v=DHwD54fdHBM) [French]
     - [x] [Processing 2.7 million images with Elixir (vs Ruby)](https://www.youtube.com/watch?v=xoNRtWl4fZU)
     - [x] [Getting Started with the Phoenix Framework](https://www.youtube.com/watch?v=lpxm8xwXuG0)
     - [ ] [Authentication in Phoenix/Elixir app with Ueberauth and Guardian](https://www.youtube.com/watch?v=X6Z-sDSJ3sE)
