@@ -201,10 +201,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 - Elixir
 
-  * [x] [How We Replaced React with Phoenix](https://robots.thoughtbot.com/how-we-replaced-react-with-phoenix)
-  * [ ] [Learn X in Y minutes](https://learnxinyminutes.com/docs/elixir/)
-  * [ ] [Elixir blog in 15 minutes using Phoenix framework - Step by Step](http://monterail.com/blog/2015/phoenix-blog/)
-  * [x] [Phoenix v1.1.2 and React.js](https://medium.com/@diamondgfx/phoenix-v1-1-2-and-react-js-3dbd195a880a#.kk5uhojx0)
+  - [x] [How We Replaced React with Phoenix](https://robots.thoughtbot.com/how-we-replaced-react-with-phoenix)
+  - [x] [Learn X in Y minutes](https://learnxinyminutes.com/docs/elixir/)
+  - [x] [Elixir blog in 15 minutes using Phoenix framework - Step by Step](http://monterail.com/blog/2015/phoenix-blog/)
+  - [x] [Phoenix v1.1.2 and React.js](https://medium.com/@diamondgfx/phoenix-v1-1-2-and-react-js-3dbd195a880a#.kk5uhojx0)
   - [x] [Elixir obsoletes Ruby, Erlang and Clojure in one go](https://medium.com/@qertoip/elixir-obsoletes-ruby-erlang-and-clojure-in-one-go-605329b7b9b4#.c69cljb05)
   - [x] [Elixir broke my imperative mind](https://medium.com/magnetis-backstage/elixir-broke-my-imperative-mind-5d2fb2d53502#.hev7n43t6)
   - [x] [Moving Beyond Ruby](http://blog.danielberkompas.com/ruby/elixir/2015/02/09/moving-beyond-ruby.html)
@@ -212,6 +212,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [How Elixir helped us scale our Video User Profile Service for the Olympics](https://blog.emerleite.com/how-elixir-helped-us-to-scale-our-video-user-profile-service-for-the-olympics-dd7fbba1ad4e#.estbtnaxj)
   - [x] [A tender introduction to Elixir recursion](https://medium.com/@dlite/your-first-elixir-recursive-function-c2309d091bc6)
   - [x] [Recursion in Elixir](https://www.leighhalliday.com/recursion-in-elixir)
+  - [x] [Meet Ecto, The No-Compromise Database Wrapper For Concurrent Elixir Apps](https://www.toptal.com/elixir/meet-ecto-database-wrapper-for-elixir)
+  - [x] [Getting Started with Elixir Programming Language](https://www.toptal.com/elixir/getting-started-elixir-programming-language)
+  - [x] [An Introduction to Elixir’s Ecto Library](https://www.sitepoint.com/introduction-to-elixirs-ecto-library/)
+  - [ ] [Thinking in Ecto - schemas and changesets](http://cultofmetatron.io/2017/04/22/thinking-in-ecto---schemas-and-changesets/)
 
 - Github
 
@@ -257,6 +261,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [ ] [Why I use Tape Instead of Mocha & So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.p2pa9e68k)
   - [ ] [Understanding ES6 Classes](https://hashnode.com/post/understanding-es6-classes-cj0dqw75w003mf7537mcwqrxh)
   - [ ] [How to Write Shell Scripts with JavaScript](https://www.sitepoint.com/shell-scripts-javascript/)
+  - [x] [Immutable User Interfaces (Lee Byron) - Full Stack Fest 2016](https://youtu.be/pLvrZPSzHxo)
 
   - AWS
 
