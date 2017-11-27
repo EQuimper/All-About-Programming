@@ -216,6 +216,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Getting Started with Elixir Programming Language](https://www.toptal.com/elixir/getting-started-elixir-programming-language)
   - [x] [An Introduction to Elixir’s Ecto Library](https://www.sitepoint.com/introduction-to-elixirs-ecto-library/)
   - [ ] [Thinking in Ecto - schemas and changesets](http://cultofmetatron.io/2017/04/22/thinking-in-ecto---schemas-and-changesets/)
+  - [ ] [Many to many and upserts](http://blog.plataformatec.com.br/2016/12/many-to-many-and-upserts/)
 
 - Github
 
@@ -727,6 +728,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Selling Food With Elixir](https://www.youtube.com/watch?v=fkDhU-2NWJ8&t=1097ssl)
   - [x] [Elixir Application (part 1)](https://www.youtube.com/watch?v=EDu3EwTbrFM)
   - [ ] [Elixir Tutorial](https://www.youtube.com/watch?v=pBNOavRoNL0&t=1954s)
+  - [x] [ElixirConf 2017 - Live APIs with GraphQL Subscriptions - Bruce Williams and Ben Wilson](https://www.youtube.com/watch?v=JtYg3jP0aOY&feature=youtu.be)
+  - [ ] [ElixirConf 2017 - Thinking In Ecto - Darin Wilson](https://www.youtube.com/watch?v=YQxopjai0CU)
 
   - Phoenix
 
