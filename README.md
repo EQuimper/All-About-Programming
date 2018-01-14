@@ -158,6 +158,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - Golang
 
 - [ ] [How Goroutines Work](http://blog.nindalf.com/how-goroutines-work/)
+- [x] [How I Built an API with Mux, Go, PostgreSQL, and GORM](https://dev.to/aspittel/how-i-built-an-api-with-mux-go-postgresql-and-gorm-5ah8)
 
 - Database + Application Design
 
@@ -176,7 +177,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [6 Rules of Thumb for MongoDB Schema Design: Part 1](http://blog.mongodb.org/post/87200945828/6-rules-of-thumb-for-mongodb-schema-design-part-1)
   - [x] [6 Rules of Thumb for MongoDB Schema Design: Part 2](http://blog.mongodb.org/post/87892923503/6-rules-of-thumb-for-mongodb-schema-design-part-2)
   - [x] [6 Rules of Thumb for MongoDB Schema Design: Part 3](http://blog.mongodb.org/post/88473035333/6-rules-of-thumb-for-mongodb-schema-design-part-3)
-  - [ ] [Back to Basics - Thinking in Documents](https://www.mongodb.com/presentations/webinar-back-to-basics-thinking-in-documents?p=55f080b16d6f6e7e15030000&utm_campaign=T6_V2_DEV_AM_E5_Schema%20Design%20-%20A&utm_medium=email&utm_source=Eloqua)
+  - [x] [Back to Basics - Thinking in Documents](https://www.mongodb.com/presentations/webinar-back-to-basics-thinking-in-documents?p=55f080b16d6f6e7e15030000&utm_campaign=T6_V2_DEV_AM_E5_Schema%20Design%20-%20A&utm_medium=email&utm_source=Eloqua)
   - [x] [UNDERSTANDING MONGOOSE DEEP POPULATION](http://frontendcollisionblog.com/mongodb/2016/01/24/mongoose-populate.html)
   - [x] [Mongoose 4.5 Virtual Populate](http://thecodebarbarian.com/mongoose-virtual-populate.html)
   - [x] [mongoose: Referencing schema in properties or arrays](https://alexanderzeitler.com/articles/mongoose-referencing-schema-in-properties-and-arrays/)
@@ -187,7 +188,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [x] [Object Modeling in Node.js with Mongoose](https://devcenter.heroku.com/articles/nodejs-mongoose)
   - [x] [Simple login using Mongoose / MongoDB](https://www.youtube.com/watch?v=pzGQMwGmCnc)
   - [x] [Querying Firebase through MongoDB](https://medium.com/@ariklevliber/querying-firebase-through-mongo-412a824ca4dd#.c47jgygzc)
-  - [ ] [Mongoose CRUD (Create, Read, Update, Delete)](http://coursework.vschool.io/mongoose-crud/)
+  - [x] [Mongoose CRUD (Create, Read, Update, Delete)](http://coursework.vschool.io/mongoose-crud/)
   - [x] [Mongoose v3 part 1 :: Versioning](http://aaronheckmann.tumblr.com/post/48943525537/mongoose-v3-part-1-versioning)
   - [ ] [Mongoosastic: The Power of MongoDB & Elasticsearch Together](https://www.compose.com/articles/mongoosastic-the-power-of-mongodb-and-elasticsearch-together/)
   - [ ] [Mongoose models and unit tests: The definitive guide](https://codeutopia.net/blog/2016/06/10/mongoose-models-and-unit-tests-the-definitive-guide/)
@@ -209,7 +210,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - [x] [Elixir obsoletes Ruby, Erlang and Clojure in one go](https://medium.com/@qertoip/elixir-obsoletes-ruby-erlang-and-clojure-in-one-go-605329b7b9b4#.c69cljb05)
 - [x] [Elixir broke my imperative mind](https://medium.com/magnetis-backstage/elixir-broke-my-imperative-mind-5d2fb2d53502#.hev7n43t6)
 - [x] [Moving Beyond Ruby](http://blog.danielberkompas.com/ruby/elixir/2015/02/09/moving-beyond-ruby.html)
-- [ ] [How Discord handles push request bursts of over a million per minute with Elixir’s GenStage](https://discord.engineering/how-discord-handles-push-request-bursts-of-over-a-million-per-minute-with-elixirs-genstage-8f899f0221b4#.323ovuplf)
+- [x] [How Discord handles push request bursts of over a million per minute with Elixir’s GenStage](https://discord.engineering/how-discord-handles-push-request-bursts-of-over-a-million-per-minute-with-elixirs-genstage-8f899f0221b4#.323ovuplf)
 - [x] [How Elixir helped us scale our Video User Profile Service for the Olympics](https://blog.emerleite.com/how-elixir-helped-us-to-scale-our-video-user-profile-service-for-the-olympics-dd7fbba1ad4e#.estbtnaxj)
 - [x] [A tender introduction to Elixir recursion](https://medium.com/@dlite/your-first-elixir-recursive-function-c2309d091bc6)
 - [x] [Recursion in Elixir](https://www.leighhalliday.com/recursion-in-elixir)
@@ -217,7 +218,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - [x] [Getting Started with Elixir Programming Language](https://www.toptal.com/elixir/getting-started-elixir-programming-language)
 - [x] [An Introduction to Elixir’s Ecto Library](https://www.sitepoint.com/introduction-to-elixirs-ecto-library/)
 - [ ] [Thinking in Ecto - schemas and changesets](http://cultofmetatron.io/2017/04/22/thinking-in-ecto---schemas-and-changesets/)
-- [ ] [Many to many and upserts](http://blog.plataformatec.com.br/2016/12/many-to-many-and-upserts/)
+- [x] [Many to many and upserts](http://blog.plataformatec.com.br/2016/12/many-to-many-and-upserts/)
 
 - Github
 
