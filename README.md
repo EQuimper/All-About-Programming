@@ -612,7 +612,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 - [ ] [Elixir in Action by Saša Jurić](https://www.amazon.ca/Elixir-Action-scaron-Juri-cacute/dp/161729201X/ref=sr_1_1?ie=UTF8&qid=1472489990&sr=8-1&keywords=elixir+in+action)
 - [ ] [Programming Elixir 1.3 by Dave Thomas](https://www.amazon.ca/gp/product/168050200X/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
 - [x] [Programming Phoenix: Productive |> Reliable |> Fast](https://www.amazon.ca/Programming-Phoenix-Productive-Reliable-Fast/dp/1680501453/ref=pd_bxgy_14_img_2?_encoding=UTF8&psc=1&refRID=Q47ZZZ3QRJYFDN43F8GZ)
-- [ ] [Craft GraphQL APIs in Elixir with Absinthe: Flexible, Robust Services for Queries, Mutations, and Subscriptions](https://www.amazon.ca/Craft-GraphQL-APIs-Elixir-Absinthe/dp/1680502557/ref=sr_1_1?ie=UTF8&qid=1508010806&sr=8-1&keywords=elixir+graphql)
+- [x] [Craft GraphQL APIs in Elixir with Absinthe: Flexible, Robust Services for Queries, Mutations, and Subscriptions](https://www.amazon.ca/Craft-GraphQL-APIs-Elixir-Absinthe/dp/1680502557/ref=sr_1_1?ie=UTF8&qid=1508010806&sr=8-1&keywords=elixir+graphql)
 
 - Freelance + Business + Jobs + Other Stuff
 
@@ -984,6 +984,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     - [x] [Apollo at Expo: GraphQL Helps Small Teams Move Fast - Adam Miskiewicz](https://www.youtube.com/watch?v=E398q4HGRBA&t=1489s)
     - [x] [Authentication and Error Handling in GraphQL - Andrew Rhyne](https://www.youtube.com/watch?v=xaorvBjCE7A)
     - [ ] [GraphQL server tutorial for Node.js with SQL, MongoDB and REST](https://www.youtube.com/watch?v=PHabPhgRUuU&t=999s)
+    - [x] [Trying out Prisma GraphQL](https://youtu.be/_AjlQ64f-64)
+    - [x] [Getting a better understanding of Prisma](https://youtu.be/gDWw4RtiKeU)
+    - [x] [Prisma and React](https://youtu.be/yG3ibQBMMDY)
 
 
   - Node
