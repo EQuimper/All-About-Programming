@@ -39,7 +39,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   * Ruby on Rails
 
-    * [ ] [8 Beautiful Ruby on Rails Apps in 30 Days & TDD](https://www.udemy.com/8-beautiful-ruby-on-rails-apps-in-30-days/learn/v4/overview)
+    * [x] [8 Beautiful Ruby on Rails Apps in 30 Days & TDD](https://www.udemy.com/8-beautiful-ruby-on-rails-apps-in-30-days/learn/v4/overview)
     * [x] [Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)
 
 * Database + Application Design
@@ -48,7 +48,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
     * [x] [TheNewBoston - MongoDB for Beginners Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDQ5DrbIl20Zu9hx1IjeVhO)
     * [x] [Udemy - The Complete Developers Guide to MongoDB](https://www.udemy.com/the-complete-developers-guide-to-mongodb/) - [My Certificate](https://www.udemy.com/certificate/UC-GMEM9V2W/)
-    * [ ] [MongoDBx: M101x Introduction to MongoDB using the MEAN Stack](https://courses.edx.org/courses/course-v1:MongoDBx+M101x+2T2016/info)
+    * [x] [MongoDBx: M101x Introduction to MongoDB using the MEAN Stack](https://courses.edx.org/courses/course-v1:MongoDBx+M101x+2T2016/info)
 
 * GraphQL
 
@@ -60,7 +60,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   * [x] [Object Oriented JavaScript](https://www.youtube.com/watch?v=O8wwnhdkPE4)
   * [ ] [Mastering Javascript Unit Testing](http://codeutopia.net/h/mastering-javascript-unit-testing/)
   * [x] [Pluralsight - Basics of Programming with JavaScript](https://app.pluralsight.com/library/courses/javascript-programming-basics/table-of-contents)
-  * [ ] [Pluralsight - Advanced JavaScript](https://app.pluralsight.com/library/courses/advanced-javascript/table-of-contents)
+  * [x] [Pluralsight - Advanced JavaScript](https://app.pluralsight.com/library/courses/advanced-javascript/table-of-contents)
   * [x] [Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
   * [x] [LearnCode.academy - What Makes JavaScript Weird ... and Awesome](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)
   * [x] [LearnCode.academy - Modular Javascript](https://www.youtube.com/playlist?list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f)
@@ -69,8 +69,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   * [x] [TheNewBoston - ECMAScript 6 / ES6 New Features Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt)
   * [x] [EggHead - Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015)
   * [x] [HipsterCode - Advanced JavaScript](https://www.hipstercode.com/tutorial/31/)
-  * [ ] [Learn to code with JavaScript](https://openclassrooms.com/courses/learn-the-basics-of-javascript)
-  * [ ] [Pluralsight - Building Scalable APIs with GraphQL](https://app.pluralsight.com/library/courses/graphql-scalable-apis/table-of-contents)
+  * [x] [Learn to code with JavaScript](https://openclassrooms.com/courses/learn-the-basics-of-javascript)
+  * [x] [Pluralsight - Building Scalable APIs with GraphQL](https://app.pluralsight.com/library/courses/graphql-scalable-apis/table-of-contents)
   * [x] [Create An HTML5 Video Player From Scratch](https://www.udemy.com/html5-video-player) - [My Certificate](https://www.udemy.com/certificate/UC-7R8A2RNR/)
   * [x] [Udacity - JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
   * [x] [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/) - [My Certificate](https://www.udemy.com/certificate/UC-UVMJE4KT/)
@@ -535,21 +535,21 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 * Web Design + HTML/CSS
 
-* [x] [How to Create Dynamic Compositions](https://medium.com/@matthewencina/how-to-create-dynamic-compositions-3c5cc3f00632#.9gbf0i1ne)
-* [x] [HTML5Rocks - High Performance Animations](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
-* [x] [8 Entrepreneurs Give Tips for Building a Beautiful Company Website](http://tech.co/building-beautiful-company-website-2016-08)
-* [x] [CSS round buttons](http://codeitdown.com/css-round-buttons/)
-* [x] [HOW TO CENTER IN CSS](http://howtocenterincss.com/)
-* [x] [Exploring ways to export clean .svg icons with Sketch…the correct way](https://medium.com/sketch-app-sources/exploring-ways-to-export-clean-svg-icons-with-sketch-the-correct-way-752e73ec4694#.klkc1qe98)
-* [ ] [Mastering CSS Coding: Getting Started](https://www.smashingmagazine.com/2009/10/mastering-css-coding-getting-started/#CSS-Basics1)
-* [x] [Devtips - Design & Code a Mobile First Landing Page!](https://www.youtube.com/watch?v=2750Vj-hMq8&list=PLqGj3iMvMa4KXCYyFCQnC2ZNmZyoMAj8L)
-* [ ] [Devtips - Zurb Foundation Grid](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LJo_lBMTJwAlQRElulSeL8)
-* [x] [A Look Into: Using CSS Variables](http://www.hongkiat.com/blog/css-variables/)
-* [x] [The most promising design tools you should try in 2017](https://blog.prototypr.io/the-most-promising-design-tools-you-should-try-in-2017-2e5d34b16261#.9a4ub1yye)
-* [ ] [A Step-by-step Guide to UI Animation with Principle and Sketch](https://www.toptal.com/designers/prototyping/a-practical-guide-to-ui-animation?utm_source=Facebook&utm_content=&utm_medium=paidsocial&utm_campaign=biz_awa_ppe_blog_a-practical-guide-to-ui-animation_as_w_des)
-* [ ] [Build Complex Layouts with CSS Grid Layout](https://egghead.io/courses/build-complex-layouts-with-css-grid-layout)
-* [x] [A shorthand for designing UI flows](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows)
-* [x][‘why bem?’ in a nutshell](https://blog.decaf.de/2015/06/24/why-bem-in-a-nutshell/)
+  * [x] [How to Create Dynamic Compositions](https://medium.com/@matthewencina/how-to-create-dynamic-compositions-3c5cc3f00632#.9gbf0i1ne)
+  * [x] [HTML5Rocks - High Performance Animations](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
+  * [x] [8 Entrepreneurs Give Tips for Building a Beautiful Company Website](http://tech.co/building-beautiful-company-website-2016-08)
+  * [x] [CSS round buttons](http://codeitdown.com/css-round-buttons/)
+  * [x] [HOW TO CENTER IN CSS](http://howtocenterincss.com/)
+  * [x] [Exploring ways to export clean .svg icons with Sketch…the correct way](https://medium.com/sketch-app-sources/exploring-ways-to-export-clean-svg-icons-with-sketch-the-correct-way-752e73ec4694#.klkc1qe98)
+  * [ ] [Mastering CSS Coding: Getting Started](https://www.smashingmagazine.com/2009/10/mastering-css-coding-getting-started/#CSS-Basics1)
+  * [x] [Devtips - Design & Code a Mobile First Landing Page!](https://www.youtube.com/watch?v=2750Vj-hMq8&list=PLqGj3iMvMa4KXCYyFCQnC2ZNmZyoMAj8L)
+  * [ ] [Devtips - Zurb Foundation Grid](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LJo_lBMTJwAlQRElulSeL8)
+  * [x] [A Look Into: Using CSS Variables](http://www.hongkiat.com/blog/css-variables/)
+  * [x] [The most promising design tools you should try in 2017](https://blog.prototypr.io/the-most-promising-design-tools-you-should-try-in-2017-2e5d34b16261#.9a4ub1yye)
+  * [ ] [A Step-by-step Guide to UI Animation with Principle and Sketch](https://www.toptal.com/designers/prototyping/a-practical-guide-to-ui-animation?utm_source=Facebook&utm_content=&utm_medium=paidsocial&utm_campaign=biz_awa_ppe_blog_a-practical-guide-to-ui-animation_as_w_des)
+  * [ ] [Build Complex Layouts with CSS Grid Layout](https://egghead.io/courses/build-complex-layouts-with-css-grid-layout)
+  * [x] [A shorthand for designing UI flows](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows)
+  * [x] [‘why bem?’ in a nutshell](https://blog.decaf.de/2015/06/24/why-bem-in-a-nutshell/)
 
 * Python
 
@@ -690,8 +690,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 * Web Design + HTML/CSS
 
-* [ ] [Framed Ink: Drawing and Composition for Visual Storytellers](https://www.amazon.com/Framed-Ink-Drawing-Composition-Storytellers/dp/1933492953?ie=UTF8&camp=1789&creative=9325&creativeASIN=1933492953&linkCode=as2&linkId=3RRTKVWIPDNHAOER&redirect=true&ref_=as_li_qf_sp_asin_il_tl&tag=matthewencina-20)
-* [ ] [Jump Start HTML5 by Tiffany B.Brown](https://www.goodreads.com/book/show/18669403-jump-start-html5)
+  * [ ] [Framed Ink: Drawing and Composition for Visual Storytellers](https://www.amazon.com/Framed-Ink-Drawing-Composition-Storytellers/dp/1933492953?ie=UTF8&camp=1789&creative=9325&creativeASIN=1933492953&linkCode=as2&linkId=3RRTKVWIPDNHAOER&redirect=true&ref_=as_li_qf_sp_asin_il_tl&tag=matthewencina-20)
+  * [ ] [Jump Start HTML5 by Tiffany B.Brown](https://www.goodreads.com/book/show/18669403-jump-start-html5)
 
 * UI/UX Design Prototype & Animations
 
@@ -699,11 +699,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 * WordPress
 
-* [ ] [Smashing WordPress: Beyond the Blog by Thord Daniel Hedengren](https://www.goodreads.com/book/show/7248208-smashing-wordpress?from_search=true)
-* [ ] [Smashing WordPress Themes: Making WordPress Beautiful by Thord Daniel Hedengren](https://www.goodreads.com/book/show/7950047-smashing-wordpress-themes?from_search=true)
-* [ ] [WordPress For Dummies by Lisa Sabin-Wilson](https://www.goodreads.com/book/show/894766.WordPress_For_Dummies?from_search=true)
-* [ ] [WordPress Theme Design by Tessa Blakeley Silver](https://www.goodreads.com/book/show/3405042-wordpress-theme-design?from_search=true)
-* [ ] [WordPress: The Missing Manual by Matthew MacDonald](https://www.goodreads.com/book/show/13355786-wordpress?ac=1&from_search=true)
+  * [ ] [Smashing WordPress: Beyond the Blog by Thord Daniel Hedengren](https://www.goodreads.com/book/show/7248208-smashing-wordpress?from_search=true)
+  * [ ] [Smashing WordPress Themes: Making WordPress Beautiful by Thord Daniel Hedengren](https://www.goodreads.com/book/show/7950047-smashing-wordpress-themes?from_search=true)
+  * [ ] [WordPress For Dummies by Lisa Sabin-Wilson](https://www.goodreads.com/book/show/894766.WordPress_For_Dummies?from_search=true)
+  * [ ] [WordPress Theme Design by Tessa Blakeley Silver](https://www.goodreads.com/book/show/3405042-wordpress-theme-design?from_search=true)
+  * [ ] [WordPress: The Missing Manual by Matthew MacDonald](https://www.goodreads.com/book/show/13355786-wordpress?ac=1&from_search=true)
 
 * Programming
 
@@ -713,25 +713,25 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 * Computer Science + Algorithms + History
 
-* [x] [The Art of Writing Software](https://www.youtube.com/watch?v=QdVFvsCWXrA)
+  * [x] [The Art of Writing Software](https://www.youtube.com/watch?v=QdVFvsCWXrA)
 
 * Elixir
 
-* [x] [Intro to Elixir](https://www.youtube.com/watch?v=lly-1UYmnFI&list=PLn76XROGFNtE9InImlu6e8isbOsM7qKtt)
-* [x] [Elixir Is Neat But What Can You Actually Do With It?](https://www.youtube.com/watch?v=J4YbPVizqgE)
-* [x] [From Front End to Full Stack with Elixir and Phoenix](https://www.youtube.com/watch?v=r4ulu8wo_GI&t=1650s)
-* [x] [What every Node.js developer needs to know about Elixir](https://www.youtube.com/watch?v=q8wueg2hswA)
-* [x] [Why you should use Elixir](https://www.youtube.com/watch?v=4KAaNFkm_nc)
-* [ ] [Functional Programming Principles in Elixir](https://www.youtube.com/watch?v=Zee4bbsDvrA&index=2&list=PLeWZVYEk9JBCU4j0YY4GVSIda1uTWEwu_)
-* [x] [Real time web applications with Elixir and Phoenix](https://www.youtube.com/watch?v=DKGqJpT5pvU)
-* [x] [LearnElixir.tv - Why Learn Elixir?](https://www.learnelixir.tv/episodes/01-introduction)
-* [x] [Metaprogramming Elixir](https://www.youtube.com/watch?v=2Bjzml_Hpvk)
-* [x] [WTF is Elixir?](https://www.youtube.com/watch?v=ZDwygVf_LJM)
-* [x] [Selling Food With Elixir](https://www.youtube.com/watch?v=fkDhU-2NWJ8&t=1097ssl)
-* [x] [Elixir Application (part 1)](https://www.youtube.com/watch?v=EDu3EwTbrFM)
-* [ ] [Elixir Tutorial](https://www.youtube.com/watch?v=pBNOavRoNL0&t=1954s)
-* [x] [ElixirConf 2017 - Live APIs with GraphQL Subscriptions - Bruce Williams and Ben Wilson](https://www.youtube.com/watch?v=JtYg3jP0aOY&feature=youtu.be)
-* [ ] [ElixirConf 2017 - Thinking In Ecto - Darin Wilson](https://www.youtube.com/watch?v=YQxopjai0CU)
+  * [x] [Intro to Elixir](https://www.youtube.com/watch?v=lly-1UYmnFI&list=PLn76XROGFNtE9InImlu6e8isbOsM7qKtt)
+  * [x] [Elixir Is Neat But What Can You Actually Do With It?](https://www.youtube.com/watch?v=J4YbPVizqgE)
+  * [x] [From Front End to Full Stack with Elixir and Phoenix](https://www.youtube.com/watch?v=r4ulu8wo_GI&t=1650s)
+  * [x] [What every Node.js developer needs to know about Elixir](https://www.youtube.com/watch?v=q8wueg2hswA)
+  * [x] [Why you should use Elixir](https://www.youtube.com/watch?v=4KAaNFkm_nc)
+  * [ ] [Functional Programming Principles in Elixir](https://www.youtube.com/watch?v=Zee4bbsDvrA&index=2&list=PLeWZVYEk9JBCU4j0YY4GVSIda1uTWEwu_)
+  * [x] [Real time web applications with Elixir and Phoenix](https://www.youtube.com/watch?v=DKGqJpT5pvU)
+  * [x] [LearnElixir.tv - Why Learn Elixir?](https://www.learnelixir.tv/episodes/01-introduction)
+  * [x] [Metaprogramming Elixir](https://www.youtube.com/watch?v=2Bjzml_Hpvk)
+  * [x] [WTF is Elixir?](https://www.youtube.com/watch?v=ZDwygVf_LJM)
+  * [x] [Selling Food With Elixir](https://www.youtube.com/watch?v=fkDhU-2NWJ8&t=1097ssl)
+  * [x] [Elixir Application (part 1)](https://www.youtube.com/watch?v=EDu3EwTbrFM)
+  * [ ] [Elixir Tutorial](https://www.youtube.com/watch?v=pBNOavRoNL0&t=1954s)
+  * [x] [ElixirConf 2017 - Live APIs with GraphQL Subscriptions - Bruce Williams and Ben Wilson](https://www.youtube.com/watch?v=JtYg3jP0aOY&feature=youtu.be)
+  * [ ] [ElixirConf 2017 - Thinking In Ecto - Darin Wilson](https://www.youtube.com/watch?v=YQxopjai0CU)
 
 * Phoenix
 
@@ -1157,8 +1157,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   * [ ] [OBSERVABLES, OBSERVERS & SUBSCRIPTIONS | RxJS TUTORIAL](https://youtu.be/Tux1nhBPl_w)
   * [ ] [RxJS OPERATORS LIKE map() OR throttleTime() | RxJS TUTORIAL](https://youtu.be/-nYQJkMpOHU)
 
-
-- Database + Application Design
+* Database + Application Design
 
   * [x] [Pub/Sub Design Pattern](https://www.youtube.com/watch?v=frGy-nGoGUY)
   * [x] [PubSub with Redis](https://www.youtube.com/watch?v=Yv1E_N1A2bk)
@@ -1200,13 +1199,13 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     * [x] [Learning MongoDB part07 relations](https://www.youtube.com/watch?v=5c9fCRKJXXI)
     * [x] [MongoDB Complex Queries Explained](https://www.youtube.com/watch?v=TvcDcfzNBII)
 
-- HTML5 Game
+* HTML5 Game
 
   * Phaser.js
 
     * [x] [Gabe Hollombe: Let's Make a Game With Phaser](https://www.youtube.com/watch?v=6rQROhVeIQE)
 
-- Web Design + HTML/CSS
+* Web Design + HTML/CSS
 
   * [x] [Graphic Design Tutorial: Web Design Review](https://www.youtube.com/watch?v=d77cDtH8bo0)
   * [x] [Motion Design Theory: Dynamic Compositions](https://www.youtube.com/watch?v=z4HjltaEV2E)
@@ -1247,7 +1246,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
       * [x] [Book App - Screen Transition Tutorial with Principle](https://www.youtube.com/watch?v=KHlqDRQdnic)
       * [x] [Tutoriel Divers : Affinity Designer](https://www.youtube.com/watch?v=07BzjUVheQM&t=267s) [French]
 
-- Programming stuff
+* Programming stuff
 
   * [x] [DevTips - How Do You Learn Something Totally New?](https://www.youtube.com/watch?v=f5fxAja7aqk)
   * [x] [DevTips - Where Do You Host Your Websites?](https://www.youtube.com/watch?v=_TiyMkv8rmI)
