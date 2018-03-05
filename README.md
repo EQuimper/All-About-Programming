@@ -551,45 +551,45 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   * [x] [A shorthand for designing UI flows](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows)
   * [x] [‘why bem?’ in a nutshell](https://blog.decaf.de/2015/06/24/why-bem-in-a-nutshell/)
 
-* Python
+- Python
 
-* [ ] [Python Programming Tutorial - 25 - How to Build a Web Crawler](https://www.youtube.com/watch?v=XjNm9bazxn8)
-* [x] [Python Web Crawler Tutorial](https://www.youtube.com/watch?v=nRW90GASSXE)
-* [ ] [Web Scraping Indeed for Key Data Science Job Skills](https://jessesw.com/Data-Science-Skills/)
-* [x] [Programming for Finance with Python and Quantopian and Zipline Part 1](https://www.youtube.com/watch?v=RxjIOXstxCk)
-* [ ] [Programming for Finance Part 2 - Creating an automated trading strategy](https://www.youtube.com/watch?v=_nMoCsPI-IA)
+  * [ ] [Python Programming Tutorial - 25 - How to Build a Web Crawler](https://www.youtube.com/watch?v=XjNm9bazxn8)
+  * [x] [Python Web Crawler Tutorial](https://www.youtube.com/watch?v=nRW90GASSXE)
+  * [ ] [Web Scraping Indeed for Key Data Science Job Skills](https://jessesw.com/Data-Science-Skills/)
+  * [x] [Programming for Finance with Python and Quantopian and Zipline Part 1](https://www.youtube.com/watch?v=RxjIOXstxCk)
+  * [ ] [Programming for Finance Part 2 - Creating an automated trading strategy](https://www.youtube.com/watch?v=_nMoCsPI-IA)
 
-* Programming stuff
+- Programming stuff
 
-* [ ] [7 Good Developer Habits I Wish I’d Adopted Sooner](https://medium.com/team-treehouse/7-good-developer-habits-i-wish-id-adopted-sooner-8707931d72f3#.kv2zp45iu)
-* [x] [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/)
-* [x] [A Quick Understanding of REST](https://scotch.io/bar-talk/a-quick-understanding-of-rest)
-* [x] [Is Model-View-Controller dead on the front end?](https://medium.freecodecamp.com/is-mvc-dead-for-the-frontend-35b4d1fe39ec#.33x47id00)
-* [ ] [How to Land Your First Development Job in 5 Simple Steps](https://medium.com/javascript-scene/how-to-land-your-first-development-job-in-5-simple-steps-4e9fb73314c#.v888ntmpk)
-* [ ] [Tips for Creating a First-Class Personal Portfolio](https://medium.com/@speckyboy/tips-for-creating-a-first-class-personal-portfolio-6fcfb6962cd4#.vqtub63ee)
-* [ ] [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603#.8dq4y83ql)
-* [x] [The code I’m still ashamed of](https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.uadadoko7)
-* [x] [Leaky abstractions](https://www.youtube.com/watch?v=gRsyY0kzXfw)
-* [x] [Make Millions Using API's](https://www.youtube.com/watch?v=HMExxABpn6o)
-* [x] [Create a TinyURL System](http://blog.gainlo.co/index.php/2016/03/08/system-design-interview-question-create-tinyurl-system/?utm_source=quora&utm_medium=What+are+the+http%3A%2F%2Fbit.ly+and+t.co+shortening+algorithms%3F&utm_campaign=quora)
-* [x] [JSON Web Tokens (JWT) vs Sessions](https://float-middle.com/json-web-tokens-jwt-vs-sessions/)
-* [x] [JSON Web Tokens: Artsy's Journey](http://artsy.github.io/blog/2016/10/26/jwt-artsy-journey/)
-* [x] [Refresh Tokens: When to Use Them and How They Interact with JWTs](https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/)
-* [ ] [5 Steps to Add Modern Authentication to Legacy Apps Using JWTs](https://auth0.com/blog/5-steps-to-add-modern-authentication-to-legacy-apps-using-jwts/)
-* [ ] [Where to Store your JWTs – Cookies vs HTML5 Web Storage](https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage)
-* [x] [10 Things You Should Know about Tokens](https://auth0.com/blog/ten-things-you-should-know-about-tokens-and-cookies/)
-* [x] [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/)
-* [x] [Cookies vs Tokens. Getting auth right with Angular.JS](https://auth0.com/blog/angularjs-authentication-with-cookies-vs-token/)
-* [x] [Token-based Authentication with Socket.IO](https://auth0.com/blog/auth-with-socket-io/)
-* [x] [Use JWT The Right Way!](https://stormpath.com/blog/jwt-the-right-way)
-* [x] [Token Authentication: The Secret to Scalable User Management](https://stormpath.com/blog/token-authentication-scalable-user-mgmt)
-* [x] [Top 20 Developer Tools of 2016
-      ](https://blog.axosoft.com/2016/12/29/top-20-developer-tools-2016/?utm_source=hashnode.com)
-* [x] [Innovating with HTTP 2.0 Server Push](https://www.igvita.com/2013/06/12/innovating-with-http-2.0-server-push/)
-* [x] [Back-End as a Service for Mobile Apps](https://code.tutsplus.com/articles/back-end-as-a-service-for-mobile-apps--cms-28154?utm_source=hashnode.com)
-* [x] [Modern Web Development](https://hackernoon.com/modern-web-development-bf0b2ef0e22e#.9akrdapry)
-* [ ] [Five advantages of serverless architecture for every app](https://www.developer-tech.com/news/2016/oct/05/five-advantages-serverless-architecture-every-app/?utm_content=bufferfd15a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-* [x] [An Introduction to OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
+  * [ ] [7 Good Developer Habits I Wish I’d Adopted Sooner](https://medium.com/team-treehouse/7-good-developer-habits-i-wish-id-adopted-sooner-8707931d72f3#.kv2zp45iu)
+  * [x] [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/)
+  * [x] [A Quick Understanding of REST](https://scotch.io/bar-talk/a-quick-understanding-of-rest)
+  * [x] [Is Model-View-Controller dead on the front end?](https://medium.freecodecamp.com/is-mvc-dead-for-the-frontend-35b4d1fe39ec#.33x47id00)
+  * [ ] [How to Land Your First Development Job in 5 Simple Steps](https://medium.com/javascript-scene/how-to-land-your-first-development-job-in-5-simple-steps-4e9fb73314c#.v888ntmpk)
+  * [ ] [Tips for Creating a First-Class Personal Portfolio](https://medium.com/@speckyboy/tips-for-creating-a-first-class-personal-portfolio-6fcfb6962cd4#.vqtub63ee)
+  * [ ] [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603#.8dq4y83ql)
+  * [x] [The code I’m still ashamed of](https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.uadadoko7)
+  * [x] [Leaky abstractions](https://www.youtube.com/watch?v=gRsyY0kzXfw)
+  * [x] [Make Millions Using API's](https://www.youtube.com/watch?v=HMExxABpn6o)
+  * [x] [Create a TinyURL System](http://blog.gainlo.co/index.php/2016/03/08/system-design-interview-question-create-tinyurl-system/?utm_source=quora&utm_medium=What+are+the+http%3A%2F%2Fbit.ly+and+t.co+shortening+algorithms%3F&utm_campaign=quora)
+  * [x] [JSON Web Tokens (JWT) vs Sessions](https://float-middle.com/json-web-tokens-jwt-vs-sessions/)
+  * [x] [JSON Web Tokens: Artsy's Journey](http://artsy.github.io/blog/2016/10/26/jwt-artsy-journey/)
+  * [x] [Refresh Tokens: When to Use Them and How They Interact with JWTs](https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/)
+  * [ ] [5 Steps to Add Modern Authentication to Legacy Apps Using JWTs](https://auth0.com/blog/5-steps-to-add-modern-authentication-to-legacy-apps-using-jwts/)
+  * [ ] [Where to Store your JWTs – Cookies vs HTML5 Web Storage](https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage)
+  * [x] [10 Things You Should Know about Tokens](https://auth0.com/blog/ten-things-you-should-know-about-tokens-and-cookies/)
+  * [x] [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/)
+  * [x] [Cookies vs Tokens. Getting auth right with Angular.JS](https://auth0.com/blog/angularjs-authentication-with-cookies-vs-token/)
+  * [x] [Token-based Authentication with Socket.IO](https://auth0.com/blog/auth-with-socket-io/)
+  * [x] [Use JWT The Right Way!](https://stormpath.com/blog/jwt-the-right-way)
+  * [x] [Token Authentication: The Secret to Scalable User Management](https://stormpath.com/blog/token-authentication-scalable-user-mgmt)
+  * [x] [Top 20 Developer Tools of 2016
+        ](https://blog.axosoft.com/2016/12/29/top-20-developer-tools-2016/?utm_source=hashnode.com)
+  * [x] [Innovating with HTTP 2.0 Server Push](https://www.igvita.com/2013/06/12/innovating-with-http-2.0-server-push/)
+  * [x] [Back-End as a Service for Mobile Apps](https://code.tutsplus.com/articles/back-end-as-a-service-for-mobile-apps--cms-28154?utm_source=hashnode.com)
+  * [x] [Modern Web Development](https://hackernoon.com/modern-web-development-bf0b2ef0e22e#.9akrdapry)
+  * [ ] [Five advantages of serverless architecture for every app](https://www.developer-tech.com/news/2016/oct/05/five-advantages-serverless-architecture-every-app/?utm_content=bufferfd15a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+  * [x] [An Introduction to OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 
 ## Books
 
@@ -714,6 +714,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 * Computer Science + Algorithms + History
 
   * [x] [The Art of Writing Software](https://www.youtube.com/watch?v=QdVFvsCWXrA)
+  * [x] [Running an SQL Injection Attack](https://youtu.be/ciNHn38EyRc)
+  * [x] [Cookie Stealing](https://youtu.be/T1QEs3mdJoc)
+  * [x] [Wana Decrypt0r (Wanacry Ransomware)](https://youtu.be/88jkB1V6N9w)
+  * [x] [Onion Routing](https://youtu.be/QRYzre4bf7I)
+  * [x] [TOR Hidden Services](https://youtu.be/lVcbq_a5N9I)
 
 * Elixir
 
@@ -1253,7 +1258,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   * [x] [What Makes a Great Front-end Developer](http://dainelindleymawer.me/what-makes-a-great-front-end-developer/)
   * [x] [Stay hungry...Stay foolish. Amazing Steve Jobs Speech at Stanford ](https://www.youtube.com/watch?v=gO6cFMRqXqU)
   * [x] [Why use a static site generator - Jekyll Casts](https://www.youtube.com/watch?v=FOfIoCi9uTI)
-  * [ ] [Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4&utm_content=buffer91555&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+  * [x] [Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4&utm_content=buffer91555&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
   * [x] [WTF Are APIs?!](https://www.youtube.com/watch?v=tnu686QNd5w)
   * [x] [The Ultimate Introduction to Web Scraping and Browser Automation](https://www.youtube.com/watch?v=1UYBAn69Qrk)
   * [x] [How to Develop Anything](https://www.youtube.com/watch?v=Lq4q1CgC924)
@@ -1262,7 +1267,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   * [x] [I Designed, Coded & Launched A Web App in 24 Hours](https://www.youtube.com/watch?v=DexyfHomC4Q&feature=youtu.be)
   * [x] [Why the founder of Rails rejects 80% of Software Engineer applicants](https://www.youtube.com/watch?v=qf6abZeAJh4)
   * [x] [What I would learn in 2017 | Web Development](https://www.youtube.com/watch?v=2BU1GjldFoE)
-  * [ ] [YouTube, Coding and Job Interviews: Ft. Eric Hanchet](https://www.youtube.com/watch?v=xo4-L7mzoJA)
+  * [x] [YouTube, Coding and Job Interviews: Ft. Eric Hanchet](https://www.youtube.com/watch?v=xo4-L7mzoJA)
   * [x] [Microservices Architecture](https://www.youtube.com/watch?v=QAvYmDeA-mg)
   * [ ] [Containers and Microservices: New Ways to Deploy and Manage Applications at Scale](https://www.youtube.com/watch?v=7ZFBn_e27o0)
   * [x] [Web Development Guide In 2017](https://www.youtube.com/watch?v=8BT048fiP3E)
