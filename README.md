@@ -107,6 +107,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     * MobX
 
       * [ ] [EggHead - Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
+      * [x] [Manage Application State with Mobx-state-tree](https://egghead.io/courses/manage-application-state-with-mobx-state-tree)
 
     * Redux
 
@@ -419,6 +420,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   * [ ] [Add routing to React apps using React Router v4](https://egghead.io/courses/add-routing-to-react-apps-using-react-router-v4)
   * [ ] [Reusable State with Higher Order Components](https://daveceddia.com/extract-state-with-higher-order-components/)
   * [ ] [Scalable React and React Native Apps](https://medium.com/getty-logs/scalable-react-and-react-native-apps-b99f952d0d53)
+  * [x] [Styled Components: Enforcing Best Practices In Component-Based Systems](https://www.smashingmagazine.com/2017/01/styled-components-enforcing-best-practices-component-based-systems/)
 
 * RxJS
 
@@ -932,6 +934,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   * [x] [JavaScript object creation patterns tutorial - factory , constructor pattern, prototype pattern](https://www.youtube.com/watch?v=xizFJHKHdHw)
   * [x] [JavaScript Testing Basics](https://www.youtube.com/watch?v=yrGkDeBHqvY)
   * [x] [Testing Client/Server JavaScript](https://www.youtube.com/watch?v=lLqCXLYCqTI)
+  * [x] [Optional Chaining Operator in JavaScript](https://youtu.be/FKRVqtP8o48)
+  * [ ] [Observable JavaScript playbook, asynchronous generators and hacking the Fun Fun Forum](https://youtu.be/MmRmxzrr4lk)
 
   * PWA
 
