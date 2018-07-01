@@ -1245,6 +1245,14 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   * [x] [Design + Code — Hour 6.2: YouTube Section](https://www.youtube.com/watch?v=FsethGojhUA&t=1904s)
   * [x] [Design + Code — Hour 7.1: Mentoring Section](https://www.youtube.com/watch?v=3ZHMYBM0760&list=PLqGj3iMvMa4KeBN2krBtcO3U90_7SOl-A&index=14)
   * [x] [Design + Code — Hour 7.2: Mentoring Javascript](https://www.youtube.com/watch?v=9XqFV9fy8SU&t=1688s)
+  * [x] [CSS Grid In Production](https://youtu.be/oPaYUjD_Fp4)
+  * [x] [The Ultimate CSS Grid Positioning Tutorial](https://youtu.be/20wCJ56whxo)
+  * [x] [Basics of CSS Grid: The Big Picture](https://youtu.be/FEnRpy9Xfes)
+  * [x] [Incredibly Easy Layouts with CSS Grid](https://youtu.be/tFKrK4eAiUQ)
+  * [x] [Flexibility & The Fold – new possibilities with CSS Grid](https://youtu.be/EEOJZy_Gge4)
+  * [x] [Introduction to Viewport Units](https://youtu.be/_sgF8I-Q1Gs)
+  * [x] [Designing for A Viewport](https://youtu.be/QY3lTBZnJmE)
+
 
     * UI/UX Design Prototype & Animations
 
