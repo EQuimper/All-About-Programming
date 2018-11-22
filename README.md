@@ -1,7 +1,7 @@
 # Everything about programming:
 
 * Courses
-* [Best Package I found for many project](https://github.com/EQuimper/All-About-Programming/tree/master/Best%20Packages)
+* [Best Packages I found for many projects](https://github.com/EQuimper/All-About-Programming/tree/master/Best%20Packages)
 * Articles
 * Tutorials
 * Books
@@ -9,7 +9,7 @@
 * Blog
 * Freelance
 * Business
-* Pod-cast
+* Podcast
 * CodePen & Demo
 * Vim
 
@@ -1328,7 +1328,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 * [x] [Building Your Personal Brand: What if You Had to Build Your Personal Brand From Scratch?](https://www.youtube.com/watch?v=dvi7JsWu_rc)
 * [x] [Personal Branding: How to Be Consistent](https://www.youtube.com/watch?v=BW-4XV2HblA)
 
-## Pod-cast
+## Podcast
 
 * CSS
 
