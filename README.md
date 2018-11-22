@@ -28,7 +28,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   * [x] [Udemy - The Complete Elixir and Phoenix Bootcamp](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/) - [My Certificate](https://www.udemy.com/certificate/UC-5C05ATXX/)
   * [x] [Pluralsignt - Getting Started with Elixir](https://app.pluralsight.com/library/courses/elixir-getting-started/table-of-contents)
-  * [ ] [Elixir for Beginners](https://www.udemy.com/elixir-for-beginners/)
+  * [ ] [Elixir for Beginners](https://www.udemy.com/elixir-for-beginners/)****
 
 * Golang
 
@@ -171,6 +171,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   * [ ] [Using Redis with Node.js](https://www.sitepoint.com/using-redis-node-js/)
 
+* Git
+
+  * [x] [An Introduction to Git Merge and Git Rebase: What They Do and When to Use Them](https://medium.freecodecamp.org/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f)
+  * [x] [How to adopt a Git branching strategy](https://medium.freecodecamp.org/adopt-a-git-branching-strategy-ac729ff4f838)
+  * [x] [How not to be afraid of Git anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-git-anymore-fe1da7415286)
+
 * MongoDB
 
   * [x] [Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb)
@@ -266,6 +272,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 * [ ] [Understanding ES6 Classes](https://hashnode.com/post/understanding-es6-classes-cj0dqw75w003mf7537mcwqrxh)
 * [ ] [How to Write Shell Scripts with JavaScript](https://www.sitepoint.com/shell-scripts-javascript/)
 * [x] [Immutable User Interfaces (Lee Byron) - Full Stack Fest 2016](https://youtu.be/pLvrZPSzHxo)
+* [x] [How JavaScript Event Delegation Works](https://davidwalsh.name/event-delegate)
 
 * AWS
 
@@ -555,6 +562,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   * [x] [Grid Tile Layouts with auto-fit & minmax](http://gedd.ski/post/tile-layouts/)
   * [x] [Grid is Perfect for Responsive Layout](http://gedd.ski/post/grid-for-responsive-layout/)
   * [x] [Overlapping Grid Items](http://gedd.ski/post/overlapping-grid-items/)
+  * [ ] [How-to… Bootstrap](https://medium.com/wdstack/how-to-bootstrap-94abe3525442)
 
 - Python
 
@@ -644,6 +652,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 * [ ] [Single Page Web Applications: JavaScript end-to-end by Michael Mikowski](https://www.amazon.ca/Single-Page-Applications-end---end/dp/1617290750/ref=sr_1_1?ie=UTF8&qid=1473297259&sr=8-1&keywords=single+page+web+applications)
 * [ ] [Serverless Single Page Apps Fast, Scalable, and Available](https://pragprog.com/book/brapps/serverless-single-page-apps)
 * [ ] [The principles of object-oriented javascript](https://www.amazon.ca/Principles-Object-Oriented-JavaScript-Nicholas-Zakas/dp/1593275404)
+* [x] [MobX Quick Start Guide](https://www.packtpub.com/web-development/mobx-quick-start-guide)
 
 * Webpack
 
@@ -656,7 +665,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 * Meteor JS
 
   * [x] [Discover Meteor: Building Real-Time JavaScript Web Apps by Tom Coleman & Sacha Greif](https://www.goodreads.com/book/show/17901517-discover-meteor)
-  * [ ] [Getting Started with Meteor.js JavaScript Framework - Second Edition by Isaac Strack](https://www.amazon.ca/Getting-Started-Meteor-js-JavaScript-Framework-ebook/dp/B010G18I3S/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1470005716&sr=1-2&keywords=Getting+Started+with+Meteor.js+JavaScript+Framework)
+  * [x] [Getting Started with Meteor.js JavaScript Framework - Second Edition by Isaac Strack](https://www.amazon.ca/Getting-Started-Meteor-js-JavaScript-Framework-ebook/dp/B010G18I3S/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1470005716&sr=1-2&keywords=Getting+Started+with+Meteor.js+JavaScript+Framework)
 
 * Node JS
 
@@ -724,6 +733,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   * [x] [Wana Decrypt0r (Wanacry Ransomware)](https://youtu.be/88jkB1V6N9w)
   * [x] [Onion Routing](https://youtu.be/QRYzre4bf7I)
   * [x] [TOR Hidden Services](https://youtu.be/lVcbq_a5N9I)
+  * [x] [Caching Techniques - Web Development](https://youtu.be/RgPf5RDv4-s)
 
 * Elixir
 
@@ -1094,7 +1104,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   * [x] [React Performance End to End (React Fiber) - Keynote Part 3 - React Conf 2017](https://www.youtube.com/watch?v=bvFpe5j9-zQ&t=736s)
   * [x] [⚡️ AWS Lambda + AWS Gateway + React = AWEsome - React Conf 2017](https://www.youtube.com/watch?v=GuItxBkpIAQ)
   * [x] [Moving Fast with Nuclide and Flow - React Conf 2017](https://www.youtube.com/watch?v=WRyk5ZVklFs)
-  * [ ] [Jest Snapshots and Beyond - React Conf 2017](https://www.youtube.com/watch?v=HAuXJVI_bUs)
+  * [x] [Jest Snapshots and Beyond - React Conf 2017](https://www.youtube.com/watch?v=HAuXJVI_bUs)
+  * [x] [Avoid setState warnings on unmounted React components](https://youtu.be/8BNdxFzMeVg)
 
 - Redux
 
@@ -1133,7 +1144,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   * [x] [Building li.st for Android with Exponent and React Native at react-europe 2016](https://www.youtube.com/watch?v=cI9bDvDEsYE)
   * [x] [A Detailed Look at React Native for JavaScript Developers](https://www.youtube.com/watch?v=cuMezEwKFLU&spfreload=5)
   * [x] [Build a React Native chat app in 30 minutes](https://www.youtube.com/watch?v=VTnFDc3IFag&t=1555s)
-  * [ ] [React Native Flex Basics](https://www.youtube.com/watch?v=-xFF5KF-KpE)
+  * [x] [React Native Flex Basics](https://www.youtube.com/watch?v=-xFF5KF-KpE)
   * [x] [React Native Practical Flex Layout](https://www.youtube.com/watch?v=TdkzJkrHCgQ)
   * [x] [React Native Styling With Props](https://www.youtube.com/watch?v=2ODF0BV6Mes)
   * [x] [React Native Scaling Local Images](https://www.youtube.com/watch?v=OD0qbzM4edY)
@@ -1149,6 +1160,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   * [x] [⚡️ Create React Native App: 5 min. to "Hello, World!" - React Conf 2017](https://www.youtube.com/watch?v=9baaVjGdBqs)
   * [x] [Build a chat app with Firebase, Redux, and React Native](https://www.youtube.com/watch?v=915vvTQV_tI)
   * [x] [Tal Kol - Beyond Animations User Interactions @ 60 FPS in React Native - React Conf 2017](https://www.youtube.com/watch?v=mjsv8NJnt5k)
+  * [x] [Build a Map with Custom Animated Markers and Region Focus when Content is Scrolled in React Native](https://codedaily.io/screencasts/60/Build-a-Map-with-Custom-Animated-Markers-and-Region-Focus-when-Content-is-Scrolled-in-React-Native)
 
 - Webpack
 
@@ -1252,6 +1264,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   * [x] [Flexibility & The Fold – new possibilities with CSS Grid](https://youtu.be/EEOJZy_Gge4)
   * [x] [Introduction to Viewport Units](https://youtu.be/_sgF8I-Q1Gs)
   * [x] [Designing for A Viewport](https://youtu.be/QY3lTBZnJmE)
+  * [x] [Before and After pseudo elements explained - part one: how they work](https://youtu.be/zGiirUiWslI)
+  * [ ] [CSS Before and After pseudo elements explained - part two: the content property](https://youtu.be/xoRbkm8XgfQ)
+  * [ ] [CSS Before and After pseudo elements explained - part three: as design elements](https://youtu.be/djbtPnNmc0I)
+  * [x] [CSS Positioning: Position absolute and relative explained](https://youtu.be/P6UgYq3J3Qs)
 
 
     * UI/UX Design Prototype & Animations
