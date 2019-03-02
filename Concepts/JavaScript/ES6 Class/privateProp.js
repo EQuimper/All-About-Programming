@@ -23,4 +23,3 @@ class User {
 }
 
 const newUser = new User('gmail@').setPassword('pass').authenticated('pass');
-

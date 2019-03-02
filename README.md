@@ -19,6 +19,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 ## Courses
 
+* Dart + Flutter
+  * [ ] [Dart and Flutter the Complete Developers Guide](https://www.udemy.com/dart-and-flutter-the-complete-developers-guide)
+
+* Docker + Kubernetes
+  * [ ] [Docker and Kubernetes the Complete Guide](https://www.udemy.com/docker-and-kubernetes-the-complete-guide)
+
 * Computer Science + Algorithms
 
   * [ ] [HarvardX: CS50 Introduction to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/b2f7d86728354866a2c4438e76c3ec55/99a3e898bd0c43aab9757d71b114529f/)
@@ -428,6 +434,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   * [ ] [Reusable State with Higher Order Components](https://daveceddia.com/extract-state-with-higher-order-components/)
   * [ ] [Scalable React and React Native Apps](https://medium.com/getty-logs/scalable-react-and-react-native-apps-b99f952d0d53)
   * [x] [Styled Components: Enforcing Best Practices In Component-Based Systems](https://www.smashingmagazine.com/2017/01/styled-components-enforcing-best-practices-component-based-systems/)
+  * [ ] [React Context-Api and Lazy-loading](https://medium.com/@blackb8r/react-context-api-and-lazy-loading-4c4b0a48f696)
 
 * RxJS
 
