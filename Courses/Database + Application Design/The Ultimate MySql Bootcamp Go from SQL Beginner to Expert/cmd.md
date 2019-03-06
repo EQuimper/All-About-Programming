@@ -1,0 +1,4 @@
+- Create database `CREATE DATABASE nameofdb;`
+- Use the db `use nameofdb;`
+- Show tables in db `SHOW TABLES;`
+- Info about column `SHOW COLUMNS FROM tablename;` or `DESC tablename;`

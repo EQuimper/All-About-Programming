@@ -50,6 +50,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 * Database + Application Design
 
+  * SQL
+    
+    * [ ] [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
+
   * MongoDB
 
     * [x] [TheNewBoston - MongoDB for Beginners Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDQ5DrbIl20Zu9hx1IjeVhO)
