@@ -1,1 +1,1 @@
-{"isEntrypoint":true,"deps":[],"parts":[],"conditionalDeps":[],"sdkDeps":["html"]}
+{"isEntrypoint":true,"deps":[],"parts":[],"conditionalDeps":[],"sdkDeps":["async","html"]}
