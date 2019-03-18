@@ -20,7 +20,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 ## Courses
 
 * Dart + Flutter
-  * [ ] [Dart and Flutter the Complete Developers Guide](https://www.udemy.com/dart-and-flutter-the-complete-developers-guide)
+  * [x] [Dart and Flutter the Complete Developers Guide](https://www.udemy.com/dart-and-flutter-the-complete-developers-guide)
 
 * Docker + Kubernetes
   * [ ] [Docker and Kubernetes the Complete Guide](https://www.udemy.com/docker-and-kubernetes-the-complete-guide)
@@ -160,6 +160,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   * [x] [TutsPlus - Testing REST APIs With Postma](https://code.tutsplus.com/courses/testing-rest-apis-with-postman/lessons/testing-rest-apis-with-postman)
 
 ## Articles + Tutorials
+
+* Dart + Flutter
+  
+  * [x] [Flutter Challenge: Music Player](https://youtu.be/FE7Vtzq52xg)
 
 * Computer Science + Algorithms
 
