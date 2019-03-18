@@ -19,7 +19,7 @@ class ItemModel {
       : id = parsedJson['id'],
         deleted = parsedJson['deleted'] ?? false,
         type = parsedJson['type'],
-        by = parsedJson['by'],
+        by = parsedJson['by'] ?? '',
         time = parsedJson['json'],
         text = parsedJson['text'] ?? '',
         dead = parsedJson['dead'] ?? false,
