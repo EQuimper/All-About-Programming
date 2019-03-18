@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - fluttery_audio (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - fluttery_audio (from `.symlinks/plugins/fluttery_audio/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  fluttery_audio:
+    :path: ".symlinks/plugins/fluttery_audio/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  fluttery_audio: 17c2bd11162094493476e32432b58eef7a0da641
+
+PODFILE CHECKSUM: aff02bfeed411c636180d6812254b2daeea14d09
+
+COCOAPODS: 1.6.1
