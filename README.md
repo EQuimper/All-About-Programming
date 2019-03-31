@@ -240,6 +240,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 * [ ] [Thinking in Ecto - schemas and changesets](http://cultofmetatron.io/2017/04/22/thinking-in-ecto---schemas-and-changesets/)
 * [x] [Many to many and upserts](http://blog.plataformatec.com.br/2016/12/many-to-many-and-upserts/)
 * [ ] [Introduction to Ecto and Models](http://whatdidilearn.info/2018/01/28/introduction-to-ecto-and-models.html)
+* [x] [Building a CMS with Elixir and Phoenix](https://www.youtube.com/playlist?list=PLFhQVxlaKQElZlppXZSTlc1rqjUfL9BRl)
+* [x] [StatWatch](https://www.youtube.com/playlist?list=PLFhQVxlaKQEnOuhDZ5p8jB9U-GHM9U8VM)
 
 * Github
 
@@ -764,9 +766,12 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   * [x] [WTF is Elixir?](https://www.youtube.com/watch?v=ZDwygVf_LJM)
   * [x] [Selling Food With Elixir](https://www.youtube.com/watch?v=fkDhU-2NWJ8&t=1097ssl)
   * [x] [Elixir Application (part 1)](https://www.youtube.com/watch?v=EDu3EwTbrFM)
-  * [ ] [Elixir Tutorial](https://www.youtube.com/watch?v=pBNOavRoNL0&t=1954s)
+  * [x] [Elixir Tutorial](https://www.youtube.com/watch?v=pBNOavRoNL0&t=1954s)
   * [x] [ElixirConf 2017 - Live APIs with GraphQL Subscriptions - Bruce Williams and Ben Wilson](https://www.youtube.com/watch?v=JtYg3jP0aOY&feature=youtu.be)
-  * [ ] [ElixirConf 2017 - Thinking In Ecto - Darin Wilson](https://www.youtube.com/watch?v=YQxopjai0CU)
+  * [x] [ElixirConf 2017 - Thinking In Ecto - Darin Wilson](https://www.youtube.com/watch?v=YQxopjai0CU)
+  * [x] [Caching DB requests with ETS](https://youtu.be/wmktvDHde6w)
+  * [x] [Caching DB requests with ETS part 2](https://youtu.be/gqBSYjaurYk)
+  * [x] [Encoding Ecto Structs into JSON](https://youtu.be/5Pd9giUmiGM)
 
 * Phoenix
 
@@ -794,6 +799,8 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   * [x] [Using Ecto Associations in Phoenix](https://www.youtube.com/watch?v=THUG8J3xSYw)
   * [ ] [Learn the Phoenix Framework Create a Blog App Part 1](https://www.youtube.com/watch?v=NQon2CYD4OQ)
   * [ ] [Learn the Phoenix Framework Deploy using Heroku - Part 2](https://www.youtube.com/watch?v=Ga7sq3izz8M)
+  * [x] [Pretty URLs in Phoenix using names or slugs](https://youtu.be/PjUdSQ6Qy3E)
+  * [x] [Server side event tracking with Keen.io (Phoenix framework)](https://youtu.be/lRocS2o0DJY)
 
 * DynamoDB
 
