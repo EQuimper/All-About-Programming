@@ -162,8 +162,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 ## Articles + Tutorials
 
 * Dart + Flutter
-  
+
   * [x] [Flutter Challenge: Music Player](https://youtu.be/FE7Vtzq52xg)
+  * [x] [Reactive Programming - Streams - BLoC - Practical Use Cases](https://www.didierboelens.com/2018/12/reactive-programming---streams---bloc---practical-use-cases) **Must Read**
 
 * Computer Science + Algorithms
 
@@ -289,6 +290,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 * [ ] [How to Write Shell Scripts with JavaScript](https://www.sitepoint.com/shell-scripts-javascript/)
 * [x] [Immutable User Interfaces (Lee Byron) - Full Stack Fest 2016](https://youtu.be/pLvrZPSzHxo)
 * [x] [How JavaScript Event Delegation Works](https://davidwalsh.name/event-delegate)
+* [x] [The Difference Between Async/Await and Generators](https://thecodebarbarian.com/the-difference-between-async-await-and-generators)
 
 * AWS
 
