@@ -338,6 +338,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   * [x] [Java - Interfaces](https://www.tutorialspoint.com/java/java_interfaces.htm)
   * [x] [Java - Polymorphism](https://www.tutorialspoint.com/java/java_polymorphism.htm)
+  * [x] [Interface in Java](https://www.scaler.com/topics/java/interface-in-java/) ] 
 
 * Next.JS
 
