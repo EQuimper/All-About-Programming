@@ -1445,6 +1445,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 * [Alexander Zeitler](https://alexanderzeitler.com/index.html)
 * [The Code Barbarian](http://thecodebarbarian.com/)
 * [miguelgrinberg.com](https://blog.miguelgrinberg.com/index)
+* [InterviewBit](https://www.interviewbit.com/blog/)
 
 ## GOOGLE STUDY
 
